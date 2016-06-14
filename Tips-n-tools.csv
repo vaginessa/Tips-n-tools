@@ -1,0 +1,105 @@
+Web links,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Platform,Name,Description,Keywords,URL
+Android,Putting APK on diet,Tips to reduce heavy APK and have a better hygiene,"tuto , APK",http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
+/,Store optimisation,The marketer's guide to app store optimisation by buzinga,tuto,https://drive.google.com/file/d/0B9spdRnukR4EakdPUUxtTUpBME0/view?pli=1
+Android,Multidex,About multidexing and eprformances,"tuto , multidex",https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.dlmgdpq5s
+Android,UI Tips for pre and post Lollipop,,"tuto , lollipop , design , material",https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2#.vb6rojwz0
+Android,Implement app invites,,"tuto , app invites",http://riggaroo.co.za/app-invites-in-android/
+Android,Android login and signup screens,,"tuto , material , login screen",http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
+/,Upgrade,Site de veille,,http://upgrade.news/
+Android,Reduce your Android build duration,,,http://blog.octo.com/en/reduce-android-build-duration/
+Android,Data Binding Library: Great UI’s with Less code,,"tuto , lib , data binding , vues",https://medium.com/google-developer-experts/data-binding-library-great-ui-s-with-less-code-f2575e0c588e#.xvrqq77qf
+Android,"Genymotion, Gradle, Flavors",Stable functional tests with Genymotion Gradle Plugin and test-specific Product Flavors,"gradle , flavors , genymotion",https://medium.com/@tomaszrykala/stable-functional-tests-with-genymotion-gradle-plugin-and-test-specific-product-flavors-4fe4b93f7c8c#.d3bwmzi2k
+Android,Traductions pour les apps,,"traduction , i18n",https://medium.com/glucosio-project/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.1wzovrx49
+Android,Quality and performances,Engineering Android apps for Performance & Quality,,https://speakerdeck.com/pareshmayani/engineering-android-apps-for-performance-and-quality
+/,10 conseils pour rendre votre présentation mémorable,,"pitch , keynote , présentation",http://2015.shake.events/2015/06/22/10-conseils-pour-rendre-votre-presentation-memorable/
+Design,Introducing Material Deisgn Lite,,material design,https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031#.j3g2wiaz7
+JS,,ES5 to ES6,"ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT",http://es6-features.org/
+Android,Performances,,"perfs , optimisation , Android , power , memory , leaks",http://fr.slideshare.net/seamaster29/10-ways-to-improve-your-android-app http://fr.slideshare.net/jerrinsg/android-power-management http://fr.slideshare.net/AliMuzaffar2/android-preventing-common-memory-leaks http://fr.slideshare.net/GlobalLogicUkraine/android-ui-performance-overdraw http://fr.slideshare.net/arslantumbin/performance-optimization-for-android-32797106
+Android,Awesome Android libraries,,"material design , libs , UI / UX",https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
+Android,Android <3,,,http://www.androidfiguren.de/ http://android-foundry.com/
+Android,Top 5 Android Testing Frameworks (with Examples),,"Robotium , Espresso , UI Automator , Appium , Calabash ",http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples
+Design,Créer un bon logo d'application mobile,,"design , logos",http://www.aieaieeye.com/creer-un-bon-logo-dapplication-mobile-pourquoi-comment/
+/,Diaspora*,,,https://diasporafoundation.org/
+Design,Clipingmagic,,png transparent,https://clippingmagic.com/
+Design,Designeuropre,,,http://designrope.com/design/find-stock-photos-dont-suck/
+Design,JustinMind,,"mock up , proto , maquette",http://www.justinmind.com/
+/,5 règles pour réussir son hackathon,,"hackathon , conseils",https://dakeez.wordpress.com/2011/11/15/5-regles-pour-reussir-son-hackathon/
+Android,Eliminating Code Overhead,,"tutos , code overhead",https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015
+Design,Five app prototyping tools compared,,"comparaisons , apps maquettes",https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61#.6szx9q47g
+Design,Flaticons,,"images , icons",http://www.flaticon.com/
+Android,Appscreenshotmaker,,"screen shots , store",http://appscreenshotmaker.com/
+Android,Build a Material Design App,,"material design , tuto",https://codelabs.developers.google.com/codelabs/Material-Design-Style/index.html#0
+Design,Color palette,,"couleurs , material design",https://www.google.com/design/spec/style/color.html#color-color-palette
+/,Unicode,,unicode,http://unicode-table.com/en/
+/,Draw.io,,,https://www.draw.io/
+Android,Develop a secured Android app,,,http://blog.octo.com/en/develop-secured-android-application/
+Android,JSON schema to POJO,,"json , pojo , java",http://www.jsonschema2pojo.org/
+/,Choose a License,,,http://creativecommons.org/choose/       http://creativecommons.fr/licences/
+/,Git VS SVN,,"git , svn",http://stackoverflow.com/questions/871/why-is-git-better-than-subversion     http://www.codeforest.net/git-vs-svn https://help.github.com/articles/what-are-the-differences-between-svn-and-git/
+Android,Libtastic,,,http://www.libtastic.com/
+Android,3 unit tests toa voir bad surprises on Android,,,http://jeremie-martinez.com//2016/02/16/unit-tests/
+Android,Avoiding cold starts on Android,,"android , cold start",http://saulmm.github.io/avoding-android-cold-starts
+Android,Make reverse engineering,,"android : reverse engineering , dex2jar , jdgui , smali , backsmali",http://oversimple.fr/tag/dex2jar/
+Android,Make an app survive in the Android ocean,,"app , vie app , ",http://vourkosa.github.io/monetization/2016/03/17/Making-an-app-survive-in-Android-ocean.html
+Android,Android threads,,"threads , intent services , services",http://techtej.blogspot.fr/2011/03/android-thread-constructspart-4.html
+Android,About flip animatiions,,,http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k
+Android,DroidLinguist,A tool that helps you easily translate your killer android apps!,"languages , i18n",https://droidlinguist.io/#/home
+Android,Adding badge or count to the navigation drawer,,,https://medium.com/@harivigneshjayapalan/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9#.xnst0zp4v
+Android,Tooleap,,flaoting ui,http://www.tooleap.com/
+Design,How to design native mobile apps ?,,,http://uxhow.com/apps/
+/,Choose a license,,,http://choosealicense.com/licenses/
+Android,Before publishing,Two things to check before publishing the app,"shareUserId , package, app store",https://medium.com/developing-intent/android-developer-important-manifest-checks-8c86064013aa#.b8pdnntb7
+Android,ProGuar,,,http://developer.android.com/tools/help/proguard.html
+Android,Google App Licensing ,,"protection , external apk , license",http://developer.android.com/google/play/licensing/index.html
+Android,Awesome Android performance,,,https://github.com/Juude/awesome-android-performance
+Android,Loading DEX cpode over the network,,,http://gilvegliach.it/?id=12
+Android,Fighting application size with ProGuard and beyond,,,http://fr.slideshare.net/GuardSquare/eric-lafortune-fighting-application-size-with-proguard-and-beyond
+Android,How to build a solid base for Matgerial Design App,,"material design , case study",https://blog.prototypr.io/how-we-build-a-solid-base-for-a-material-design-app-a-case-study-3c4925d26d8b#.hmp6pabhk
+Android,Optimize battery life with GCM,,"Android , battery , GCM",https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+Android,Android code convention,,code convention,http://fr.slideshare.net/Shaon_sikdar/android-code-convention    https://source.android.com/source/code-style.html
+Android,Combining Vector Drawables with Day/Night Theme,,,https://medium.com/@hellotimmutton/combining-vector-drawables-with-day-night-theme-3b89e525475#.6hju4wcc4
+Java,Mockito,,"mocks , TU , mockito",http://blog.soat.fr/2013/07/mockito-ou-comment-faciliter-lecriture-de-tests-unitaires/    https://gojko.net/2009/10/23/mockito-in-six-easy-examples/
+Java,PowerMock,,"mocks , TU , mockito , PowerMock",http://blog.netapsys.fr/etendez-les-fonctionnalites-de-mockito-grace-a-powermock/    https://github.com/jayway/powermock
+Android,OpenGL 2,,OpenGL 2,https://medium.com/@WoloxEngineering/bootstrap-android-opengl-2-0-9ee1107aa4ab#.rhwmv86g0
+Android,About Bottom Navigation,,bottom navigation,https://medium.com/@lucasurbas/how-to-measure-the-new-bottom-navigation-on-android-2a49cbf76599#.4mgi14cv8
+Android,Automate screenshots for store,,screen shots,https://lambdasoup.com/post/automate_screenshots_1/
+Android,Backup/Restore a Realm database on Google Drive with Drive API,,"database , realm , api , google drive",https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.8836vldbz
+Android,SOLID,,solid,https://realm.io/news/donn-felker-solid-part-1/   https://realm.io/news/donn-felker-solid-part-2/   https://realm.io/news/donn-felker-solid-part-3/   https://realm.io/news/donn-felker-solid-part-4/
+/,Learn X in Y,,,https://learnxinyminutes.com/
+Android,Accesibility tests,,accessibility tests,https://robots.thoughtbot.com/accessibility-testing-on-android
+Android,Bottom Sheets,,,http://www.materialdoc.com/bottom-sheets/
+Design,How to build material design prototypes,,"sketch , pixate , prototype",http://createdineden.com/blog/post/material-design-prototype-tutorial-part-1/
+Android,Visualize and reduce methods count,,,http://jeroenmols.com/blog/2016/05/06/methodcount/
+Android,Architectures découplées,,RxJava,https://speakerdeck.com/dwursteisen/architecture-decouplee-grace-aux-reactive-extensions
+Android,Abouts tools namespaces,,,http://blog.alexsimo.com/mastering-tools-namespace-android/
+Android,The absolute minimum Android developers need to know,,,https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-1-of-5-cab50bbcf787#.q3qif13fu
+Android,Improve code inspections with annotations,,"annotations , code inspection",http://developer.android.com/tools/debugging/annotations.html
+Android,References,,"reference , weakreference , softreference",http://cyrilmottier.com/2010/05/27/devenez-le-maitre-des-references-sous-android/
+Android,Instant Run and Android Studio,,,https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.1rj3uv7jw
+Android,MVP and common code modules,,"MVP , common code modules",https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.bij04w9z0
+Android,Codelab MVP,,MVP,https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0
+Android,Model View Presenter (MVP),,MVP,http://www.tinmegali.com/en/model-view-presenter-android-part-1/
+Android,"Realm, Dagger and MVP",,,http://www.thedroidsonroids.com/blog/android/example-realm-mvp-dagger/
+Android,Android Development Patterns,,,http://android-developers.blogspot.fr/2016/05/designing-for-multi-window.html
+Android,Supporting multiple screens,,"Android , resolution , dpi , size , screens",https://developer.android.com/guide/practices/screens_support.html
+Android,System permisions,,"normal , dangerous , permisions",https://developer.android.com/guide/topics/security/permissions.html#normal-dangerous
+Android,Nimbledroid,,"performance , analysis",https://nimbledroid.com/
+Android,Building responsive UI,,"Android , resolution , dpi , size , screens , responsive , UI",https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.6k5j9wcbm
+Android,Android scheduler,,"job scheduler , sync adapter , gcm network manager",https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+Android,Device Art Generator,,"android , devices , mockups , screenshots , captures , store",https://developer.android.com/distribute/tools/promote/device-art.html
+Android,Constraint Layout,,,https://github.com/hitherejoe/Constraints
+Android,Android transition animations samples,,,https://github.com/lgvalle/Material-Animations
+Android,BottomSheetBehavior and AnchorSheetBehavior,,,https://medium.com/@marxallski/from-bottomsheetbehavior-to-anchorsheetbehavior-262ad7997286#.a1qvo1dqe
+Android,Maintain its custom view,,,http://ivankocijan.xyz/writing-a-maintainable-custom-view-in-android/
+Android,Assets minification for leaner APK,,,https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
+Android,RenderThread,,"thread , animations , canvas",https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979#.5vstqpc5s
+Android,Why your canvas shapes are not smooth,,canvas,https://medium.com/@ali.muzaffar/android-why-your-canvas-shapes-arent-smooth-aa2a3f450eb5#.f7396l5bc
+Android,About contraint layouts,,,https://medium.com/@mustafa01ali/android-constraintlayout-friends-1b8299ab4340#.eaf8wgsfj
+Android,Building an Android app using the MVP pattern,,,https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
+Android,Android and crypto,,,https://www.cossacklabs.com/choose-android-crypto.html
+Android,Build a Settings Screen,,,https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
