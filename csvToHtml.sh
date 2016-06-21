@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Process a file/an input (mainly in CSV format) to HTML with CSS
+# Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #
 # Usage: cat myFileToProcess.csv | sh csvToHtml.sh > myOutputFile.html
 #
@@ -9,22 +9,17 @@
 # CONFIG #
 # ###### #
 
+# HTML output for Readme.md Github's file or not ?
+IS_HTML_LIMITED=false
+
+# CSV separator...
 CSV_SEPARATOR=';'
 
 # Empty or useless rows
 NUMBER_OF_LINES_TO_IGNORE=6
 
-
-# ######### #
-# MAIN CODE #
-# ######### #
-
-currentRowIndex=0;
-
-# ***** Step 1: Prepare the header of the output
-
 # Some CSS
-echo "<style>
+CSS_STYLE="<style>
 body {
 	font-family: 'Roboto', sans-serif;
 }
@@ -63,7 +58,39 @@ th {
 </style>
 "
 
-# The begin of the table
+# ######### #
+# MAIN CODE #
+# ######### #
+
+# Check args: if --fullHtml option, use CSS ; if --limitedHTML option, do not use CSS ; if --help, display usage ; otherwise display usage
+if [ "$#" -ne 1 ]; then
+	echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help ]"
+	exit 0	
+fi
+
+if [ $1 ]; then
+	if [ "$1" = "--fullHtml" ]; then
+		IS_HTML_LIMITED=false		
+	elif [ "$1" = "--limitedHtml" ]; then
+		IS_HTML_LIMITED=true;
+	elif [ "$1" = "--help" ]; then
+		echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		exit 0		
+	else
+		echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		exit 0
+	fi
+fi
+
+currentRowIndex=0;
+
+# ***** Step 0 : Some CSS
+if  ! $IS_HTML_LIMITED ; then
+	echo $CSS_STYLE
+fi
+
+
+# ***** Step 1: Prepare the header of the output
 echo "<table>"
 	
 # Proces each line of the input	

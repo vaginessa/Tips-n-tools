@@ -22,21 +22,26 @@ README_HEADER="# Tips'n'tools";
 # MAIN CODE #
 # ######### #
 
+if [ "$#" -ne 0 ]; then
+	echo "Usage: sh csvToReadme.sh"
+	exit 0	
+fi
+
 echo "Write begin of readme file..."
 echo $README_HEADER > $README_FILE
 
 echo "Write HTML file from CSV about libraries..."
-cat $CSV_LIB_FILES | sh csvToHtml.sh > $HTML_LIB_FILES
+cat $CSV_LIB_FILES | sh csvToHtml.sh --limitedHtml > $HTML_LIB_FILES
 
 echo "Write HTML file from CSV file about web links..."
-cat $CSV_WEB_FILES | sh csvToHtml.sh > $HTML_WEB_FILES
+cat $CSV_WEB_FILES | sh csvToHtml.sh --limitedHtml > $HTML_WEB_FILES
 
 echo "Write README.md with HTML files' contents"
 echo "\n\n" >> $README_FILE
-echo "_" $CSV_LIB_FILES "_ " >> $README_FILE
+echo "__" $CSV_LIB_FILES "__" >> $README_FILE
 cat $HTML_LIB_FILES >> $README_FILE
 echo "\n\n" >> $README_FILE
-echo "_" $CSV_WEB_FILES "_ " >> $README_FILE
+echo "__" $CSV_WEB_FILES "__" >> $README_FILE
 cat $HTML_WEB_FILES >> $README_FILE
 
 echo "Terminated ! ~=[,,_,,]:3"

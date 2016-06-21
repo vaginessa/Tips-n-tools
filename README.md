@@ -2,45 +2,7 @@
 
 
 
-_ Tips-n-tools_Libraries.csv _ 
-<style>
-body {
-	font-family: 'Roboto', sans-serif;
-}
-table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-	padding: 10px;
-}
-th {
-	background-color: #fafafa;
-}
-.pfOther {
-	background-color: #795548;
-}
-.pfAndroid {
-	background-color: #8bc34a;
-}
-.pfDesign {
-	background-color: #2196f3;
-}
-.pfJavaScript {
-	background-color: #ffeb3b;
-}
-.pfJava {
-	background-color: #ff5722;
-}
-.name {
-	text-align: center;
-}
-.url {
-	color: #03a9f4;
-}
-.keywords {
-	font-style: italic;
-}	
-</style>
-
+__ Tips-n-tools_Libraries.csv __
 <table>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -823,45 +785,7 @@ th {
 
 
 
-_ Tips-n-tools_WebLinks.csv _ 
-<style>
-body {
-	font-family: 'Roboto', sans-serif;
-}
-table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-	padding: 10px;
-}
-th {
-	background-color: #fafafa;
-}
-.pfOther {
-	background-color: #795548;
-}
-.pfAndroid {
-	background-color: #8bc34a;
-}
-.pfDesign {
-	background-color: #2196f3;
-}
-.pfJavaScript {
-	background-color: #ffeb3b;
-}
-.pfJava {
-	background-color: #ff5722;
-}
-.name {
-	text-align: center;
-}
-.url {
-	color: #03a9f4;
-}
-.keywords {
-	font-style: italic;
-}	
-</style>
-
+__ Tips-n-tools_WebLinks.csv __
 <table>
 	<tr>
 		<td class="pfAndroid"> Android </td>
