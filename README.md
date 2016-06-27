@@ -1522,4 +1522,11 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="keywords"> </td>
 		<td class="url"> http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/ </td>
 	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Neo Nomade </td>
+		<td class="description"> </td>
+		<td class="keywords"> Coworking , télécentre , wigwam </td>
+		<td class="url"> https://www.neo-nomade.com/index.php </td>
+	</tr>
 </table>
