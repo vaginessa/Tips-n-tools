@@ -781,6 +781,34 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> gallery </td>
 		<td class="url"> https://github.com/HoraApps/LeafPic </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> LoadingView </td>
+		<td class="description"> </td>
+		<td class="keywords"> loaders </td>
+		<td class="url"> https://github.com/ldoublem/LoadingView </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> AndroidPdfViewer </td>
+		<td class="description"> </td>
+		<td class="keywords"> pdf , viewer </td>
+		<td class="url"> https://github.com/barteksc/AndroidPdfViewer </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> ExpandingPager </td>
+		<td class="description"> A card peek-pop controller </td>
+		<td class="keywords"> pager , card , peek-pop </td>
+		<td class="url"> https://github.com/qs-lll/ExpandingPager </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> GroupdOfX </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/blipinsk/GroupOfX </td>
+	</tr>
 </table>
 
 
@@ -859,7 +887,7 @@ __ Tips-n-tools_WebLinks.csv __
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> Traductions pour les apps </td>
+		<td class="name"> Make translations for apps </td>
 		<td class="description"> </td>
 		<td class="keywords"> traduction , i18n </td>
 		<td class="url"> https://medium.com/glucosio-project/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.1wzovrx49 </td>
@@ -1055,7 +1083,7 @@ __ Tips-n-tools_WebLinks.csv __
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> 3 unit tests toa voir bad surprises on Android </td>
+		<td class="name"> 3 unit tests to avoid bad surprises on Android </td>
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> http://jeremie-martinez.com//2016/02/16/unit-tests/ </td>
@@ -1486,5 +1514,12 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> Dp , px , density , ratio , width , height </td>
 		<td class="url"> https://design.google.com/devices/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Launch screen : from a tap to your app </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/ </td>
 	</tr>
 </table>

@@ -1,117 +1,121 @@
-"Libraries and tools";;;;
+Libraries and tools;;;;
 ;;;;
 ;;;;
 ;;;;
 ;;;;
-"Plateform";"Name";"Description";"Keywords";"URL"
-"Android";"HoloGraphLibrary";"To make charts, diagrams, ...";"graphs , charts";"https://github.com/Androguide/HoloGraphLibrary"
-"/";"Dokku";"Tool which can build and deplou apps and manage their lyfecycle";"build , PaaS";"https://github.com/dokku/dokku"
-"/";"IFTTT";"To automate commuunity maangement";;"https://ifttt.com/"
-"/";"Buffer";"A tool to manage easily social medias";;"https://buffer.com/"
-"/";"Instabug";"In-app feedback and bug tracking for mobile apps ";"bug : tracking : users";"https://instabug.com/"
-"/";"Zapier";"Connect the apps to use, automate tasks";"automatisation";"https://zapier.com/"
-"/";"Postman";"To test and link APIs";"API";"https://www.getpostman.com/"
-"Android";"Picasso";"A powerful image downloading and caching library";"pictures , image , caching";"http://square.github.io/picasso/"
-"Android";"Branded launch screen";"New splash screens for Android";"tuto , splash screen";"http://antonioleiva.com/branded-launch-screen/"
-"Android";"IntroScreen";"To create intro screen on ViewPager and PageTransformer";"tuto , intro screen";"https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz"
-"Design";"Espresso";"Introduction to Espresso (what else?)";"tuto , espresso , UI tests";"http://tutos-android-france.com/introduction-a-espresso/"
-"Android";"Fabric.io";"Bug tracking and dashboard";"Crashlytics , Fabric.io";"https://get.fabric.io/"
-"Android";"material";"A library to bring fully animated Material Design components to pre-Lolipop Android";"material design";"https://github.com/rey5137/material"
-"Android";"YahooNewOnboarding";"Demos fo landing screens / start screens on Android";"landing screen";"https://github.com/rahulrj/YahooNewsOnboarding"
-"Android";"AppIntro";"App intros / landing screens";"landing screen";"https://github.com/PaoloRotolo/AppIntro"
-"Android";"RxJava";"Improving UX with RxJava";"tuto , UX, RxJava";"https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw"
-"Android";"Android Design Support Library";;"tuto , suport library , design";"http://android-developers.blogspot.fr/2015/05/android-design-support-library.html"
-"Android";"Floacting Action Button Toolbar";"A floating action button transforming into toolbar";"FAB , material : toolbar";"https://github.com/fafaldo/FABToolbar"
-"Android";"CircleView";"A circle view containing title and subtitle";"circle view , material";"https://github.com/pavlospt/CircleView"
-"Android";"CircularProgressButton";"A circular progress button";"circular progress button , material";"https://github.com/dmytrodanylyk/circular-progress-button"
-"Android";"CardsUI";"A lib for cards UI";"cards ui , material";"https://github.com/gabrielemariotti/cardslib"
-"Android";"BottomSheets";"A sliding bottom sheet with actions";"bottom sheet , material";"https://github.com/soarcn/BottomSheet"
-"Android";"MaterialLeanBack";"A leanback port for Android devices";"material , lean back , photos";"https://github.com/florent37/MaterialLeanBack"
-"Android";"InteractiveCanvas";"Library for distribution canvas over set of devices";"interactive canvas , devices";"https://github.com/elevenetc/InteractiveCanvas"
-"Android";"Material Arc Menu";"An arc menu with buttons inside";"arc menus : buttons , material";"https://github.com/saurabharora90/MaterialArcMenu"
-"Android";"Animations effects to TextView";"Animations effects to text views";"animations : text views";"https://github.com/hanks-zyh/HTextView"
-"Android";"Faker";"Tool to make mock objects";"mock : fake";"https://github.com/blocoio/faker"
-"Android";"Knife";"A rich text editor component for writing in Android";"document , edit text";"https://github.com/mthli/Knife"
-"Android";"PasswordEditText";"A custom EditText with a switchable icon showing/hidding passwords";"password : edit text";"https://github.com/maksim88/PasswordEditText"
-"/";"Upgrade";"Site de veille";"veille , tuto , site";"http://upgrade.news/"
-"Android";"Quitnow sleep time";"Lib to be sure the user is awake before disturbing it with soundy and vibrant notificatinos";"notifications , awake , sleep";"https://github.com/Fewlaps/quitnow-sleep-time"
-"Android";"Loading view";"Lib for a loading view";"loading view , animations";"https://github.com/lusfold/SpinnerLoading"
-"Android";"Leak Canary";"A memory leak tool for Android and Java";"leak , memory";" "
-"Android";"Apktool";"Tool to decompils APK files";"APK , décompiler";"https://ibotpeaches.github.io/Apktool/"
-"Android";"Swipestack";"A swipeable view stack";"card UI, swipe , stack , UI";"https://github.com/flschweiger/SwipeStack"
-"Android";"Emotion Analysis API";"Wrapper to Microsoft emotion analysis API";"emotion , analysis , ";"https://github.com/DavidPacioianu/Emotion-Analysis-API"
-"Android";"MD360Player4Android";"Lib to display pictures and 360 movies on Android";360;"https://github.com/ashqal/MD360Player4Android"
-"Android";"FillTheForm";"Lib to fill in a easy way Edittexts and help the dev";"aide au dev , EditText , mock , data binding";"https://github.com/Hotel-Reservation-Service/FillTheForm"
-"Android";"Mockito";"To make mocks";"tests , mocks , ";"https://github.com/mockito/mockito    http://mockito.org/"
-"Android";"SimpleArcLoader";"Simple arc animated loader";"loader , arc";"https://github.com/generic-leo/SimpleArcLoader"
-"Android";"GLide";"Introduction to Glide, Image loader lib for Android recommended by Google";"image loader , tuto";"http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en"
-"Android";"AppUpdater";"Library that checks for apps' updates on Google Play, Github, Amazon...";"lib , app updates";"https://github.com/javiersantos/AppUpdater"
-"Android";"GSON";"Lib to parse JSON";"gson , json , parser";"https://github.com/google/gson"
-"Android";"FABProgressCircle";"Material progress circle around any floating action button";"floating action button , circle , progress";"https://github.com/JorgeCastilloPrz/FABProgressCircle"
-"Android";"MaterialStyledDialogs";"Dialogs with material design and headers";"dialogs , material , header";"https://github.com/javiersantos/MaterialStyledDialogs"
-"Android";"ProgressButton";"Progress button with indicator and footprint";"button : progress , indicator";"https://github.com/f2prateek/progressbutton"
-"Android";"UCrop";"Image cropping library for Android";"image , cropp , lib";"https://github.com/Yalantis/uCrop"
-"Android";"BottomDialog";"A custom dialog attached at the bottom";;"https://github.com/rebus007/BottomDialog"
-"Android";"PeekAndPop";"PeekAndPop is an open source Android library, inspired by Instagram's latest 3D touch feature. As 3D touch is not available for android, this library uses long hold.";;"https://github.com/shalskar/PeekAndPop"
-"Android";"Low light theme switcher";"Automatically switch between Dark/Light themes using the device light sensor";"light , sensor , themes , dark , light";"https://github.com/twig/android-low-light-theme-switcher"
-"Android";"Validate forms libs";"Libs to validate Android forms";"libs , form validation";"https://github.com/mahmed8003/DroidValidatorLight     https://github.com/thyrlian/AwesomeValidation"
-"Android";"Android app versionning";;"version";"http://alexfu.github.io/2015/11/09/Android-Auto-Versioning/    https://github.com/alexfu/androidautoversion                    "
-"Android";"GestureView";"ImageView and FrameLayout with gestures control and position animation";"lib , gesture , image view";"https://github.com/alexvasilkov/GestureViews"
-"Android";"BottomBar";"A custom view component that mimics the new Material Design Bottom Navigation pattern.";"bottom bar , material";"https://github.com/roughike/BottomBar"
-"Android";"SwipeSelector";"A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.";"swipe selector , material";"https://github.com/roughike/SwipeSelector"
-"Android";"WoWoViewPager";"Optimized for scrolling app intros or making your CV app. Free and open source.";"view pager , fun";"https://github.com/Nightonke/WoWoViewPager"
-"Android";"Greedo Layout";"Full aspect ratio grid LayoutManager for Android's RecyclerView";;"https://github.com/500px/greedo-layout-for-android"
-"Android";"HitBlockRefresh";"A refresh view with a fun game inside";"refresh view , game";"https://github.com/Hitomis/HitBlockRefresh"
-"Android";"AboutLibrairies";"Tool which can list additional libs in a dedicated view";"vue , libs externes , about , à  propos";"https://github.com/mikepenz/AboutLibraries"
-"Android";"AndroidRPInterpolator";"AndroidRPInterpolator is the interpolator library using Rovert Penner's Easing Functions.";"animations , interpolator";"https://github.com/r21nomi/AndroidRPInterpolator"
-"Android";"MarkerBuilder";"Versatile map area / geofence utility for google maps v2 for android";"map , google maps";"https://github.com/ac-opensource/MarkerBuilder"
-"Android";"SearchableSpinner";"Spinner with searchable items.";"spinner";"https://github.com/miteshpithadiya/SearchableSpinner"
-"Android";"SublimePicker";"Date picker";;"https://github.com/vikramkakkar/SublimePicker"
-"Android";"AndroidKeyboardWatcher";;"keyboard";"https://github.com/AzimoLabs/AndroidKeyboardWatcher"
-"Android";"AndroidTabbedDialog";;"tabbed dialog";"https://github.com/ashishbhandari/AndroidTabbedDialog"
-"Android";"SwitchButton";;"switch buttons ,  material";"https://github.com/kyleduo/SwitchButton"
-"Android";"Toggle";"Lib to add feature-toggle capability to Android apps";"feature , toggle";"https://github.com/s0h4m/toggle"
-"Android";"Android SQLite support library";;;"https://github.com/requery/sqlite-android"
-"Android";"Multiline collapsingtoolbar";;;"https://github.com/opacapp/multiline-collapsingtoolbar"
-"Android";"FlodingCell";;"material , animation , fun";"https://github.com/Ramotion/folding-cell-android"
-"Android";"URLLinkView";;"url , view";"https://github.com/TakeoffAndroid/URLLinkView"
-"Android";"SwipeMenuListView";;"swipe , menu , list view";"https://github.com/baoyongzhang/SwipeMenuListView"
-"Android";"View Hover";;;"https://github.com/daimajia/AndroidViewHover"
-"Android";"Swipe Layout";;"swipe , layout , view item";"https://github.com/daimajia/AndroidSwipeLayout"
-"Android";"Pull Zoom Recycler View";;"pull to zoom";"https://github.com/dinuscxj/PullZoomRecyclerView"
-"Android";"Baarcode Scanner";;"QR Code , Google Vision API";"https://github.com/EdwardvanRaak/MaterialBarcodeScanner"
-"Android";"MultiSelectWidget";;"list , multi select";"https://github.com/miteshpithadiya/MultiSelectWidget"
-"Android";"MaterialDesignLibrary";;"material design , 2.2";"https://github.com/navasmdc/MaterialDesignLibrary"
-"Android";"MaterialDialogs";;"material , dialog";"https://github.com/afollestad/material-dialogs"
-"Android";"MaterialInputCode";;"material , input , code";"https://github.com/glomadrian/material-code-input"
-"Android";"CardMenu";;;"https://github.com/ZhangQinglian/CardMenu"
-"Android";"Depth lib";;"depth , canvas , view";"https://github.com/danielzeller/Depth-LIB-Android-"
-"Android";;;;"http://karumi.github.io/AndroidAudit/"
-"Android";"MaryPopup";"Expand views with animations";;"https://github.com/Meetic/MaryPopup"
-"Android";"Sensey";"Gestures detection";"gesture , detection";"https://github.com/nisrulz/Sensey"
-"Android";"Scoop";"Build single-activity apps";;"https://github.com/lyft/scoop"
-"Android";"Pulse View";;"pusle , logo , view";"https://github.com/DevLight-Mobile-Agency/PulseView"
-"Android";"Fragment Animations";;"fragment , 3D animations , animations";"https://github.com/kakajika/FragmentAnimations"
-"Android";"Pull to make Soup";;;"https://github.com/Yalantis/pull-to-make-soup"
-"Android";"EffectiveShapeView";;"shape , view , image , cut";"https://github.com/TangXiaoLv/EffectiveShapeView"
-"Android";"MorphViews";;;"https://github.com/Even201314/NumberMorphView4Android   https://github.com/me-abhinav/NumberMorphView"
-"Android";"Morphing Button";;;"https://github.com/dmytrodanylyk/android-morphing-button"
-"Android";"MaterialPreferences";;;"https://github.com/yarolegovich/MaterialPreferences"
-"Android";"BeerProgressView";;;"https://github.com/andyb129/BeerProgressView"
-"Android";"Navigation Tab Strip";;;"https://github.com/DevLight-Mobile-Agency/NavigationTabStrip"
-"Android";"CircularTools";"Circle based animations for Android API 11+";;"https://github.com/AutSoft/CircularTools"
-"Android";"Material Preferences";"Custom goodlooking material preferences";;"https://github.com/yarolegovich/MaterialPreferences"
-"Android";"License tools plugin";"Gradle plugin to check libs licenses and generate pages";;"https://github.com/cookpad/license-tools-plugin"
-"Android";"BlurView";;"blur , view , iOS-like";"https://github.com/Dimezis/BlurView"
-"Android";"Android loading animations";;"loading , animations";"https://github.com/ybq/Android-SpinKit"
-"Android";"Anypixel";;;"https://github.com/googlecreativelab/anypixel"
-"Android";"Persistent Search View";;;"https://github.com/lapism/SearchView"
-"Design";"Vectalign";;"animations , drawables";"https://github.com/bonnyfone/vectalign"
-"Android";"Dart";;"dart , butter knife , layout injection";"https://github.com/f2prateek/dart"
-"Android";"Pin Lock View";;;"https://github.com/aritraroy/PinLockView"
-"Android";"Flexible Adapter";;;"https://github.com/davideas/FlexibleAdapter"
-"Android";"InstaCapture";;"screen shot";"https://github.com/tarek360/InstaCapture"
-"Android";"Header decor";;"recycler view , header";"https://github.com/edubarr/header-decor"
-"Android";"Deep Link Dispatch";;"deep link";"https://github.com/airbnb/DeepLinkDispatch"
-"Android";"MaterialSeekBarPreference";;"seek bar , preference";"https://github.com/MrBIMC/MaterialSeekBarPreference"
-"Android";"LeafPic";"An ad-free, open-source, material designed alternatibe to Android gallery";"gallery";"https://github.com/HoraApps/LeafPic"
+Plateform;Name;Description;Keywords;URL
+Android;HoloGraphLibrary;To make charts, diagrams, ...;graphs , charts;https://github.com/Androguide/HoloGraphLibrary
+/;Dokku;Tool which can build and deplou apps and manage their lyfecycle;build , PaaS;https://github.com/dokku/dokku
+/;IFTTT;To automate commuunity maangement;;https://ifttt.com/
+/;Buffer;A tool to manage easily social medias;;https://buffer.com/
+/;Instabug;In-app feedback and bug tracking for mobile apps ;bug : tracking : users;https://instabug.com/
+/;Zapier;Connect the apps to use, automate tasks;automatisation;https://zapier.com/
+/;Postman;To test and link APIs;API;https://www.getpostman.com/
+Android;Picasso;A powerful image downloading and caching library;pictures , image , caching;http://square.github.io/picasso/
+Android;Branded launch screen;New splash screens for Android;tuto , splash screen;http://antonioleiva.com/branded-launch-screen/
+Android;IntroScreen;To create intro screen on ViewPager and PageTransformer;tuto , intro screen;https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz
+Design;Espresso;Introduction to Espresso (what else?);tuto , espresso , UI tests;http://tutos-android-france.com/introduction-a-espresso/
+Android;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io;https://get.fabric.io/
+Android;material;A library to bring fully animated Material Design components to pre-Lolipop Android;material design;https://github.com/rey5137/material
+Android;YahooNewOnboarding;Demos fo landing screens / start screens on Android;landing screen;https://github.com/rahulrj/YahooNewsOnboarding
+Android;AppIntro;App intros / landing screens;landing screen;https://github.com/PaoloRotolo/AppIntro
+Android;RxJava;Improving UX with RxJava;tuto , UX, RxJava;https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw
+Android;Android Design Support Library;;tuto , suport library , design;http://android-developers.blogspot.fr/2015/05/android-design-support-library.html
+Android;Floacting Action Button Toolbar;A floating action button transforming into toolbar;FAB , material : toolbar;https://github.com/fafaldo/FABToolbar
+Android;CircleView;A circle view containing title and subtitle;circle view , material;https://github.com/pavlospt/CircleView
+Android;CircularProgressButton;A circular progress button;circular progress button , material;https://github.com/dmytrodanylyk/circular-progress-button
+Android;CardsUI;A lib for cards UI;cards ui , material;https://github.com/gabrielemariotti/cardslib
+Android;BottomSheets;A sliding bottom sheet with actions;bottom sheet , material;https://github.com/soarcn/BottomSheet
+Android;MaterialLeanBack;A leanback port for Android devices;material , lean back , photos;https://github.com/florent37/MaterialLeanBack
+Android;InteractiveCanvas;Library for distribution canvas over set of devices;interactive canvas , devices;https://github.com/elevenetc/InteractiveCanvas
+Android;Material Arc Menu;An arc menu with buttons inside;arc menus : buttons , material;https://github.com/saurabharora90/MaterialArcMenu
+Android;Animations effects to TextView;Animations effects to text views;animations : text views;https://github.com/hanks-zyh/HTextView
+Android;Faker;Tool to make mock objects;mock : fake;https://github.com/blocoio/faker
+Android;Knife;A rich text editor component for writing in Android;document , edit text;https://github.com/mthli/Knife
+Android;PasswordEditText;A custom EditText with a switchable icon showing/hidding passwords;password : edit text;https://github.com/maksim88/PasswordEditText
+/;Upgrade;Site de veille;veille , tuto , site;http://upgrade.news/
+Android;Quitnow sleep time;Lib to be sure the user is awake before disturbing it with soundy and vibrant notificatinos;notifications , awake , sleep;https://github.com/Fewlaps/quitnow-sleep-time
+Android;Loading view;Lib for a loading view;loading view , animations;https://github.com/lusfold/SpinnerLoading
+Android;Leak Canary;A memory leak tool for Android and Java;leak , memory; 
+Android;Apktool;Tool to decompils APK files;APK , décompiler;https://ibotpeaches.github.io/Apktool/
+Android;Swipestack;A swipeable view stack;card UI, swipe , stack , UI;https://github.com/flschweiger/SwipeStack
+Android;Emotion Analysis API;Wrapper to Microsoft emotion analysis API;emotion , analysis , ;https://github.com/DavidPacioianu/Emotion-Analysis-API
+Android;MD360Player4Android;Lib to display pictures and 360 movies on Android;360;https://github.com/ashqal/MD360Player4Android
+Android;FillTheForm;Lib to fill in a easy way Edittexts and help the dev;aide au dev , EditText , mock , data binding;https://github.com/Hotel-Reservation-Service/FillTheForm
+Android;Mockito;To make mocks;tests , mocks , ;https://github.com/mockito/mockito    http://mockito.org/
+Android;SimpleArcLoader;Simple arc animated loader;loader , arc;https://github.com/generic-leo/SimpleArcLoader
+Android;GLide;Introduction to Glide, Image loader lib for Android recommended by Google;image loader , tuto;http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en
+Android;AppUpdater;Library that checks for apps' updates on Google Play, Github, Amazon...;lib , app updates;https://github.com/javiersantos/AppUpdater
+Android;GSON;Lib to parse JSON;gson , json , parser;https://github.com/google/gson
+Android;FABProgressCircle;Material progress circle around any floating action button;floating action button , circle , progress;https://github.com/JorgeCastilloPrz/FABProgressCircle
+Android;MaterialStyledDialogs;Dialogs with material design and headers;dialogs , material , header;https://github.com/javiersantos/MaterialStyledDialogs
+Android;ProgressButton;Progress button with indicator and footprint;button : progress , indicator;https://github.com/f2prateek/progressbutton
+Android;UCrop;Image cropping library for Android;image , cropp , lib;https://github.com/Yalantis/uCrop
+Android;BottomDialog;A custom dialog attached at the bottom;;https://github.com/rebus007/BottomDialog
+Android;PeekAndPop;PeekAndPop is an open source Android library, inspired by Instagram's latest 3D touch feature. As 3D touch is not available for android, this library uses long hold.;;https://github.com/shalskar/PeekAndPop
+Android;Low light theme switcher;Automatically switch between Dark/Light themes using the device light sensor;light , sensor , themes , dark , light;https://github.com/twig/android-low-light-theme-switcher
+Android;Validate forms libs;Libs to validate Android forms;libs , form validation;https://github.com/mahmed8003/DroidValidatorLight     https://github.com/thyrlian/AwesomeValidation
+Android;Android app versionning;;version;http://alexfu.github.io/2015/11/09/Android-Auto-Versioning/    https://github.com/alexfu/androidautoversion                    
+Android;GestureView;ImageView and FrameLayout with gestures control and position animation;lib , gesture , image view;https://github.com/alexvasilkov/GestureViews
+Android;BottomBar;A custom view component that mimics the new Material Design Bottom Navigation pattern.;bottom bar , material;https://github.com/roughike/BottomBar
+Android;SwipeSelector;A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.;swipe selector , material;https://github.com/roughike/SwipeSelector
+Android;WoWoViewPager;Optimized for scrolling app intros or making your CV app. Free and open source.;view pager , fun;https://github.com/Nightonke/WoWoViewPager
+Android;Greedo Layout;Full aspect ratio grid LayoutManager for Android's RecyclerView;;https://github.com/500px/greedo-layout-for-android
+Android;HitBlockRefresh;A refresh view with a fun game inside;refresh view , game;https://github.com/Hitomis/HitBlockRefresh
+Android;AboutLibrairies;Tool which can list additional libs in a dedicated view;vue , libs externes , about , à  propos;https://github.com/mikepenz/AboutLibraries
+Android;AndroidRPInterpolator;AndroidRPInterpolator is the interpolator library using Rovert Penner's Easing Functions.;animations , interpolator;https://github.com/r21nomi/AndroidRPInterpolator
+Android;MarkerBuilder;Versatile map area / geofence utility for google maps v2 for android;map , google maps;https://github.com/ac-opensource/MarkerBuilder
+Android;SearchableSpinner;Spinner with searchable items.;spinner;https://github.com/miteshpithadiya/SearchableSpinner
+Android;SublimePicker;Date picker;;https://github.com/vikramkakkar/SublimePicker
+Android;AndroidKeyboardWatcher;;keyboard;https://github.com/AzimoLabs/AndroidKeyboardWatcher
+Android;AndroidTabbedDialog;;tabbed dialog;https://github.com/ashishbhandari/AndroidTabbedDialog
+Android;SwitchButton;;switch buttons ,  material;https://github.com/kyleduo/SwitchButton
+Android;Toggle;Lib to add feature-toggle capability to Android apps;feature , toggle;https://github.com/s0h4m/toggle
+Android;Android SQLite support library;;;https://github.com/requery/sqlite-android
+Android;Multiline collapsingtoolbar;;;https://github.com/opacapp/multiline-collapsingtoolbar
+Android;FlodingCell;;material , animation , fun;https://github.com/Ramotion/folding-cell-android
+Android;URLLinkView;;url , view;https://github.com/TakeoffAndroid/URLLinkView
+Android;SwipeMenuListView;;swipe , menu , list view;https://github.com/baoyongzhang/SwipeMenuListView
+Android;View Hover;;;https://github.com/daimajia/AndroidViewHover
+Android;Swipe Layout;;swipe , layout , view item;https://github.com/daimajia/AndroidSwipeLayout
+Android;Pull Zoom Recycler View;;pull to zoom;https://github.com/dinuscxj/PullZoomRecyclerView
+Android;Baarcode Scanner;;QR Code , Google Vision API;https://github.com/EdwardvanRaak/MaterialBarcodeScanner
+Android;MultiSelectWidget;;list , multi select;https://github.com/miteshpithadiya/MultiSelectWidget
+Android;MaterialDesignLibrary;;material design , 2.2;https://github.com/navasmdc/MaterialDesignLibrary
+Android;MaterialDialogs;;material , dialog;https://github.com/afollestad/material-dialogs
+Android;MaterialInputCode;;material , input , code;https://github.com/glomadrian/material-code-input
+Android;CardMenu;;;https://github.com/ZhangQinglian/CardMenu
+Android;Depth lib;;depth , canvas , view;https://github.com/danielzeller/Depth-LIB-Android-
+Android;;;;http://karumi.github.io/AndroidAudit/
+Android;MaryPopup;Expand views with animations;;https://github.com/Meetic/MaryPopup
+Android;Sensey;Gestures detection;gesture , detection;https://github.com/nisrulz/Sensey
+Android;Scoop;Build single-activity apps;;https://github.com/lyft/scoop
+Android;Pulse View;;pusle , logo , view;https://github.com/DevLight-Mobile-Agency/PulseView
+Android;Fragment Animations;;fragment , 3D animations , animations;https://github.com/kakajika/FragmentAnimations
+Android;Pull to make Soup;;;https://github.com/Yalantis/pull-to-make-soup
+Android;EffectiveShapeView;;shape , view , image , cut;https://github.com/TangXiaoLv/EffectiveShapeView
+Android;MorphViews;;;https://github.com/Even201314/NumberMorphView4Android   https://github.com/me-abhinav/NumberMorphView
+Android;Morphing Button;;;https://github.com/dmytrodanylyk/android-morphing-button
+Android;MaterialPreferences;;;https://github.com/yarolegovich/MaterialPreferences
+Android;BeerProgressView;;;https://github.com/andyb129/BeerProgressView
+Android;Navigation Tab Strip;;;https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
+Android;CircularTools;Circle based animations for Android API 11+;;https://github.com/AutSoft/CircularTools
+Android;Material Preferences;Custom goodlooking material preferences;;https://github.com/yarolegovich/MaterialPreferences
+Android;License tools plugin;Gradle plugin to check libs licenses and generate pages;;https://github.com/cookpad/license-tools-plugin
+Android;BlurView;;blur , view , iOS-like;https://github.com/Dimezis/BlurView
+Android;Android loading animations;;loading , animations;https://github.com/ybq/Android-SpinKit
+Android;Anypixel;;;https://github.com/googlecreativelab/anypixel
+Android;Persistent Search View;;;https://github.com/lapism/SearchView
+Design;Vectalign;;animations , drawables;https://github.com/bonnyfone/vectalign
+Android;Dart;;dart , butter knife , layout injection;https://github.com/f2prateek/dart
+Android;Pin Lock View;;;https://github.com/aritraroy/PinLockView
+Android;Flexible Adapter;;;https://github.com/davideas/FlexibleAdapter
+Android;InstaCapture;;screen shot;https://github.com/tarek360/InstaCapture
+Android;Header decor;;recycler view , header;https://github.com/edubarr/header-decor
+Android;Deep Link Dispatch;;deep link;https://github.com/airbnb/DeepLinkDispatch
+Android;MaterialSeekBarPreference;;seek bar , preference;https://github.com/MrBIMC/MaterialSeekBarPreference
+Android;LeafPic;An ad-free, open-source, material designed alternatibe to Android gallery;gallery;https://github.com/HoraApps/LeafPic
+Android;LoadingView;;loaders;https://github.com/ldoublem/LoadingView
+Android;AndroidPdfViewer;;pdf , viewer;https://github.com/barteksc/AndroidPdfViewer
+Android;ExpandingPager;A card peek-pop controller;pager , card , peek-pop;https://github.com/qs-lll/ExpandingPager
+Android;GroupdOfX;;;https://github.com/blipinsk/GroupOfX
