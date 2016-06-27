@@ -119,3 +119,5 @@ Android;LoadingView;;loaders;https://github.com/ldoublem/LoadingView
 Android;AndroidPdfViewer;;pdf , viewer;https://github.com/barteksc/AndroidPdfViewer
 Android;ExpandingPager;A card peek-pop controller;pager , card , peek-pop;https://github.com/qs-lll/ExpandingPager
 Android;GroupdOfX;;;https://github.com/blipinsk/GroupOfX
+Android;Frog;;documentation , command lines;https://github.com/anupcowkur/frog
+Android;Reservoir;;cache , key/value pair , GSON;https://github.com/anupcowkur/Reservoir
