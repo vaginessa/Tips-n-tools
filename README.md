@@ -1543,4 +1543,11 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="keywords"> Coworking , télécentre , wigwam </td>
 		<td class="url"> https://www.neo-nomade.com/index.php </td>
 	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> MIME Types </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://www.freeformatter.com/mime-types-list.html </td>
+	</tr>
 </table>
