@@ -830,6 +830,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> card , stack , view </td>
 		<td class="url"> https://github.com/loopeer/CardStackView </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> ParalalxRecyclerView </td>
+		<td class="description"> </td>
+		<td class="keywords"> parallax , recycler view , loadmore </td>
+		<td class="url"> https://github.com/mzelzoghbi/ParallaxRecyclerView </td>
+	</tr>
 </table>
 
 
