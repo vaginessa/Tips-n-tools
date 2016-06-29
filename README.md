@@ -823,6 +823,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> cache , key/value pair , GSON </td>
 		<td class="url"> https://github.com/anupcowkur/Reservoir </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> CardStackView </td>
+		<td class="description"> </td>
+		<td class="keywords"> card , stack , view </td>
+		<td class="url"> https://github.com/loopeer/CardStackView </td>
+	</tr>
 </table>
 
 
@@ -1549,5 +1556,33 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> http://www.freeformatter.com/mime-types-list.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> The curious case of dependency conflicts </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle , conflits , dependences </td>
+		<td class="url"> http://crushingcode.co/the-curious-case-of-dependency-conflicts/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Identify, treat and avoid memory leaks </td>
+		<td class="description"> </td>
+		<td class="keywords"> memory , leaks </td>
+		<td class="url"> https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Using Bitmap Pools in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> bitmap , bitmap pools </td>
+		<td class="url"> https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android app performances tips </td>
+		<td class="description"> </td>
+		<td class="keywords"> performances </td>
+		<td class="url"> https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952 </td>
 	</tr>
 </table>

@@ -107,3 +107,7 @@ Design;Devices metrics;;Dp , px , density , ratio , width , height;https://desig
 Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
 /;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
 /;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
+Android;The curious case of dependency conflicts;;Gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
+Android;Identify, treat and avoid memory leaks;;memory , leaks;https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm
+Android;Using Bitmap Pools in Android;;bitmap , bitmap pools;https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m
+Android;Android app performances tips;;performances ;https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952
