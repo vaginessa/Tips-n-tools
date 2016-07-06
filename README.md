@@ -1662,4 +1662,25 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="keywords"> </td>
 		<td class="url"> https://www.linuxmint.com/ </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Supporting different screen sizes </td>
+		<td class="description"> </td>
+		<td class="keywords"> Layout , sw , aliases , res </td>
+		<td class="url"> https://developer.android.com/training/multiscreen/screensizes.html </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> GSM Arena </td>
+		<td class="description"> Compare devices </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://www.gsmarena.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Phone Arena </td>
+		<td class="description"> Compare devices </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://www.phonearena.com/ </td>
+	</tr>
 </table>

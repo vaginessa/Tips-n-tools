@@ -121,3 +121,6 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 /;CyanogenMod;;;http://www.cyanogenmod.org/
 /;ArchLinux;;;https://archlinux.fr/
 /;Linux Mint;;;https://www.linuxmint.com/
+Android;Supporting different screen sizes;;Layout , sw , aliases , res;https://developer.android.com/training/multiscreen/screensizes.html
+/;GSM Arena;Compare devices;;http://www.gsmarena.com/
+/;Phone Arena;Compare devices;;http://www.phonearena.com/
