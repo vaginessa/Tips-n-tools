@@ -103,11 +103,11 @@ Android;About contraint layouts;;;https://medium.com/@mustafa01ali/android-const
 Android;Building an Android app using the MVP pattern;;;https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
 Android;Android and crypto;;;https://www.cossacklabs.com/choose-android-crypto.html
 Android;Build a Settings Screen;;;https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
-Design;Devices metrics;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
+Design;Devices metrics;;dp , px , density , ratio , width , height;https://design.google.com/devices/
 Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
-/;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
+/;Neo Nomade;;coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
 /;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
-Android;The curious case of dependency conflicts;;Gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
+Android;The curious case of dependency conflicts;;gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
 Android;Identify, treat and avoid memory leaks;;memory , leaks;https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm
 Android;Using Bitmap Pools in Android;;bitmap , bitmap pools;https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m
 Android;Android app performances tips;;performances ;https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952
@@ -121,6 +121,3 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 /;CyanogenMod;;;http://www.cyanogenmod.org/
 /;ArchLinux;;;https://archlinux.fr/
 /;Linux Mint;;;https://www.linuxmint.com/
-Android;Supporting different screen sizes;;Layout , sw , aliases , res;https://developer.android.com/training/multiscreen/screensizes.html
-/;GSM Arena;Compare devices;;http://www.gsmarena.com/
-/;Phone Arena;Compare devices;;http://www.phonearena.com/

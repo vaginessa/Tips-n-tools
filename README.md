@@ -837,6 +837,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> parallax , recycler view , loadmore </td>
 		<td class="url"> https://github.com/mzelzoghbi/ParallaxRecyclerView </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> ShineButton </td>
+		<td class="description"> </td>
+		<td class="keywords"> effects , shining </td>
+		<td class="url"> https://github.com/ChadCSong/ShineButton </td>
+	</tr>
 </table>
 
 
@@ -1540,7 +1547,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfDesign"> Design </td>
 		<td class="name"> Devices metrics </td>
 		<td class="description"> </td>
-		<td class="keywords"> Dp , px , density , ratio , width , height </td>
+		<td class="keywords"> dp , px , density , ratio , width , height </td>
 		<td class="url"> https://design.google.com/devices/ </td>
 	</tr>
 	<tr>
@@ -1554,7 +1561,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfOther"> / </td>
 		<td class="name"> Neo Nomade </td>
 		<td class="description"> </td>
-		<td class="keywords"> Coworking , télécentre , wigwam </td>
+		<td class="keywords"> coworking , télécentre , wigwam </td>
 		<td class="url"> https://www.neo-nomade.com/index.php </td>
 	</tr>
 	<tr>
@@ -1568,7 +1575,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> The curious case of dependency conflicts </td>
 		<td class="description"> </td>
-		<td class="keywords"> Gradle , conflits , dependences </td>
+		<td class="keywords"> gradle , conflits , dependences </td>
 		<td class="url"> http://crushingcode.co/the-curious-case-of-dependency-conflicts/ </td>
 	</tr>
 	<tr>
@@ -1661,26 +1668,5 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> https://www.linuxmint.com/ </td>
-	</tr>
-	<tr>
-		<td class="pfAndroid"> Android </td>
-		<td class="name"> Supporting different screen sizes </td>
-		<td class="description"> </td>
-		<td class="keywords"> Layout , sw , aliases , res </td>
-		<td class="url"> https://developer.android.com/training/multiscreen/screensizes.html </td>
-	</tr>
-	<tr>
-		<td class="pfOther"> / </td>
-		<td class="name"> GSM Arena </td>
-		<td class="description"> Compare devices </td>
-		<td class="keywords"> </td>
-		<td class="url"> http://www.gsmarena.com/ </td>
-	</tr>
-	<tr>
-		<td class="pfOther"> / </td>
-		<td class="name"> Phone Arena </td>
-		<td class="description"> Compare devices </td>
-		<td class="keywords"> </td>
-		<td class="url"> http://www.phonearena.com/ </td>
 	</tr>
 </table>
