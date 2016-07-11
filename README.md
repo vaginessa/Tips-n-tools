@@ -841,8 +841,15 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> ShineButton </td>
 		<td class="description"> </td>
-		<td class="keywords"> effects , shining </td>
+		<td class="keywords"> Effects , shining </td>
 		<td class="url"> https://github.com/ChadCSong/ShineButton </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Revealator </td>
+		<td class="description"> </td>
+		<td class="keywords"> circle , animations , translations </td>
+		<td class="url"> https://github.com/Jaouan/Revealator </td>
 	</tr>
 </table>
 
