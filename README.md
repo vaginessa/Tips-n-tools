@@ -1554,7 +1554,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfDesign"> Design </td>
 		<td class="name"> Devices metrics </td>
 		<td class="description"> </td>
-		<td class="keywords"> dp , px , density , ratio , width , height </td>
+		<td class="keywords"> Dp , px , density , ratio , width , height </td>
 		<td class="url"> https://design.google.com/devices/ </td>
 	</tr>
 	<tr>
@@ -1568,7 +1568,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfOther"> / </td>
 		<td class="name"> Neo Nomade </td>
 		<td class="description"> </td>
-		<td class="keywords"> coworking , télécentre , wigwam </td>
+		<td class="keywords"> Coworking , télécentre , wigwam </td>
 		<td class="url"> https://www.neo-nomade.com/index.php </td>
 	</tr>
 	<tr>
@@ -1582,7 +1582,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> The curious case of dependency conflicts </td>
 		<td class="description"> </td>
-		<td class="keywords"> gradle , conflits , dependences </td>
+		<td class="keywords"> Gradle , conflits , dependences </td>
 		<td class="url"> http://crushingcode.co/the-curious-case-of-dependency-conflicts/ </td>
 	</tr>
 	<tr>
@@ -1610,49 +1610,49 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfOther"> / </td>
 		<td class="name"> Google : My Activity </td>
 		<td class="description"> Manage its activity through Google's services and products </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> google </td>
 		<td class="url"> https://myactivity.google.com/myactivity </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Google : Maps timeline </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> google </td>
 		<td class="url"> https://www.google.com/maps/timeline </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Google : Dashboard </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> google </td>
 		<td class="url"> https://www.google.com/settings/dashboard?hl=fr </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Google : My account </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> google </td>
 		<td class="url"> https://myaccount.google.com/?utm_source=OGB </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Linux : Tor </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> privacy , linux , tor </td>
 		<td class="url"> https://doc.ubuntu-fr.org/tor </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Linux : Cryptsetup </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> privacy , linux </td>
 		<td class="url"> https://doc.ubuntu-fr.org/cryptsetup </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Tor Browser </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> Privacy , tor </td>
 		<td class="url"> https://www.torproject.org/projects/torbrowser.html.en </td>
 	</tr>
 	<tr>
@@ -1666,14 +1666,63 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfOther"> / </td>
 		<td class="name"> ArchLinux </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> linux </td>
 		<td class="url"> https://archlinux.fr/ </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Linux Mint </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> linux </td>
 		<td class="url"> https://www.linuxmint.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Keybase.io </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy , identity , public keys </td>
+		<td class="url"> https://keybase.io/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Mailvelope </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://www.mailvelope.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> ProtonMail </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://protonmail.com/fr/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Spideroak </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://spideroak.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Cryptocat </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://crypto.cat/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Bleep </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy , chat </td>
+		<td class="url"> http://www.bleep.pm/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Epic Privacy Browser </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://www.epicbrowser.com/ </td>
 	</tr>
 </table>

@@ -103,21 +103,28 @@ Android;About contraint layouts;;;https://medium.com/@mustafa01ali/android-const
 Android;Building an Android app using the MVP pattern;;;https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
 Android;Android and crypto;;;https://www.cossacklabs.com/choose-android-crypto.html
 Android;Build a Settings Screen;;;https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
-Design;Devices metrics;;dp , px , density , ratio , width , height;https://design.google.com/devices/
+Design;Devices metrics;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
 Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
-/;Neo Nomade;;coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
+/;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
 /;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
-Android;The curious case of dependency conflicts;;gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
+Android;The curious case of dependency conflicts;;Gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
 Android;Identify, treat and avoid memory leaks;;memory , leaks;https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm
 Android;Using Bitmap Pools in Android;;bitmap , bitmap pools;https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m
 Android;Android app performances tips;;performances ;https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952
-/;Google : My Activity;Manage its activity through Google's services and products;;https://myactivity.google.com/myactivity
-/;Google : Maps timeline;;;https://www.google.com/maps/timeline
-/;Google : Dashboard;;;https://www.google.com/settings/dashboard?hl=fr
-/;Google : My account;;;https://myaccount.google.com/?utm_source=OGB
-/;Linux : Tor;;;https://doc.ubuntu-fr.org/tor
-/;Linux : Cryptsetup;;;https://doc.ubuntu-fr.org/cryptsetup
-/;Tor Browser;;;https://www.torproject.org/projects/torbrowser.html.en
+/;Google : My Activity;Manage its activity through Google's services and products;google;https://myactivity.google.com/myactivity
+/;Google : Maps timeline;;google;https://www.google.com/maps/timeline
+/;Google : Dashboard;;google;https://www.google.com/settings/dashboard?hl=fr
+/;Google : My account;;google;https://myaccount.google.com/?utm_source=OGB
+/;Linux : Tor;;privacy , linux , tor;https://doc.ubuntu-fr.org/tor
+/;Linux : Cryptsetup;;privacy , linux;https://doc.ubuntu-fr.org/cryptsetup
+/;Tor Browser;;Privacy , tor;https://www.torproject.org/projects/torbrowser.html.en
 /;CyanogenMod;;;http://www.cyanogenmod.org/
-/;ArchLinux;;;https://archlinux.fr/
-/;Linux Mint;;;https://www.linuxmint.com/
+/;ArchLinux;;linux;https://archlinux.fr/
+/;Linux Mint;;linux;https://www.linuxmint.com/
+/;Keybase.io;;privacy , identity , public keys;https://keybase.io/
+/;Mailvelope;;privacy;https://www.mailvelope.com/
+/;ProtonMail;;privacy;https://protonmail.com/fr/
+/;Spideroak;;privacy;https://spideroak.com/
+/;Cryptocat;;privacy;https://crypto.cat/
+/;Bleep;;privacy , chat;http://www.bleep.pm/
+/;Epic Privacy Browser;;privacy;https://www.epicbrowser.com/
