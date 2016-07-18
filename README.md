@@ -841,15 +841,15 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> ShineButton </td>
 		<td class="description"> </td>
-		<td class="keywords"> Effects , shining </td>
+		<td class="keywords"> effects , shining </td>
 		<td class="url"> https://github.com/ChadCSong/ShineButton </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> Revealator </td>
-		<td class="description"> </td>
-		<td class="keywords"> circle , animations , translations </td>
-		<td class="url"> https://github.com/Jaouan/Revealator </td>
+		<td class="name"> DiscreteSlider </td>
+		<td class="description"> A slider that allows a user to select a value at one of the specified tickmarks </td>
+		<td class="keywords"> slider </td>
+		<td class="url"> https://github.com/lawloretienne/DiscreteSlider </td>
 	</tr>
 </table>
 
@@ -1724,5 +1724,12 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> privacy </td>
 		<td class="url"> https://www.epicbrowser.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Benchmarking on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://greenrobot.org/android/benchmarking-on-android/ </td>
 	</tr>
 </table>
