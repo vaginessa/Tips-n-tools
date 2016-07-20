@@ -114,7 +114,7 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="name"> RxJava </td>
 		<td class="description"> Improving UX with RxJava </td>
 		<td class="keywords"> tuto , UX, RxJava </td>
-		<td class="url"> https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw </td>
+		<td class="url"> https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw https://github.com/ReactiveX/RxJava </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -851,6 +851,55 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> slider </td>
 		<td class="url"> https://github.com/lawloretienne/DiscreteSlider </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Jackson </td>
+		<td class="description"> JSON parser library </td>
+		<td class="keywords"> json </td>
+		<td class="url"> http://wiki.fasterxml.com/JacksonHome https://github.com/FasterXML/jackson </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> LikesLayout </td>
+		<td class="description"> Implementation of layouts that allow to add likes in Periscope style </td>
+		<td class="keywords"> layout , effects , likes </td>
+		<td class="url"> https://github.com/Iojjj/LikesLayout </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Revealator </td>
+		<td class="description"> An helper to circle reveal / unreveal a view easily </td>
+		<td class="keywords"> layout , effects </td>
+		<td class="url"> https://github.com/Jaouan/Revealator </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Otto </td>
+		<td class="description"> An enhanced event bus with emphasis on Android support </td>
+		<td class="keywords"> events , bus </td>
+		<td class="url"> http://square.github.io/otto/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Dagger </td>
+		<td class="description"> Dependency injector </td>
+		<td class="keywords"> dependency , injection </td>
+		<td class="url"> http://google.github.io/dagger/ https://github.com/google/dagger </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> RxAndroid </td>
+		<td class="description"> Reactive Extensions </td>
+		<td class="keywords"> events </td>
+		<td class="url"> https://github.com/ReactiveX/RxAndroid </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> OkHttp </td>
+		<td class="description"> An HTTP and HTTP/2 client for Android and Java application </td>
+		<td class="keywords"> HTTP , HTTP2 , client </td>
+		<td class="url"> http://square.github.io/okhttp/ </td>
+	</tr>
 </table>
 
 
@@ -1142,7 +1191,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="name"> Make reverse engineering </td>
 		<td class="description"> </td>
 		<td class="keywords"> android : reverse engineering , dex2jar , jdgui , smali , backsmali </td>
-		<td class="url"> http://oversimple.fr/tag/dex2jar/ </td>
+		<td class="url"> http://oversimple.fr/tag/dex2jar/ https://github.com/pxb1988/dex2jar </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -1731,5 +1780,33 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> http://greenrobot.org/android/benchmarking-on-android/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Upsight </td>
+		<td class="description"> </td>
+		<td class="keywords"> marketing , analytics </td>
+		<td class="url"> http://www.upsight.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Apteligent </td>
+		<td class="description"> Mobile application performance management </td>
+		<td class="keywords"> Crittercism , APM , metrics </td>
+		<td class="url"> https://www.apteligent.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Certificate and Public Key Pinning </td>
+		<td class="description"> </td>
+		<td class="keywords"> certificate </td>
+		<td class="url"> https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Security with HTTPS and SSL </td>
+		<td class="description"> </td>
+		<td class="keywords"> HTTPS , security , SSL </td>
+		<td class="url"> https://developer.android.com/training/articles/security-ssl.html </td>
 	</tr>
 </table>

@@ -44,7 +44,7 @@ Android;JSON schema to POJO;;json , pojo , java;http://www.jsonschema2pojo.org/
 Android;Libtastic;;;http://www.libtastic.com/
 Android;3 unit tests to avoid bad surprises on Android;;;http://jeremie-martinez.com//2016/02/16/unit-tests/
 Android;Avoiding cold starts on Android;;android , cold start;http://saulmm.github.io/avoding-android-cold-starts
-Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/
+Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/    https://github.com/pxb1988/dex2jar
 Android;Make an app survive in the Android ocean;;app , vie app , ;http://vourkosa.github.io/monetization/2016/03/17/Making-an-app-survive-in-Android-ocean.html
 Android;Android threads;;threads , intent services , services;http://techtej.blogspot.fr/2011/03/android-thread-constructspart-4.html
 Android;About flip animatiions;;;http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k
@@ -129,3 +129,7 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 /;Bleep;;privacy , chat;http://www.bleep.pm/
 /;Epic Privacy Browser;;privacy;https://www.epicbrowser.com/
 Android;Benchmarking on Android;;;http://greenrobot.org/android/benchmarking-on-android/
+Android;Upsight;;marketing , analytics;http://www.upsight.com/
+Android;Apteligent;Mobile application performance management;Crittercism , APM , metrics;https://www.apteligent.com/
+/;Certificate and Public Key Pinning;;certificate;https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning
+Android;Security with HTTPS and SSL;;HTTPS , security , SSL;https://developer.android.com/training/articles/security-ssl.html

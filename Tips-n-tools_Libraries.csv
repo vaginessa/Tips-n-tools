@@ -19,7 +19,7 @@ Android;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io;https://get
 Android;material;A library to bring fully animated Material Design components to pre-Lolipop Android;material design;https://github.com/rey5137/material
 Android;YahooNewOnboarding;Demos fo landing screens / start screens on Android;landing screen;https://github.com/rahulrj/YahooNewsOnboarding
 Android;AppIntro;App intros / landing screens;landing screen;https://github.com/PaoloRotolo/AppIntro
-Android;RxJava;Improving UX with RxJava;tuto , UX, RxJava;https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw
+Android;RxJava;Improving UX with RxJava;tuto , UX, RxJava;https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw    https://github.com/ReactiveX/RxJava
 Android;Android Design Support Library;;tuto , suport library , design;http://android-developers.blogspot.fr/2015/05/android-design-support-library.html
 Android;Floacting Action Button Toolbar;A floating action button transforming into toolbar;FAB , material : toolbar;https://github.com/fafaldo/FABToolbar
 Android;CircleView;A circle view containing title and subtitle;circle view , material;https://github.com/pavlospt/CircleView
@@ -125,3 +125,10 @@ Android;CardStackView;;card , stack , view;https://github.com/loopeer/CardStackV
 Android;ParalalxRecyclerView;;parallax , recycler view , loadmore;https://github.com/mzelzoghbi/ParallaxRecyclerView
 Android;ShineButton;;effects , shining;https://github.com/ChadCSong/ShineButton
 Android;DiscreteSlider;A slider that allows a user to select a value at one of the specified tickmarks;slider;https://github.com/lawloretienne/DiscreteSlider
+Android;Jackson;JSON parser library;json;http://wiki.fasterxml.com/JacksonHome    https://github.com/FasterXML/jackson
+Android;LikesLayout;Implementation of layouts that allow to add likes in Periscope style;layout , effects , likes;https://github.com/Iojjj/LikesLayout
+Android;Revealator;An helper to circle reveal / unreveal a view easily;layout , effects;https://github.com/Jaouan/Revealator
+Android;Otto;An enhanced event bus with emphasis on Android support;events , bus;http://square.github.io/otto/
+Android;Dagger;Dependency injector;dependency , injection;http://google.github.io/dagger/   https://github.com/google/dagger
+Android;RxAndroid;Reactive Extensions;events;https://github.com/ReactiveX/RxAndroid
+Android;OkHttp;An HTTP and HTTP/2 client for Android and Java application;HTTP , HTTP2 , client;http://square.github.io/okhttp/
