@@ -1783,30 +1783,9 @@ __ Tips-n-tools_WebLinks.csv __
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> Upsight </td>
+		<td class="name"> Deep Dive Into Android State Restoration </td>
 		<td class="description"> </td>
-		<td class="keywords"> marketing , analytics </td>
-		<td class="url"> http://www.upsight.com/ </td>
-	</tr>
-	<tr>
-		<td class="pfAndroid"> Android </td>
-		<td class="name"> Apteligent </td>
-		<td class="description"> Mobile application performance management </td>
-		<td class="keywords"> Crittercism , APM , metrics </td>
-		<td class="url"> https://www.apteligent.com/ </td>
-	</tr>
-	<tr>
-		<td class="pfOther"> / </td>
-		<td class="name"> Certificate and Public Key Pinning </td>
-		<td class="description"> </td>
-		<td class="keywords"> certificate </td>
-		<td class="url"> https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning </td>
-	</tr>
-	<tr>
-		<td class="pfAndroid"> Android </td>
-		<td class="name"> Security with HTTPS and SSL </td>
-		<td class="description"> </td>
-		<td class="keywords"> HTTPS , security , SSL </td>
-		<td class="url"> https://developer.android.com/training/articles/security-ssl.html </td>
+		<td class="keywords"> state , restoration </td>
+		<td class="url"> https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration </td>
 	</tr>
 </table>

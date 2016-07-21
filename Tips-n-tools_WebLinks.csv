@@ -129,7 +129,4 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 /;Bleep;;privacy , chat;http://www.bleep.pm/
 /;Epic Privacy Browser;;privacy;https://www.epicbrowser.com/
 Android;Benchmarking on Android;;;http://greenrobot.org/android/benchmarking-on-android/
-Android;Upsight;;marketing , analytics;http://www.upsight.com/
-Android;Apteligent;Mobile application performance management;Crittercism , APM , metrics;https://www.apteligent.com/
-/;Certificate and Public Key Pinning;;certificate;https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning
-Android;Security with HTTPS and SSL;;HTTPS , security , SSL;https://developer.android.com/training/articles/security-ssl.html
+Android;Deep Dive Into Android State Restoration;;state , restoration;https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration
