@@ -114,7 +114,7 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="name"> RxJava </td>
 		<td class="description"> Improving UX with RxJava </td>
 		<td class="keywords"> tuto , UX, RxJava </td>
-		<td class="url"> https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw </td>
+		<td class="url"> https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.3poyei2gw https://github.com/ReactiveX/RxJava </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -839,7 +839,7 @@ __ Tips-n-tools_Libraries.csv __
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> ShineButton </td>
+		<td class="name"> Shine Button </td>
 		<td class="description"> </td>
 		<td class="keywords"> effects , shining </td>
 		<td class="url"> https://github.com/ChadCSong/ShineButton </td>
@@ -1074,6 +1074,55 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="description"> An Android TextView with scrolling text changes </td>
 		<td class="keywords"> text view , scrolling </td>
 		<td class="url"> https://github.com/robinhood/ticker </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Jackson </td>
+		<td class="description"> JSON parser library </td>
+		<td class="keywords"> json </td>
+		<td class="url"> http://wiki.fasterxml.com/JacksonHome https://github.com/FasterXML/jackson </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> LikesLayout </td>
+		<td class="description"> mplementation of layouts that allow to add likes in Periscope style </td>
+		<td class="keywords"> layout , effects , likes </td>
+		<td class="url"> https://github.com/Iojjj/LikesLayou </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Revealator </td>
+		<td class="description"> An helper to circle reveal / unreveal a view easily </td>
+		<td class="keywords"> layout , effects </td>
+		<td class="url"> https://github.com/Jaouan/Revealator </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Otto </td>
+		<td class="description"> An enhanced event bus with emphasis on Android support </td>
+		<td class="keywords"> events , bus programming </td>
+		<td class="url"> http://square.github.io/otto/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Dagger </td>
+		<td class="description"> Dependency injector </td>
+		<td class="keywords"> dependency , injection </td>
+		<td class="url"> http://google.github.io/dagger/ https://github.com/google/dagger </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> RxAndroid </td>
+		<td class="description"> Reactive Extension </td>
+		<td class="keywords"> Events , reactive programming </td>
+		<td class="url"> https://github.com/ReactiveX/RxAndroid </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> OkHttp </td>
+		<td class="description"> An HTTP and HTTP/2 client for Android and Java application </td>
+		<td class="keywords"> HTTP , HTTP2 , clien </td>
+		<td class="url"> http://square.github.io/okhttp/ </td>
 	</tr>
 </table>
 
@@ -1776,7 +1825,7 @@ __ Tips-n-tools_WebLinks.csv __
 	</tr>
 	<tr>
 		<td class="pfDesign"> Design </td>
-		<td class="name"> Devices metrics </td>
+		<td class="name"> Devices </td>
 		<td class="description"> </td>
 		<td class="keywords"> Dp , px , density , ratio , width , height </td>
 		<td class="url"> https://design.google.com/devices/ </td>
@@ -1969,5 +2018,75 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> Android , fragmentation , versions </td>
 		<td class="url"> https://developer.android.com/about/dashboards/index.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Upsight </td>
+		<td class="description"> </td>
+		<td class="keywords"> marketing , analytics </td>
+		<td class="url"> http://www.upsight.com </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Apteligent </td>
+		<td class="description"> Mobile application performance management </td>
+		<td class="keywords"> Crittercism , APM , metrics </td>
+		<td class="url"> https://www.apteligent.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Certificate and Public Key Pinning </td>
+		<td class="description"> </td>
+		<td class="keywords"> certificate </td>
+		<td class="url"> https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Security with HTTPS and SSL </td>
+		<td class="description"> </td>
+		<td class="keywords"> HTTPS , security , SSL </td>
+		<td class="url"> https://developer.android.com/training/articles/security-ssl.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Supporting different screen sizes </td>
+		<td class="description"> </td>
+		<td class="keywords"> layout , sw , aliases , res </td>
+		<td class="url"> https://developer.android.com/training/multiscreen/screensizes.html </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> GSM Arena </td>
+		<td class="description"> Compare devices </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://www.gsmarena.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Phone Arena </td>
+		<td class="description"> Compare devices </td>
+		<td class="keywords"> </td>
+		<td class="url"> http://www.phonearena.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> The Android Arsenal </td>
+		<td class="description"> </td>
+		<td class="keywords"> tools , libs </td>
+		<td class="url"> https://android-arsenal.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Police </td>
+		<td class="description"> </td>
+		<td class="keywords"> tools , libs , news </td>
+		<td class="url"> http://www.androidpolice.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Unitag </td>
+		<td class="description"> To build and customize QR codes </td>
+		<td class="keywords"> QR codes </td>
+		<td class="url"> https://www.unitag.io/fr/qrcode </td>
 	</tr>
 </table>

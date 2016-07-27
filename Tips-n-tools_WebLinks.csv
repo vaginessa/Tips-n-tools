@@ -44,7 +44,7 @@ Android;JSON schema to POJO;;json , pojo , java;http://www.jsonschema2pojo.org/
 Android;Libtastic;;;http://www.libtastic.com/
 Android;3 unit tests to avoid bad surprises on Android;;;http://jeremie-martinez.com//2016/02/16/unit-tests/
 Android;Avoiding cold starts on Android;;android , cold start;http://saulmm.github.io/avoding-android-cold-starts
-Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/    https://github.com/pxb1988/dex2jar
+Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/ https://github.com/pxb1988/dex2jar
 Android;Make an app survive in the Android ocean;;app , vie app , ;http://vourkosa.github.io/monetization/2016/03/17/Making-an-app-survive-in-Android-ocean.html
 Android;Android threads;;threads , intent services , services;http://techtej.blogspot.fr/2011/03/android-thread-constructspart-4.html
 Android;About flip animatiions;;;http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k
@@ -103,7 +103,7 @@ Android;About contraint layouts;;;https://medium.com/@mustafa01ali/android-const
 Android;Building an Android app using the MVP pattern;;;https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
 Android;Android and crypto;;;https://www.cossacklabs.com/choose-android-crypto.html
 Android;Build a Settings Screen;;;https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
-Design;Devices metrics;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
+Design;Devices;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
 Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
 /;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
 /;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
@@ -131,3 +131,13 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 Android;Benchmarking on Android;;;http://greenrobot.org/android/benchmarking-on-android/
 Android;Deep Dive Into Android State Restoration;;state , restoration;https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration
 Android;Android dashboards;;Android , fragmentation , versions;https://developer.android.com/about/dashboards/index.html
+Android;Upsight;;marketing , analytics ;http://www.upsight.com
+Android;Apteligent;Mobile application performance management;Crittercism , APM , metrics ;https://www.apteligent.com/
+/;Certificate and Public Key Pinning;;certificate;https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning 
+Android;Security with HTTPS and SSL ;;HTTPS , security , SSL;https://developer.android.com/training/articles/security-ssl.html
+Android;Supporting different screen sizes;;layout , sw , aliases , res;https://developer.android.com/training/multiscreen/screensizes.html
+/;GSM Arena;Compare devices;;http://www.gsmarena.com/
+/;Phone Arena ;Compare devices;;http://www.phonearena.com/
+Android;The Android Arsenal;;tools , libs;https://android-arsenal.com/
+Android;Android Police;;tools , libs , news;http://www.androidpolice.com/
+/;Unitag;To build and customize QR codes;QR codes;https://www.unitag.io/fr/qrcode
