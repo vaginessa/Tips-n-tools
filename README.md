@@ -1068,6 +1068,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> </td>
 		<td class="url"> https://github.com/milosmns/circular-slider-android </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Ticker </td>
+		<td class="description"> An Android TextView with scrolling text changes </td>
+		<td class="keywords"> text view , scrolling </td>
+		<td class="url"> https://github.com/robinhood/ticker </td>
+	</tr>
 </table>
 
 
