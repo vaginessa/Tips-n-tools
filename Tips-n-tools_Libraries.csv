@@ -126,3 +126,33 @@ Android;ParalalxRecyclerView;;parallax , recycler view , loadmore;https://github
 Android;ShineButton;;effects , shining;https://github.com/ChadCSong/ShineButton
 Android;DiscreteSlider;A slider that allows a user to select a value at one of the specified tickmarks;slider;https://github.com/lawloretienne/DiscreteSlider
 Android;FlyoutMenus;;;https://github.com/ShamylZakariya/FlyoutMenus
+Android;PaperShredder;Some animations with a paper shredder;animations;https://github.com/ldoublem/PaperShredder
+Android;SectionedRecyclerViewAdapter;An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers;;https://github.com/luizgrp/SectionedRecyclerViewAdapter
+Android;Android-Stackblur;Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result;effect , blur;https://github.com/kikoso/android-stackblur
+Android;BreadcrumbLayout;A breadcrumb view based on a TableLayout;breadcrumb;https://github.com/ayvazj/BreadcrumbLayout
+Android;Jelly Direction Button;;button;https://github.com/bonghyun2/jelly-direction-button
+Android;SparkButton;Android library to create buttons with Twitter's heart like animation. ;button;https://github.com/varunest/SparkButton
+Android;Submit Button;A cool and elegant submit button;button;https://github.com/SparkYuan/SubmitButton
+Android;Image Zoomer;Image zoom animations for Android;image , zoom;https://github.com/code-crusher/Image-Zoomer
+Android;Liquid button;Animation of liquid loading button;button;https://github.com/yoruriko/LiquidButton
+Android;SocialButtons;;button;https://github.com/championswimmer/Android-SocialButtons
+Android;Ring Button;;button;https://github.com/yankai-victor/RingButton
+Android;Badge;A Series Of Badge Drawables For Android;badge ;https://github.com/nekocode/Badge
+Android;TriangleLabelView;A view with a triangle in the corner has a label;view ;https://github.com/shts/TriangleLabelView
+Android;Bubbles;;notification , bubbles;https://github.com/txusballesteros/bubbles-for-android
+Android;Bubbles Notifications;Exploding bubbles notifications;;https://github.com/dkmeteor/Bubble-Notification
+Android;9-Patch resizer;;9-patch , resizer;https://github.com/redwarp/9-Patch-Resizer
+Android;CitiesAutoComplete;;cities , Google Places , autocomplete;https://github.com/davidbeloo/CitiesAutoComplete
+Android;TokenAutoComplete;;auto-complete;https://github.com/splitwise/TokenAutoComplete
+Android;EmailAutoComplete;;email , autocomplete;https://github.com/tasomaniac/EmailAutoCompleteTextView
+Android;SlidingActivity;Android library which allows you to swipe down from an activity to close it. ;;https://github.com/klinker41/android-slidingactivity
+Android;Carouselview;A simple library to add carousel view in android app. ;carousel , view;https://github.com/sayyam/carouselview
+Android;Paperboy;A changelog library for Android ;changelog , view;https://github.com/porokoro/paperboy
+Android;Vintage Chroma;;color picker;https://github.com/MrBIMC/VintageChroma
+Android;Bugshaker;;shaker , bug;https://github.com/stkent/bugshaker-android
+Android;Connect Pattern;;pattern;https://github.com/BCGDV-ASIA/android-widget-connectpattern
+Android;PullToRefresh;;pull to refresh , fun , animations;https://github.com/lubeast/PullToRefresh
+Android;Bored Rudolf;;pull to refresh , game;https://github.com/FauDroids/Bored-Rudolf
+Android;Beer Swipe Refresh;;;https://github.com/recruit-lifestyle/BeerSwipeRefresh
+Android;FlyRefresh;;pull to refresh , animation;https://github.com/race604/FlyRefresh
+Android;Circular Slider;;;https://github.com/milosmns/circular-slider-android
