@@ -64,7 +64,7 @@ th {
 
 # Check args: if --fullHtml option, use CSS ; if --limitedHTML option, do not use CSS ; if --help, display usage ; otherwise display usage
 if [ "$#" -ne 1 ]; then
-	echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help ]"
+	echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help ]"
 	exit 0	
 fi
 
@@ -74,10 +74,10 @@ if [ $1 ]; then
 	elif [ "$1" = "--limitedHtml" ]; then
 		IS_HTML_LIMITED=true;
 	elif [ "$1" = "--help" ]; then
-		echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
 		exit 0		
 	else
-		echo "Usage: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
 		exit 0
 	fi
 fi
