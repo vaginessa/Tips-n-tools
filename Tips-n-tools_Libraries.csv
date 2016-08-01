@@ -163,4 +163,5 @@ Android;Revealator;An helper to circle reveal / unreveal a view easily;layout , 
 Android;Otto;An enhanced event bus with emphasis on Android support ;events , bus programming;http://square.github.io/otto/ 
 Android;Dagger;Dependency injector;dependency , injection ;http://google.github.io/dagger/ https://github.com/google/dagger
 Android;RxAndroid;Reactive Extension;Events , reactive programming;https://github.com/ReactiveX/RxAndroid
-Android;OkHttp;An HTTP and HTTP/2 client for Android and Java application;HTTP , HTTP2 , clien;http://square.github.io/okhttp/
+Android;OkHttp;An HTTP and HTTP/2 client for Android and Java application;HTTP , HTTP2 , client;http://square.github.io/okhttp/
+Android;StepView;Step by step view;HorizontalStepView , VerticalStepView , indicators;https://github.com/baoyachi/StepView

@@ -141,3 +141,5 @@ Android;Supporting different screen sizes;;layout , sw , aliases , res;https://d
 Android;The Android Arsenal;;tools , libs;https://android-arsenal.com/
 Android;Android Police;;tools , libs , news;http://www.androidpolice.com/
 /;Unitag;To build and customize QR codes;QR codes;https://www.unitag.io/fr/qrcode
+Android;How not to become a public enemy;;guidelines , public project , tips;http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
+Design;Programmatically create a ripple drawable of any color;;drawable ;http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/

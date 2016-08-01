@@ -1121,8 +1121,15 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> OkHttp </td>
 		<td class="description"> An HTTP and HTTP/2 client for Android and Java application </td>
-		<td class="keywords"> HTTP , HTTP2 , clien </td>
+		<td class="keywords"> HTTP , HTTP2 , client </td>
 		<td class="url"> http://square.github.io/okhttp/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> StepView </td>
+		<td class="description"> Step by step view </td>
+		<td class="keywords"> HorizontalStepView , VerticalStepView , indicators </td>
+		<td class="url"> https://github.com/baoyachi/StepView </td>
 	</tr>
 </table>
 
@@ -2088,5 +2095,19 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> To build and customize QR codes </td>
 		<td class="keywords"> QR codes </td>
 		<td class="url"> https://www.unitag.io/fr/qrcode </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> How not to become a public enemy </td>
+		<td class="description"> </td>
+		<td class="keywords"> guidelines , public project , tips </td>
+		<td class="url"> http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/ </td>
+	</tr>
+	<tr>
+		<td class="pfDesign"> Design </td>
+		<td class="name"> Programmatically create a ripple drawable of any color </td>
+		<td class="description"> </td>
+		<td class="keywords"> drawable </td>
+		<td class="url"> http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/ </td>
 	</tr>
 </table>
