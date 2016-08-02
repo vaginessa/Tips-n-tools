@@ -76,7 +76,7 @@ fi
 
 if [ $htmlWebRowsNew -lt $htmlWebRowsOld ]; then
 	echo "WARNING: The new file $HTML_WEB_FILE has now a smaller size than its previous version"
-elif [ $htmlWebRowsNew -eq $htmlWebRowsNew ]; then
+elif [ $htmlWebRowsNew -eq $htmlWebRowsOld ]; then
 	echo "NOTE: The new file $HTML_WEB_FILE has the same size as its previous version"
 fi
 

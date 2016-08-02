@@ -1131,6 +1131,20 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> HorizontalStepView , VerticalStepView , indicators </td>
 		<td class="url"> https://github.com/baoyachi/StepView </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Material Tip </td>
+		<td class="description"> </td>
+		<td class="keywords"> tip </td>
+		<td class="url"> https://github.com/fcannizzaro/material-tip </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Dart lib </td>
+		<td class="description"> Extras injection lib </td>
+		<td class="keywords"> intent , extras , injections </td>
+		<td class="url"> https://github.com/f2prateek/dart </td>
+	</tr>
 </table>
 
 
@@ -2109,5 +2123,33 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> drawable </td>
 		<td class="url"> http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Best Practices with Background Jobs </td>
+		<td class="description"> </td>
+		<td class="keywords"> background , jobs , tasks , service , data load </td>
+		<td class="url"> https://developer.android.com/training/best-background.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android & Tech Publications </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://medium.com/android-news/tagged/android </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Better Android Intents with Dart and Henson </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dart , Henson , intents </td>
+		<td class="url"> https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Big ball of mud and other architectural disasters </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/ </td>
 	</tr>
 </table>
