@@ -165,3 +165,5 @@ Android;Dagger;Dependency injector;dependency , injection ;http://google.github.
 Android;RxAndroid;Reactive Extension;Events , reactive programming;https://github.com/ReactiveX/RxAndroid
 Android;OkHttp;An HTTP and HTTP/2 client for Android and Java application;HTTP , HTTP2 , client;http://square.github.io/okhttp/
 Android;StepView;Step by step view;HorizontalStepView , VerticalStepView , indicators;https://github.com/baoyachi/StepView
+Android;Material Tip;;tip;https://github.com/fcannizzaro/material-tip
+Android;Dart lib;Extras injection lib;intent , extras , injections;https://github.com/f2prateek/dart

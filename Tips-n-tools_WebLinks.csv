@@ -143,3 +143,7 @@ Android;Android Police;;tools , libs , news;http://www.androidpolice.com/
 /;Unitag;To build and customize QR codes;QR codes;https://www.unitag.io/fr/qrcode
 Android;How not to become a public enemy;;guidelines , public project , tips;http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
 Design;Programmatically create a ripple drawable of any color;;drawable;http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
+Android;Best Practices with Background Jobs;;background , jobs , tasks , service , data load;https://developer.android.com/training/best-background.html
+Android;Android & Tech Publications;;;https://medium.com/android-news/tagged/android
+Android;Better Android Intents with Dart and Henson;;Dart , Henson , intents;https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b
+/;Big ball of mud and other architectural disasters;;;https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/
