@@ -167,3 +167,5 @@ Android;OkHttp;An HTTP and HTTP/2 client for Android and Java application;HTTP ,
 Android;StepView;Step by step view;HorizontalStepView , VerticalStepView , indicators;https://github.com/baoyachi/StepView
 Android;Material Tip;;tip;https://github.com/fcannizzaro/material-tip
 Android;Dart lib;Extras injection lib;intent , extras , injections;https://github.com/f2prateek/dart
+Android;QRCodeReaderView;;;https://github.com/dlazaro66/QRCodeReaderView
+Android;SlidingDrawer;;bottom sheet , sliding view;https://github.com/PierfrancescoSoffritti/SlidingDrawer

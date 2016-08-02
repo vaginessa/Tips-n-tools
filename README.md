@@ -1145,6 +1145,20 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> intent , extras , injections </td>
 		<td class="url"> https://github.com/f2prateek/dart </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> QRCodeReaderView </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/dlazaro66/QRCodeReaderView </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> SlidingDrawer </td>
+		<td class="description"> </td>
+		<td class="keywords"> bottom sheet , sliding view </td>
+		<td class="url"> https://github.com/PierfrancescoSoffritti/SlidingDrawer </td>
+	</tr>
 </table>
 
 
