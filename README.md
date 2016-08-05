@@ -1159,6 +1159,55 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> bottom sheet , sliding view </td>
 		<td class="url"> https://github.com/PierfrancescoSoffritti/SlidingDrawer </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Hugo </td>
+		<td class="description"> Annotation-triggered method call logging for debug builds </td>
+		<td class="keywords"> annotations , log </td>
+		<td class="url"> https://github.com/JakeWharton/hugo </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Crystal preloaders </td>
+		<td class="description"> </td>
+		<td class="keywords"> loaders </td>
+		<td class="url"> https://github.com/syedowaisali/crystal-preloaders </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Magic Button </td>
+		<td class="description"> </td>
+		<td class="keywords"> buttons </td>
+		<td class="url"> https://github.com/daniel-martins-IR/MagicButton </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> AndroidDevMetrics </td>
+		<td class="description"> Performance metrics library </td>
+		<td class="keywords"> metrics , dagger2metrics </td>
+		<td class="url"> https://github.com/frogermcs/AndroidDevMetrics </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> StereoView </td>
+		<td class="description"> </td>
+		<td class="keywords"> effects </td>
+		<td class="url"> https://github.com/ImmortalZ/StereoView </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> ThumbUp </td>
+		<td class="description"> </td>
+		<td class="keywords"> effects , animations , likes </td>
+		<td class="url"> https://github.com/ldoublem/ThumbUp </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> MaterialLogin </td>
+		<td class="description"> Amazing material login effect </td>
+		<td class="keywords"> material , login </td>
+		<td class="url"> https://github.com/fanrunqi/MaterialLogin </td>
+	</tr>
 </table>
 
 
@@ -2165,5 +2214,61 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/ </td>
+	</tr>
+	<tr>
+		<td class="pfJava"> Java </td>
+		<td class="name"> Howdy RxJava </td>
+		<td class="description"> </td>
+		<td class="keywords"> RxJava , reactive programming </td>
+		<td class="url"> https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.sqfdlgy5d </td>
+	</tr>
+	<tr>
+		<td class="pfJava"> Java </td>
+		<td class="name"> Android WebSocket. Feedback, or when every second matters </td>
+		<td class="description"> </td>
+		<td class="keywords"> websockets </td>
+		<td class="url"> https://stfalcon.com/en/blog/post/android-websocket </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Timing is everything </td>
+		<td class="description"> </td>
+		<td class="keywords"> interpolation , animations </td>
+		<td class="url"> https://medium.com/google-developers/timing-is-everything-8218b8df5485#.mk0b3s4xr </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Identify performance issues in your Android application </td>
+		<td class="description"> </td>
+		<td class="keywords"> performances , optimization </td>
+		<td class="url"> http://blog.octo.com/en/identify-performance-issues-in-your-android-application/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Why developers are scared to refactor code ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> refactoring , TDD </td>
+		<td class="url"> https://medium.com/@nileshjarad/why-developers-scared-to-refactor-code-47efd1b854e7#.w15pydp4f </td>
+	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Why Kotlin is my next programming langage </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , Java </td>
+		<td class="url"> https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.ttk52j1bf </td>
+	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Comparison to Scala </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , Scala </td>
+		<td class="url"> https://kotlinlang.org/docs/reference/comparison-to-scala.html </td>
+	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Comparison to Java </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , Java </td>
+		<td class="url"> https://kotlinlang.org/docs/reference/comparison-to-java.html </td>
 	</tr>
 </table>

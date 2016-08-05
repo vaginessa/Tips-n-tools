@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 2.0.0
+# Version.............: 3.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #
@@ -61,12 +61,15 @@ th {
 	background-color: #8bc34a;
 }
 .pfDesign {
-	background-color: #2196f3;
+	background-color: #673ab7;
 }
 .pfJavaScript {
 	background-color: #ffeb3b;
 }
 .pfJava {
+	background-color: #2196f3;
+}
+.pfKotlin {
 	background-color: #ff5722;
 }
 .name {
@@ -148,6 +151,9 @@ while read -r line; do
 					;;
 					*JS*)
 						echo "\t\t<td class=\"pfJavaScript\">" $cleanItem "</td>"	
+					;;
+					*Kotlin*)
+						echo "\t\t<td class=\"pfKotlin\">" $cleanItem "</td>"	
 					;;
 					*)
 						echo "\t\t<td class=\"pfOther\">" $cleanItem "</td>"

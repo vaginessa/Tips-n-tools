@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 4.0.0
+# Version.............: 5.0.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -59,7 +59,7 @@ fi
 echo "Write begin of readme file..."
 echo $README_HEADER > $README_FILE
 
-# Get some stats to comapre with enw stats
+# Get some stats to compare with enw stats
 htmlLibsRowsOld=`cat $HTML_LIB_FILE | wc -l`
 htmlWebRowsOld=`cat $HTML_WEB_FILE | wc -l`
 
@@ -87,8 +87,8 @@ htmlLibsRowsNew=`cat $HTML_LIB_FILE | wc -l`
 htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
 
 # Some outputs
-echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld items)"
-echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld items)"
+echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld -> $htmlLibsRowsNew)"
+echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld ->  $htmlWebRowsNew)"
 
 if [ $htmlLibsRowsNew -lt $htmlLibsRowsOld ]; then
 	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version"
