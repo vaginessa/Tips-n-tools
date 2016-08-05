@@ -1,10 +1,32 @@
 #!/bin/sh
 #
-# Parses the CSV files (previously generated from the ODS file) to HTML files,
-# and concatenate them to the README.md file
+#    MIT License
+#    Copyright (c) 2016  Pierre-Yves Lapersonne (Twitter: @pylapp, Mail: pylapp(dot)pylapp(at)gmail(dot)com)
+#    Permission is hereby granted, free of charge, to any person obtaining a copy
+#    of this software and associated documentation files (the "Software"), to deal
+#    in the Software without restriction, including without limitation the rights
+#    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+#    copies of the Software, and to permit persons to whom the Software is
+#    furnished to do so, subject to the following conditions:
+#    The above copyright notice and this permission notice shall be included in all
+#    copies or substantial portions of the Software.
+#    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#    SOFTWARE.
+#
+#
+# Author..............: pylapp
+# Version.............: 4.0.0
+# Since...............: 21/06/2016
+# Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
 # Usage: sh csvToReadme.sh
 #
+
 
 # ###### #
 # CONFIG #
@@ -65,8 +87,8 @@ htmlLibsRowsNew=`cat $HTML_LIB_FILE | wc -l`
 htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
 
 # Some outputs
-echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE"
-echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE"
+echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld items)"
+echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld items)"
 
 if [ $htmlLibsRowsNew -lt $htmlLibsRowsOld ]; then
 	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version"
