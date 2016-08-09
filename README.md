@@ -2271,4 +2271,32 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="keywords"> Kotlin , Java </td>
 		<td class="url"> https://kotlinlang.org/docs/reference/comparison-to-java.html </td>
 	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> Can I use </td>
+		<td class="description"> </td>
+		<td class="keywords"> web , API , features </td>
+		<td class="url"> http://caniuse.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> What web can do today </td>
+		<td class="description"> </td>
+		<td class="keywords"> web , API , features </td>
+		<td class="url"> https://whatwebcando.today/ </td>
+	</tr>
+	<tr>
+		<td class="pfJavaScript"> JS </td>
+		<td class="name"> JS Republic </td>
+		<td class="description"> </td>
+		<td class="keywords"> JavaScript </td>
+		<td class="url"> http://blog.js-republic.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Getting the most ouf of Crashlytics </td>
+		<td class="description"> </td>
+		<td class="keywords"> Crashlytics </td>
+		<td class="url"> https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n </td>
+	</tr>
 </table>

@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 3.0.0
+# Version.............: 4.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #
@@ -71,6 +71,9 @@ th {
 }
 .pfKotlin {
 	background-color: #ff5722;
+}
+.pfWeb {
+	background-color: #4caf50;
 }
 .name {
 	text-align: center;
@@ -154,6 +157,9 @@ while read -r line; do
 					;;
 					*Kotlin*)
 						echo "\t\t<td class=\"pfKotlin\">" $cleanItem "</td>"	
+					;;
+					*Web*)
+						echo "\t\t<td class=\"pfWeb\">" $cleanItem "</td>"	
 					;;
 					*)
 						echo "\t\t<td class=\"pfOther\">" $cleanItem "</td>"
