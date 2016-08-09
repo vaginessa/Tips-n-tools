@@ -158,4 +158,10 @@ Kotlin;Comparison to Java;;Kotlin , Java;https://kotlinlang.org/docs/reference/c
 Web;Can I use;;web , API , features;http://caniuse.com/
 Web;What web can do today;;web , API , features;https://whatwebcando.today/
 JS;JS Republic;;JavaScript;http://blog.js-republic.com/
-/;Getting the most ouf of Crashlytics;;Crashlytics;https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n
+/;Getting the most out of Crashlytics;;Crashlytics;https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n
+/;Code smells;;code , smells;https://blog.codinghorror.com/code-smells/
+Web;UNCSS;;CSS , uncss;http://blog.js-republic.com/avec-uncss-mettez-au-regime-vos-feuilles-de-styles/
+Web;Normalize CSS;To normalize CSS and their effects in browsers;normalize , css;https://necolas.github.io/normalize.css/
+Web;Skeleton CSS;;skeleton , css;http://getskeleton.com/
+Web;Animate CSS;;animations , css;https://daneden.github.io/animate.css/
+JS;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/

@@ -2294,9 +2294,51 @@ __ Tips-n-tools_WebLinks.csv __
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
-		<td class="name"> Getting the most ouf of Crashlytics </td>
+		<td class="name"> Getting the most out of Crashlytics </td>
 		<td class="description"> </td>
 		<td class="keywords"> Crashlytics </td>
 		<td class="url"> https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Code smells </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , smells </td>
+		<td class="url"> https://blog.codinghorror.com/code-smells/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> UNCSS </td>
+		<td class="description"> </td>
+		<td class="keywords"> CSS , uncss </td>
+		<td class="url"> http://blog.js-republic.com/avec-uncss-mettez-au-regime-vos-feuilles-de-styles/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> Normalize CSS </td>
+		<td class="description"> To normalize CSS and their effects in browsers </td>
+		<td class="keywords"> normalize , css </td>
+		<td class="url"> https://necolas.github.io/normalize.css/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> Skeleton CSS </td>
+		<td class="description"> </td>
+		<td class="keywords"> skeleton , css </td>
+		<td class="url"> http://getskeleton.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> Animate CSS </td>
+		<td class="description"> </td>
+		<td class="keywords"> animations , css </td>
+		<td class="url"> https://daneden.github.io/animate.css/ </td>
+	</tr>
+	<tr>
+		<td class="pfJavaScript"> JS </td>
+		<td class="name"> Nightwatch.js </td>
+		<td class="description"> Browser automated testing done easy </td>
+		<td class="keywords"> Nightwatch , js , test </td>
+		<td class="url"> http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/ http://nightwatchjs.org/ </td>
 	</tr>
 </table>
