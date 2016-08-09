@@ -165,3 +165,5 @@ Web;Normalize CSS;To normalize CSS and their effects in browsers;normalize , css
 Web;Skeleton CSS;;skeleton , css;http://getskeleton.com/
 Web;Animate CSS;;animations , css;https://daneden.github.io/animate.css/
 JS;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/
+/;TIOBE;;programming langages , rank;http://www.tiobe.com/tiobe-index/
+/;PYPL;;programming langages , rank;http://pypl.github.io/PYPL.html

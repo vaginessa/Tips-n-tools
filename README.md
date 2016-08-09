@@ -2341,4 +2341,18 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="keywords"> Nightwatch , js , test </td>
 		<td class="url"> http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/ http://nightwatchjs.org/ </td>
 	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> TIOBE </td>
+		<td class="description"> </td>
+		<td class="keywords"> programming langages , rank </td>
+		<td class="url"> http://www.tiobe.com/tiobe-index/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> PYPL </td>
+		<td class="description"> </td>
+		<td class="keywords"> programming langages , rank </td>
+		<td class="url"> http://pypl.github.io/PYPL.html </td>
+	</tr>
 </table>
