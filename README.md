@@ -1208,6 +1208,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> material , login </td>
 		<td class="url"> https://github.com/fanrunqi/MaterialLogin </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> GlideFaceDetectionTransformation </td>
+		<td class="description"> Image transformation library providing cropping above face detection </td>
+		<td class="keywords"> face detection </td>
+		<td class="url"> https://github.com/aryarohit07/GlideFaceDetectionTransformation </td>
+	</tr>
 </table>
 
 
@@ -2354,5 +2361,12 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> programming langages , rank </td>
 		<td class="url"> http://pypl.github.io/PYPL.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> How to do TDD in Android ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> TDD , tests </td>
+		<td class="url"> https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl </td>
 	</tr>
 </table>
