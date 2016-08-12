@@ -2016,7 +2016,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="pfOther"> / </td>
 		<td class="name"> Tor Browser </td>
 		<td class="description"> </td>
-		<td class="keywords"> Privacy , tor </td>
+		<td class="keywords"> privacy , TOR </td>
 		<td class="url"> https://www.torproject.org/projects/torbrowser.html.en </td>
 	</tr>
 	<tr>
@@ -2368,5 +2368,40 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> TDD , tests </td>
 		<td class="url"> https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Trello </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://trello.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Jira </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://fr.atlassian.com/software/jira </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Telegram </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://telegram.org/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Taiga </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://taiga.io/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Better Android software development : MVVM with RxJava </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVVM , RxJava </td>
+		<td class="url"> https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava </td>
 	</tr>
 </table>

@@ -117,7 +117,7 @@ Android;Android app performances tips;;performances ;https://medium.com/@amitshe
 /;Google : My account;;google;https://myaccount.google.com/?utm_source=OGB
 /;Linux : Tor;;privacy , linux , tor;https://doc.ubuntu-fr.org/tor
 /;Linux : Cryptsetup;;privacy , linux;https://doc.ubuntu-fr.org/cryptsetup
-/;Tor Browser;;Privacy , tor;https://www.torproject.org/projects/torbrowser.html.en
+/;Tor Browser;;privacy , TOR;https://www.torproject.org/projects/torbrowser.html.en
 /;CyanogenMod;;;http://www.cyanogenmod.org/
 /;ArchLinux;;linux;https://archlinux.fr/
 /;Linux Mint;;linux;https://www.linuxmint.com/
@@ -168,3 +168,8 @@ JS;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http
 /;TIOBE;;programming langages , rank;http://www.tiobe.com/tiobe-index/
 /;PYPL;;programming langages , rank;http://pypl.github.io/PYPL.html
 Android;How to do TDD in Android ?;;TDD , tests;https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl
+/;Trello;Tool for collaborative work;dev , tools;https://trello.com/
+/;Jira;Tool for collaborative work;dev , tools;https://fr.atlassian.com/software/jira
+/;Telegram;;privacy;https://telegram.org/
+/;Taiga;Tool for collaborative work;dev , tools;https://taiga.io/
+Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava
