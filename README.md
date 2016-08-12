@@ -1215,6 +1215,13 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> face detection </td>
 		<td class="url"> https://github.com/aryarohit07/GlideFaceDetectionTransformation </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> A type safe HTTP client for Android and Java </td>
+		<td class="description"> </td>
+		<td class="keywords"> HTTP client , OkHTTP </td>
+		<td class="url"> http://square.github.io/retrofit/ </td>
+	</tr>
 </table>
 
 
@@ -2403,5 +2410,19 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> MVVM , RxJava </td>
 		<td class="url"> https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> MVP vs MVP vs MVVM </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://nirajrules.wordpress.com/2009/07/18/mvc-vs-mvp-vs-mvvm/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Difference between MVC, MVP and MVVM </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVC , MVP , MVVM </td>
+		<td class="url"> https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe </td>
 	</tr>
 </table>

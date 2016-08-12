@@ -177,3 +177,4 @@ Android;StereoView;;effects;https://github.com/ImmortalZ/StereoView
 Android;ThumbUp;;effects , animations , likes;https://github.com/ldoublem/ThumbUp
 Android;MaterialLogin;Amazing material login effect;material , login;https://github.com/fanrunqi/MaterialLogin
 Android;GlideFaceDetectionTransformation;Image transformation library providing cropping above face detection;face detection;https://github.com/aryarohit07/GlideFaceDetectionTransformation
+Android;A type safe HTTP client for Android and Java;;HTTP client , OkHTTP;http://square.github.io/retrofit/
