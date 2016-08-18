@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 6.0.0
+# Version.............: 6.1.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -102,8 +102,8 @@ htmlDeviceRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
 
 # Some outputs
 echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld -> $htmlLibsRowsNew)"
-echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld ->  $htmlWebRowsNew)"
-echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (previous version: $htmlDevicesRowsOld ->  $htmlDeviceRowsNew)"
+echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld -> $htmlWebRowsNew)"
+echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (previous version: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)"
 
 if [ $htmlLibsRowsNew -lt $htmlLibsRowsOld ]; then
 	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version"
