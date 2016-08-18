@@ -1369,7 +1369,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="url"> https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031#.j3g2wiaz7 </td>
 	</tr>
 	<tr>
-		<td class="pfJavaScript"> JS </td>
+		<td class="pfJava"> JavaScript </td>
 		<td class="name"> </td>
 		<td class="description"> ES5 to ES6 </td>
 		<td class="keywords"> ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT </td>
@@ -2342,7 +2342,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="url"> https://whatwebcando.today/ </td>
 	</tr>
 	<tr>
-		<td class="pfJavaScript"> JS </td>
+		<td class="pfJava"> JavaScript </td>
 		<td class="name"> JS Republic </td>
 		<td class="description"> </td>
 		<td class="keywords"> JavaScript </td>
@@ -2391,7 +2391,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="url"> https://daneden.github.io/animate.css/ </td>
 	</tr>
 	<tr>
-		<td class="pfJavaScript"> JS </td>
+		<td class="pfJava"> JavaScript </td>
 		<td class="name"> Nightwatch.js </td>
 		<td class="description"> Browser automated testing done easy </td>
 		<td class="keywords"> Nightwatch , js , test </td>
@@ -2480,5 +2480,96 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> awareness API </td>
 		<td class="url"> https://developers.google.com/awareness/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Device Specifications </td>
+		<td class="description"> </td>
+		<td class="keywords"> devices , specs </td>
+		<td class="url"> http://www.devicespecifications.com/en </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Duo Skin </td>
+		<td class="description"> </td>
+		<td class="keywords"> tatoo , duo skin , transhumanism </td>
+		<td class="url"> http://duoskin.media.mit.edu/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Flutter </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , iOS </td>
+		<td class="url"> https://flutter.io/ </td>
+	</tr>
+	<tr>
+		<td class="pfDesign"> Design </td>
+		<td class="name"> Justinmind </td>
+		<td class="description"> </td>
+		<td class="keywords"> prototyping </td>
+		<td class="url"> http://www.justinmind.com/ </td>
+	</tr>
+</table>
+
+
+
+__ Tips-n-tools_Devices.csv __
+<table>
+	<tr>
+		<td class="pfCyanogen"> Cyanogen </td>
+		<td class="constructor"> OnePlus </td>
+		<td class="name"> OnePlus One </td>
+		<td class="screensize"> 5,5'' </td>
+		<td class="screentype"> Gorilla Glass 3 , JDI IPS , Touch On Lens </td>
+		<td class="screenresolution"> 1080 x 1920 px </td>
+		<td class="soc"> Qualcomm Snapdragon 801 </td>
+		<td class="sensors"> proximity , light , accelerometer , compass, gyroscope, bluetooth, nfc, gps </td>
+		<td class="battery"> 3100 mAh </td>
+		<td class="storage"> 16 GB , 64 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor IMX214 f/2,0 13 MP (back) , 5 MP (front) </td>
+		<td class="dimensions"> 152,9 x 75,9 x 8,9 </td>
+		<td class="usbtype"> 162 g </td>
+		<td class="weight"> Micro-B </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> micro </td>
+	</tr>
+	<tr>
+		<td class="pfOxygenOS"> OxygenOS </td>
+		<td class="constructor"> OnePlus </td>
+		<td class="name"> OnePlus 2 </td>
+		<td class="screensize"> 5,5'' </td>
+		<td class="screentype"> 401 PPI , Incell IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px </td>
+		<td class="soc"> Qualcomm Snapdragon 810 </td>
+		<td class="sensors"> Fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 3300 mAh </td>
+		<td class="storage"> 16 GB , 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> f/2,0 13 MP (back) , 9 MP (front) </td>
+		<td class="dimensions"> 151,8 x 74,9 x 9,85 </td>
+		<td class="usbtype"> 175 g </td>
+		<td class="weight"> C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="pfOxygenOS"> OxygenOS </td>
+		<td class="constructor"> OnePlus </td>
+		<td class="name"> OnePlus 3 </td>
+		<td class="screensize"> 5,5'' </td>
+		<td class="screentype"> Corning Gorilla Glass 4 , 401 PPI , Optic AMOLED </td>
+		<td class="screenresolution"> 1080 x 1920 px </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 3000 mAh </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 6 GB </td>
+		<td class="camera"> Sony IMX 298 f/2,0 16MP (back) , Sony IMX 179 8 MP (front) </td>
+		<td class="dimensions"> 152,7 x 74,7 x 7,35 </td>
+		<td class="usbtype"> 158 g </td>
+		<td class="weight"> C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano , nano </td>
 	</tr>
 </table>

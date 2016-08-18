@@ -18,7 +18,7 @@ Android;Make translations for apps;;traduction , i18n;https://medium.com/glucosi
 Android;Quality and performances;Engineering Android apps for Performance & Quality;;https://speakerdeck.com/pareshmayani/engineering-android-apps-for-performance-and-quality
 /;10 conseils pour rendre votre présentation mémorable;;pitch , keynote , présentation;http://2015.shake.events/2015/06/22/10-conseils-pour-rendre-votre-presentation-memorable/
 Design;Introducing Material Deisgn Lite;;material design;https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031#.j3g2wiaz7
-JS;;ES5 to ES6;ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT;http://es6-features.org/
+JavaScript;;ES5 to ES6;ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT;http://es6-features.org/
 Android;Performances;;perfs , optimisation , Android , power , memory , leaks;http://fr.slideshare.net/seamaster29/10-ways-to-improve-your-android-app http://fr.slideshare.net/jerrinsg/android-power-management http://fr.slideshare.net/AliMuzaffar2/android-preventing-common-memory-leaks http://fr.slideshare.net/GlobalLogicUkraine/android-ui-performance-overdraw http://fr.slideshare.net/arslantumbin/performance-optimization-for-android-32797106
 Android;Awesome Android libraries;;material design , libs , UI / UX;https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
 Android;Android <3;;;http://www.androidfiguren.de/ http://android-foundry.com/
@@ -157,14 +157,14 @@ Kotlin;Comparison to Scala;;Kotlin , Scala;https://kotlinlang.org/docs/reference
 Kotlin;Comparison to Java;;Kotlin , Java;https://kotlinlang.org/docs/reference/comparison-to-java.html
 Web;Can I use;;web , API , features;http://caniuse.com/
 Web;What web can do today;;web , API , features;https://whatwebcando.today/
-JS;JS Republic;;JavaScript;http://blog.js-republic.com/
+JavaScript;JS Republic;;JavaScript;http://blog.js-republic.com/
 /;Getting the most out of Crashlytics;;Crashlytics;https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n
 /;Code smells;;code , smells;https://blog.codinghorror.com/code-smells/
 Web;UNCSS;;CSS , uncss;http://blog.js-republic.com/avec-uncss-mettez-au-regime-vos-feuilles-de-styles/
 Web;Normalize CSS;To normalize CSS and their effects in browsers;normalize , css;https://necolas.github.io/normalize.css/
 Web;Skeleton CSS;;skeleton , css;http://getskeleton.com/
 Web;Animate CSS;;animations , css;https://daneden.github.io/animate.css/
-JS;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/
+JavaScript;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/
 /;TIOBE;;programming langages , rank;http://www.tiobe.com/tiobe-index/
 /;PYPL;;programming langages , rank;http://pypl.github.io/PYPL.html
 Android;How to do TDD in Android ?;;TDD , tests;https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl
@@ -177,3 +177,7 @@ Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;h
 /;Difference between MVC, MVP and MVVM;;MVC , MVP , MVVM;https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe
 /;Why you should care about copyright;;copyright;http://jeroenmols.com/blog/2016/08/03/copyright/
 Android;Awareness API;;awareness API;https://developers.google.com/awareness/
+/;Device Specifications;;devices , specs;http://www.devicespecifications.com/en
+/;Duo Skin;;tatoo , duo skin , transhumanism;http://duoskin.media.mit.edu/
+/;Flutter;;Android , iOS;https://flutter.io/
+Design;Justinmind;;prototyping;http://www.justinmind.com/

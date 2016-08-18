@@ -20,11 +20,13 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 4.0.0
+# Version.............: 5.0.0
 # Since...............: 21/06/2016
-# Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
+# Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
+#			This file must contain several columns: Plateform, Name, Description, Keywords, URL
 #
-# Usage: cat myFileToProcess.csv | sh csvToHtml.sh > myOutputFile.html
+# Usage: sh csvToHtml_tools.sh --help
+# Usage: cat myFileToProcess.csv | sh csvToHtml_tools.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
 #
 
 
@@ -55,25 +57,25 @@ th {
 	background-color: #fafafa;
 }
 .pfOther {
-	background-color: #795548;
+	background-color: #9e9e9e;
 }
 .pfAndroid {
 	background-color: #8bc34a;
 }
 .pfDesign {
-	background-color: #673ab7;
+	background-color: #e91e63;
 }
 .pfJavaScript {
 	background-color: #ffeb3b;
 }
 .pfJava {
-	background-color: #2196f3;
+	background-color: #ff9800;
 }
 .pfKotlin {
-	background-color: #ff5722;
+	background-color: #3f51b5;
 }
 .pfWeb {
-	background-color: #4caf50;
+	background-color: #795548;
 }
 .name {
 	text-align: center;
@@ -93,7 +95,7 @@ th {
 
 # Check args: if --fullHtml option, use CSS ; if --limitedHTML option, do not use CSS ; if --help, display usage ; otherwise display usage
 if [ "$#" -ne 1 ]; then
-	echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help ]"
+	echo "USAGE: cat myFileToProcess.csv | sh csvToHtml_tools.sh [ --fullHtml | --limitedHtml | --help ]"
 	exit 0	
 fi
 
@@ -103,10 +105,10 @@ if [ $1 ]; then
 	elif [ "$1" = "--limitedHtml" ]; then
 		IS_HTML_LIMITED=true;
 	elif [ "$1" = "--help" ]; then
-		echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		echo "USAGE: cat myFileToProcess.csv | sh csvToHtml_tools.sh [ --fullHtml | --limitedHtml | --help]"
 		exit 0		
 	else
-		echo "USAGE: sh csvToHtml.sh [ --fullHtml | --limitedHtml | --help]"
+		echo "USAGE: cat myFileToProcess.csv | sh csvToHtml_tools.sh [ --fullHtml | --limitedHtml | --help]"
 		exit 0
 	fi
 fi
