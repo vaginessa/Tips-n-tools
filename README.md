@@ -1222,6 +1222,48 @@ __ Tips-n-tools_Libraries.csv __
 		<td class="keywords"> HTTP client , OkHTTP </td>
 		<td class="url"> http://square.github.io/retrofit/ </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Onboarding </td>
+		<td class="description"> </td>
+		<td class="keywords"> introduction , screen </td>
+		<td class="url"> https://github.com/eoinfogarty/Onboarding </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Tracker </td>
+		<td class="description"> </td>
+		<td class="keywords"> bug tracking , crash </td>
+		<td class="url"> https://github.com/android-Infoedge/tracker </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> FlipCards </td>
+		<td class="description"> </td>
+		<td class="keywords"> 3D flip cards </td>
+		<td class="url"> https://github.com/zhangke3016/FlipCards </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Leku </td>
+		<td class="description"> </td>
+		<td class="keywords"> location picker , GPS </td>
+		<td class="url"> https://github.com/SchibstedSpain/Leku </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Priority Jobqueue </td>
+		<td class="description"> </td>
+		<td class="keywords"> job queue , tasks , jobs </td>
+		<td class="url"> https://github.com/yigit/android-priority-jobqueue </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> JCVD </td>
+		<td class="description"> </td>
+		<td class="keywords"> Awareness API </td>
+		<td class="url"> https://github.com/djavan-bertrand/JCVD </td>
+	</tr>
 </table>
 
 
@@ -1569,7 +1611,7 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="name"> Choose a license </td>
 		<td class="description"> </td>
 		<td class="keywords"> </td>
-		<td class="url"> http://choosealicense.com/licenses/ </td>
+		<td class="url"> http://choosealicense.com/licenses/ http://choosealicense.com </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -2424,5 +2466,19 @@ __ Tips-n-tools_WebLinks.csv __
 		<td class="description"> </td>
 		<td class="keywords"> MVC , MVP , MVVM </td>
 		<td class="url"> https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Why you should care about copyright </td>
+		<td class="description"> </td>
+		<td class="keywords"> copyright </td>
+		<td class="url"> http://jeroenmols.com/blog/2016/08/03/copyright/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Awareness API </td>
+		<td class="description"> </td>
+		<td class="keywords"> awareness API </td>
+		<td class="url"> https://developers.google.com/awareness/ </td>
 	</tr>
 </table>
