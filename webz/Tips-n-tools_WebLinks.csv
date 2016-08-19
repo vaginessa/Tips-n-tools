@@ -192,3 +192,7 @@ Android;Intent Sniffer;;RI , reverse engineering , tools;https://www.nccgroup.tr
 Android;CFR;Another Java decompiler;RI , reverse engineering , tools;http://www.benf.org/other/cfr/
 Java;JAD;Java Decompiler;RI , reverse engineering , tools;http://varaneckas.com/jad/
 /;Software development explained with cars;;;https://toggl.com/developer-methods-infographic
+Kotlin;Learn Kotlin while developing an Android app;;Kotlin , tutorials;https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.4izg7j9n9
+Android;Feature discovery;;tap targets , prompts , step actions;https://material.google.com/growth-communications/feature-discovery.html#
+Android;Pathmorphing with AnimatedVectorDrawables in Android;;drawables , pathmorphing , animations;https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
+Web;Progressive Web Apps;;web app;https://developers.google.com/web/progressive-web-apps/

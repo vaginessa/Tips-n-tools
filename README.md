@@ -1405,6 +1405,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> RI , reverse engineering , tool </td>
 		<td class="url"> https://github.com/Konloch/bytecode-viewer </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> EasyDeviceInfo </td>
+		<td class="description"> </td>
+		<td class="keywords"> device infos </td>
+		<td class="url"> https://github.com/nisrulz/easydeviceinfo </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> MaterialTapTargetPrompt </td>
+		<td class="description"> </td>
+		<td class="keywords"> tap target , prompt </td>
+		<td class="url"> https://github.com/sjwall/MaterialTapTargetPrompt </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Space Navigation View </td>
+		<td class="description"> </td>
+		<td class="keywords"> space navigation view </td>
+		<td class="url"> https://github.com/armcha/Space-Navigation-View </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Speed View </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/anastr/SpeedView </td>
+	</tr>
 </table>
 
 
@@ -2734,6 +2762,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> </td>
 		<td class="url"> https://toggl.com/developer-methods-infographic </td>
 	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Learn Kotlin while developing an Android app </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , tutorials </td>
+		<td class="url"> https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.4izg7j9n9 </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Feature discovery </td>
+		<td class="description"> </td>
+		<td class="keywords"> tap targets , prompts , step actions </td>
+		<td class="url"> https://material.google.com/growth-communications/feature-discovery.html# </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Pathmorphing with AnimatedVectorDrawables in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> drawables , pathmorphing , animations </td>
+		<td class="url"> https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/ </td>
+	</tr>
+	<tr>
+		<td class="pfWeb"> Web </td>
+		<td class="name"> Progressive Web Apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> web app </td>
+		<td class="url"> https://developers.google.com/web/progressive-web-apps/ </td>
+	</tr>
 </table>
 
 
@@ -2773,7 +2829,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3100 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 3 GB </td>
-		<td class="camera"> Sony Exmor IMX214 CMOS 4.69 x 3.52mm 1.115µm f/2.0 13MP (back) , 4.92MP (front) </td>
+		<td class="camera"> Sony Exmor IMX214 CMOS 4.69 x 3.52 mm 1.115 µm f/2.0 13 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 152.9 x 75.9 x 8.9 mm </td>
 		<td class="usbtype"> 162 g </td>
 		<td class="weight"> micro-B </td>
@@ -2793,7 +2849,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3300 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> OmniVision OV13860 PureCel 5.55 x 4.8 mm 1.335µm f/2.0 13MP (back) , 4.92MP (front) </td>
+		<td class="camera"> OmniVision OV13860 PureCel 5.55 x 4.8 mm 1.335 µm f/2.0 13 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 151.8 x 74.9 x 9.85 mm </td>
 		<td class="usbtype"> 175 g </td>
 		<td class="weight"> C </td>
@@ -2813,7 +2869,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 6 GB </td>
-		<td class="camera"> Sony Exmor IMX 298 CMOS 5.22 x 3.92 mm 1.132µm f/2.0 16MP (back) , 7.99MP (front) </td>
+		<td class="camera"> Sony Exmor IMX 298 CMOS 5.22 x 3.92 mm 1.132 µm f/2.0 16 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 152.7 x 74.7 x 7.35 mm </td>
 		<td class="usbtype"> 158 g </td>
 		<td class="weight"> C </td>
@@ -2833,7 +2889,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3450 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
-		<td class="camera"> Sony Exmor IMX337R CMOS BSI 6.25x4.65mm 1.55µm f/2.0 12.3MP (back) , 7.99MP (front) </td>
+		<td class="camera"> Sony Exmor IMX337R CMOS BSI 6.25x4.65 mm 1.55 µm f/2.0 12.3 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 159.3 x 77.8 x 7.3 mm </td>
 		<td class="usbtype"> 178 g </td>
 		<td class="weight"> C </td>
@@ -2853,7 +2909,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3700 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 32 GB </td>
 		<td class="ram"> 2 GB </td>
-		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65mm 1.55µm f/2.0 12.9MP (back) , 4.92 MP (front) </td>
+		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65 mm 1.55 µm f/2.0 12.9 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 147 x 72.6 x 7.9 mm </td>
 		<td class="usbtype"> 136 g </td>
 		<td class="weight"> C </td>
@@ -2867,13 +2923,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screensize"> 5.5'' </td>
 		<td class="screentype"> Corning Gorilla Glass 4 , Super AMOLED </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
-		<td class="soc"> Samsung Exynos 8 </td>
+		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ARM Mali-T880 MP12 </td>
 		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
 		<td class="battery"> 3600 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19MP (back) , 5.04MP (front) </td>
+		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 150.9 x 72.6 x 7.7 mm </td>
 		<td class="usbtype"> 157 g </td>
 		<td class="weight"> micro-B </td>
@@ -2887,17 +2943,117 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screensize"> 5.1 '' </td>
 		<td class="screentype"> Corning Gorilla Glass 4 , Super AMOLED </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
-		<td class="soc"> Samsung Exynos 8 </td>
+		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ARM Mali-T880 MP12 </td>
 		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
 		<td class="battery"> 3000 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19MP (back) , 5.04 MP (front) </td>
+		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 142.4 x 69.6 x 7.9 mm </td>
 		<td class="usbtype"> 152 g </td>
 		<td class="weight"> micro-B </td>
 		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy Note 7 </td>
+		<td class="screensize"> 5.7'' </td>
+		<td class="screentype"> Gorilla Glass 5 , Super AMOLED </td>
+		<td class="screenresolution"> Quad HD </td>
+		<td class="soc"> Samsung Exynos 8890 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> iris scanner , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 3500 mAh </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 4 GO </td>
+		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
+		<td class="dimensions"> 153.5 x 73.9 x 7.9 mm </td>
+		<td class="usbtype"> 168 g </td>
+		<td class="weight"> C </td>
+		<td class="sdcard"> ? </td>
+		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> HTC </td>
+		<td class="name"> 10 </td>
+		<td class="screensize"> 5.2'' </td>
+		<td class="screentype"> Super LCD 5 </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65 mm 1.55 µm f/1.8 12.19 MP (back) , 5.04 MP (front) </td>
+		<td class="dimensions"> 145.9 x 71.9 x 9 mm </td>
+		<td class="usbtype"> 161 g </td>
+		<td class="weight"> 3.1 , C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> LG </td>
+		<td class="name"> G5 </td>
+		<td class="screensize"> 5.3'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , bluetooth , nfc , gps </td>
+		<td class="battery"> 2800 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS 5.95x3.35 mm 1.12 µm f/1.8 15.87 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 149.4 x 73.9 x 7.7 mm </td>
+		<td class="usbtype"> 159 g </td>
+		<td class="weight"> 3.0 , C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia Z5 </td>
+		<td class="screensize"> 5.2'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 810 </td>
+		<td class="gpu"> Qualcomm Adreno 430 </td>
+		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="battery"> 2900 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
+		<td class="dimensions"> 146 x 72 x 7.3 mm </td>
+		<td class="usbtype"> 154 g </td>
+		<td class="weight"> 2.0 , micro-B </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia Z5 Compact </td>
+		<td class="screensize"> 4.6'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 720 x 1280 px = HD </td>
+		<td class="soc"> Qualcomm Snapdragon 810 </td>
+		<td class="gpu"> Qualcomm Adreno 430 </td>
+		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="battery"> 2700 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
+		<td class="dimensions"> 127 x 65 x 8.9 mm </td>
+		<td class="usbtype"> 138 g </td>
+		<td class="weight"> 2.0 , micro-B </td>
+		<td class="sdcard"> mciroSD </td>
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
@@ -2913,12 +3069,32 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3000 mAh , Li-Ion </td>
 		<td class="storage"> 64 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> Sony Exmor IMX318 RS CMOS 5.49x4.11mm 1µm f/2.0 22.57MP (back) , 2.07MP (front) </td>
+		<td class="camera"> Sony Exmor IMX318 RS CMOS 5.49x4.11 mm 1 µm f/2.0 22.57 MP (back) , 2.07 MP (front) </td>
 		<td class="dimensions"> 156.4 x 77.4 x 7.5 mm </td>
 		<td class="usbtype"> 170 g </td>
 		<td class="weight"> 3.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , micro </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Fairphone </td>
+		<td class="name"> Fairphone 2 </td>
+		<td class="screensize"> 5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 801 </td>
+		<td class="gpu"> Qualcomm Adreno 330 </td>
+		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , bluetooth , gps </td>
+		<td class="battery"> 2420 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> OmniVision OV8865 CMOS BSI 4.61 x 3.47 1.414 µm f/2.2 7.99 MP (back) , 1.91 MP (front) </td>
+		<td class="dimensions"> 143 x 73 x 11 mm </td>
+		<td class="usbtype"> 148 g </td>
+		<td class="weight"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> micro </td>
 	</tr>
 	<tr>
 		<td class="pfIOS"> iOS </td>
@@ -2933,7 +3109,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 1715 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB, 64 GB, 128 GB </td>
 		<td class="ram"> 2 GB </td>
-		<td class="camera"> Sony IMX315 4.8x3.6mm 1.10µm f/2.2 12.19MP (back) , 4.92MP (front) </td>
+		<td class="camera"> Sony IMX315 4.8x3.6 mm 1.10 µm f/2.2 12.19 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 138.3 x 67.1 x 7.1 mm </td>
 		<td class="usbtype"> 143 g </td>
 		<td class="weight"> ~=[,,_,,]:3 </td>
@@ -2953,7 +3129,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 1810 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB, 64 GB, 128 GB </td>
 		<td class="ram"> 1 GB </td>
-		<td class="camera"> Sony Exmor RS CMOS BSI 4.8x4.6mm 1.471µm f/2.2 8MP (back) , 1.23MP (front) </td>
+		<td class="camera"> Sony Exmor RS CMOS BSI 4.8x4.6 mm 1.471µm f/2.2 8 MP (back) , 1.23 MP (front) </td>
 		<td class="dimensions"> 138.1 x 67 x 6.9 mm </td>
 		<td class="usbtype"> 129 g </td>
 		<td class="weight"> ~=[,,_,,]:3 </td>
@@ -2973,7 +3149,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 1642 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 2 GB </td>
-		<td class="camera"> Sony IMX315 4.8x3.6mm 1.19µm f/2.2 12.19MP (back) , 1.2MP (front) </td>
+		<td class="camera"> Sony IMX315 4.8x3.6 mm 1.19 µm f/2.2 12.19 MP (back) , 1.2 MP (front) </td>
 		<td class="dimensions"> 123.8 x 58.6 x 7.6 mm </td>
 		<td class="usbtype"> 113 g </td>
 		<td class="weight"> ~=[,,_,,]:3 </td>
@@ -2993,7 +3169,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
-		<td class="camera"> CMOS BSI 5.76x4.19mm 1.071µm f/1.9 20.13MP (back) , 5.02 MP (front) </td>
+		<td class="camera"> CMOS BSI 5.76x4.19 mm 1.071 µm f/1.9 20.13 MP (back) , 5.02 MP (front) </td>
 		<td class="dimensions"> 145 x 73.2 x 8.2 mm </td>
 		<td class="usbtype"> 150 g </td>
 		<td class="weight"> 3.1 , C </td>

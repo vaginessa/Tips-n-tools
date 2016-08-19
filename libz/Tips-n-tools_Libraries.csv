@@ -203,3 +203,7 @@ Java;Fernflower;Java decompiler with a neat GUI;RI , reverse engineering , tool;
 Android;Redexer;Bytecode instrumentation framework for Dalvik bytecode;RI , reverse engineering , tool;https://github.com/plum-umd/redexer    http://www.cs.umd.edu/projects/PL/redexer/
 Android;Simplify;Generic Android Deobfuscator;RI , reverse engineering , tool;https://github.com/CalebFenton/simplify
 Android;Bytecode Viewer;A Java 8 JAR and Android APK Reverse Engineering Suite;RI , reverse engineering , tool;https://github.com/Konloch/bytecode-viewer
+Android;EasyDeviceInfo;;device infos;https://github.com/nisrulz/easydeviceinfo
+Android;MaterialTapTargetPrompt;;tap target , prompt;https://github.com/sjwall/MaterialTapTargetPrompt
+Android;Space Navigation View;;space navigation view;https://github.com/armcha/Space-Navigation-View
+Android;Speed View;;;https://github.com/anastr/SpeedView
