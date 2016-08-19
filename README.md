@@ -5,13 +5,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 ## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries
 <table>
-	<th>
-		<td> Plateform </td>
-		<td> Name </td>
-		<td> Description </td>
-		<td> Keywords </td>
-		<td> URL </td>
-	</th>
+	<tr>
+		<td class="header"> Plateform </td>
+		<td class="header"> Name </td>
+		<td class="header"> Description </td>
+		<td class="header"> Keywords </td>
+		<td class="header"> URL </td>
+	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> HoloGraphLibrary </td>
@@ -1439,13 +1439,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 ## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some interesting web pages, blogs or publications
 <table>
-	<th>
-		<td> Platform </td>
-		<td> Name </td>
-		<td> Description </td>
-		<td> Keywords </td>
-		<td> URL </td>
-	</th>
+	<tr>
+		<td class="header"> Platform </td>
+		<td class="header"> Name </td>
+		<td class="header"> Description </td>
+		<td class="header"> Keywords </td>
+		<td class="header"> URL </td>
+	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> Putting APK on diet </td>
@@ -2810,26 +2810,26 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 ## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some famous devices' technical characteristics
 <table>
-	<th>
-		<td> OS </td>
-		<td> Constructor </td>
-		<td> Name </td>
-		<td> Screen size </td>
-		<td> Screen type </td>
-		<td> Screen resolution </td>
-		<td> SoC </td>
-		<td> GPU </td>
-		<td> Sensors </td>
-		<td> Battery </td>
-		<td> Storage </td>
-		<td> RAM </td>
-		<td> Camera </td>
-		<td> Dimensions </td>
-		<td> Weight </td>
-		<td> USB Type </td>
-		<td> SD Card </td>
-		<td> SIM </td>
-	</th>
+	<tr>
+		<td class="header"> OS </td>
+		<td class="header"> Constructor </td>
+		<td class="header"> Name </td>
+		<td class="header"> Screen size </td>
+		<td class="header"> Screen type </td>
+		<td class="header"> Screen resolution </td>
+		<td class="header"> SoC </td>
+		<td class="header"> GPU </td>
+		<td class="header"> Sensors </td>
+		<td class="header"> Battery </td>
+		<td class="header"> Storage </td>
+		<td class="header"> RAM </td>
+		<td class="header"> Camera </td>
+		<td class="header"> Dimensions </td>
+		<td class="header"> Weight </td>
+		<td class="header"> USB Type </td>
+		<td class="header"> SD Card </td>
+		<td class="header"> SIM </td>
+	</tr>
 	<tr>
 		<td class="pfCyanogen"> Cyanogen </td>
 		<td class="constructor"> OnePlus </td>
