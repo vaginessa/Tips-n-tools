@@ -2790,6 +2790,20 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> web app </td>
 		<td class="url"> https://developers.google.com/web/progressive-web-apps/ </td>
 	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Ecrans AMOLED vs IPS : qui offre la meilleure qualité d'afichage ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> AMOLED , IPS </td>
+		<td class="url"> http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina </td>
+		<td class="description"> </td>
+		<td class="keywords"> LCD , TFT , IPS , AMOLED , Retina , definition , resolution </td>
+		<td class="url"> http://www.androidpit.fr/difference-lcd-tft-amoled-retina </td>
+	</tr>
 </table>
 
 
