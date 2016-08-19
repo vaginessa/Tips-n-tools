@@ -182,3 +182,13 @@ Android;Awareness API;;awareness API;https://developers.google.com/awareness/
 /;Flutter;;Android , iOS;https://flutter.io/
 Design;Justinmind;;prototyping;http://www.justinmind.com/
 Design;Display resolutions;;resolution;https://en.wikipedia.org/wiki/Graphics_display_resolution
+Android;Code style;;guidelines;https://source.android.com/source/code-style.html
+Android;Buffer app guidelines;;guidelines;https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md
+/;Packtpub;Packt publishing;books , ebooks;https://www.packtpub.com/
+Android;26 Awesome Android Reverse Engineering Tools;;RI , reverse engineering , tools;https://hackerlists.com/android-reverse-engineering-tools/
+Android;Dare;Dalvik Retargeting;RI , reverse engineering , tools;http://siis.cse.psu.edu/dare/index.html
+Android;Dedexer;Disassembler tool for DEX files;RI , reverse engineering , tools;http://dedexer.sourceforge.net/
+Android;Intent Sniffer;;RI , reverse engineering , tools;https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/
+Android;CFR;Another Java decompiler;RI , reverse engineering , tools;http://www.benf.org/other/cfr/
+Java;JAD;Java Decompiler;RI , reverse engineering , tools;http://varaneckas.com/jad/
+/;Software development explained with cars;;;https://toggl.com/developer-methods-infographic

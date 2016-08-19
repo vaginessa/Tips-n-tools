@@ -184,3 +184,22 @@ Android;FlipCards;;3D flip cards;https://github.com/zhangke3016/FlipCards
 Android;Leku;;location picker , GPS;https://github.com/SchibstedSpain/Leku
 Android;Android Priority Jobqueue;;job queue , tasks , jobs;https://github.com/yigit/android-priority-jobqueue
 Android;JCVD;;Awareness API;https://github.com/djavan-bertrand/JCVD
+Android;GoogleMapsRippleEffect;;Google Maps , ripple , effects , animations , circle;https://github.com/aarsy/GoogleMapsRippleEffect
+Android;SpiderWebScoreView;;score , view , spider web;https://github.com/xiaopansky/SpiderWebScoreView
+Android;Smali;;RI , reverse engineering , tool;https://github.com/JesusFreke/smali
+Android;AndBug;Scriptable Android Debugger;RI , reverse engineering , tool;https://github.com/swdunlop/AndBug
+Android;Androguard;;RI , reverse engineering , tool;https://github.com/androguard/androguard
+Android;AFE;Android Framework Exploitation;RI , reverse engineering , tool;https://github.com/appknox/AFE
+Android;Android KillPermAndSigChecks;Bypass signature and permission checks for IPCs;RI , reverse engineering , tool;https://github.com/iSECPartners/Android-KillPermAndSigChecks
+Android;Android OpenDebug;Make any application debuggable;RI , reverse engineering , tool;https://github.com/iSECPartners/Android-OpenDebug
+Android;Enjarify;Tool for translating Dalvik bytecode to equivalent Java bytecode;RI , reverse engineering , tool;https://github.com/google/enjarify
+Android;Fino;Android small footprint inspection tool;RI , reverse engineering , tool;https://github.com/sysdream/fino
+Android;Indroid;;RI , reverse engineering , tool;https://bitbucket.org/aseemjakhar/indroid
+Android;Introspy;Security profiling for blackbox Android;RI , reverse engineering , tool;https://github.com/iSECPartners/Introspy-Android
+Java;JD GUI;Java decompiler with a neat GUI;RI , reverse engineering , tool;https://github.com/java-decompiler/jd-gui
+Java;Krakatau;Java decompiler, assembler and disassembler;RI , reverse engineering , tool;https://github.com/Storyyeller/Krakatau
+Java;Procyon;Java 5+ capable decompiler;RI , reverse engineering , tool;https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler
+Java;Fernflower;Java decompiler with a neat GUI;RI , reverse engineering , tool;https://github.com/fesh0r/fernflower
+Android;Redexer;Bytecode instrumentation framework for Dalvik bytecode;RI , reverse engineering , tool;https://github.com/plum-umd/redexer    http://www.cs.umd.edu/projects/PL/redexer/
+Android;Simplify;Generic Android Deobfuscator;RI , reverse engineering , tool;https://github.com/CalebFenton/simplify
+Android;Bytecode Viewer;A Java 8 JAR and Android APK Reverse Engineering Suite;RI , reverse engineering , tool;https://github.com/Konloch/bytecode-viewer

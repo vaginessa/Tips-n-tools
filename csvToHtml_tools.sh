@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 5.0.0
+# Version.............: 6.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -41,7 +41,7 @@ IS_HTML_LIMITED=false
 CSV_SEPARATOR=';'
 
 # Empty or useless rows
-NUMBER_OF_LINES_TO_IGNORE=6
+NUMBER_OF_LINES_TO_IGNORE=5  # 5 lines to get rif od (head of sheets, empty lines, but the header of the grid is kept...)
 
 # Some CSS
 CSS_STYLE="<style>

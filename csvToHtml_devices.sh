@@ -20,10 +20,10 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 1.0.0
+# Version.............: 3.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
-#			This file must contain several columns: OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, Sensors, Batery, USB Type, SD Card, SIM
+#			This file must contain several columns: OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, USB Type, SD Card, SIM
 #
 # Usage: sh csvToHtml_devices.sh --help
 # Usage: cat myFileToProcess.csv | sh csvToHtml_devices.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
@@ -41,7 +41,7 @@ IS_HTML_LIMITED=false
 CSV_SEPARATOR=';'
 
 # Empty or useless rows
-NUMBER_OF_LINES_TO_IGNORE=6
+NUMBER_OF_LINES_TO_IGNORE=5  # 5 lines to get rif od (head of sheets, empty lines, but the header of the grid is kept...)
 
 # Some CSS
 CSS_STYLE="<style>
@@ -86,7 +86,7 @@ th {
 .pfFuschia {
 	background-color: #e91e63;
 }
-.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .usbtype, .sdcard, .sim {
+.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .usbtype, .sdcard, .sim {
 	text-align: center;
 }
 .url {
@@ -199,33 +199,36 @@ while read -r line; do
 				echo "\t\t<td class=\"soc\">" $cleanItem "</td>"			
 				;;			
 			7)
-				echo "\t\t<td class=\"sensors\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"gpu\">" $cleanItem "</td>"			
 				;;
 			8)
-				echo "\t\t<td class=\"battery\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"sensors\">" $cleanItem "</td>"			
 				;;
 			9)
-				echo "\t\t<td class=\"storage\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"battery\">" $cleanItem "</td>"			
 				;;
 			10)
+				echo "\t\t<td class=\"storage\">" $cleanItem "</td>"			
+				;;
+			11)
 				echo "\t\t<td class=\"ram\">" $cleanItem "</td>"			
 				;;												
-			11)
+			12)
 				echo "\t\t<td class=\"camera\">" $cleanItem "</td>"			
 				;;
-			12)
+			13)
 				echo "\t\t<td class=\"dimensions\">" $cleanItem "</td>"			
 				;;					
-			13)
+			14)
 				echo "\t\t<td class=\"usbtype\">" $cleanItem "</td>"			
 				;;				
-			14)
+			15)
 				echo "\t\t<td class=\"weight\">" $cleanItem "</td>"			
 				;;
-			15)
+			16)
 				echo "\t\t<td class=\"sdcard\">" $cleanItem "</td>"			
 				;;
-			16)
+			17)
 				echo "\t\t<td class=\"sim\">" $cleanItem "</td>"			
 				;;																	
 		esac

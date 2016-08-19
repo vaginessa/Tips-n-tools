@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 6.1.0
+# Version.............: 7.0.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -28,25 +28,28 @@
 #
 
 
-# ###### #
-# CONFIG #
-# ###### #
+# ############# #
+# CONFIGURATION #
+# ############# #
 
 README_FILE="README.md"
 
-CSV_LIB_FILE="Tips-n-tools_Libraries.csv"
-CSV_LIB_FILE_USELESS_ROWS=6
-HTML_LIB_FILE="Tips-n-tools_Libraries.html"
+LIB_DIR="libz"
+CSV_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.csv"
+CSV_LIB_FILE_USELESS_ROWS=6 # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+HTML_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.html"
 
-CSV_WEB_FILE="Tips-n-tools_WebLinks.csv"
-CSV_WEB_FILE_USELESS_ROWS=6
-HTML_WEB_FILE="Tips-n-tools_WebLinks.html"
+WEB_DIR="webz"
+CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
+CSV_WEB_FILE_USELESS_ROWS=6  # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+HTML_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.html"
 
-CSV_DEVICE_FILE="Tips-n-tools_Devices.csv"
-CSV_DEVICE_FILE_USELESS_ROWS=6
-HTML_DEVICE_FILE="Tips-n-tools_Devices.html"
+DEVICE_DIR="devz"
+CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
+CSV_DEVICE_FILE_USELESS_ROWS=6  # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
-README_HEADER="# Tips'n'tools";
+README_HEADER="# Tips'n'tools \nNote: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with the value of the .csv files";
 
 
 # ######### #
@@ -59,14 +62,67 @@ if [ "$#" -ne 0 ]; then
 	exit 0	
 fi
 
+# Create directories if needed
+if [ ! -d "$LIB_DIR" ]; then
+	echo "Create directory '$LIB_DIR' for libraries things..."
+	mkdir $LIB_DIR
+else
+	echo "NOTE: Directory '$LIB_DIR' already created"
+fi
+
+if [ ! -d "$WEB_DIR" ]; then
+	echo "Create directory '$WEB_DIR' for web things..."
+	mkdir $WEB_DIR
+else
+	echo "NOTE: Directory '$WEB_DIR' already created"
+fi
+
+if [ ! -d "$DEVICE_DIR" ]; then
+	echo "Create directory '$DEVICE_DIR' for devices things..."
+	mkdir $DEVICE_DIR
+else
+	echo "NOTE: Directory '$WEB_DIR' already created"
+fi
+
+# Check if all the CSV files to use exist
+if [ ! -e "$CSV_LIB_FILE" ]; then
+	echo "ERROR: The file '$CSV_LIB_FILE' does not exist. Impossible to parse it to HTML. Exit now."
+	exit 1;
+fi
+
+if [ ! -e "$CSV_WEB_FILE" ]; then
+	echo "ERROR: The file '$CSV_WEB_FILE' does not exist. Impossible to parse it to HTML. Exit now."
+	exit 1;
+fi
+
+if [ ! -e "$CSV_DEVICE_FILE" ]; then
+	echo "ERROR: The file '$CSV_DEVICE_FILE' does not exist. Impossible to parse it to HTML. Exit now."
+	exit 1;
+fi
+
 # Update the README_FILE file
 echo "Write head of README file..."
 echo $README_HEADER > $README_FILE
 
 # Get some stats to compare with new stats later
-htmlLibsRowsOld=`cat $HTML_LIB_FILE | wc -l`
-htmlWebRowsOld=`cat $HTML_WEB_FILE | wc -l`
-htmlDevicesRowsOld=`cat $HTML_DEVICE_FILE | wc -l`
+if [ -e $HTML_LIB_FILE ]; then
+	htmlLibsRowsOld=`cat $HTML_LIB_FILE | wc -l`
+else
+	htmlLibsRowsOld=0
+fi
+
+if [ -e $HTML_WEB_FILE ]; then
+	htmlWebRowsOld=`cat $HTML_WEB_FILE | wc -l`
+else
+	htmlWebRowsOld=0
+fi
+
+if [ -e $HTML_DEVICE_FILE ]; then
+	htmlDevicesRowsOld=`cat $HTML_DEVICE_FILE | wc -l`
+else
+	htmlDevicesRowsOld=0
+fi
+
 
 # Update .html and README.md files
 echo "Write HTML file from CSV file about libraries..."
@@ -78,7 +134,7 @@ cat $CSV_WEB_FILE | sh csvToHtml_tools.sh --limitedHtml > $HTML_WEB_FILE
 echo "Write HTML file from CSV file about devices..."
 cat $CSV_DEVICE_FILE | sh csvToHtml_devices.sh --limitedHtml > $HTML_DEVICE_FILE
 
-echo "Write README.md with HTML files' contents"
+echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
 echo "__" $CSV_LIB_FILE "__" >> $README_FILE
 cat $HTML_LIB_FILE >> $README_FILE
@@ -101,26 +157,26 @@ htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
 htmlDeviceRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
 
 # Some outputs
-echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld -> $htmlLibsRowsNew)"
-echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld -> $htmlWebRowsNew)"
-echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (previous version: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)"
+echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld -> $htmlLibsRowsNew)."
+echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld -> $htmlWebRowsNew)."
+echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (previous version: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)."
 
 if [ $htmlLibsRowsNew -lt $htmlLibsRowsOld ]; then
-	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version"
+	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version."
 elif [ $htmlLibsRowsNew -eq $htmlLibsRowsOld ]; then
-	echo "NOTE: The new file $HTML_LIB_FILE has the same size as its previous version"
+	echo "NOTE: The new file $HTML_LIB_FILE has the same size as its previous version."
 fi
 
 if [ $htmlWebRowsNew -lt $htmlWebRowsOld ]; then
-	echo "WARNING: The new file $HTML_WEB_FILE has now a smaller size than its previous version"
+	echo "WARNING: The new file $HTML_WEB_FILE has now a smaller size than its previous version."
 elif [ $htmlWebRowsNew -eq $htmlWebRowsOld ]; then
-	echo "NOTE: The new file $HTML_WEB_FILE has the same size as its previous version"
+	echo "NOTE: The new file $HTML_WEB_FILE has the same size as its previous version."
 fi
 
 if [ $htmlDeviceRowsNew -lt $htmlDevicesRowsOld ]; then
-	echo "WARNING: The new file $HTML_DEVICE_FILE has now a smaller size than its previous version"
+	echo "WARNING: The new file $HTML_DEVICE_FILE has now a smaller size than its previous version."
 elif [ $htmlDeviceRowsNew -eq $htmlDevicesRowsOld ]; then
-	echo "NOTE: The new file $HTML_DEVICE_FILE has the same size as its previous version"
+	echo "NOTE: The new file $HTML_DEVICE_FILE has the same size as its previous version."
 fi
 
 # Finish!
