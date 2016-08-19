@@ -3,15 +3,15 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 
 
-__ libz/Tips-n-tools_Libraries.csv __
+## Some useful and neat libraries
 <table>
-	<tr>
-		<td class="pfOther"> Plateform </td>
-		<td class="name"> Name </td>
-		<td class="description"> Description </td>
-		<td class="keywords"> Keywords </td>
-		<td class="url"> URL </td>
-	</tr>
+	<th>
+		<td> Plateform </td>
+		<td> Name </td>
+		<td> Description </td>
+		<td> Keywords </td>
+		<td> URL </td>
+	</th>
 	<tr>
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> HoloGraphLibrary </td>
@@ -1409,15 +1409,15 @@ __ libz/Tips-n-tools_Libraries.csv __
 
 
 
-__ webz/Tips-n-tools_WebLinks.csv __
+## Some interesting web pages, blogs or publications
 <table>
-	<tr>
-		<td class="pfOther"> Platform </td>
-		<td class="name"> Name </td>
-		<td class="description"> Description </td>
-		<td class="keywords"> Keywords </td>
-		<td class="url"> URL </td>
-	</tr>
+	<th>
+		<td> Platform </td>
+		<td> Name </td>
+		<td> Description </td>
+		<td> Keywords </td>
+		<td> URL </td>
+	</th>
 	<tr>
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> Putting APK on diet </td>
@@ -2738,28 +2738,28 @@ __ webz/Tips-n-tools_WebLinks.csv __
 
 
 
-__ devz/Tips-n-tools_Devices.csv __
+## Some famous devices' technical characteristics
 <table>
-	<tr>
-		<td class="pfOther"> OS </td>
-		<td class="constructor"> Constructor </td>
-		<td class="name"> Name </td>
-		<td class="screensize"> Screen size </td>
-		<td class="screentype"> Screen type </td>
-		<td class="screenresolution"> Screen resolution </td>
-		<td class="soc"> SoC </td>
-		<td class="gpu"> GPU </td>
-		<td class="sensors"> Sensors </td>
-		<td class="battery"> Battery </td>
-		<td class="storage"> Storage </td>
-		<td class="ram"> RAM </td>
-		<td class="camera"> Camera </td>
-		<td class="dimensions"> Dimensions </td>
-		<td class="usbtype"> Weight </td>
-		<td class="weight"> USB Type </td>
-		<td class="sdcard"> SD Card </td>
-		<td class="sim"> SIM </td>
-	</tr>
+	<th>
+		<td> OS </td>
+		<td> Constructor </td>
+		<td> Name </td>
+		<td> Screen size </td>
+		<td> Screen type </td>
+		<td> Screen resolution </td>
+		<td> SoC </td>
+		<td> GPU </td>
+		<td> Sensors </td>
+		<td> Battery </td>
+		<td> Storage </td>
+		<td> RAM </td>
+		<td> Camera </td>
+		<td> Dimensions </td>
+		<td> Weight </td>
+		<td> USB Type </td>
+		<td> SD Card </td>
+		<td> SIM </td>
+	</th>
 	<tr>
 		<td class="pfCyanogen"> Cyanogen </td>
 		<td class="constructor"> OnePlus </td>

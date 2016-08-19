@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 7.0.0
+# Version.............: 7.0.1
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -36,17 +36,17 @@ README_FILE="README.md"
 
 LIB_DIR="libz"
 CSV_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.csv"
-CSV_LIB_FILE_USELESS_ROWS=6 # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+CSV_LIB_FILE_USELESS_ROWS=6
 HTML_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.html"
 
 WEB_DIR="webz"
 CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
-CSV_WEB_FILE_USELESS_ROWS=6  # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+CSV_WEB_FILE_USELESS_ROWS=6
 HTML_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.html"
 
 DEVICE_DIR="devz"
 CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
-CSV_DEVICE_FILE_USELESS_ROWS=6  # 6 lines to get rif od (head of sheets, headers of grid, empty lines...)
+CSV_DEVICE_FILE_USELESS_ROWS=6
 HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
 README_HEADER="# Tips'n'tools \nNote: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with the value of the .csv files";
@@ -136,13 +136,13 @@ cat $CSV_DEVICE_FILE | sh csvToHtml_devices.sh --limitedHtml > $HTML_DEVICE_FILE
 
 echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
-echo "__" $CSV_LIB_FILE "__" >> $README_FILE
+echo "## Some useful and neat libraries" >> $README_FILE
 cat $HTML_LIB_FILE >> $README_FILE
 echo "\n\n" >> $README_FILE
-echo "__" $CSV_WEB_FILE "__" >> $README_FILE
+echo "## Some interesting web pages, blogs or publications" >> $README_FILE
 cat $HTML_WEB_FILE >> $README_FILE
 echo "\n\n" >> $README_FILE
-echo "__" $CSV_DEVICE_FILE "__" >> $README_FILE
+echo "## Some famous devices' technical characteristics" >> $README_FILE
 cat $HTML_DEVICE_FILE >> $README_FILE
 
 # Some stats about the number of fields
@@ -157,9 +157,9 @@ htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
 htmlDeviceRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
 
 # Some outputs
-echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (previous version: $htmlLibsRowsOld -> $htmlLibsRowsNew)."
-echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (previous version: $htmlWebRowsOld -> $htmlWebRowsNew)."
-echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (previous version: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)."
+echo "Now we have $csvLibsRowsCleaned items in $CSV_LIB_FILE (evolution: $htmlLibsRowsOld -> $htmlLibsRowsNew)."
+echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (evolution: $htmlWebRowsOld -> $htmlWebRowsNew)."
+echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (evolution: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)."
 
 if [ $htmlLibsRowsNew -lt $htmlLibsRowsOld ]; then
 	echo "WARNING: The new file $HTML_LIB_FILE has now a smaller size than its previous version."

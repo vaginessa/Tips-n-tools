@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 6.0.0
+# Version.............: 7.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -41,7 +41,7 @@ IS_HTML_LIMITED=false
 CSV_SEPARATOR=';'
 
 # Empty or useless rows
-NUMBER_OF_LINES_TO_IGNORE=5  # 5 lines to get rif od (head of sheets, empty lines, but the header of the grid is kept...)
+NUMBER_OF_LINES_TO_IGNORE=6
 
 # Some CSS
 CSS_STYLE="<style>
@@ -130,6 +130,14 @@ while read -r line; do
 	# ***** Step 2: Ignore the useless rows
 	if [ $currentRowIndex -lt $NUMBER_OF_LINES_TO_IGNORE ]
 	then
+		# Get the line of the document where the headers of the columns are
+		if [ $currentRowIndex -eq $(($NUMBER_OF_LINES_TO_IGNORE - 1)) ]; then
+			echo "\t<th>"
+			echo $line | sed 's/;/\n/g' | while read -r item; do
+				echo "\t\t<td>" $item "</td>"
+			done
+			echo "\t</th>"	
+		fi
 		currentRowIndex=$(($currentRowIndex + 1))
 		continue
 	fi
