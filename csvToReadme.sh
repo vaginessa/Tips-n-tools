@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 7.0.1
+# Version.............: 7.1.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -136,13 +136,13 @@ cat $CSV_DEVICE_FILE | sh csvToHtml_devices.sh --limitedHtml > $HTML_DEVICE_FILE
 
 echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
-echo "## Some useful and neat libraries" >> $README_FILE
+echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries" >> $README_FILE
 cat $HTML_LIB_FILE >> $README_FILE
 echo "\n\n" >> $README_FILE
-echo "## Some interesting web pages, blogs or publications" >> $README_FILE
+echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some interesting web pages, blogs or publications" >> $README_FILE
 cat $HTML_WEB_FILE >> $README_FILE
 echo "\n\n" >> $README_FILE
-echo "## Some famous devices' technical characteristics" >> $README_FILE
+echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some famous devices' technical characteristics" >> $README_FILE
 cat $HTML_DEVICE_FILE >> $README_FILE
 
 # Some stats about the number of fields
@@ -180,5 +180,5 @@ elif [ $htmlDeviceRowsNew -eq $htmlDevicesRowsOld ]; then
 fi
 
 # Finish!
-echo "Terminated ! ~=[,,_,,]:3"
+echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一      ~=[,,_,,]:3  TERMINATED !"
 

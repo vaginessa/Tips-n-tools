@@ -3,7 +3,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 
 
-## Some useful and neat libraries
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries
 <table>
 	<th>
 		<td> Plateform </td>
@@ -1437,7 +1437,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 
 
-## Some interesting web pages, blogs or publications
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some interesting web pages, blogs or publications
 <table>
 	<th>
 		<td> Platform </td>
@@ -2808,7 +2808,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 
 
-## Some famous devices' technical characteristics
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some famous devices' technical characteristics
 <table>
 	<th>
 		<td> OS </td>
