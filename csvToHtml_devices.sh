@@ -20,10 +20,10 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 5.0.0
+# Version.............: 6.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
-#			This file must contain several columns: OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, USB Type, SD Card, SIM
+#			This file must contain several columns: OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
 #
 # Usage: sh csvToHtml_devices.sh --help
 # Usage: cat myFileToProcess.csv | sh csvToHtml_devices.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
@@ -86,7 +86,7 @@ table, td, .header {
 .pfFuschia {
 	background-color: #e91e63;
 }
-.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .usbtype, .sdcard, .sim {
+.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .ip, .usbtype, .sdcard, .sim {
 	text-align: center;
 }
 .url {
@@ -234,9 +234,12 @@ while read -r line; do
 				echo "\t\t<td class=\"weight\">" $cleanItem "</td>"			
 				;;
 			16)
-				echo "\t\t<td class=\"sdcard\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"ip\">" $cleanItem "</td>"			
 				;;
 			17)
+				echo "\t\t<td class=\"sdcard\">" $cleanItem "</td>"			
+				;;
+			18)
 				echo "\t\t<td class=\"sim\">" $cleanItem "</td>"			
 				;;																	
 		esac

@@ -139,8 +139,8 @@ Android;Supporting different screen sizes;;layout , sw , aliases , res;https://d
 /;GSM Arena;Compare devices;;http://www.gsmarena.com/
 /;Phone Arena ;Compare devices;;http://www.phonearena.com/
 Android;The Android Arsenal;;tools , libs;https://android-arsenal.com/
-Android;Android Police;;tools , libs , news;http://www.androidpolice.com/
-/;Unitag;To build and customize QR codes;QR codes;https://www.unitag.io/fr/qrcode
+Android;Android Police;;tools , libs , news , veille;http://www.androidpolice.com/
+/;Unitag;To build and customize QR codes;QR codes , tag;https://www.unitag.io/fr/qrcode
 Android;How not to become a public enemy;;guidelines , public project , tips;http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
 Design;Programmatically create a ripple drawable of any color;;drawable;http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
 Android;Best Practices with Background Jobs;;background , jobs , tasks , service , data load;https://developer.android.com/training/best-background.html
@@ -199,3 +199,11 @@ Web;Progressive Web Apps;;web app;https://developers.google.com/web/progressive-
 /;Ecrans AMOLED vs IPS : qui offre la meilleure qualité d'afichage ?;;AMOLED , IPS;http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html
 /;Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina;;LCD , TFT , IPS , AMOLED , Retina;http://www.androidpit.fr/difference-lcd-tft-amoled-retina
 Web;Progressive Web Apps rocks;;progressive web apps;https://pwa.rocks/
+Android;Android Pit;;veille , news;http://www.androidpit.fr/
+Android;Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets;Article with references to tools or companies about security;security;http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm
+Android;FrAndroid;;veille , news;http://www.frandroid.com/
+/;Clubic;;veille , news;http://www.clubic.com/
+/;Next Inpact;;veille , news;http://www.nextinpact.com/
+/;ZDNet;;veille , news;http://www.zdnet.fr/
+Kotlin;Lessons from converting an app to 100% Kotlin;;Kotlin , app convert;https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.3rmy7agwo
+/;Indice de protection;;IP , protection;https://fr.wikipedia.org/wiki/Indice_de_protection

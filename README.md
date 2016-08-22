@@ -1433,6 +1433,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> </td>
 		<td class="url"> https://github.com/anastr/SpeedView </td>
 	</tr>
+	<tr>
+		<td class="pfJava"> Java </td>
+		<td class="name"> Guava </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , Java </td>
+		<td class="url"> https://github.com/google/guava </td>
+	</tr>
 </table>
 
 
@@ -2395,14 +2402,14 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> Android Police </td>
 		<td class="description"> </td>
-		<td class="keywords"> tools , libs , news </td>
+		<td class="keywords"> tools , libs , news , veille </td>
 		<td class="url"> http://www.androidpolice.com/ </td>
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
 		<td class="name"> Unitag </td>
 		<td class="description"> To build and customize QR codes </td>
-		<td class="keywords"> QR codes </td>
+		<td class="keywords"> QR codes , tag </td>
 		<td class="url"> https://www.unitag.io/fr/qrcode </td>
 	</tr>
 	<tr>
@@ -2811,6 +2818,62 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> progressive web apps </td>
 		<td class="url"> https://pwa.rocks/ </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Pit </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.androidpit.fr/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets </td>
+		<td class="description"> Article with references to tools or companies about security </td>
+		<td class="keywords"> security </td>
+		<td class="url"> http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> FrAndroid </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.frandroid.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Clubic </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.clubic.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Next Inpact </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.nextinpact.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> ZDNet </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.zdnet.fr/ </td>
+	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Lessons from converting an app to 100% Kotlin </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , app convert </td>
+		<td class="url"> https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.3rmy7agwo </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Indice de protection </td>
+		<td class="description"> </td>
+		<td class="keywords"> IP , protection </td>
+		<td class="url"> https://fr.wikipedia.org/wiki/Indice_de_protection </td>
+	</tr>
 </table>
 
 
@@ -2833,6 +2896,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="header"> Camera </td>
 		<td class="header"> Dimensions </td>
 		<td class="header"> Weight </td>
+		<td class="header"> IP </td>
 		<td class="header"> USB Type </td>
 		<td class="header"> SD Card </td>
 		<td class="header"> SIM </td>
@@ -2853,7 +2917,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX214 CMOS 4.69 x 3.52 mm 1.115 µm f/2.0 13 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 152.9 x 75.9 x 8.9 mm </td>
 		<td class="usbtype"> 162 g </td>
-		<td class="weight"> micro-B </td>
+		<td class="weight"> no </td>
+		<td class="ip"> micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> micro </td>
 	</tr>
@@ -2873,7 +2938,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> OmniVision OV13860 PureCel 5.55 x 4.8 mm 1.335 µm f/2.0 13 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 151.8 x 74.9 x 9.85 mm </td>
 		<td class="usbtype"> 175 g </td>
-		<td class="weight"> C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano , nano </td>
 	</tr>
@@ -2893,7 +2959,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX 298 CMOS 5.22 x 3.92 mm 1.132 µm f/2.0 16 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 152.7 x 74.7 x 7.35 mm </td>
 		<td class="usbtype"> 158 g </td>
-		<td class="weight"> C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano , nano </td>
 	</tr>
@@ -2913,7 +2980,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX337R CMOS BSI 6.25x4.65 mm 1.55 µm f/2.0 12.3 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 159.3 x 77.8 x 7.3 mm </td>
 		<td class="usbtype"> 178 g </td>
-		<td class="weight"> C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -2933,7 +3001,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65 mm 1.55 µm f/2.0 12.9 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 147 x 72.6 x 7.9 mm </td>
 		<td class="usbtype"> 136 g </td>
-		<td class="weight"> C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -2953,7 +3022,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 150.9 x 72.6 x 7.7 mm </td>
 		<td class="usbtype"> 157 g </td>
-		<td class="weight"> micro-B </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -2973,7 +3043,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 142.4 x 69.6 x 7.9 mm </td>
 		<td class="usbtype"> 152 g </td>
-		<td class="weight"> micro-B </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -2993,7 +3064,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 153.5 x 73.9 x 7.9 mm </td>
 		<td class="usbtype"> 168 g </td>
-		<td class="weight"> C </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
 	</tr>
@@ -3013,7 +3085,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65 mm 1.55 µm f/1.8 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 145.9 x 71.9 x 9 mm </td>
 		<td class="usbtype"> 161 g </td>
-		<td class="weight"> 3.1 , C </td>
+		<td class="weight"> IP53 (dust partial, water shoots) </td>
+		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3033,7 +3106,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> CMOS 5.95x3.35 mm 1.12 µm f/1.8 15.87 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 149.4 x 73.9 x 7.7 mm </td>
 		<td class="usbtype"> 159 g </td>
-		<td class="weight"> 3.0 , C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3053,7 +3127,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
 		<td class="dimensions"> 146 x 72 x 7.3 mm </td>
 		<td class="usbtype"> 154 g </td>
-		<td class="weight"> 2.0 , micro-B </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3073,7 +3148,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
 		<td class="dimensions"> 127 x 65 x 8.9 mm </td>
 		<td class="usbtype"> 138 g </td>
-		<td class="weight"> 2.0 , micro-B </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> mciroSD </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3093,7 +3169,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor IMX318 RS CMOS 5.49x4.11 mm 1 µm f/2.0 22.57 MP (back) , 2.07 MP (front) </td>
 		<td class="dimensions"> 156.4 x 77.4 x 7.5 mm </td>
 		<td class="usbtype"> 170 g </td>
-		<td class="weight"> 3.0 , C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , micro </td>
 	</tr>
@@ -3113,7 +3190,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> OmniVision OV8865 CMOS BSI 4.61 x 3.47 1.414 µm f/2.2 7.99 MP (back) , 1.91 MP (front) </td>
 		<td class="dimensions"> 143 x 73 x 11 mm </td>
 		<td class="usbtype"> 148 g </td>
-		<td class="weight"> 2.0 , micro-B </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> micro </td>
 	</tr>
@@ -3133,7 +3211,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony IMX315 4.8x3.6 mm 1.10 µm f/2.2 12.19 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 138.3 x 67.1 x 7.1 mm </td>
 		<td class="usbtype"> 143 g </td>
-		<td class="weight"> ~=[,,_,,]:3 </td>
+		<td class="weight"> no </td>
+		<td class="ip"> ~=[,,_,,]:3 </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3153,7 +3232,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony Exmor RS CMOS BSI 4.8x4.6 mm 1.471µm f/2.2 8 MP (back) , 1.23 MP (front) </td>
 		<td class="dimensions"> 138.1 x 67 x 6.9 mm </td>
 		<td class="usbtype"> 129 g </td>
-		<td class="weight"> ~=[,,_,,]:3 </td>
+		<td class="weight"> no </td>
+		<td class="ip"> ~=[,,_,,]:3 </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3173,7 +3253,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> Sony IMX315 4.8x3.6 mm 1.19 µm f/2.2 12.19 MP (back) , 1.2 MP (front) </td>
 		<td class="dimensions"> 123.8 x 58.6 x 7.6 mm </td>
 		<td class="usbtype"> 113 g </td>
-		<td class="weight"> ~=[,,_,,]:3 </td>
+		<td class="weight"> no </td>
+		<td class="ip"> ~=[,,_,,]:3 </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3193,7 +3274,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="camera"> CMOS BSI 5.76x4.19 mm 1.071 µm f/1.9 20.13 MP (back) , 5.02 MP (front) </td>
 		<td class="dimensions"> 145 x 73.2 x 8.2 mm </td>
 		<td class="usbtype"> 150 g </td>
-		<td class="weight"> 3.1 , C </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 	</tr>
