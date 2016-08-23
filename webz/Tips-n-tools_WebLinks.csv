@@ -177,7 +177,7 @@ Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;h
 /;Difference between MVC, MVP and MVVM;;MVC , MVP , MVVM;https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe
 /;Why you should care about copyright;;copyright;http://jeroenmols.com/blog/2016/08/03/copyright/
 Android;Awareness API;;awareness API;https://developers.google.com/awareness/
-/;Device Specifications;;devices , specs;http://www.devicespecifications.com/en
+/;Device Specifications;;devices , specs , hardware , comparison;http://www.devicespecifications.com/en
 /;Duo Skin;;tatoo , duo skin , transhumanism;http://duoskin.media.mit.edu/
 /;Flutter;;Android , iOS;https://flutter.io/
 Design;Justinmind;;prototyping;http://www.justinmind.com/
@@ -206,4 +206,8 @@ Android;FrAndroid;;veille , news;http://www.frandroid.com/
 /;Next Inpact;;veille , news;http://www.nextinpact.com/
 /;ZDNet;;veille , news;http://www.zdnet.fr/
 Kotlin;Lessons from converting an app to 100% Kotlin;;Kotlin , app convert;https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.3rmy7agwo
-/;Indice de protection;;IP , protection;https://fr.wikipedia.org/wiki/Indice_de_protection
+/;"
+Escaping The Sandbox By Not Breaking It";;Android , iOS , sandbox;https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it
+/;Learn Git with Bitbucket Cloud;;Git , tutorial;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+/;Qualcomm Processors Comparison;;devices , specs , hardware , comparison , snapdragon;https://www.qualcomm.com/products/snapdragon/processors/comparison
+/;AnTuTu;;devices , specs , hardware , comparison;http://www.antutu.com/en/index.shtml

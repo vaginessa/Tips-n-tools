@@ -1430,7 +1430,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> Speed View </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> speed , view </td>
 		<td class="url"> https://github.com/anastr/SpeedView </td>
 	</tr>
 	<tr>
@@ -2668,7 +2668,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="pfOther"> / </td>
 		<td class="name"> Device Specifications </td>
 		<td class="description"> </td>
-		<td class="keywords"> devices , specs </td>
+		<td class="keywords"> devices , specs , hardware , comparison </td>
 		<td class="url"> http://www.devicespecifications.com/en </td>
 	</tr>
 	<tr>
@@ -2869,10 +2869,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	</tr>
 	<tr>
 		<td class="pfOther"> / </td>
-		<td class="name"> Indice de protection </td>
+		<td class="name"> </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> Escaping The Sandbox By Not Breaking It </td>
+		<td class="name"> </td>
+		<td class="description"> Android , iOS , sandbox </td>
+		<td class="keywords"> https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Learn Git with Bitbucket Cloud </td>
 		<td class="description"> </td>
-		<td class="keywords"> IP , protection </td>
-		<td class="url"> https://fr.wikipedia.org/wiki/Indice_de_protection </td>
+		<td class="keywords"> Git , tutorial </td>
+		<td class="url"> https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Qualcomm Processors Comparison </td>
+		<td class="description"> </td>
+		<td class="keywords"> devices , specs , hardware , comparison , snapdragon </td>
+		<td class="url"> https://www.qualcomm.com/products/snapdragon/processors/comparison </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> AnTuTu </td>
+		<td class="description"> </td>
+		<td class="keywords"> devices , specs , hardware , comparison </td>
+		<td class="url"> http://www.antutu.com/en/index.shtml </td>
 	</tr>
 </table>
 
@@ -3031,7 +3055,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S7 </td>
-		<td class="screensize"> 5.1 '' </td>
+		<td class="screensize"> 5.1'' </td>
 		<td class="screentype"> Corning Gorilla Glass 4 , Super AMOLED </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Samsung Exynos 8890 </td>
@@ -3068,6 +3092,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy S6 </td>
+		<td class="screensize"> 5.1'' </td>
+		<td class="screentype"> Super AMOLED </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Samsung Exynos 7420 </td>
+		<td class="gpu"> ARM Mali-T760 MP8 </td>
+		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 2550 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB , 63 GB , 128 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.95mm x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
+		<td class="dimensions"> 143.4 x 70.5 x 6.8 mm </td>
+		<td class="usbtype"> 138 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -3114,6 +3159,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	<tr>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia Z3 Compact </td>
+		<td class="screensize"> 4.6'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 720 x 1280 px = HD </td>
+		<td class="soc"> Qualcomm Snapdragon 801 </td>
+		<td class="gpu"> Qualcomm Adreno 330 </td>
+		<td class="sensors"> barometer ,proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="battery"> 2600 mAh , Li-Ion </td>
+		<td class="storage"> 16 GB , 32 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> Sony Exmor IMX220 RS CMOS 6.17x4.55mm 1.176 µm f/2.0 20.66 MP (back) , 2.07 MP (front) </td>
+		<td class="dimensions"> 127 x 64.9 x 8.6 mm </td>
+		<td class="usbtype"> 129 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Z5 </td>
 		<td class="screensize"> 5.2'' </td>
 		<td class="screentype"> IPS </td>
@@ -3150,7 +3216,49 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="usbtype"> 138 g </td>
 		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
 		<td class="ip"> 2.0 , micro-B </td>
-		<td class="sdcard"> mciroSD </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia X </td>
+		<td class="screensize"> 5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 650 </td>
+		<td class="gpu"> Qualcomm Adreno 510 </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="battery"> 2620 mAh , LI-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55mm 1.118µm 22.85 MP (back) , 12.98 MP (front) </td>
+		<td class="dimensions"> 142.7 x 64.9 x 7.9 mm </td>
+		<td class="usbtype"> 153 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia X Performance </td>
+		<td class="screensize"> 5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="battery"> 2700 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55mm 1.118µm 22.85 MP (back) , 12.98 MP (front) </td>
+		<td class="dimensions"> 144.8 x 71.1 x 8.7 mm </td>
+		<td class="usbtype"> 165 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
