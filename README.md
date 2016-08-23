@@ -1574,10 +1574,10 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> Android <3 </td>
+		<td class="name"> Android Figuren </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
-		<td class="url"> http://www.androidfiguren.de/ http://android-foundry.com/ </td>
+		<td class="keywords"> Android , goodies , geek </td>
+		<td class="url"> http://www.androidfiguren.de/ </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
@@ -2897,6 +2897,20 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> devices , specs , hardware , comparison </td>
 		<td class="url"> http://www.antutu.com/en/index.shtml </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Foundry </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , goodies , geek </td>
+		<td class="url"> http://android-foundry.com/ </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Hype pulse </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , goodies , geek </td>
+		<td class="url"> http://www.hypepulse.com/ </td>
 	</tr>
 </table>
 
