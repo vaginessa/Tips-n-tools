@@ -2954,6 +2954,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> API Awareness </td>
 		<td class="url"> https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api </td>
 	</tr>
+	<tr>
+		<td class="pfDesign"> Design </td>
+		<td class="name"> Dreamstime </td>
+		<td class="description"> </td>
+		<td class="keywords"> pictures , photos, free </td>
+		<td class="url"> https://fr.dreamstime.com/ </td>
+	</tr>
 </table>
 
 
