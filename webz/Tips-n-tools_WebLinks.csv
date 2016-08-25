@@ -213,3 +213,7 @@ Escaping The Sandbox By Not Breaking It";;Android , iOS , sandbox;https://speake
 /;AnTuTu;;devices , specs , hardware , comparison;http://www.antutu.com/en/index.shtml
 Android;Android Foundry;;Android , goodies , geek;http://android-foundry.com/
 Android;Hype pulse;;Android , goodies , geek;http://www.hypepulse.com/
+/;PC Mark;Complete performance testing;devices , tests , hardware;https://www.futuremark.com/benchmarks/pcmark
+/;GameBench;A suite of performance analysis tools for Android and iOS devices;devices , tests , hardware;https://www.gamebench.net/
+Kotlin;Kotlin : The Good, The Bad, The Ugly;;Kotlin , how to;https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.nbl0pt294
+Android;And then my phone became smarter – A journey into the Awareness API;;API Awareness;https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api

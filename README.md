@@ -1440,6 +1440,20 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Google , Java </td>
 		<td class="url"> https://github.com/google/guava </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> AndroidAudioRecorder </td>
+		<td class="description"> A fancy audio recorder for Android supporting WAV format </td>
+		<td class="keywords"> audio , recorder </td>
+		<td class="url"> https://github.com/adrielcafe/AndroidAudioRecorder </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> AdBlockerDetector </td>
+		<td class="description"> </td>
+		<td class="keywords"> ads , adblock </td>
+		<td class="url"> https://github.com/Swisyn/AdBlockerDetector </td>
+	</tr>
 </table>
 
 
@@ -2912,6 +2926,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Android , goodies , geek </td>
 		<td class="url"> http://www.hypepulse.com/ </td>
 	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> PC Mark </td>
+		<td class="description"> Complete performance testing </td>
+		<td class="keywords"> devices , tests , hardware </td>
+		<td class="url"> https://www.futuremark.com/benchmarks/pcmark </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> GameBench </td>
+		<td class="description"> A suite of performance analysis tools for Android and iOS devices </td>
+		<td class="keywords"> devices , tests , hardware </td>
+		<td class="url"> https://www.gamebench.net/ </td>
+	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Kotlin : The Good, The Bad, The Ugly </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , how to </td>
+		<td class="url"> https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.nbl0pt294 </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> And then my phone became smarter – A journey into the Awareness API </td>
+		<td class="description"> </td>
+		<td class="keywords"> API Awareness </td>
+		<td class="url"> https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api </td>
+	</tr>
 </table>
 
 
@@ -3118,7 +3160,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="gpu"> ARM Mali-T760 MP8 </td>
 		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
 		<td class="battery"> 2550 mAh , Li-Ion </td>
-		<td class="storage"> 32 GB , 63 GB , 128 GB </td>
+		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
 		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.95mm x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
 		<td class="dimensions"> 143.4 x 70.5 x 6.8 mm </td>
@@ -3295,6 +3337,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , micro </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Huawei </td>
+		<td class="name"> Honor 8 </td>
+		<td class="screensize"> 5.2'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Huawai HiSilicon KIRN 950 </td>
+		<td class="gpu"> ARM Mali-T880 MP4 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 3 GB , 4 GB </td>
+		<td class="camera"> Sony IMX286 f/2.2 11.81 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 145.5 x 71 x 7.45 mm </td>
+		<td class="usbtype"> 153 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> micro SD </td>
+		<td class="sim"> nano , nano </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
