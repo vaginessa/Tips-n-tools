@@ -1454,6 +1454,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> ads , adblock </td>
 		<td class="url"> https://github.com/Swisyn/AdBlockerDetector </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Jgraph </td>
+		<td class="description"> </td>
+		<td class="keywords"> graphs , charts </td>
+		<td class="url"> https://github.com/mychoices/Jgraph </td>
+	</tr>
 </table>
 
 
@@ -3365,6 +3372,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> micro SD </td>
 		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Xiaomi </td>
+		<td class="name"> Redmi Note 4 </td>
+		<td class="screensize"> 5.5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> MediaTek Helio X20 </td>
+		<td class="gpu"> ARM Mali-T880 MP4 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , gyroscope , bluetooth , nfc , gps </td>
+		<td class="battery"> 4100 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> CMOS f/2.0 12.98 MP (front) / 5.04 MP (front) </td>
+		<td class="dimensions"> 151 x 76 x 8.35 mm </td>
+		<td class="usbtype"> 175 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> micro SD </td>
+		<td class="sim"> micro , nano </td>
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
