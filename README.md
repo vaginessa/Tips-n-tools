@@ -1416,7 +1416,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="pfAndroid"> Android </td>
 		<td class="name"> MaterialTapTargetPrompt </td>
 		<td class="description"> </td>
-		<td class="keywords"> tap target , prompt </td>
+		<td class="keywords"> tap target , prompt , features discovery </td>
 		<td class="url"> https://github.com/sjwall/MaterialTapTargetPrompt </td>
 	</tr>
 	<tr>
@@ -1460,6 +1460,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> graphs , charts </td>
 		<td class="url"> https://github.com/mychoices/Jgraph </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Tips & Tricks </td>
+		<td class="description"> </td>
+		<td class="keywords"> tips , tricks , cheats </td>
+		<td class="url"> https://github.com/nisrulz/android-tips-tricks </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> SignUpTransition </td>
+		<td class="description"> </td>
+		<td class="keywords"> animations , views , transitions , sign up </td>
+		<td class="url"> https://github.com/JeasonWong/SignUpTransition </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Infinite Cycle View Pager </td>
+		<td class="description"> Infinite cycle ViewPager with two-way orientation and interactive effect </td>
+		<td class="keywords"> view , view pager , loops </td>
+		<td class="url"> https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager </td>
 	</tr>
 </table>
 
@@ -2974,6 +2995,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> Android , versions , Apple Pie , Banana Bread , Cupcake , Donut , Eclair, Froyo , Gingerbread , Honeycomb , Ice Cream Sandwich , Jelly Bean , Kit Kat , Lollipop , Marshmallow , Nougat </td>
 		<td class="url"> http://socialcompare.com/fr/comparison/android-versions-comparison </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Stop ignoring Android Lint, use it </td>
+		<td class="description"> </td>
+		<td class="keywords"> Lint </td>
+		<td class="url"> https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8#.91gmqdksr </td>
 	</tr>
 </table>
 

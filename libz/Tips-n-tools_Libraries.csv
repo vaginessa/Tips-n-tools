@@ -204,10 +204,13 @@ Android;Redexer;Bytecode instrumentation framework for Dalvik bytecode;RI , reve
 Android;Simplify;Generic Android Deobfuscator;RI , reverse engineering , tool;https://github.com/CalebFenton/simplify
 Android;Bytecode Viewer;A Java 8 JAR and Android APK Reverse Engineering Suite;RI , reverse engineering , tool;https://github.com/Konloch/bytecode-viewer
 Android;EasyDeviceInfo;;device infos;https://github.com/nisrulz/easydeviceinfo
-Android;MaterialTapTargetPrompt;;tap target , prompt;https://github.com/sjwall/MaterialTapTargetPrompt
+Android;MaterialTapTargetPrompt;;tap target , prompt , features discovery;https://github.com/sjwall/MaterialTapTargetPrompt
 Android;Space Navigation View;;space navigation view;https://github.com/armcha/Space-Navigation-View
 Android;Speed View;;speed , view;https://github.com/anastr/SpeedView
 Java;Guava;;Google , Java;https://github.com/google/guava
 Android;AndroidAudioRecorder;A fancy audio recorder for Android supporting WAV format;audio , recorder;https://github.com/adrielcafe/AndroidAudioRecorder
 Android;AdBlockerDetector;;ads , adblock;https://github.com/Swisyn/AdBlockerDetector
 Android;Jgraph;;graphs , charts;https://github.com/mychoices/Jgraph
+Android;Android Tips & Tricks;;tips , tricks , cheats ;https://github.com/nisrulz/android-tips-tricks
+Android;SignUpTransition;;animations , views , transitions , sign up;https://github.com/JeasonWong/SignUpTransition
+Android;Infinite Cycle View Pager;Infinite cycle ViewPager with two-way orientation and interactive effect;view , view pager , loops;https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager
