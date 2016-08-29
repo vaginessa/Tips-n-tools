@@ -2982,6 +2982,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 ## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some famous devices' technical characteristics
 <table>
 	<tr>
+		<td class="header"> Type </td>
 		<td class="header"> OS </td>
 		<td class="header"> Constructor </td>
 		<td class="header"> Name </td>
@@ -3003,6 +3004,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="header"> SIM </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfCyanogen"> Cyanogen </td>
 		<td class="constructor"> OnePlus </td>
 		<td class="name"> OnePlus One </td>
@@ -3011,7 +3013,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 801 </td>
 		<td class="gpu"> Qualcomm Adreno 330 </td>
-		<td class="sensors"> proximity , light , accelerometer , compass, gyroscope, bluetooth, nfc, gps </td>
+		<td class="sensors"> proximity , light , accelerometer , compass, gyroscope, Bluetooth, NFC, GPS </td>
 		<td class="battery"> 3100 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3024,6 +3026,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> micro </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfOxygenOS"> OxygenOS </td>
 		<td class="constructor"> OnePlus </td>
 		<td class="name"> OnePlus 2 </td>
@@ -3032,7 +3035,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 810 </td>
 		<td class="gpu"> Qualcomm Adreno 430 </td>
-		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
 		<td class="battery"> 3300 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3045,6 +3048,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano , nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfOxygenOS"> OxygenOS </td>
 		<td class="constructor"> OnePlus </td>
 		<td class="name"> OnePlus 3 </td>
@@ -3053,7 +3057,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 6 GB </td>
@@ -3066,6 +3070,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano , nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Huawei </td>
 		<td class="name"> Nexus 6P </td>
@@ -3074,7 +3079,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 810 </td>
 		<td class="gpu"> Qualcomm Adreno 430 </td>
-		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
 		<td class="battery"> 3450 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3087,6 +3092,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> LG </td>
 		<td class="name"> Nexus 5X </td>
@@ -3095,7 +3101,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 808 </td>
 		<td class="gpu"> Qualcomm Adreno 418 </td>
-		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3700 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 32 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3108,6 +3114,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S7 Edge </td>
@@ -3116,7 +3123,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ARM Mali-T880 MP12 </td>
-		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3600 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3129,6 +3136,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S7 </td>
@@ -3137,7 +3145,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ARM Mali-T880 MP12 </td>
-		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3150,6 +3158,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy Note 7 </td>
@@ -3158,7 +3167,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> Quad HD </td>
 		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ? </td>
-		<td class="sensors"> iris scanner , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> iris scanner , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3500 mAh </td>
 		<td class="storage"> ? </td>
 		<td class="ram"> 4 GO </td>
@@ -3171,6 +3180,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> ? </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S6 </td>
@@ -3179,7 +3189,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Samsung Exynos 7420 </td>
 		<td class="gpu"> ARM Mali-T760 MP8 </td>
-		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2550 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3192,6 +3202,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> HTC </td>
 		<td class="name"> 10 </td>
@@ -3200,7 +3211,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3213,6 +3224,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> LG </td>
 		<td class="name"> G5 </td>
@@ -3221,7 +3233,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2800 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3234,6 +3246,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Z3 Compact </td>
@@ -3242,7 +3255,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 720 x 1280 px = HD </td>
 		<td class="soc"> Qualcomm Snapdragon 801 </td>
 		<td class="gpu"> Qualcomm Adreno 330 </td>
-		<td class="sensors"> barometer ,proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="sensors"> barometer ,proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2600 mAh , Li-Ion </td>
 		<td class="storage"> 16 GB , 32 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3255,6 +3268,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Z5 </td>
@@ -3263,7 +3277,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 810 </td>
 		<td class="gpu"> Qualcomm Adreno 430 </td>
-		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2900 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3276,6 +3290,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Z5 Compact </td>
@@ -3284,7 +3299,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 720 x 1280 px = HD </td>
 		<td class="soc"> Qualcomm Snapdragon 810 </td>
 		<td class="gpu"> Qualcomm Adreno 430 </td>
-		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="sensors"> Geomagnetic , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2700 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3297,6 +3312,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia X </td>
@@ -3305,7 +3321,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 650 </td>
 		<td class="gpu"> Qualcomm Adreno 510 </td>
-		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2620 mAh , LI-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3318,6 +3334,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia X Performance </td>
@@ -3326,7 +3343,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , bluetooth , nfc , gps </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2700 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3339,6 +3356,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Asus </td>
 		<td class="name"> ZenFone 3 Deluxe </td>
@@ -3347,7 +3365,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Ion </td>
 		<td class="storage"> 64 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -3360,6 +3378,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano , micro </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Huawei </td>
 		<td class="name"> Honor 8 </td>
@@ -3368,7 +3387,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Huawai HiSilicon KIRN 950 </td>
 		<td class="gpu"> ARM Mali-T880 MP4 </td>
-		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 3 GB , 4 GB </td>
@@ -3381,6 +3400,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano , nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Xiaomi </td>
 		<td class="name"> Redmi Note 4 </td>
@@ -3389,7 +3409,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> MediaTek Helio X20 </td>
 		<td class="gpu"> ARM Mali-T880 MP4 </td>
-		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 4100 mAh , Li-Polymer </td>
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3402,6 +3422,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> micro , nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Fairphone </td>
 		<td class="name"> Fairphone 2 </td>
@@ -3410,7 +3431,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 801 </td>
 		<td class="gpu"> Qualcomm Adreno 330 </td>
-		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , bluetooth , gps </td>
+		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , Bluetooth , GPS , Wi-Fi </td>
 		<td class="battery"> 2420 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3423,6 +3444,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> micro </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
 		<td class="name"> iPhone 6S </td>
@@ -3431,7 +3453,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 750 x 1334 px </td>
 		<td class="soc"> Apple A9 </td>
 		<td class="gpu"> PowerVR GT7600 </td>
-		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 1715 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB, 64 GB, 128 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3444,6 +3466,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
 		<td class="name"> iPhone 6 </td>
@@ -3452,7 +3475,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 750 x 1334 px </td>
 		<td class="soc"> Apple A8 </td>
 		<td class="gpu"> PowerVR GX6450 </td>
-		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 1810 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB, 64 GB, 128 GB </td>
 		<td class="ram"> 1 GB </td>
@@ -3465,6 +3488,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
 		<td class="name"> iPhone SE </td>
@@ -3473,7 +3497,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 640 x 1136 px </td>
 		<td class="soc"> Apple A9 </td>
 		<td class="gpu"> PowerVR GT7600 </td>
-		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , bluetooth , nfc , gps </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 1642 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB , 64 GB </td>
 		<td class="ram"> 2 GB </td>
@@ -3486,6 +3510,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="sim"> nano </td>
 	</tr>
 	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfWindows"> Windows </td>
 		<td class="constructor"> Nokia </td>
 		<td class="name"> Lumia 950 </td>
@@ -3494,7 +3519,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 808 </td>
 		<td class="gpu"> Qualcomm Adreno 418 </td>
-		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , bluetooth , gps </td>
+		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , Bluetooth , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
@@ -3505,5 +3530,137 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> Huawei </td>
+		<td class="name"> Watch </td>
+		<td class="screensize"> 1.4'' </td>
+		<td class="screentype"> Sapphire crystal , AMOLED </td>
+		<td class="screenresolution"> 286 PPP </td>
+		<td class="soc"> Qualcomm Snapdragon 400 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> gyroscope , barometer , accelerometer , heart sensor , Wi-Fi , Bluetooth </td>
+		<td class="battery"> 300 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 512 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 42 x 42 x 11.3 mm </td>
+		<td class="usbtype"> 95 g </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfTizen"> Tizen </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Gear S2 </td>
+		<td class="screensize"> 1.2'' </td>
+		<td class="screentype"> Super AMOLED </td>
+		<td class="screenresolution"> 360 x 360 px , 424 ppp </td>
+		<td class="soc"> Samsung Exynos 3250 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> accelerometer , gyroscope , light , barometer , Wi-Fi, GPS (option) </td>
+		<td class="battery"> 250 mAh , 350 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 512 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 49.8 x 42.3 x 11.4 mm </td>
+		<td class="usbtype"> 47 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> Micro-B </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> Motorola </td>
+		<td class="name"> Moto 360 (2nd gen) </td>
+		<td class="screensize"> 1.37'' , 1.56'' </td>
+		<td class="screentype"> LCD </td>
+		<td class="screenresolution"> 360 x 325 px , 360 x 360 px </td>
+		<td class="soc"> Qualcomm Snapdragon 400 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> heart, gyroscope , accelerometer , boussole, Wi-Fi </td>
+		<td class="battery"> 300 mAh , 400 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 512 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 42 x 42 x 11.4 mm , 46 x 46 x 11.4 mm </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> LG </td>
+		<td class="name"> Watch Urbane (2nd gen) </td>
+		<td class="screensize"> 1.38'' </td>
+		<td class="screentype"> Gorilla Glass 3 , P-OLED </td>
+		<td class="screenresolution"> 480 x 480 px , 348 ppp </td>
+		<td class="soc"> Qualcomm Snapdragon 400 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> heart , gyroscope , accelerometer , barometer , GPS , Wi-FI </td>
+		<td class="battery"> 570 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 768 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 44.5 x 44.5 x 14.2 mm </td>
+		<td class="usbtype"> 92.7 g </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfOther"> Pebble's OS </td>
+		<td class="constructor"> Pebble </td>
+		<td class="name"> Time </td>
+		<td class="screensize"> 1.25'' </td>
+		<td class="screentype"> Gorilla 2 , LED , E-INK </td>
+		<td class="screenresolution"> 168 x 144 px , 182 ppi </td>
+		<td class="soc"> ST Micro STM32F439ZG MCU </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> accelerometer , gyroscope , compass, light , Blueetoh </td>
+		<td class="battery"> 150 mAh </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 126 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 40.5 x 37.5 x 95.mm </td>
+		<td class="usbtype"> 42 g </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> Asys </td>
+		<td class="name"> Zen Watch 2 </td>
+		<td class="screensize"> 1?45'' , 1.63'' </td>
+		<td class="screentype"> Gorilla Glass 3 , AMOLED </td>
+		<td class="screenresolution"> 280 x 280 px , 320 x 320 px </td>
+		<td class="soc"> Qualcomm Snapdragon 400 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> heart, gyroscope , accelerometer , compass , Wi-Fi </td>
+		<td class="battery"> 300 mAh , 400 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 512 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 45.2 x 37.2 x 11.1 mm , 49.6 x 40.7 x 10.0 mm </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
 	</tr>
 </table>

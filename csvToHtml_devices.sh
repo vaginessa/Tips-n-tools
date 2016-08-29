@@ -20,10 +20,10 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 6.0.0
+# Version.............: 7.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
-#			This file must contain several columns: OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
+#			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
 #
 # Usage: sh csvToHtml_devices.sh --help
 # Usage: cat myFileToProcess.csv | sh csvToHtml_devices.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
@@ -55,6 +55,18 @@ table, td, .header {
 }
 .header {
 	background-color: #fafafa;
+}
+.typeSmartphone {
+	background-color: #000000;
+	color: #ffffff;
+}
+.typeWatch {
+	background-color: #795548;
+	color: #ffffff;
+}
+.typeOther {
+	background-color: #ffffff;
+	color: #000000;
 }
 .pfOther {
 	background-color: #9e9e9e;
@@ -159,6 +171,19 @@ while read -r line; do
 		case "$fieldIndex" in
 			0)
 				case "$cleanItem" in
+					*smartphone*)
+						echo "\t\t<td class=\"typeSmartphone\">" $cleanItem "</td>"	
+					;;
+					*watch*)
+						echo "\t\t<td class=\"typeWatch\">" $cleanItem "</td>"	
+					;;
+					*)
+						echo "\t\t<td class=\"typeOther\">" $cleanItem "</td>"	
+					;;
+				esac
+				;;
+			1)
+				case "$cleanItem" in
 					*Android*)
 						echo "\t\t<td class=\"pfAndroid\">" $cleanItem "</td>"	
 					;;
@@ -188,58 +213,58 @@ while read -r line; do
 					;;
 				esac
 				;;
-			1)
+			2)
 				echo "\t\t<td class=\"constructor\">" $cleanItem "</td>"
 				;;
-			2)
+			3)
 				echo "\t\t<td class=\"name\">" $cleanItem "</td>"			
 				;;
-			3)
+			4)
 				echo "\t\t<td class=\"screensize\">" $cleanItem "</td>"			
 				;;
-			4)
+			5)
 				echo "\t\t<td class=\"screentype\">" $cleanItem "</td>"			
 				;;
-			5)
+			6)
 				echo "\t\t<td class=\"screenresolution\">" $cleanItem "</td>"			
 				;;
-			6)
+			7)
 				echo "\t\t<td class=\"soc\">" $cleanItem "</td>"			
 				;;			
-			7)
+			8)
 				echo "\t\t<td class=\"gpu\">" $cleanItem "</td>"			
 				;;
-			8)
+			9)
 				echo "\t\t<td class=\"sensors\">" $cleanItem "</td>"			
 				;;
-			9)
+			10)
 				echo "\t\t<td class=\"battery\">" $cleanItem "</td>"			
 				;;
-			10)
+			11)
 				echo "\t\t<td class=\"storage\">" $cleanItem "</td>"			
 				;;
-			11)
+			12)
 				echo "\t\t<td class=\"ram\">" $cleanItem "</td>"			
 				;;												
-			12)
+			13)
 				echo "\t\t<td class=\"camera\">" $cleanItem "</td>"			
 				;;
-			13)
+			14)
 				echo "\t\t<td class=\"dimensions\">" $cleanItem "</td>"			
 				;;					
-			14)
+			15)
 				echo "\t\t<td class=\"usbtype\">" $cleanItem "</td>"			
 				;;				
-			15)
+			16)
 				echo "\t\t<td class=\"weight\">" $cleanItem "</td>"			
 				;;
-			16)
+			17)
 				echo "\t\t<td class=\"ip\">" $cleanItem "</td>"			
 				;;
-			17)
+			18)
 				echo "\t\t<td class=\"sdcard\">" $cleanItem "</td>"			
 				;;
-			18)
+			19)
 				echo "\t\t<td class=\"sim\">" $cleanItem "</td>"			
 				;;																	
 		esac
