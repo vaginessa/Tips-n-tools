@@ -3672,9 +3672,9 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	<tr>
 		<td class="typeWatch"> watch </td>
 		<td class="pfAndroid"> Android Wear </td>
-		<td class="constructor"> Asys </td>
+		<td class="constructor"> Asus </td>
 		<td class="name"> Zen Watch 2 </td>
-		<td class="screensize"> 1?45'' , 1.63'' </td>
+		<td class="screensize"> 1.45'' , 1.63'' </td>
 		<td class="screentype"> Gorilla Glass 3 , AMOLED </td>
 		<td class="screenresolution"> 280 x 280 px , 320 x 320 px </td>
 		<td class="soc"> Qualcomm Snapdragon 400 </td>
