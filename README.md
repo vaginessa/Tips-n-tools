@@ -1482,6 +1482,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> view , view pager , loops </td>
 		<td class="url"> https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> CodeView </td>
+		<td class="description"> Shows code content with syntax highlihhting in native way </td>
+		<td class="keywords"> view , code , sources </td>
+		<td class="url"> https://github.com/Softwee/codeview-android </td>
+	</tr>
 </table>
 
 
@@ -3002,6 +3009,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> Lint </td>
 		<td class="url"> https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8#.91gmqdksr </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Devknox </td>
+		<td class="description"> Androdi Studio plugin that helps developers to detect and resolve security issues </td>
+		<td class="keywords"> security , app </td>
+		<td class="url"> https://devknox.io/documentation </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> List of programming langages by type </td>
+		<td class="description"> </td>
+		<td class="keywords"> langages , types , paradigms </td>
+		<td class="url"> https://en.wikipedia.org/wiki/List_of_programming_languages_by_type </td>
+	</tr>
+	<tr>
+		<td class="pfOther"> / </td>
+		<td class="name"> Programming paradigm </td>
+		<td class="description"> </td>
+		<td class="keywords"> langages , types , paradigms </td>
+		<td class="url"> https://en.wikipedia.org/wiki/Programming_paradigm </td>
 	</tr>
 </table>
 
