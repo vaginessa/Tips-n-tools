@@ -3031,6 +3031,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> langages , types , paradigms </td>
 		<td class="url"> https://en.wikipedia.org/wiki/Programming_paradigm </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Reducing Mobile Data Usage in your Apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> mobile data </td>
+		<td class="url"> https://www.youtube.com/watch?v=tnj2uoTwevg </td>
+	</tr>
 </table>
 
 
