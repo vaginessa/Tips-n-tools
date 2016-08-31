@@ -3038,6 +3038,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> mobile data </td>
 		<td class="url"> https://www.youtube.com/watch?v=tnj2uoTwevg </td>
 	</tr>
+	<tr>
+		<td class="pfKotlin"> Kotlin </td>
+		<td class="name"> Kotlin reference </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kotlin , lessons , basics </td>
+		<td class="url"> https://kotlinlang.org/docs/reference/ </td>
+	</tr>
 </table>
 
 
