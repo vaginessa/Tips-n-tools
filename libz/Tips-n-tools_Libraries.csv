@@ -211,7 +211,13 @@ Java;Guava;;Google , Java;https://github.com/google/guava
 Android;AndroidAudioRecorder;A fancy audio recorder for Android supporting WAV format;audio , recorder;https://github.com/adrielcafe/AndroidAudioRecorder
 Android;AdBlockerDetector;;ads , adblock;https://github.com/Swisyn/AdBlockerDetector
 Android;Jgraph;;graphs , charts;https://github.com/mychoices/Jgraph
-Android;Android Tips & Tricks;;tips , tricks , cheats ;https://github.com/nisrulz/android-tips-tricks
 Android;SignUpTransition;;animations , views , transitions , sign up;https://github.com/JeasonWong/SignUpTransition
 Android;Infinite Cycle View Pager;Infinite cycle ViewPager with two-way orientation and interactive effect;view , view pager , loops;https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager
 Android;CodeView;Shows code content with syntax highlihhting in native way;view , code , sources;https://github.com/Softwee/codeview-android
+Android;Knife;Rich text editor;text editor;https://github.com/mthli/Knife
+Android;Confetti;Particle system library for displaying confettis;animations , views , confetti , particles;https://github.com/jinatonic/confetti
+Android;Recycler View Helper;Provides most common functions around recycler views like swipes to dismiss, drag and drop, divider…;recycler view;https://github.com/nisrulz/recyclerviewhelper
+Android;RingProgress;A circle progress bar with effect;ring , progress view;https://github.com/ldoublem/RingProgress
+Android;ChompProgressView;A semi realistic progress view that takes bites out of images;animation , effect , omnomnomnom;https://github.com/andyb129/ChompProgressView
+Android;SmileyLoadingView;A custom loading view;loading view , animations;https://github.com/andyxialm/SmileyLoadingView
+Android;EncryptedPreferences;AES-256 encrypted SharedPreferences;AES , security , encryption , preferences;https://github.com/PDDStudio/EncryptedPreferences

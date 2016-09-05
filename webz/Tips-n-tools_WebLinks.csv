@@ -225,3 +225,6 @@ Android;Devknox;Androdi Studio plugin that helps developers to detect and resolv
 /;Programming paradigm;;langages , types , paradigms;https://en.wikipedia.org/wiki/Programming_paradigm
 Android;Reducing Mobile Data Usage in your Apps;;mobile data;https://www.youtube.com/watch?v=tnj2uoTwevg
 Kotlin;Kotlin reference;;Kotlin , lessons , basics;https://kotlinlang.org/docs/reference/
+Android;Android Tips and Tricks;;tips , IDE , code , dev , cheats;https://github.com/nisrulz/android-tips-tricks
+Android;RenderScript;RenderScript is a framework for running computationally intensive tasks at high performance on Android. ;intensive tasks , performances , data-parallel computation;https://developer.android.com/guide/topics/renderscript/compute.html
+Android;NDK;The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++.;NDK;https://developer.android.com/ndk/index.html

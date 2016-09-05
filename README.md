@@ -1463,13 +1463,6 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	</tr>
 	<tr>
 		<td class="pfAndroid"> Android </td>
-		<td class="name"> Android Tips & Tricks </td>
-		<td class="description"> </td>
-		<td class="keywords"> tips , tricks , cheats </td>
-		<td class="url"> https://github.com/nisrulz/android-tips-tricks </td>
-	</tr>
-	<tr>
-		<td class="pfAndroid"> Android </td>
 		<td class="name"> SignUpTransition </td>
 		<td class="description"> </td>
 		<td class="keywords"> animations , views , transitions , sign up </td>
@@ -1488,6 +1481,55 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> Shows code content with syntax highlihhting in native way </td>
 		<td class="keywords"> view , code , sources </td>
 		<td class="url"> https://github.com/Softwee/codeview-android </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Knife </td>
+		<td class="description"> Rich text editor </td>
+		<td class="keywords"> text editor </td>
+		<td class="url"> https://github.com/mthli/Knife </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Confetti </td>
+		<td class="description"> Particle system library for displaying confettis </td>
+		<td class="keywords"> animations , views , confetti , particles </td>
+		<td class="url"> https://github.com/jinatonic/confetti </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Recycler View Helper </td>
+		<td class="description"> Provides most common functions around recycler views like swipes to dismiss, drag and drop, divider… </td>
+		<td class="keywords"> recycler view </td>
+		<td class="url"> https://github.com/nisrulz/recyclerviewhelper </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> RingProgress </td>
+		<td class="description"> A circle progress bar with effect </td>
+		<td class="keywords"> ring , progress view </td>
+		<td class="url"> https://github.com/ldoublem/RingProgress </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> ChompProgressView </td>
+		<td class="description"> A semi realistic progress view that takes bites out of images </td>
+		<td class="keywords"> animation , effect , omnomnomnom </td>
+		<td class="url"> https://github.com/andyb129/ChompProgressView </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> SmileyLoadingView </td>
+		<td class="description"> A custom loading view </td>
+		<td class="keywords"> loading view , animations </td>
+		<td class="url"> https://github.com/andyxialm/SmileyLoadingView </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> EncryptedPreferences </td>
+		<td class="description"> AES-256 encrypted SharedPreferences </td>
+		<td class="keywords"> AES , security , encryption , preferences </td>
+		<td class="url"> https://github.com/PDDStudio/EncryptedPreferences </td>
 	</tr>
 </table>
 
@@ -3045,6 +3087,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Kotlin , lessons , basics </td>
 		<td class="url"> https://kotlinlang.org/docs/reference/ </td>
 	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> Android Tips and Tricks </td>
+		<td class="description"> </td>
+		<td class="keywords"> tips , IDE , code , dev , cheats </td>
+		<td class="url"> https://github.com/nisrulz/android-tips-tricks </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> RenderScript </td>
+		<td class="description"> RenderScript is a framework for running computationally intensive tasks at high performance on Android. </td>
+		<td class="keywords"> intensive tasks , performances , data-parallel computation </td>
+		<td class="url"> https://developer.android.com/guide/topics/renderscript/compute.html </td>
+	</tr>
+	<tr>
+		<td class="pfAndroid"> Android </td>
+		<td class="name"> NDK </td>
+		<td class="description"> The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++. </td>
+		<td class="keywords"> NDK </td>
+		<td class="url"> https://developer.android.com/ndk/index.html </td>
+	</tr>
 </table>
 
 
@@ -3187,6 +3250,28 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy S6 </td>
+		<td class="screensize"> 5.1'' </td>
+		<td class="screentype"> Super AMOLED </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Samsung Exynos 7420 </td>
+		<td class="gpu"> ARM Mali-T760 MP8 </td>
+		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 2550 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.95mm x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
+		<td class="dimensions"> 143.4 x 70.5 x 6.8 mm </td>
+		<td class="usbtype"> 138 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S7 Edge </td>
 		<td class="screensize"> 5.5'' </td>
 		<td class="screentype"> Corning Gorilla Glass 4 , Super AMOLED </td>
@@ -3248,28 +3333,6 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
-	</tr>
-	<tr>
-		<td class="typeSmartphone"> smartphone </td>
-		<td class="pfAndroid"> Android </td>
-		<td class="constructor"> Samsung </td>
-		<td class="name"> Galaxy S6 </td>
-		<td class="screensize"> 5.1'' </td>
-		<td class="screentype"> Super AMOLED </td>
-		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
-		<td class="soc"> Samsung Exynos 7420 </td>
-		<td class="gpu"> ARM Mali-T760 MP8 </td>
-		<td class="sensors"> heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
-		<td class="battery"> 2550 mAh , Li-Ion </td>
-		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
-		<td class="ram"> 3 GB </td>
-		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.95mm x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
-		<td class="dimensions"> 143.4 x 70.5 x 6.8 mm </td>
-		<td class="usbtype"> 138 g </td>
-		<td class="weight"> no </td>
-		<td class="ip"> 2.0 , micro-B </td>
-		<td class="sdcard"> no </td>
-		<td class="sim"> nano </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -3428,6 +3491,28 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia X Compact </td>
+		<td class="screensize"> 4.6'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 720 x 1280 px = HD </td>
+		<td class="soc"> Qualcomm Snapdragon 650 </td>
+		<td class="gpu"> Qualcomm Adreno 510 </td>
+		<td class="sensors"> step counter , step detector , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
+		<td class="battery"> 2700 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17 x 4.5 mm 1.118µm f/2.0 22.85 MP (back ) , 5.04 MP (front) </td>
+		<td class="dimensions"> 129 x 65 x 9.5 mm </td>
+		<td class="usbtype"> 135 g </td>
+		<td class="weight"> </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Asus </td>
 		<td class="name"> ZenFone 3 Deluxe </td>
 		<td class="screensize"> 5.7'' </td>
@@ -3467,6 +3552,28 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> micro SD </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Huawei </td>
+		<td class="name"> Nova </td>
+		<td class="screensize"> 5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 625 </td>
+		<td class="gpu"> Qualcomm Adreno 506 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , fBluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 3020 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> CMOS f/2.2 12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 141.2 x 69.1 x 7.1 mm </td>
+		<td class="usbtype"> 146 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
 	</tr>
 	<tr>
@@ -3515,6 +3622,50 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Acer </td>
+		<td class="name"> Liquid Z6 Plus </td>
+		<td class="screensize"> 5.5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> MediaTek MT6753 </td>
+		<td class="gpu"> ARM Mali-T720 MP3 </td>
+		<td class="sensors"> proximity , light , accelerometer , fingerprint , Wi-Fi , GPS , Bluetooth </td>
+		<td class="battery"> 4080 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> CMOS 12.98 MP (front) , 5.04 MP (back) </td>
+		<td class="dimensions"> 153.6 x 75.4 x 8.5 mm </td>
+		<td class="usbtype"> 168 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> ? , ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Wiko </td>
+		<td class="name"> U Feel Prime </td>
+		<td class="screensize"> 5'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 430 </td>
+		<td class="gpu"> Qualcomm Adreno 505 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony IMX258 Exmor RS CMOS 4.71x3.3 mm 1.133µm 12.98 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 142.5 x 69.9 x 8.7 mm </td>
+		<td class="usbtype"> 150 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
 		<td class="name"> iPhone 6S </td>
@@ -3549,7 +3700,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="battery"> 1810 mAh , Li-Polymer </td>
 		<td class="storage"> 16 GB, 64 GB, 128 GB </td>
 		<td class="ram"> 1 GB </td>
-		<td class="camera"> Sony Exmor RS CMOS BSI 4.8x4.6 mm 1.471µm f/2.2 8 MP (back) , 1.23 MP (front) </td>
+		<td class="camera"> Sony Exmor RS CMOS BSI 4.8x4.6 mm 1.471µm f/2.2 8 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 138.1 x 67 x 6.9 mm </td>
 		<td class="usbtype"> 129 g </td>
 		<td class="weight"> no </td>
@@ -3608,7 +3759,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="name"> Watch </td>
 		<td class="screensize"> 1.4'' </td>
 		<td class="screentype"> Sapphire crystal , AMOLED </td>
-		<td class="screenresolution"> 286 PPP </td>
+		<td class="screenresolution"> 286 ppp </td>
 		<td class="soc"> Qualcomm Snapdragon 400 </td>
 		<td class="gpu"> ? </td>
 		<td class="sensors"> gyroscope , barometer , accelerometer , heart sensor , Wi-Fi , Bluetooth </td>
@@ -3619,7 +3770,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="dimensions"> 42 x 42 x 11.3 mm </td>
 		<td class="usbtype"> 95 g </td>
 		<td class="weight"> IP 67 </td>
-		<td class="ip"> </td>
+		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
 	</tr>
@@ -3644,6 +3795,28 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="ip"> Micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfTizen"> Tizen </td>
+		<td class="constructor"> Samsuing </td>
+		<td class="name"> Gear S3 </td>
+		<td class="screensize"> 1.3'' </td>
+		<td class="screentype"> Corning Gorilla Glass , Super AMOLED </td>
+		<td class="screenresolution"> 360 x 360 px , 424 ppp </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> ? , NFC </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -3729,6 +3902,28 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="dimensions"> 45.2 x 37.2 x 11.1 mm , 49.6 x 40.7 x 10.0 mm </td>
 		<td class="usbtype"> ? </td>
 		<td class="weight"> IP 67 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> Asus </td>
+		<td class="name"> Zen Watch 3 </td>
+		<td class="screensize"> 1.39'' </td>
+		<td class="screentype"> ? </td>
+		<td class="screenresolution"> 100 x 400 px , 297 ppp </td>
+		<td class="soc"> Qualcomm Snapdragon Wear 2100 </td>
+		<td class="gpu"> Qualcomm Adreno 304 </td>
+		<td class="sensors"> ? </td>
+		<td class="battery"> 340 mAh </td>
+		<td class="storage"> 4 GB </td>
+		<td class="ram"> 512 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> x x 9.95 mm </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
