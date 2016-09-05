@@ -229,3 +229,5 @@ Android;Android Tips and Tricks;;tips , IDE , code , dev , cheats;https://github
 Android;RenderScript;RenderScript is a framework for running computationally intensive tasks at high performance on Android. ;intensive tasks , performances , data-parallel computation;https://developer.android.com/guide/topics/renderscript/compute.html
 Android;NDK;The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++.;NDK;https://developer.android.com/ndk/index.html
 Swift;Advanced ObjC <-> Swift Interoperability;;ObC , Swift , interoperability;https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/
+Kotlin;K for Kotlin;;Kotlin;https://speakerdeck.com/marcpoppleton/k-for-kotlin
+Kotlin;Kotlin awesome tricks for Android;;Kotlin , tricks;http://antonioleiva.com/kotlin-awesome-tricks-for-android/
