@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 8.0.0
+# Version.............: 9.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -56,26 +56,29 @@ table, td, .header {
 .header {
 	background-color: #fafafa;
 }
-.pfOther {
+.subjectOther {
 	background-color: #9e9e9e;
 }
-.pfAndroid {
+.subjectAndroid {
 	background-color: #8bc34a;
 }
-.pfDesign {
+.subjectDesign {
 	background-color: #e91e63;
 }
-.pfJavaScript {
+.subjectJavaScript {
 	background-color: #ffeb3b;
 }
-.pfJava {
+.subjectJava {
 	background-color: #ff9800;
 }
-.pfKotlin {
+.subjectKotlin {
 	background-color: #3f51b5;
 }
-.pfWeb {
+.subjectWeb {
 	background-color: #795548;
+}
+.subjectSwift {
+	background-color: #ff5722;
 }
 .name {
 	text-align: center;
@@ -154,25 +157,28 @@ while read -r line; do
 			0)
 				case "$cleanItem" in
 					*Android*)
-						echo "\t\t<td class=\"pfAndroid\">" $cleanItem "</td>"	
+						echo "\t\t<td class=\"subjectAndroid\">" $cleanItem "</td>"	
 					;;
 					*Design*)
-						echo "\t\t<td class=\"pfDesign\">" $cleanItem "</td>"	
+						echo "\t\t<td class=\"subjectDesign\">" $cleanItem "</td>"	
+					;;
+					*JavaScript*)
+						echo "\t\t<td class=\"subjectJavaScript\">" $cleanItem "</td>"	
 					;;
 					*Java*)
-						echo "\t\t<td class=\"pfJava\">" $cleanItem "</td>"	
-					;;
-					*JS*)
-						echo "\t\t<td class=\"pfJavaScript\">" $cleanItem "</td>"	
+						echo "\t\t<td class=\"subjectJava\">" $cleanItem "</td>"	
 					;;
 					*Kotlin*)
-						echo "\t\t<td class=\"pfKotlin\">" $cleanItem "</td>"	
+						echo "\t\t<td class=\"subjectKotlin\">" $cleanItem "</td>"	
 					;;
 					*Web*)
-						echo "\t\t<td class=\"pfWeb\">" $cleanItem "</td>"	
+						echo "\t\t<td class=\"subjectWeb\">" $cleanItem "</td>"	
+					;;
+					*Swift*)
+						echo "\t\t<td class=\"subjectSwift\">" $cleanItem "</td>"	
 					;;
 					*)
-						echo "\t\t<td class=\"pfOther\">" $cleanItem "</td>"
+						echo "\t\t<td class=\"subjectOther\">" $cleanItem "</td>"
 					;;
 				esac
 				;;
