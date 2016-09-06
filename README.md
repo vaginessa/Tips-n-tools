@@ -1531,6 +1531,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> AES , security , encryption , preferences </td>
 		<td class="url"> https://github.com/PDDStudio/EncryptedPreferences </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Legofy </td>
+		<td class="description"> Make images look as if they are made out of 1x1 LEGO blocks </td>
+		<td class="keywords"> Lego </td>
+		<td class="url"> https://github.com/JuanPotato/Legofy </td>
+	</tr>
 </table>
 
 

@@ -221,3 +221,4 @@ Android;RingProgress;A circle progress bar with effect;ring , progress view;http
 Android;ChompProgressView;A semi realistic progress view that takes bites out of images;animation , effect , omnomnomnom;https://github.com/andyb129/ChompProgressView
 Android;SmileyLoadingView;A custom loading view;loading view , animations;https://github.com/andyxialm/SmileyLoadingView
 Android;EncryptedPreferences;AES-256 encrypted SharedPreferences;AES , security , encryption , preferences;https://github.com/PDDStudio/EncryptedPreferences
+Design;Legofy; Make images look as if they are made out of 1x1 LEGO blocks;Lego;https://github.com/JuanPotato/Legofy
