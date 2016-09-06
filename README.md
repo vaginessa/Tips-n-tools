@@ -3185,6 +3185,48 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Android , heap , allocation , memory </td>
 		<td class="url"> https://medium.com/@huynhquangthao/android-heap-allocation-zero-to-one-a986b61f66b6#.hatke64i7 </td>
 	</tr>
+	<tr>
+		<td class="subjectScala"> Scala </td>
+		<td class="name"> Scala </td>
+		<td class="description"> </td>
+		<td class="keywords"> Scala </td>
+		<td class="url"> http://www.scala-lang.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectScala"> Scala </td>
+		<td class="name"> Scala on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Scala , Android </td>
+		<td class="url"> http://macroid.github.io/ScalaOnAndroid.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Lorem pixel </td>
+		<td class="description"> Placeholder images </td>
+		<td class="keywords"> images , lorem ipsum </td>
+		<td class="url"> http://lorempixel.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectGroovy"> Groovy </td>
+		<td class="name"> Groovy </td>
+		<td class="description"> </td>
+		<td class="keywords"> Groovy </td>
+		<td class="url"> http://www.groovy-lang.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectGroovy"> Groovy </td>
+		<td class="name"> Android on Groovy </td>
+		<td class="description"> </td>
+		<td class="keywords"> Groovy , Android </td>
+		<td class="url"> http://fr.slideshare.net/sascha_klein/android-on-groovygr8-48989809 </td>
+	</tr>
+	<tr>
+		<td class="subjectGroovy"> Groovy </td>
+		<td class="name"> Developping Android applications with Groovy ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> Groovy , Android </td>
+		<td class="url"> https://speakerdeck.com/player/e8e58fc0cdee0131f20616308848c4b8# </td>
+	</tr>
 </table>
 
 
