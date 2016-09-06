@@ -231,3 +231,10 @@ Android;NDK;The Android NDK is a toolset that lets you implement parts of your a
 Swift;Advanced ObjC <-> Swift Interoperability;;ObC , Swift , interoperability;https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/
 Kotlin;K for Kotlin;;Kotlin;https://speakerdeck.com/marcpoppleton/k-for-kotlin
 Kotlin;Kotlin awesome tricks for Android;;Kotlin , tricks;http://antonioleiva.com/kotlin-awesome-tricks-for-android/
+Web;Physical Web URL validatator;;physical web , URL;https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/
+Java;Getters and setters are evil;;getter , setter , spaghetti , POO , OO;http://www.marcus-biel.com/getters-and-setters-are-evil/?utm_content=buffer27e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+/;Anemic Domain Model;;OO , pattern , conception , layers;http://www.martinfowler.com/bliki/AnemicDomainModel.html
+Go;The Go Blog;;Go;https://blog.golang.org/
+Go;iOS and Android Programming with Go;;Go , Android , iOS;https://www.sitepoint.com/ios-and-android-programming-with-go/
+Go;Github Wiki Go;;Go;https://github.com/golang/go/wiki/Mobile
+Android;Android Heap Allocation zero-to-one;;Android , heap , allocation , memory;https://medium.com/@huynhquangthao/android-heap-allocation-zero-to-one-a986b61f66b6#.hatke64i7

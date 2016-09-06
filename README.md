@@ -3129,6 +3129,55 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Kotlin , tricks </td>
 		<td class="url"> http://antonioleiva.com/kotlin-awesome-tricks-for-android/ </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Physical Web URL validatator </td>
+		<td class="description"> </td>
+		<td class="keywords"> physical web , URL </td>
+		<td class="url"> https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Getters and setters are evil </td>
+		<td class="description"> </td>
+		<td class="keywords"> getter , setter , spaghetti , POO , OO </td>
+		<td class="url"> http://www.marcus-biel.com/getters-and-setters-are-evil/?utm_content=buffer27e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Anemic Domain Model </td>
+		<td class="description"> </td>
+		<td class="keywords"> OO , pattern , conception , layers </td>
+		<td class="url"> http://www.martinfowler.com/bliki/AnemicDomainModel.html </td>
+	</tr>
+	<tr>
+		<td class="subjectGo"> Go </td>
+		<td class="name"> The Go Blog </td>
+		<td class="description"> </td>
+		<td class="keywords"> Go </td>
+		<td class="url"> https://blog.golang.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectGo"> Go </td>
+		<td class="name"> iOS and Android Programming with Go </td>
+		<td class="description"> </td>
+		<td class="keywords"> Go , Android , iOS </td>
+		<td class="url"> https://www.sitepoint.com/ios-and-android-programming-with-go/ </td>
+	</tr>
+	<tr>
+		<td class="subjectGo"> Go </td>
+		<td class="name"> Github Wiki Go </td>
+		<td class="description"> </td>
+		<td class="keywords"> Go </td>
+		<td class="url"> https://github.com/golang/go/wiki/Mobile </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Heap Allocation zero-to-one </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , heap , allocation , memory </td>
+		<td class="url"> https://medium.com/@huynhquangthao/android-heap-allocation-zero-to-one-a986b61f66b6#.hatke64i7 </td>
+	</tr>
 </table>
 
 

@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 9.0.0
+# Version.............: 10.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -79,6 +79,9 @@ table, td, .header {
 }
 .subjectSwift {
 	background-color: #ff5722;
+}
+.subjectGo {
+	background-color: #2196f3;
 }
 .name {
 	text-align: center;
@@ -177,6 +180,9 @@ while read -r line; do
 					*Swift*)
 						echo "\t\t<td class=\"subjectSwift\">" $cleanItem "</td>"	
 					;;
+					*Go*)
+						echo "\t\t<td class=\"subjectGo\">" $cleanItem "</td>"	
+					;;					
 					*)
 						echo "\t\t<td class=\"subjectOther\">" $cleanItem "</td>"
 					;;
