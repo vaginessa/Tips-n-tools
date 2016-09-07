@@ -226,3 +226,4 @@ Android;Barcodescanner;;bar code , qr code , scanner;https://github.com/dm77/bar
 Android;RecyclerViewSnap;;snap helper , snap , view , swipe;https://github.com/rubensousa/RecyclerViewSnap
 Android;CompareImage;;image , comparison;https://github.com/Onkarn92/CompareImage
 Design;Thumby;Image paring and resizing server;picture , operations;https://www.thumby.io/
+Kotlin;Spek;A Kotlin Specification Framework for the JVM;uni tests , Kotlin , spek , tests;http://jetbrains.github.io/spek/notes/1.0.html

@@ -1566,6 +1566,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> picture , operations </td>
 		<td class="url"> https://www.thumby.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> Spek </td>
+		<td class="description"> A Kotlin Specification Framework for the JVM </td>
+		<td class="keywords"> uni tests , Kotlin , spek , tests </td>
+		<td class="url"> http://jetbrains.github.io/spek/notes/1.0.html </td>
+	</tr>
 </table>
 
 
