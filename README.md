@@ -1573,6 +1573,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> uni tests , Kotlin , spek , tests </td>
 		<td class="url"> http://jetbrains.github.io/spek/notes/1.0.html </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Cloud convert </td>
+		<td class="description"> Convert anything </td>
+		<td class="keywords"> convert , GIF , mp4 , memes </td>
+		<td class="url"> https://cloudconvert.com/ </td>
+	</tr>
 </table>
 
 
