@@ -3228,7 +3228,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="url"> http://macroid.github.io/ScalaOnAndroid.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Lorem pixel </td>
 		<td class="description"> Placeholder images </td>
 		<td class="keywords"> images , lorem ipsum </td>
@@ -3261,6 +3261,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> AMOLED , battery , screen , wallpapers , themes </td>
 		<td class="url"> http://www.androidcentral.com/heres-thing-about-dark-themes-and-battery-savings </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Project blocks </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , blocks </td>
+		<td class="url"> https://projectbloks.withgoogle.com/ </td>
 	</tr>
 </table>
 
