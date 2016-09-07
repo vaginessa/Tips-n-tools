@@ -1538,6 +1538,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Lego </td>
 		<td class="url"> https://github.com/JuanPotato/Legofy </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Barcodescanner </td>
+		<td class="description"> </td>
+		<td class="keywords"> bar code , qr code , scanner </td>
+		<td class="url"> https://github.com/dm77/barcodescanner </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RecyclerViewSnap </td>
+		<td class="description"> </td>
+		<td class="keywords"> snap helper , snap , view , swipe </td>
+		<td class="url"> https://github.com/rubensousa/RecyclerViewSnap </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CompareImage </td>
+		<td class="description"> </td>
+		<td class="keywords"> image , comparison </td>
+		<td class="url"> https://github.com/Onkarn92/CompareImage </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Thumby </td>
+		<td class="description"> Image paring and resizing server </td>
+		<td class="keywords"> picture , operations </td>
+		<td class="url"> https://www.thumby.io/ </td>
+	</tr>
 </table>
 
 
@@ -3226,6 +3254,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> Groovy , Android </td>
 		<td class="url"> https://speakerdeck.com/player/e8e58fc0cdee0131f20616308848c4b8# </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Herethings about dark themes and battery savings </td>
+		<td class="description"> </td>
+		<td class="keywords"> AMOLED , battery , screen , wallpapers , themes </td>
+		<td class="url"> http://www.androidcentral.com/heres-thing-about-dark-themes-and-battery-savings </td>
 	</tr>
 </table>
 

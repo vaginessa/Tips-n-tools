@@ -222,3 +222,7 @@ Android;ChompProgressView;A semi realistic progress view that takes bites out of
 Android;SmileyLoadingView;A custom loading view;loading view , animations;https://github.com/andyxialm/SmileyLoadingView
 Android;EncryptedPreferences;AES-256 encrypted SharedPreferences;AES , security , encryption , preferences;https://github.com/PDDStudio/EncryptedPreferences
 Design;Legofy; Make images look as if they are made out of 1x1 LEGO blocks;Lego;https://github.com/JuanPotato/Legofy
+Android;Barcodescanner;;bar code , qr code , scanner;https://github.com/dm77/barcodescanner
+Android;RecyclerViewSnap;;snap helper , snap , view , swipe;https://github.com/rubensousa/RecyclerViewSnap
+Android;CompareImage;;image , comparison;https://github.com/Onkarn92/CompareImage
+Design;Thumby;Image paring and resizing server;picture , operations;https://www.thumby.io/
