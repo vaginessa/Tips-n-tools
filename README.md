@@ -29,7 +29,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> IFTTT </td>
-		<td class="description"> To automate commuunity maangement </td>
+		<td class="description"> To automate community management </td>
 		<td class="keywords"> </td>
 		<td class="url"> https://ifttt.com/ </td>
 	</tr>
@@ -1225,8 +1225,8 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> A type safe HTTP client for Android and Java </td>
-		<td class="description"> </td>
+		<td class="name"> Retrofit </td>
+		<td class="description"> A type safe HTTP client for Android and Java </td>
 		<td class="keywords"> HTTP client , OkHTTP </td>
 		<td class="url"> http://square.github.io/retrofit/ </td>
 	</tr>
@@ -1579,6 +1579,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> Convert anything </td>
 		<td class="keywords"> convert , GIF , mp4 , memes </td>
 		<td class="url"> https://cloudconvert.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Pidcat </td>
+		<td class="description"> Colored logcat script which only shows log entries for a specific application package </td>
+		<td class="keywords"> log , logcat , debug </td>
+		<td class="url"> https://github.com/JakeWharton/pidcat </td>
 	</tr>
 </table>
 
