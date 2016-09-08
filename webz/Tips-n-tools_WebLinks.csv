@@ -1,248 +1,44 @@
-Web links;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-Platform;Name;Description;Keywords;URL
-Android;Putting APK on diet;Tips to reduce heavy APK and have a better hygiene;tuto , APK;http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
-/;Store optimisation;The marketer's guide to app store optimisation by buzinga;tuto;https://drive.google.com/file/d/0B9spdRnukR4EakdPUUxtTUpBME0/view?pli=1
-Android;Multidex;About multidexing and eprformances;tuto , multidex;https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.dlmgdpq5s
-Android;UI Tips for pre and post Lollipop;;tuto , lollipop , design , material;https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2#.vb6rojwz0
-Android;Implement app invites;;tuto , app invites;http://riggaroo.co.za/app-invites-in-android/
-Android;Android login and signup screens;;tuto , material , login screen;http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
-/;Upgrade;Site de veille;;http://upgrade.news/
-Android;Reduce your Android build duration;;;http://blog.octo.com/en/reduce-android-build-duration/
-Android;Data Binding Library: Great UI’s with Less code;;tuto , lib , data binding , vues;https://medium.com/google-developer-experts/data-binding-library-great-ui-s-with-less-code-f2575e0c588e#.xvrqq77qf
-Android;Genymotion, Gradle, Flavors;Stable functional tests with Genymotion Gradle Plugin and test-specific Product Flavors;gradle , flavors , genymotion;https://medium.com/@tomaszrykala/stable-functional-tests-with-genymotion-gradle-plugin-and-test-specific-product-flavors-4fe4b93f7c8c#.d3bwmzi2k
-Android;Make translations for apps;;traduction , i18n;https://medium.com/glucosio-project/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.1wzovrx49
-Android;Quality and performances;Engineering Android apps for Performance & Quality;;https://speakerdeck.com/pareshmayani/engineering-android-apps-for-performance-and-quality
-/;10 conseils pour rendre votre présentation mémorable;;pitch , keynote , présentation;http://2015.shake.events/2015/06/22/10-conseils-pour-rendre-votre-presentation-memorable/
-Design;Introducing Material Deisgn Lite;;material design;https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031#.j3g2wiaz7
-JavaScript;;ES5 to ES6;ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT;http://es6-features.org/
-Android;Performances;;perfs , optimisation , Android , power , memory , leaks;http://fr.slideshare.net/seamaster29/10-ways-to-improve-your-android-app http://fr.slideshare.net/jerrinsg/android-power-management http://fr.slideshare.net/AliMuzaffar2/android-preventing-common-memory-leaks http://fr.slideshare.net/GlobalLogicUkraine/android-ui-performance-overdraw http://fr.slideshare.net/arslantumbin/performance-optimization-for-android-32797106
-Android;Awesome Android libraries;;material design , libs , UI / UX;https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
-Android;Android Figuren;;Android , goodies , geek;http://www.androidfiguren.de/
-Android;Top 5 Android Testing Frameworks (with Examples);;Robotium , Espresso , UI Automator , Appium , Calabash ;http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples
-Design;Créer un bon logo d'application mobile;;design , logos;http://www.aieaieeye.com/creer-un-bon-logo-dapplication-mobile-pourquoi-comment/
-/;Diaspora*;;;https://diasporafoundation.org/
-Design;Clipingmagic;;png transparent;https://clippingmagic.com/
-Design;Designeuropre;;;http://designrope.com/design/find-stock-photos-dont-suck/
-Design;JustinMind;;mock up , proto , maquette;http://www.justinmind.com/
-/;5 règles pour réussir son hackathon;;hackathon , conseils;https://dakeez.wordpress.com/2011/11/15/5-regles-pour-reussir-son-hackathon/
-Android;Eliminating Code Overhead;;tutos , code overhead;https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015
-Design;Five app prototyping tools compared;;comparaisons , apps maquettes;https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61#.6szx9q47g
-Design;Flaticons;;images , icons;http://www.flaticon.com/
-Android;Appscreenshotmaker;;screen shots , store;http://appscreenshotmaker.com/
-Android;Build a Material Design App;;material design , tuto;https://codelabs.developers.google.com/codelabs/Material-Design-Style/index.html#0
-Design;Color palette;;couleurs , material design;https://www.google.com/design/spec/style/color.html#color-color-palette
-/;Unicode;;unicode;http://unicode-table.com/en/
-/;Draw.io;;;https://www.draw.io/
-Android;Develop a secured Android app;;;http://blog.octo.com/en/develop-secured-android-application/
-Android;JSON schema to POJO;;json , pojo , java;http://www.jsonschema2pojo.org/
-/;Choose a License;;;http://creativecommons.org/choose/       http://creativecommons.fr/licences/
-/;Git VS SVN;;git , svn;http://stackoverflow.com/questions/871/why-is-git-better-than-subversion     http://www.codeforest.net/git-vs-svn https://help.github.com/articles/what-are-the-differences-between-svn-and-git/
-Android;Libtastic;;;http://www.libtastic.com/
-Android;3 unit tests to avoid bad surprises on Android;;;http://jeremie-martinez.com//2016/02/16/unit-tests/
-Android;Avoiding cold starts on Android;;android , cold start;http://saulmm.github.io/avoding-android-cold-starts
-Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/ https://github.com/pxb1988/dex2jar
-Android;Make an app survive in the Android ocean;;app , vie app , ;http://vourkosa.github.io/monetization/2016/03/17/Making-an-app-survive-in-Android-ocean.html
-Android;Android threads;;threads , intent services , services;http://techtej.blogspot.fr/2011/03/android-thread-constructspart-4.html
-Android;About flip animatiions;;;http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k
-Android;DroidLinguist;A tool that helps you easily translate your killer android apps!;languages , i18n;https://droidlinguist.io/#/home
-Android;Adding badge or count to the navigation drawer;;;https://medium.com/@harivigneshjayapalan/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9#.xnst0zp4v
-Android;Tooleap;;flaoting ui;http://www.tooleap.com/
-Design;How to design native mobile apps ?;;;http://uxhow.com/apps/
-/;Choose a license;;;http://choosealicense.com/licenses/    http://choosealicense.com
-Android;Before publishing;Two things to check before publishing the app;shareUserId , package, app store;https://medium.com/developing-intent/android-developer-important-manifest-checks-8c86064013aa#.b8pdnntb7
-Android;ProGuar;;;http://developer.android.com/tools/help/proguard.html
-Android;Google App Licensing ;;protection , external apk , license;http://developer.android.com/google/play/licensing/index.html
-Android;Awesome Android performance;;;https://github.com/Juude/awesome-android-performance
-Android;Loading DEX cpode over the network;;;http://gilvegliach.it/?id=12
-Android;Fighting application size with ProGuard and beyond;;;http://fr.slideshare.net/GuardSquare/eric-lafortune-fighting-application-size-with-proguard-and-beyond
-Android;How to build a solid base for Matgerial Design App;;material design , case study;https://blog.prototypr.io/how-we-build-a-solid-base-for-a-material-design-app-a-case-study-3c4925d26d8b#.hmp6pabhk
-Android;Optimize battery life with GCM;;Android , battery , GCM;https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
-Android;Android code convention;;code convention;http://fr.slideshare.net/Shaon_sikdar/android-code-convention    https://source.android.com/source/code-style.html
-Android;Combining Vector Drawables with Day/Night Theme;;;https://medium.com/@hellotimmutton/combining-vector-drawables-with-day-night-theme-3b89e525475#.6hju4wcc4
-Java;Mockito;;mocks , TU , mockito;http://blog.soat.fr/2013/07/mockito-ou-comment-faciliter-lecriture-de-tests-unitaires/    https://gojko.net/2009/10/23/mockito-in-six-easy-examples/
-Java;PowerMock;;mocks , TU , mockito , PowerMock;http://blog.netapsys.fr/etendez-les-fonctionnalites-de-mockito-grace-a-powermock/    https://github.com/jayway/powermock
-Android;OpenGL 2;;OpenGL 2;https://medium.com/@WoloxEngineering/bootstrap-android-opengl-2-0-9ee1107aa4ab#.rhwmv86g0
-Android;About Bottom Navigation;;bottom navigation;https://medium.com/@lucasurbas/how-to-measure-the-new-bottom-navigation-on-android-2a49cbf76599#.4mgi14cv8
-Android;Automate screenshots for store;;screen shots;https://lambdasoup.com/post/automate_screenshots_1/
-Android;Backup/Restore a Realm database on Google Drive with Drive API;;database , realm , api , google drive;https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.8836vldbz
-Android;SOLID;;solid;https://realm.io/news/donn-felker-solid-part-1/   https://realm.io/news/donn-felker-solid-part-2/   https://realm.io/news/donn-felker-solid-part-3/   https://realm.io/news/donn-felker-solid-part-4/
-/;Learn X in Y;;;https://learnxinyminutes.com/
-Android;Accesibility tests;;accessibility tests;https://robots.thoughtbot.com/accessibility-testing-on-android
-Android;Bottom Sheets;;;http://www.materialdoc.com/bottom-sheets/
-Design;How to build material design prototypes;;sketch , pixate , prototype;http://createdineden.com/blog/post/material-design-prototype-tutorial-part-1/
-Android;Visualize and reduce methods count;;;http://jeroenmols.com/blog/2016/05/06/methodcount/
-Android;Architectures découplées;;RxJava;https://speakerdeck.com/dwursteisen/architecture-decouplee-grace-aux-reactive-extensions
-Android;Abouts tools namespaces;;;http://blog.alexsimo.com/mastering-tools-namespace-android/
-Android;The absolute minimum Android developers need to know;;;https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-1-of-5-cab50bbcf787#.q3qif13fu
-Android;Improve code inspections with annotations;;annotations , code inspection;http://developer.android.com/tools/debugging/annotations.html
-Android;References;;reference , weakreference , softreference;http://cyrilmottier.com/2010/05/27/devenez-le-maitre-des-references-sous-android/
-Android;Instant Run and Android Studio;;;https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.1rj3uv7jw
-Android;MVP and common code modules;;MVP , common code modules;https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.bij04w9z0
-Android;Codelab MVP;;MVP;https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0
-Android;Model View Presenter (MVP);;MVP;http://www.tinmegali.com/en/model-view-presenter-android-part-1/
-Android;Realm, Dagger and MVP;;;http://www.thedroidsonroids.com/blog/android/example-realm-mvp-dagger/
-Android;Android Development Patterns;;;http://android-developers.blogspot.fr/2016/05/designing-for-multi-window.html
-Android;Supporting multiple screens;;Android , resolution , dpi , size , screens;https://developer.android.com/guide/practices/screens_support.html
-Android;System permisions;;normal , dangerous , permisions;https://developer.android.com/guide/topics/security/permissions.html#normal-dangerous
-Android;Nimbledroid;;performance , analysis;https://nimbledroid.com/
-Android;Building responsive UI;;Android , resolution , dpi , size , screens , responsive , UI;https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.6k5j9wcbm
-Android;Android scheduler;;job scheduler , sync adapter , gcm network manager;https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
-Android;Device Art Generator;;android , devices , mockups , screenshots , captures , store;https://developer.android.com/distribute/tools/promote/device-art.html
-Android;Constraint Layout;;;https://github.com/hitherejoe/Constraints
-Android;Android transition animations samples;;;https://github.com/lgvalle/Material-Animations
-Android;BottomSheetBehavior and AnchorSheetBehavior;;;https://medium.com/@marxallski/from-bottomsheetbehavior-to-anchorsheetbehavior-262ad7997286#.a1qvo1dqe
-Android;Maintain its custom view;;;http://ivankocijan.xyz/writing-a-maintainable-custom-view-in-android/
-Android;Assets minification for leaner APK;;;https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
-Android;RenderThread;;thread , animations , canvas;https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979#.5vstqpc5s
-Android;Why your canvas shapes are not smooth;;canvas;https://medium.com/@ali.muzaffar/android-why-your-canvas-shapes-arent-smooth-aa2a3f450eb5#.f7396l5bc
-Android;About contraint layouts;;;https://medium.com/@mustafa01ali/android-constraintlayout-friends-1b8299ab4340#.eaf8wgsfj
-Android;Building an Android app using the MVP pattern;;;https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
-Android;Android and crypto;;;https://www.cossacklabs.com/choose-android-crypto.html
-Android;Build a Settings Screen;;;https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
-Design;Devices;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
-Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
-/;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
-/;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
-Android;The curious case of dependency conflicts;;Gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
-Android;Identify, treat and avoid memory leaks;;memory , leaks;https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm
-Android;Using Bitmap Pools in Android;;bitmap , bitmap pools;https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m
-Android;Android app performances tips;;performances ;https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952
-/;Google : My Activity;Manage its activity through Google's services and products;google;https://myactivity.google.com/myactivity
-/;Google : Maps timeline;;google;https://www.google.com/maps/timeline
-/;Google : Dashboard;;google;https://www.google.com/settings/dashboard?hl=fr
-/;Google : My account;;google;https://myaccount.google.com/?utm_source=OGB
-/;Linux : Tor;;privacy , linux , tor;https://doc.ubuntu-fr.org/tor
-/;Linux : Cryptsetup;;privacy , linux;https://doc.ubuntu-fr.org/cryptsetup
-/;Tor Browser;;privacy , TOR;https://www.torproject.org/projects/torbrowser.html.en
-/;CyanogenMod;;;http://www.cyanogenmod.org/
-/;ArchLinux;;linux;https://archlinux.fr/
-/;Linux Mint;;linux;https://www.linuxmint.com/
-/;Keybase.io;;privacy , identity , public keys;https://keybase.io/
-/;Mailvelope;;privacy;https://www.mailvelope.com/
-/;ProtonMail;;privacy;https://protonmail.com/fr/
-/;Spideroak;;privacy;https://spideroak.com/
-/;Cryptocat;;privacy;https://crypto.cat/
-/;Bleep;;privacy , chat;http://www.bleep.pm/
-/;Epic Privacy Browser;;privacy;https://www.epicbrowser.com/
-Android;Benchmarking on Android;;;http://greenrobot.org/android/benchmarking-on-android/
-Android;Deep Dive Into Android State Restoration;;state , restoration;https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration
-Android;Android dashboards;;Android , fragmentation , versions;https://developer.android.com/about/dashboards/index.html
-Android;Upsight;;marketing , analytics ;http://www.upsight.com
-Android;Apteligent;Mobile application performance management;Crittercism , APM , metrics ;https://www.apteligent.com/
-/;Certificate and Public Key Pinning;;certificate;https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning 
-Android;Security with HTTPS and SSL ;;HTTPS , security , SSL;https://developer.android.com/training/articles/security-ssl.html
-Android;Supporting different screen sizes;;layout , sw , aliases , res;https://developer.android.com/training/multiscreen/screensizes.html
-/;GSM Arena;Compare devices;;http://www.gsmarena.com/
-/;Phone Arena ;Compare devices;;http://www.phonearena.com/
-Android;The Android Arsenal;;tools , libs;https://android-arsenal.com/
-Android;Android Police;;tools , libs , news , veille;http://www.androidpolice.com/
-/;Unitag;To build and customize QR codes;QR codes , tag;https://www.unitag.io/fr/qrcode
-Android;How not to become a public enemy;;guidelines , public project , tips;http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
-Design;Programmatically create a ripple drawable of any color;;drawable;http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
-Android;Best Practices with Background Jobs;;background , jobs , tasks , service , data load;https://developer.android.com/training/best-background.html
-Android;Android & Tech Publications;;;https://medium.com/android-news/tagged/android
-Android;Better Android Intents with Dart and Henson;;Dart , Henson , intents;https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b
-/;Big ball of mud and other architectural disasters;;;https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/
-Java;Howdy RxJava;;RxJava , reactive programming;https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.sqfdlgy5d
-Java;Android WebSocket. Feedback, or when every second matters;;websockets;https://stfalcon.com/en/blog/post/android-websocket
-Android;Timing is everything;;interpolation , animations;https://medium.com/google-developers/timing-is-everything-8218b8df5485#.mk0b3s4xr
-Android;Identify performance issues in your Android application;;performances , optimization;http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
-/;Why developers are scared to refactor code ?;;refactoring , TDD;https://medium.com/@nileshjarad/why-developers-scared-to-refactor-code-47efd1b854e7#.w15pydp4f
-Kotlin;Why Kotlin is my next programming langage;;Kotlin , Java;https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.ttk52j1bf
-Kotlin;Comparison to Scala;;Kotlin , Scala;https://kotlinlang.org/docs/reference/comparison-to-scala.html
-Kotlin;Comparison to Java;;Kotlin , Java;https://kotlinlang.org/docs/reference/comparison-to-java.html
-Web;Can I use;;web , API , features;http://caniuse.com/
-Web;What web can do today;;web , API , features;https://whatwebcando.today/
-JavaScript;JS Republic;;JavaScript;http://blog.js-republic.com/
-/;Getting the most out of Crashlytics;;Crashlytics;https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n
-/;Code smells;;code , smells;https://blog.codinghorror.com/code-smells/
-Web;UNCSS;;CSS , uncss;http://blog.js-republic.com/avec-uncss-mettez-au-regime-vos-feuilles-de-styles/
-Web;Normalize CSS;To normalize CSS and their effects in browsers;normalize , css;https://necolas.github.io/normalize.css/
-Web;Skeleton CSS;;skeleton , css;http://getskeleton.com/
-Web;Animate CSS;;animations , css;https://daneden.github.io/animate.css/
-JavaScript;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/
-/;TIOBE;;programming langages , rank;http://www.tiobe.com/tiobe-index/
-/;PYPL;;programming langages , rank;http://pypl.github.io/PYPL.html
-Android;How to do TDD in Android ?;;TDD , tests;https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl
-/;Trello;Tool for collaborative work;dev , tools;https://trello.com/
-/;Jira;Tool for collaborative work;dev , tools;https://fr.atlassian.com/software/jira
-/;Telegram;;privacy;https://telegram.org/
-/;Taiga;Tool for collaborative work;dev , tools;https://taiga.io/
-Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava
-/;MVP vs MVP vs MVVM;;;https://nirajrules.wordpress.com/2009/07/18/mvc-vs-mvp-vs-mvvm/
-/;Difference between MVC, MVP and MVVM;;MVC , MVP , MVVM;https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe
-/;Why you should care about copyright;;copyright;http://jeroenmols.com/blog/2016/08/03/copyright/
-Android;Awareness API;;awareness API;https://developers.google.com/awareness/
-/;Device Specifications;;devices , specs , hardware , comparison;http://www.devicespecifications.com/en
-/;Duo Skin;;tatoo , duo skin , transhumanism;http://duoskin.media.mit.edu/
-/;Flutter;;Android , iOS;https://flutter.io/
-Design;Justinmind;;prototyping;http://www.justinmind.com/
-Design;Display resolutions;;resolution;https://en.wikipedia.org/wiki/Graphics_display_resolution
-Android;Code style;;guidelines;https://source.android.com/source/code-style.html
-Android;Buffer app guidelines;;guidelines;https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md
-/;Packtpub;Packt publishing;books , ebooks;https://www.packtpub.com/
-Android;26 Awesome Android Reverse Engineering Tools;;RI , reverse engineering , tools;https://hackerlists.com/android-reverse-engineering-tools/
-Android;Dare;Dalvik Retargeting;RI , reverse engineering , tools;http://siis.cse.psu.edu/dare/index.html
-Android;Dedexer;Disassembler tool for DEX files;RI , reverse engineering , tools;http://dedexer.sourceforge.net/
-Android;Intent Sniffer;;RI , reverse engineering , tools;https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/
-Android;CFR;Another Java decompiler;RI , reverse engineering , tools;http://www.benf.org/other/cfr/
-Java;JAD;Java Decompiler;RI , reverse engineering , tools;http://varaneckas.com/jad/
-/;Software development explained with cars;;;https://toggl.com/developer-methods-infographic
-Kotlin;Learn Kotlin while developing an Android app;;Kotlin , tutorials;https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.4izg7j9n9
-Android;Feature discovery;;tap targets , prompts , step actions;https://material.google.com/growth-communications/feature-discovery.html#
-Android;Pathmorphing with AnimatedVectorDrawables in Android;;drawables , pathmorphing , animations;https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
-Web;Progressive Web Apps;;web app;https://developers.google.com/web/progressive-web-apps/
-/;Ecrans AMOLED vs IPS : qui offre la meilleure qualité d'afichage ?;;AMOLED , IPS;http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html
-/;Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina;;LCD , TFT , IPS , AMOLED , Retina;http://www.androidpit.fr/difference-lcd-tft-amoled-retina
-Web;Progressive Web Apps rocks;;progressive web apps;https://pwa.rocks/
-Android;Android Pit;;veille , news;http://www.androidpit.fr/
-Android;Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets;Article with references to tools or companies about security;security;http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm
-Android;FrAndroid;;veille , news;http://www.frandroid.com/
-/;Clubic;;veille , news;http://www.clubic.com/
-/;Next Inpact;;veille , news;http://www.nextinpact.com/
-/;ZDNet;;veille , news;http://www.zdnet.fr/
-Kotlin;Lessons from converting an app to 100% Kotlin;;Kotlin , app convert;https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.3rmy7agwo
-/;"
-Escaping The Sandbox By Not Breaking It";;Android , iOS , sandbox;https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it
-/;Learn Git with Bitbucket Cloud;;Git , tutorial;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
-/;Qualcomm Processors Comparison;;devices , specs , hardware , comparison , snapdragon;https://www.qualcomm.com/products/snapdragon/processors/comparison
-/;AnTuTu;;devices , specs , hardware , comparison;http://www.antutu.com/en/index.shtml
-Android;Android Foundry;;Android , goodies , geek;http://android-foundry.com/
-Android;Hype pulse;;Android , goodies , geek;http://www.hypepulse.com/
-/;PC Mark;Complete performance testing;devices , tests , hardware;https://www.futuremark.com/benchmarks/pcmark
-/;GameBench;A suite of performance analysis tools for Android and iOS devices;devices , tests , hardware;https://www.gamebench.net/
-Kotlin;Kotlin : The Good, The Bad, The Ugly;;Kotlin , how to;https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.nbl0pt294
-Android;And then my phone became smarter – A journey into the Awareness API;;API Awareness;https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api
-Design;Dreamstime;;pictures , photos, free;https://fr.dreamstime.com/
-Android;Android versions comparisons;;Android , versions , Apple Pie , Banana Bread , Cupcake , Donut , Eclair, Froyo , Gingerbread , Honeycomb , Ice Cream Sandwich , Jelly Bean , Kit Kat , Lollipop , Marshmallow , Nougat;http://socialcompare.com/fr/comparison/android-versions-comparison
-Android;Stop ignoring Android Lint, use it;;Lint;https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8#.91gmqdksr
-Android;Devknox;Androdi Studio plugin that helps developers to detect and resolve security issues;security , app;https://devknox.io/documentation
-/;List of programming langages by type;;langages , types , paradigms;https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
-/;Programming paradigm;;langages , types , paradigms;https://en.wikipedia.org/wiki/Programming_paradigm
-Android;Reducing Mobile Data Usage in your Apps;;mobile data;https://www.youtube.com/watch?v=tnj2uoTwevg
-Kotlin;Kotlin reference;;Kotlin , lessons , basics;https://kotlinlang.org/docs/reference/
-Android;Android Tips and Tricks;;tips , IDE , code , dev , cheats;https://github.com/nisrulz/android-tips-tricks
-Android;RenderScript;RenderScript is a framework for running computationally intensive tasks at high performance on Android. ;intensive tasks , performances , data-parallel computation;https://developer.android.com/guide/topics/renderscript/compute.html
-Android;NDK;The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++.;NDK;https://developer.android.com/ndk/index.html
-Swift;Advanced ObjC <-> Swift Interoperability;;ObC , Swift , interoperability;https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/
-Kotlin;K for Kotlin;;Kotlin;https://speakerdeck.com/marcpoppleton/k-for-kotlin
-Kotlin;Kotlin awesome tricks for Android;;Kotlin , tricks;http://antonioleiva.com/kotlin-awesome-tricks-for-android/
-Web;Physical Web URL validatator;;physical web , URL;https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/
-Java;Getters and setters are evil;;getter , setter , spaghetti , POO , OO;http://www.marcus-biel.com/getters-and-setters-are-evil/?utm_content=buffer27e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-/;Anemic Domain Model;;OO , pattern , conception , layers;http://www.martinfowler.com/bliki/AnemicDomainModel.html
-Go;The Go Blog;;Go;https://blog.golang.org/
-Go;iOS and Android Programming with Go;;Go , Android , iOS;https://www.sitepoint.com/ios-and-android-programming-with-go/
-Go;Github Wiki Go;;Go;https://github.com/golang/go/wiki/Mobile
-Android;Android Heap Allocation zero-to-one;;Android , heap , allocation , memory;https://medium.com/@huynhquangthao/android-heap-allocation-zero-to-one-a986b61f66b6#.hatke64i7
-Scala;Scala;;Scala;http://www.scala-lang.org/
-Scala;Scala on Android;;Scala , Android;http://macroid.github.io/ScalaOnAndroid.html
-Design;Lorem pixel;Placeholder images;images , lorem ipsum;http://lorempixel.com/
-Groovy;Groovy;;Groovy;http://www.groovy-lang.org/
-Groovy;Android on Groovy;;Groovy , Android;http://fr.slideshare.net/sascha_klein/android-on-groovygr8-48989809
-Groovy;Developping Android applications with Groovy ?;;Groovy , Android;https://speakerdeck.com/player/e8e58fc0cdee0131f20616308848c4b8#
-Android;Herethings about dark themes and battery savings;;AMOLED , battery , screen , wallpapers , themes;http://www.androidcentral.com/heres-thing-about-dark-themes-and-battery-savings
-/;Project blocks;;Google , blocks;https://projectbloks.withgoogle.com/
+Devices;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Type;OS;Constructor;Name;Screen size;Screen type;Screen resolution;SoC;GPU;Sensors;Battery;Storage;RAM;Camera;Dimensions;Weight;IP;USB Type;SD Card;SIM
+smartphone;Cyanogen;OnePlus;OnePlus One;5.5'';Gorilla Glass 3 , JDI IPS , Touch On Lens;1080 x 1920 px = Full HD;Qualcomm Snapdragon 801;Qualcomm Adreno 330;proximity , light , accelerometer , compass, gyroscope, Bluetooth, NFC, GPS;3100 mAh , Li-Polymer;16 GB , 64 GB;3 GB;Sony Exmor IMX214    CMOS    4.69 x 3.52 mm    1.115 µm    f/2.0    13 MP    (back) , 4.92 MP    (front);152.9 x 75.9 x 8.9 mm;162 g;no;micro-B;no;micro
+smartphone;OxygenOS;OnePlus;OnePlus 2;5.5''; 401 PPI , Incell IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 810;Qualcomm Adreno 430;fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS;3300 mAh , Li-Polymer;16 GB , 64 GB;4 GB;OmniVision OV13860   PureCel    5.55 x 4.8 mm    1.335 µm    f/2.0    13 MP    (back) , 4.92 MP    (front);151.8 x 74.9 x 9.85 mm;175 g;no;C;no;nano , nano
+smartphone;OxygenOS;OnePlus;OnePlus 3;5.5'';Corning Gorilla Glass 4 , 401 PPI , Optic AMOLED;1080 x 1920 px = Full HD;Qualcomm Snapdragon 820;Qualcomm Adreno 530;Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS;3000 mAh , Li-Polymer;64 GB;6 GB;Sony Exmor IMX 298   CMOS    5.22 x 3.92 mm    1.132 µm    f/2.0    16 MP    (back) ,  7.99 MP    (front);152.7 x 74.7 x 7.35 mm;158 g;no;C;no;nano , nano
+smartphone;Android;Huawei;Nexus 6P;5.7'';Corning Gorilla Glass 4, AMOLED;1440 x 2560 px = Quad HD;Qualcomm Snapdragon 810;Qualcomm Adreno 430;Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS;3450 mAh , Li-Polymer;32 GB , 64 GB , 128 GB;3 GB;Sony Exmor IMX337R    CMOS BSI    6.25x4.65 mm    1.55 µm    f/2.0    12.3 MP    (back) , 7.99 MP    (front);159.3 x 77.8 x 7.3 mm;178 g;no;C;no;nano
+smartphone;Android;LG;Nexus 5X;5.2'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 808;Qualcomm Adreno 418;Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3700 mAh , Li-Polymer;16 GB , 32 GB;2 GB;Sony Exmor IMX377 R    CMOS BSI    6.25x4.65 mm    1.55 µm    f/2.0    12.9 MP    (back) , 4.92 MP     (front);147 x 72.6 x 7.9 mm;136 g;no;C;no;nano
+smartphone;Android;Samsung;Galaxy S6;5.1'';Super AMOLED;1440 x 2560 px = Quad HD;Samsung Exynos 7420;ARM Mali-T760 MP8;heart sensor, Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;2550 mAh , Li-Ion;32 GB , 64 GB , 128 GB;3 GB;Sony IMX240 RS Exmor    CMOS    f/1.9    5.95mm x 3.35 mm    1.12 µm    15.87 MP    (back) , 8.29 MP    (front);143.4 x 70.5 x 6.8 mm;138 g;no;2.0 , micro-B;no;nano
+smartphone;Android;Samsung;Galaxy S7 Edge;5.5'';Corning Gorilla Glass 4 , Super AMOLED;1440 x 2560 px = Quad HD;Samsung Exynos 8890;ARM Mali-T880 MP12;heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3600 mAh , Li-Ion;32 GB , 64 GB , 128 GB;4 GB;Sony Exmor IMX260 RS    CMOS   f/1.7    12.19 MP    (back) , 5.04 MP     (front);150.9 x 72.6 x 7.7 mm;157 g;IP68 (dust max, water : 1 m during 30 min);micro-B;microSD;nano
+smartphone;Android;Samsung;Galaxy S7;5.1'';Corning Gorilla Glass 4 , Super AMOLED;1440 x 2560 px = Quad HD;Samsung Exynos 8890;ARM Mali-T880 MP12;heart rate , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3000 mAh , Li-Ion;32 GB , 64 GB;4 GB;Sony Exmor IMX260 RS    CMOS    f/1.7    12.19 MP    (back) , 5.04 MP    (front);142.4 x 69.6 x 7.9 mm;152 g;IP68 (dust max, water : 1 m during 30 min);micro-B;microSD;nano
+smartphone;Android;Samsung;Galaxy Note 7;5.7'';Gorilla Glass 5 , Super AMOLED;Quad HD;Samsung Exynos 8890;?;iris scanner , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3500 mAh;?;4 GO;Sony Exmor IMX260 RS    CMOS    f/1.7    12.19 MP    (back) , 5.04 MP    (front);153.5 x 73.9 x 7.9 mm;168 g;IP68 (dust max, water : 1 m during 30 min);C;?;?
+smartphone;Android;HTC;10;5.2'';Super LCD 5;1440 x 2560 px = Quad HD;Qualcomm Snapdragon 820;Qualcomm Adreno 530;fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3000 mAh , Li-Polymer;32 GB , 64 GB;4 GB;Sony Exmor IMX377 R    CMOS BSI    6.25x4.65 mm    1.55 µm    f/1.8    12.19 MP    (back) , 5.04 MP     (front);145.9 x 71.9 x 9 mm;161 g;IP53 (dust partial, water shoots);3.1 , C;no;nano
+smartphone;Android;LG;G5;5.3'';IPS;1440 x 2560 px = Quad HD;Qualcomm Snapdragon 820;Qualcomm Adreno 530;Hall sensor , fingerprint , proximity , light , accelerometer , compass  , Bluetooth , NFC , GPS , Wi-Fi;2800 mAh , Li-Ion;32 GB;4 GB;CMOS    5.95x3.35 mm    1.12 µm    f/1.8    15.87 MP    (back) , 7.99 MP (front);149.4 x 73.9 x 7.7 mm;159 g;no;3.0 , C;no;nano
+smartphone;Android;Sony;Xperia Z3 Compact;4.6'';IPS;720 x 1280 px = HD;Qualcomm Snapdragon 801;Qualcomm Adreno 330; barometer ,proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2600 mAh , Li-Ion;16 GB , 32 GB;2 GB;Sony Exmor IMX220 RS    CMOS    6.17x4.55mm    1.176 µm    f/2.0    20.66 MP    (back) , 2.07 MP    (front);127 x 64.9 x 8.6 mm;129 g;IP68 (dust max, water : 1 m during 30 min);2.0 , micro-B;microSD;nano
+smartphone;Android;Sony;Xperia Z5;5.2'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 810;Qualcomm Adreno 430;Geomagnetic , barometer ,  fingerprint , proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2900 mAh , Li-Polymer;32 GB;3 GB;Sony Exmor RS    CMOS    6.17x4.55 mm    1.118 µm    22.85 MP    (back) , 5,04 MP    (front);146 x 72 x 7.3 mm;154 g;IP68 (dust max, water : 1 m during 30 min);2.0 , micro-B;no;nano
+smartphone;Android;Sony;Xperia Z5 Compact;4.6'';IPS;720 x 1280 px = HD;Qualcomm Snapdragon 810;Qualcomm Adreno 430;Geomagnetic , barometer ,  fingerprint , proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2700 mAh , Li-Polymer;32 GB;2 GB;Sony Exmor RS    CMOS    6.17x4.55 mm    1.118 µm    22.85 MP    (back) , 5,04 MP    (front);127 x 65 x 8.9 mm;138 g;IP68 (dust max, water : 1 m during 30 min);2.0 , micro-B;microSD;nano
+smartphone;Android;Sony;Xperia X;5'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 650;Qualcomm Adreno 510;barometer ,  fingerprint , proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2620 mAh , LI-Polymer;32 GB , 64 GB;3 GB;Sony Exmor RS    CMOS    6.17x4.55mm    1.118µm    22.85 MP    (back) , 12.98 MP    (front);142.7 x 64.9 x 7.9 mm;153 g;no;2.0 , micro-B;microSD;nano
+smartphone;Android;Sony;Xperia X Compact;4.6'';IPS;720 x 1280 px = HD;Qualcomm Snapdragon 650;Qualcomm Adreno 510;barometer ,  fingerprint , proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2700 mAh , Li-Polymer;32 GB;3 GB;Sony Exmor RS    CMOS    6.17x4.55mm    1.118µm    22.85 MP    (back) , 12.98 MP    (front);129 x 65 x 9.5 mm;135 g;no;2.0 , C;microSD;nano
+smartphone;Android;Sony;Xperia X Performance;5'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 820;Qualcomm Adreno 530;barometer ,  fingerprint , proximity , light , accelerometer , compass  , gyroscope , step detector , step counter ,  Bluetooth , NFC , GPS , Wi-Fi;2700 mAh , Li-Polymer;32 GB;3 GB;Sony Exmor RS    CMOS    6.17x4.55mm    1.118µm    22.85 MP    (back) , 12.98 MP    (front);144.8 x 71.1 x 8.7 mm;165 g;IP68 (dust max, water : 1 m during 30 min);2.0 , micro-B;microSD;nano
+smartphone;Android;Asus;ZenFone 3 Deluxe;5.7'';Corning Gorilla Glass 4 , Super AMOLED;1080 x 1920 px = Full HD;Qualcomm Snapdragon 820;Qualcomm Adreno 530;Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3000 mAh , Li-Ion;64  GB , 128 GB;4 GB;Sony Exmor IMX318 RS    CMOS    5.49x4.11 mm    1 µm    f/2.0    22.57 MP    (back) , 2.07 MP    (front);156.4 x 77.4 x 7.5 mm;170 g;no;3.0 , C;microSD;nano , micro
+smartphone;Android;Huawei;Honor 8;5.2'';IPS ;1080 x 1920 px = Full HD;Huawai HiSilicon KIRN 950;ARM Mali-T880 MP4;Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;3000 mAh , Li-Polymer;32 GB , 64 GB;3 GB , 4 GB;Sony IMX286    f/2.2    11.81 MP    (back) , 7.99 MP    (front);145.5 x 71 x 7.45 mm;153 g;no;2.0 , C;microSD;nano , nano
+smartphone;Android;Huawei;Nova;5'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 625;Qualcomm Adreno 506;Hall sensor , fingerprint , proximity , light , accelerometer , compass  , Bluetooth , NFC , GPS , Wi-Fi;3020 mAh , Li-Polymer;32 GB;3 GB;CMOS    f/2.2    12.19 MP    (back) , 7.99 MP    (front);141.2 x 69.1 x 7.1 mm;146 g;no;2.0 , C;microSD;nano , nano
+smartphone;Android;Xiaomi;Redmi Note 4;5.5'';IPS;1080 x 1920 px = Full HD;MediaTek Helio X20;ARM Mali-T880 MP4;Hall sensor , fingerprint , proximity , light , accelerometer , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;4100 mAh , Li-Polymer;64 GB;3 GB;CMOS   f/2.0   12.98 MP    (back) ,  5.04 MP    (front);151 x 76 x 8.35 mm;175 g;no;2.0 , micro-B;microSD;micro , nano
+smartphone;Android;Fairphone;Fairphone 2;5'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 801;Qualcomm Adreno 330;proximity , light , accelerometer , compass , gyroscope , Bluetooth  , GPS , Wi-Fi;2420 mAh , Li-Ion;32 GB;2 GB;OmniVision OV8865    CMOS BSI    4.61 x 3.47    1.414 µm    f/2.2    7.99 MP (back) , 1.91 MP (front);143 x 73 x 11 mm;148 g;no;2.0 , micro-B;microSD;micro
+smartphone;Android;Acer;Liquid Z6 Plus;5.5'';IPS;1080 x 1920 px = Full HD;MediaTek MT6753;ARM Mali-T720 MP3;prroximity , light , accelerometer , fingerprint , Wi-Fi , GPS , Bluetooth;4080 mAh , Li-Polymer;32 GB;3 GB;CMOS    12.98 MP    (front) , 5.04 MP    (back);153.6 x 75.4 x 8.5 mm;168 g;no;2.0 , micro-B;microSD;? , ?
+smartphone;Android;Wiko;U Feel Prime;5'';IPS;1080 x 1920 px = Full HD;Qualcomm Snapdragon 430;Qualcomm Adreno 505;fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS;3000 mAh , Li-Polymer;32 GB;4 GB;Sony Exmor IMX 298   CMOS    4.71 x 3.3 mm    1.133 µm    12.98 MP    (back) ,  7.99 MP    (front);142.5 x 69.9 x 8.7 mm;150 g;no;2.0 , micro-B;microSD;nano , nano
+phablet;Android;Lenovo;Phab 2 Pro;6.4'';IPS;1440 x 2560 px = Quad HD;Qualcomm Snapdragon 652;Qualcomm Adreno 510;Tango ready , Hall sensor , fingerprint , proximity , light , accelerometer , compass  , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;4050 mAh , Li-Polymer;64 GB;4 GB;CMOS    f/2.0    15.93 MP    (back) , 7.99 MP    (front);179.8 x 88.6 x 10.1 mm;259 g;no;2.0 , micro-B;microSD;nano , nano
+smartphone;iOS;Apple;iPhone 6S;4.7'';Retina HD , IPS;750 x 1334 px;Apple A9;PowerVR GT7600;barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;1715 mAh , Li-Polymer;16 GB, 64 GB, 128 GB;2 GB;Sony IMX315    4.8x3.6 mm    1.10 µm    f/2.2    12.19 MP    (back) , 4.92 MP    (front);138.3 x 67.1 x 7.1 mm;143 g;no;~=[,,_,,]:3;no;nano
+smartphone;iOS;Apple;iPhone 6;4.7'';Retina , IPS;750 x 1334 px;Apple A8;PowerVR  GX6450;barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;1810 mAh , Li-Polymer;16 GB, 64 GB, 128 GB;1 GB;Sony Exmor RS    CMOS BSI    4.8x4.6 mm    1.471µm    f/2.2    8 MP    (back) , 1.23 MP    (front);138.1 x 67 x 6.9 mm;129 g;no;~=[,,_,,]:3;no;nano
+smartphone;iOS;Apple;iPhone SE;4'';Retina , IPS;640 x 1136 px;Apple A9;PowerVR  GT7600; fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi;1642 mAh , Li-Polymer;16 GB , 64 GB;2 GB;Sony IMX315    4.8x3.6 mm    1.19 µm    f/2.2    12.19 MP    (back) , 1.2 MP    (front);123.8 x 58.6 x 7.6 mm;113 g;no;~=[,,_,,]:3;no;nano
+smartphone;Windows;Nokia;Lumia 950;5.2'';AMOLED;1440 x 2560 px = Quad HD;Qualcomm Snapdragon 808;Qualcomm Adreno 418;proximity , light , accelerometer , compass , gyroscope , Bluetooth  , GPS , Wi-Fi;3000 mAh , Li-Polymer;32 GB , 64 GB , 128 GB;3 GB;CMOS BSI    5.76x4.19 mm    1.071 µm    f/1.9    20.13 MP    (back) , 5.02 MP    (front);145 x 73.2 x 8.2 mm;150 g;no;3.1 , C;microSD;nano
+smartphone;Sworfish OS;Turing Robotic Industries;Monolith Chaconne;6.4'';?;2160 x 3840 px = 4K;Qualcomm Snapdragon 830 , Qualcomm Snapdragon 830 , Qualcomm Snapdragon 830;?;;;1.2 TB;18 GB;60 MP    (back) , 20 MP    (front);;;;;microSD , microSD;nano , nano , nano , nano
+watch;Android Wear;Huawei;Watch;1.4'';Sapphire crystal , AMOLED;286 PPP;Qualcomm Snapdragon 400;?;gyroscope , barometer , accelerometer , heart sensor , Wi-Fi , Bluetooth;300 mAh;4 GB;512 MB;no;42 x 42 x 11.3 mm;95 g;IP 67;?;no;no
+watch;Tizen;Samsung;Gear S2;1.2'';Super AMOLED;360 x 360 px , 424 ppp;Samsung Exynos 3250;?;accelerometer , gyroscope , light , barometer , Wi-Fi, GPS (option);250 mAh , 350 mAh;4 GB;512 MB;no;49.8 x 42.3 x 11.4 mm;47 g;IP68 (dust max, water : 1 m during 30 min);Micro-B;no;?
+watch;Tizen;Samsung;Gear S3;1.3'';Corning Gorilla Glass , Super AMOLED;360 x 360 px , 424 ppp;?;?;? , NFC;?;4 GB;?;no;?;?;IP68 (dust max, water : 1 m during 30 min);?;no;no
+watch;Android Wear;Motorola;Moto 360 (2nd gen);1.37'' , 1.56'';LCD;360 x 325 px , 360 x 360 px;Qualcomm Snapdragon 400;?;heart, gyroscope , accelerometer , boussole, Wi-Fi;300 mAh , 400 mAh;4 GB;512 MB;no;42 x 42 x 11.4 mm , 46 x 46 x 11.4 mm;?;IP 67;?;no;no
+watch;Android Wear;LG;Watch Urbane (2nd gen);1.38'';Gorilla Glass 3 , P-OLED;480 x 480 px , 348 ppp;Qualcomm Snapdragon 400;?;heart , gyroscope , accelerometer , barometer , GPS , Wi-FI;570 mAh;4 GB;768 MB;no;44.5 x 44.5 x 14.2 mm;92.7 g;IP 67;?;no;?
+watch;Pebble's OS;Pebble;Time;1.25'';Gorilla 2 , LED , E-INK;168 x 144 px , 182 ppi;ST Micro STM32F439ZG MCU;?;accelerometer , gyroscope , compass, light , Blueetoh;150 mAh;?;126 MB;no;40.5 x 37.5 x 95.mm;42 g;IP 67;?;no;no
+watch;Android Wear;Asus;Zen Watch 2;1.45'' , 1.63'';Gorilla Glass 3 , AMOLED;280 x 280 px , 320 x 320 px;Qualcomm Snapdragon 400;?;heart, gyroscope , accelerometer , compass , Wi-Fi;300 mAh , 400 mAh;4 GB;512 MB;no;45.2 x 37.2 x 11.1 mm , 49.6 x 40.7 x 10.0 mm;?;IP 67;?;no;no
+watch;Android Wear;Asus;Zen Watch 3;1.39'';?;100 x 400 px , 297 ppp;Qualcomm Snapdragon Wear 2100;Qualcomm Adreno 304;?;340 mAh;4  GB;512 MB;no;  x  x 9.95 mm;?;?;?;no;no
