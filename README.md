@@ -3311,6 +3311,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> memory , leaks </td>
 		<td class="url"> http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Eight ways your Android app can leak memory </td>
+		<td class="description"> </td>
+		<td class="keywords"> memory , leaks </td>
+		<td class="url"> http://blog.nimbledroid.com/2016/05/23/memory-leaks.html </td>
+	</tr>
 </table>
 
 

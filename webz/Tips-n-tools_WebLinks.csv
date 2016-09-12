@@ -249,3 +249,4 @@ Android;Herethings about dark themes and battery savings;;AMOLED , battery , scr
 Android;UI Updates in a Multi-Windows World;;UI , multi windows;https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
 Design;Fontawesome;;fonts;http://fontawesome.io/
 Android;Eight ways your Android app can stop leaking memory;;memory , leaks;http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
+Android;Eight ways your Android app can leak memory;;memory , leaks;http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
