@@ -229,3 +229,4 @@ Design;Thumby;Image paring and resizing server;picture , operations;https://www.
 Kotlin;Spek;A Kotlin Specification Framework for the JVM;uni tests , Kotlin , spek , tests;http://jetbrains.github.io/spek/notes/1.0.html
 Design;Cloud convert;Convert anything;convert , GIF , mp4 , memes;https://cloudconvert.com/
 Android;Pidcat;Colored logcat script which only shows log entries for a specific application package;log , logcat , debug;https://github.com/JakeWharton/pidcat
+Android;LoaderViewLibrary;Library that enables TextView and ImageView to show loading animation while waiting for the text and image get loaded;view , animations , loader;https://github.com/elye/loaderviewlibrary

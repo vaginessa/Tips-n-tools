@@ -250,3 +250,9 @@ Android;UI Updates in a Multi-Windows World;;UI , multi windows;https://www.bign
 Design;Fontawesome;;fonts;http://fontawesome.io/
 Android;Eight ways your Android app can stop leaking memory;;memory , leaks;http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
 Android;Eight ways your Android app can leak memory;;memory , leaks;http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
+/;Oh shit, git !;Tips to know to use git and fix some errors;Git , tips;http://ohshitgit.com/
+Android;Sort SortedList by different criterua;;list , sorted lists;https://medium.com/@nullthemall/sort-sortedlist-by-different-criteria-812003ba6f1#.se6jkr3m8
+Android;Firebase Analytics VS Google Analytics;;Firebase , analytics , stats , reports;https://medium.com/google-developer-experts/firebase-analytics-vs-google-analytics-b2010f34d2bb#.g1it8ejcx
+Android;Firebase Crash reporting vs Crashlytics;;Firebase , Crashlytics , crash , reports;https://medium.com/google-developer-experts/firebase-crash-reporting-vs-crashlytics-a6c287c4b792#.bo0dqi2es
+Android;Implementing a modal selection helper for RecyclerView;;Recycler view , helper;https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9#.dl6wvqatu
+Android;Build and Run Android from AOSP Source Code to a Nexus 7;;AOSP , build;https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/
