@@ -256,3 +256,4 @@ Android;Firebase Analytics VS Google Analytics;;Firebase , analytics , stats , r
 Android;Firebase Crash reporting vs Crashlytics;;Firebase , Crashlytics , crash , reports;https://medium.com/google-developer-experts/firebase-crash-reporting-vs-crashlytics-a6c287c4b792#.bo0dqi2es
 Android;Implementing a modal selection helper for RecyclerView;;Recycler view , helper;https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9#.dl6wvqatu
 Android;Build and Run Android from AOSP Source Code to a Nexus 7;;AOSP , build;https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/
+Android;Processes and Threads , Activitys, Threads and Memory leaks;;activity , threads , process , task , memory , leak;https://developer.android.com/guide/components/processes-and-threads.html    http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html

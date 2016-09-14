@@ -3367,6 +3367,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> AOSP , build </td>
 		<td class="url"> https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Processes and Threads , Activitys, Threads and Memory leaks </td>
+		<td class="description"> </td>
+		<td class="keywords"> activity , threads , process , task , memory , leak </td>
+		<td class="url"> https://developer.android.com/guide/components/processes-and-threads.html http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html </td>
+	</tr>
 </table>
 
 
@@ -3963,7 +3970,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="dimensions"> 138.3 x 67.1 x 7.1 mm </td>
 		<td class="usbtype"> 143 g </td>
 		<td class="weight"> no </td>
-		<td class="ip"> ~=[,,_,,]:3 </td>
+		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -3985,7 +3992,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="dimensions"> 138.1 x 67 x 6.9 mm </td>
 		<td class="usbtype"> 129 g </td>
 		<td class="weight"> no </td>
-		<td class="ip"> ~=[,,_,,]:3 </td>
+		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
@@ -4007,7 +4014,29 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="dimensions"> 123.8 x 58.6 x 7.6 mm </td>
 		<td class="usbtype"> 113 g </td>
 		<td class="weight"> no </td>
-		<td class="ip"> ~=[,,_,,]:3 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfIOS"> iOS </td>
+		<td class="constructor"> Apple </td>
+		<td class="name"> IPhone 7 </td>
+		<td class="screensize"> 4.7'' </td>
+		<td class="screentype"> Retina HD , ForceTouch , IPS </td>
+		<td class="screenresolution"> 750 x 1334 px , 326ppi </td>
+		<td class="soc"> Apple A10 Fusion </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 1960 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 128 GB , 256 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> f/1.8 12.19 MP quad-LED-flash 6-elements-lens (back) , f/2.2 7 MP (front) </td>
+		<td class="dimensions"> 138.3 x 67.1 x 7.1 mm </td>
+		<td class="usbtype"> 138 g </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> 2.0 </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
 	</tr>
