@@ -257,3 +257,9 @@ Android;Firebase Crash reporting vs Crashlytics;;Firebase , Crashlytics , crash 
 Android;Implementing a modal selection helper for RecyclerView;;Recycler view , helper;https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9#.dl6wvqatu
 Android;Build and Run Android from AOSP Source Code to a Nexus 7;;AOSP , build;https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/
 Android;Processes and Threads , Activitys, Threads and Memory leaks;;activity , threads , process , task , memory , leak;https://developer.android.com/guide/components/processes-and-threads.html    http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html
+Design;Freesound;;sound;http://freesound.org/
+Android;Update Dependencies. Code. Repeat.;;Gradle;http://crushingcode.co/update-dependencies-code-repeat/
+/;Crushing C.O.D.E;;dev;http://crushingcode.co/
+Android;Support Library for Transitions. Overview and comparison with Transitions-Everywhere;;support library , transitions;https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.kvaqpbrb3
+Android;ViewPager cards inspired by Duolingo;;viewpager , cards , animations;http://www.jayrambhia.com/blog/android-viewpager-cards-1
+Android;Exploring Android;Deep dives and how to's for the latest Android platform features;Android , howto;https://medium.com/exploring-android

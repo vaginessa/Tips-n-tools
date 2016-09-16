@@ -1608,6 +1608,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> storage , serialization </td>
 		<td class="url"> https://github.com/EsotericSoftware/kryo </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Telegram </td>
+		<td class="description"> Telegram Messenger for Android </td>
+		<td class="keywords"> Telegram , app , security , privacy </td>
+		<td class="url"> https://github.com/DrKLO/Telegram </td>
+	</tr>
 </table>
 
 
@@ -3387,6 +3394,48 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> activity , threads , process , task , memory , leak </td>
 		<td class="url"> https://developer.android.com/guide/components/processes-and-threads.html http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Freesound </td>
+		<td class="description"> </td>
+		<td class="keywords"> sound </td>
+		<td class="url"> http://freesound.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Update Dependencies. Code. Repeat. </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle </td>
+		<td class="url"> http://crushingcode.co/update-dependencies-code-repeat/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Crushing C.O.D.E </td>
+		<td class="description"> </td>
+		<td class="keywords"> dev </td>
+		<td class="url"> http://crushingcode.co/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Support Library for Transitions. Overview and comparison with Transitions-Everywhere </td>
+		<td class="description"> </td>
+		<td class="keywords"> support library , transitions </td>
+		<td class="url"> https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.kvaqpbrb3 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ViewPager cards inspired by Duolingo </td>
+		<td class="description"> </td>
+		<td class="keywords"> viewpager , cards , animations </td>
+		<td class="url"> http://www.jayrambhia.com/blog/android-viewpager-cards-1 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Exploring Android </td>
+		<td class="description"> Deep dives and how to's for the latest Android platform features </td>
+		<td class="keywords"> Android , howto </td>
+		<td class="url"> https://medium.com/exploring-android </td>
 	</tr>
 </table>
 

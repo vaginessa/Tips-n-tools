@@ -232,3 +232,4 @@ Android;Pidcat;Colored logcat script which only shows log entries for a specific
 Android;LoaderViewLibrary;Library that enables TextView and ImageView to show loading animation while waiting for the text and image get loaded;view , animations , loader;https://github.com/elye/loaderviewlibrary
 Android;Paper;Fast and simple data storage library for Android;database , storage , NoSQL , Kryo;https://github.com/pilgr/Paper
 Java;Kryo;Java serialziation andcloning : fast,e fficient, automatic;storage , serialization;https://github.com/EsotericSoftware/kryo
+Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy;https://github.com/DrKLO/Telegram
