@@ -263,3 +263,7 @@ Android;Update Dependencies. Code. Repeat.;;Gradle;http://crushingcode.co/update
 Android;Support Library for Transitions. Overview and comparison with Transitions-Everywhere;;support library , transitions;https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.kvaqpbrb3
 Android;ViewPager cards inspired by Duolingo;;viewpager , cards , animations;http://www.jayrambhia.com/blog/android-viewpager-cards-1
 Android;Exploring Android;Deep dives and how to's for the latest Android platform features;Android , howto;https://medium.com/exploring-android
+Android;Reasons Not tTo Use Firebase;;Firebase , real-tim;https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/
+Android;Is yout custom view interactive aware ?;;custom view , interaction , screen;https://renaudcerrato.github.io/2016/09/15/is-your-custom-view-interactive-aware/
+Android;Realm – It's all about the choices we make;;Realm , database , data storage;https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8#.2a3i48yfi
+Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf

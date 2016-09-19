@@ -233,3 +233,6 @@ Android;LoaderViewLibrary;Library that enables TextView and ImageView to show lo
 Android;Paper;Fast and simple data storage library for Android;database , storage , NoSQL , Kryo;https://github.com/pilgr/Paper
 Java;Kryo;Java serialziation andcloning : fast,e fficient, automatic;storage , serialization;https://github.com/EsotericSoftware/kryo
 Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy;https://github.com/DrKLO/Telegram
+Android;FilpAnimation;Simple example for flip animation;animation , flip;https://github.com/4xes/FlipAnimation
+Android;BGABadgeView;;animation , badge;https://github.com/bingoogolapple/BGABadgeView-Android
+Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://github.com/grandcentrix/ThirtyInch/

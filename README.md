@@ -1615,6 +1615,27 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Telegram , app , security , privacy </td>
 		<td class="url"> https://github.com/DrKLO/Telegram </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FilpAnimation </td>
+		<td class="description"> Simple example for flip animation </td>
+		<td class="keywords"> animation , flip </td>
+		<td class="url"> https://github.com/4xes/FlipAnimation </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BGABadgeView </td>
+		<td class="description"> </td>
+		<td class="keywords"> animation , badge </td>
+		<td class="url"> https://github.com/bingoogolapple/BGABadgeView-Android </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ThirtyInch – a new MVP library for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> ThirtyInch , MVP </td>
+		<td class="url"> https://github.com/grandcentrix/ThirtyInch/ </td>
+	</tr>
 </table>
 
 
@@ -3436,6 +3457,34 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> Deep dives and how to's for the latest Android platform features </td>
 		<td class="keywords"> Android , howto </td>
 		<td class="url"> https://medium.com/exploring-android </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Reasons Not tTo Use Firebase </td>
+		<td class="description"> </td>
+		<td class="keywords"> Firebase , real-tim </td>
+		<td class="url"> https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Is yout custom view interactive aware ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> custom view , interaction , screen </td>
+		<td class="url"> https://renaudcerrato.github.io/2016/09/15/is-your-custom-view-interactive-aware/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Realm – It's all about the choices we make </td>
+		<td class="description"> </td>
+		<td class="keywords"> Realm , database , data storage </td>
+		<td class="url"> https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8#.2a3i48yfi </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ThirtyInch – a new MVP library for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> ThirtyInch , MVP </td>
+		<td class="url"> https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf </td>
 	</tr>
 </table>
 
