@@ -236,3 +236,10 @@ Android;Telegram;Telegram Messenger for Android;Telegram , app , security , priv
 Android;FilpAnimation;Simple example for flip animation;animation , flip;https://github.com/4xes/FlipAnimation
 Android;BGABadgeView;;animation , badge;https://github.com/bingoogolapple/BGABadgeView-Android
 Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://github.com/grandcentrix/ThirtyInch/
+Android;Minicap;Stream real-time screen capture data out of Android devices;screen , captures;https://github.com/openstf/minicap
+Android;TapTargetView;An implmentation of tap targets from the Material Design guidelines for feature discovery;tap target , feature discovery , intro;https://github.com/KeepSafe/TapTargetView
+Android;ActSwitchAnimTool;Tool which makes the animation easy to implments;animations , effects;https://github.com/Yellow5A5/ActSwitchAnimTool
+Android;PlaceSearchDialog;A place autocomplete search dialog which uses Google's Places API for finding results;Places , location , search;https://github.com/codemybrainsout/PlaceSearchDialog
+Android;Material-intro-screen;;intro screen;https://github.com/TangoAgency/material-intro-screen
+Android;Emojiconize;;emojicon;https://github.com/rockerhieu/emojiconize
+Android;Versionberg; Gradle plugin for versioning your library/application on every git commit ;Gradle , commit , git , version;https://github.com/rockerhieu/Versionberg

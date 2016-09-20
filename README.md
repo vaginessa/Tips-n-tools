@@ -1636,6 +1636,55 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> ThirtyInch , MVP </td>
 		<td class="url"> https://github.com/grandcentrix/ThirtyInch/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Minicap </td>
+		<td class="description"> Stream real-time screen capture data out of Android devices </td>
+		<td class="keywords"> screen , captures </td>
+		<td class="url"> https://github.com/openstf/minicap </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> TapTargetView </td>
+		<td class="description"> An implmentation of tap targets from the Material Design guidelines for feature discovery </td>
+		<td class="keywords"> tap target , feature discovery , intro </td>
+		<td class="url"> https://github.com/KeepSafe/TapTargetView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ActSwitchAnimTool </td>
+		<td class="description"> Tool which makes the animation easy to implments </td>
+		<td class="keywords"> animations , effects </td>
+		<td class="url"> https://github.com/Yellow5A5/ActSwitchAnimTool </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PlaceSearchDialog </td>
+		<td class="description"> A place autocomplete search dialog which uses Google's Places API for finding results </td>
+		<td class="keywords"> Places , location , search </td>
+		<td class="url"> https://github.com/codemybrainsout/PlaceSearchDialog </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material-intro-screen </td>
+		<td class="description"> </td>
+		<td class="keywords"> intro screen </td>
+		<td class="url"> https://github.com/TangoAgency/material-intro-screen </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Emojiconize </td>
+		<td class="description"> </td>
+		<td class="keywords"> emojicon </td>
+		<td class="url"> https://github.com/rockerhieu/emojiconize </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Versionberg </td>
+		<td class="description"> Gradle plugin for versioning your library/application on every git commit </td>
+		<td class="keywords"> Gradle , commit , git , version </td>
+		<td class="url"> https://github.com/rockerhieu/Versionberg </td>
+	</tr>
 </table>
 
 
@@ -3485,6 +3534,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> ThirtyInch , MVP </td>
 		<td class="url"> https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tips and Tricks for Building High-Performance Android Apps using Native Code </td>
+		<td class="description"> </td>
+		<td class="keywords"> native code , performances , JNI , C++ , C </td>
+		<td class="url"> http://fr.slideshare.net/geisshirt/tips-and-tricks-for-building-high-performance-android-apps-using-native-code </td>
 	</tr>
 </table>
 
