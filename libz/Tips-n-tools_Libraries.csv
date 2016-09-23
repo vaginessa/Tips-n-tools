@@ -243,3 +243,5 @@ Android;PlaceSearchDialog;A place autocomplete search dialog which uses Google's
 Android;Material-intro-screen;;intro screen;https://github.com/TangoAgency/material-intro-screen
 Android;Emojiconize;;emojicon;https://github.com/rockerhieu/emojiconize
 Android;Versionberg; Gradle plugin for versioning your library/application on every git commit ;Gradle , commit , git , version;https://github.com/rockerhieu/Versionberg
+Android;Tray; a SharedPreferences replacement for Android with multiprocess support ;SharedPreferences , Preferences , process , multiprocess , multiproces , content , data storage;https://github.com/grandcentrix/tray
+Android;Ahoy onboarding;Android onboarding library.;view , intro screen , onboarding;https://github.com/codemybrainsout/ahoy-onboarding

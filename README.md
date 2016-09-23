@@ -1685,6 +1685,20 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Gradle , commit , git , version </td>
 		<td class="url"> https://github.com/rockerhieu/Versionberg </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tray </td>
+		<td class="description"> a SharedPreferences replacement for Android with multiprocess support </td>
+		<td class="keywords"> SharedPreferences , Preferences , process , multiprocess , multiproces , content , data storage </td>
+		<td class="url"> https://github.com/grandcentrix/tray </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Ahoy onboarding </td>
+		<td class="description"> Android onboarding library. </td>
+		<td class="keywords"> view , intro screen , onboarding </td>
+		<td class="url"> https://github.com/codemybrainsout/ahoy-onboarding </td>
+	</tr>
 </table>
 
 
@@ -3541,6 +3555,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> native code , performances , JNI , C++ , C </td>
 		<td class="url"> http://fr.slideshare.net/geisshirt/tips-and-tricks-for-building-high-performance-android-apps-using-native-code </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Services – Tutorial </td>
+		<td class="description"> </td>
+		<td class="keywords"> services , threads , tutorial </td>
+		<td class="url"> http://www.vogella.com/tutorials/AndroidServices/article.html </td>
 	</tr>
 </table>
 
