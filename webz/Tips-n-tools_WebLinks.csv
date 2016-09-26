@@ -271,3 +271,5 @@ Android;Tips and Tricks for Building High-Performance Android Apps using Native 
 Android;Android Services – Tutorial;;services , threads , tutorial;http://www.vogella.com/tutorials/AndroidServices/article.html
 Android;Annotation Processing in Android Studio;;annotation , Android Studio;https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.xkv7myxms
 Android;Custom Android Builds: Tools and Techniques for Manual and Automated Tests;;"manual tests , automated tests , hardware tests , softwares tests ; AnTuTu , Z6Device , Sensor Box , Geekbench3 , ";https://stanfy.com/blog/testing-of-android-custom-firmware/
+Android;Bound Services;;Messenger , Ibinder , bound services , IPC;https://developer.android.com/guide/components/bound-services.html
+Android;A journey on the Android Main Thread – PSVM;;Looper , Handler , Message;https://medium.com/square-corner-blog/a-journey-on-the-android-main-thread-psvm-55b2238ace2b#.2x8jgq5w6
