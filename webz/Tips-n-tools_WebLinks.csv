@@ -269,3 +269,5 @@ Android;Realm – It's all about the choices we make;;Realm , database , data st
 Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf
 Android;Tips and Tricks for Building High-Performance Android Apps using Native Code;;native code , performances , JNI , C++ , C;http://fr.slideshare.net/geisshirt/tips-and-tricks-for-building-high-performance-android-apps-using-native-code
 Android;Android Services – Tutorial;;services , threads , tutorial;http://www.vogella.com/tutorials/AndroidServices/article.html
+Android;Annotation Processing in Android Studio;;annotation , Android Studio;https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.xkv7myxms
+Android;Custom Android Builds: Tools and Techniques for Manual and Automated Tests;;"manual tests , automated tests , hardware tests , softwares tests ; AnTuTu , Z6Device , Sensor Box , Geekbench3 , ";https://stanfy.com/blog/testing-of-android-custom-firmware/

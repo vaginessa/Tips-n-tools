@@ -245,3 +245,4 @@ Android;Emojiconize;;emojicon;https://github.com/rockerhieu/emojiconize
 Android;Versionberg; Gradle plugin for versioning your library/application on every git commit ;Gradle , commit , git , version;https://github.com/rockerhieu/Versionberg
 Android;Tray; a SharedPreferences replacement for Android with multiprocess support ;SharedPreferences , Preferences , process , multiprocess , multiproces , content , data storage;https://github.com/grandcentrix/tray
 Android;Ahoy onboarding;Android onboarding library.;view , intro screen , onboarding;https://github.com/codemybrainsout/ahoy-onboarding
+Android;Android page transition;ViewPager with verticl sliding effects and activity transition;ViewPager , effects , transitions;https://github.com/xmuSistone/android-page-transition

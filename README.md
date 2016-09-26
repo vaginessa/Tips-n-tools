@@ -1699,6 +1699,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> view , intro screen , onboarding </td>
 		<td class="url"> https://github.com/codemybrainsout/ahoy-onboarding </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android page transition </td>
+		<td class="description"> ViewPager with verticl sliding effects and activity transition </td>
+		<td class="keywords"> ViewPager , effects , transitions </td>
+		<td class="url"> https://github.com/xmuSistone/android-page-transition </td>
+	</tr>
 </table>
 
 
@@ -3562,6 +3569,20 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> </td>
 		<td class="keywords"> services , threads , tutorial </td>
 		<td class="url"> http://www.vogella.com/tutorials/AndroidServices/article.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Annotation Processing in Android Studio </td>
+		<td class="description"> </td>
+		<td class="keywords"> annotation , Android Studio </td>
+		<td class="url"> https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.xkv7myxms </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Custom Android Builds: Tools and Techniques for Manual and Automated Tests </td>
+		<td class="description"> </td>
+		<td class="keywords"> manual tests , automated tests , hardware tests , softwares tests  </td>
+		<td class="url"> AnTuTu , Z6Device , Sensor Box , Geekbench3 , </td>
 	</tr>
 </table>
 
