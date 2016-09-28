@@ -268,8 +268,11 @@ Android;Is yout custom view interactive aware ?;;custom view , interaction , sc
 Android;Realm – It's all about the choices we make;;Realm , database , data storage;https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8#.2a3i48yfi
 Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf
 Android;Tips and Tricks for Building High-Performance Android Apps using Native Code;;native code , performances , JNI , C++ , C;http://fr.slideshare.net/geisshirt/tips-and-tricks-for-building-high-performance-android-apps-using-native-code
-Android;Android Services – Tutorial;;services , threads , tutorial;http://www.vogella.com/tutorials/AndroidServices/article.html
+Android;Android Services – Tutorial;;process , threads , services ,  tutorial;http://www.vogella.com/tutorials/AndroidServices/article.html
 Android;Annotation Processing in Android Studio;;annotation , Android Studio;https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.xkv7myxms
 Android;Custom Android Builds: Tools and Techniques for Manual and Automated Tests;;"manual tests , automated tests , hardware tests , softwares tests ; AnTuTu , Z6Device , Sensor Box , Geekbench3 , ";https://stanfy.com/blog/testing-of-android-custom-firmware/
-Android;Bound Services;;Messenger , Ibinder , bound services , IPC;https://developer.android.com/guide/components/bound-services.html
-Android;A journey on the Android Main Thread – PSVM;;Looper , Handler , Message;https://medium.com/square-corner-blog/a-journey-on-the-android-main-thread-psvm-55b2238ace2b#.2x8jgq5w6
+Android;Bound Services;;process , threads , Messenger , Ibinder , bound services , IPC;https://developer.android.com/guide/components/bound-services.html
+Android;A journey on the Android Main Thread – PSVM;;process , threads , Looper , Handler , Message;https://medium.com/square-corner-blog/a-journey-on-the-android-main-thread-psvm-55b2238ace2b#.2x8jgq5w6
+Android;Going multiprocess on Android;;process , threads , memory;https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c#.p6llxosbf
+Android;8 ways to do asynchronous processing in Android;;process , Threads , AsyncTasks , Jobs , Scheduler , Handlers;https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.paypysdzk
+Android; An Overview Of Android Application Sandbox Mechanism ;;sandbox;http://pierrchen.blogspot.fr/2016/09/an-walk-through-of-android-uidgid-based.html

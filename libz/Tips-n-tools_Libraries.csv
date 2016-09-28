@@ -246,3 +246,6 @@ Android;Versionberg; Gradle plugin for versioning your library/application on ev
 Android;Tray; a SharedPreferences replacement for Android with multiprocess support ;SharedPreferences , Preferences , process , multiprocess , multiproces , content , data storage;https://github.com/grandcentrix/tray
 Android;Ahoy onboarding;Android onboarding library.;view , intro screen , onboarding;https://github.com/codemybrainsout/ahoy-onboarding
 Android;Android page transition;ViewPager with verticl sliding effects and activity transition;ViewPager , effects , transitions;https://github.com/xmuSistone/android-page-transition
+Android;BubbleAnimationLayout;Some animations combining bubles and cards;snimations , bubble;https://github.com/Cleveroad/BubbleAnimationLayout
+Android;"RecyclerViewUndoSwipe
+"; Swipe and drag support for RecyclerView with undo action. ;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe

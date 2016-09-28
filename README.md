@@ -1706,6 +1706,23 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> ViewPager , effects , transitions </td>
 		<td class="url"> https://github.com/xmuSistone/android-page-transition </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BubbleAnimationLayout </td>
+		<td class="description"> Some animations combining bubles and cards </td>
+		<td class="keywords"> snimations , bubble </td>
+		<td class="url"> https://github.com/Cleveroad/BubbleAnimationLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RecyclerViewUndoSwipe </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> </td>
+		<td class="name"> Swipe and drag support for RecyclerView with undo action. </td>
+		<td class="description"> ItemTouch , swipe , drag , RecyclerView </td>
+		<td class="keywords"> https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe </td>
+	</tr>
 </table>
 
 
@@ -3567,7 +3584,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Android Services – Tutorial </td>
 		<td class="description"> </td>
-		<td class="keywords"> services , threads , tutorial </td>
+		<td class="keywords"> process , threads , services , tutorial </td>
 		<td class="url"> http://www.vogella.com/tutorials/AndroidServices/article.html </td>
 	</tr>
 	<tr>
@@ -3588,15 +3605,36 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Bound Services </td>
 		<td class="description"> </td>
-		<td class="keywords"> Messenger , Ibinder , bound services , IPC </td>
+		<td class="keywords"> process , threads , Messenger , Ibinder , bound services , IPC </td>
 		<td class="url"> https://developer.android.com/guide/components/bound-services.html </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> A journey on the Android Main Thread – PSVM </td>
 		<td class="description"> </td>
-		<td class="keywords"> Looper , Handler , Message </td>
+		<td class="keywords"> process , threads , Looper , Handler , Message </td>
 		<td class="url"> https://medium.com/square-corner-blog/a-journey-on-the-android-main-thread-psvm-55b2238ace2b#.2x8jgq5w6 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Going multiprocess on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> process , threads , memory </td>
+		<td class="url"> https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c#.p6llxosbf </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> 8 ways to do asynchronous processing in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> process , Threads , AsyncTasks , Jobs , Scheduler , Handlers </td>
+		<td class="url"> https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.paypysdzk </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> An Overview Of Android Application Sandbox Mechanism </td>
+		<td class="description"> </td>
+		<td class="keywords"> sandbox </td>
+		<td class="url"> http://pierrchen.blogspot.fr/2016/09/an-walk-through-of-android-uidgid-based.html </td>
 	</tr>
 </table>
 
