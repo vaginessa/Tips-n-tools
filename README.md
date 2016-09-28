@@ -1723,6 +1723,13 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="description"> ItemTouch , swipe , drag , RecyclerView </td>
 		<td class="keywords"> https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AndroidUtilCode </td>
+		<td class="description"> Some util classes… </td>
+		<td class="keywords"> utils </td>
+		<td class="url"> https://github.com/Blankj/AndroidUtilCode </td>
+	</tr>
 </table>
 
 

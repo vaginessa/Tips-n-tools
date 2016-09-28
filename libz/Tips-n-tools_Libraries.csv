@@ -249,3 +249,4 @@ Android;Android page transition;ViewPager with verticl sliding effects and activ
 Android;BubbleAnimationLayout;Some animations combining bubles and cards;snimations , bubble;https://github.com/Cleveroad/BubbleAnimationLayout
 Android;"RecyclerViewUndoSwipe
 "; Swipe and drag support for RecyclerView with undo action. ;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
+Android;AndroidUtilCode;Some util classes…;utils;https://github.com/Blankj/AndroidUtilCode
