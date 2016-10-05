@@ -276,3 +276,4 @@ Android;A journey on the Android Main Thread – PSVM;;process , threads , Loope
 Android;Going multiprocess on Android;;process , threads , memory;https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c#.p6llxosbf
 Android;8 ways to do asynchronous processing in Android;;process , Threads , AsyncTasks , Jobs , Scheduler , Handlers;https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.paypysdzk
 Android; An Overview Of Android Application Sandbox Mechanism ;;sandbox;http://pierrchen.blogspot.fr/2016/09/an-walk-through-of-android-uidgid-based.html
+Android;Avoid bugs with Android's Lint;;Lint;https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.lajt8ts2c
