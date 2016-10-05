@@ -33,35 +33,35 @@
 # ############# #
 
 # The file to update with the HTML content (displayed in the Github repo)
-README_FILE="README.md"
+README_FILE="../README.md"
 
 # Some configuration things
-UTILS_FOLDER=".utils"
+UTILS_FOLDER=".";
 CSV2HTML_TOOLS_SCRIPT="csvToHtml_tools.sh"
 CSV2HTML_TOOLS_OPTIONS=" --limitedHtml"
 CSV2HTML_DEVICES_SCRIPT="csvToHtml_devices.sh"
 CSV2HTML_DEVICES_OPTIONS=" --limitedHtml"
 
 # The folders and files about the libraries and tools
-TOOLS_DIR="toolz"
+TOOLS_DIR="../toolz"
 CSV_TOOLS_FILE="$TOOLS_DIR/Tips-n-tools_Tools.csv"
 CSV_TOOLS_FILE_USELESS_ROWS=6
 HTML_TOOLS_FILE="$TOOLS_DIR/Tips-n-tools_Tools.html"
 
 # The folder and files about some publications, articles, blogs...
-WEB_DIR="webz"
+WEB_DIR="../webz"
 CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
 CSV_WEB_FILE_USELESS_ROWS=6
 HTML_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.html"
 
-# The folder and files about the devices (smartphones, phablets, tablets, wearbles, smartwatches...)
-DEVICE_DIR="devz"
+# The folder and files about the devices (smartphones, phablets, tablets, wearables, smartwatches...)
+DEVICE_DIR="../devz"
 CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 CSV_DEVICE_FILE_USELESS_ROWS=6
 HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
 # Misc.
-README_HEADER="# Tips'n'tools \nNote: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with the value of the .csv files";
+README_HEADER="# Tips'n'tools \nNote: Run <i>sh tipsntools.sh --update</i> to update the .html and README.md files with the value of the .csv files";
 
 
 # ######### #
@@ -192,5 +192,5 @@ elif [ $htmlDeviceRowsNew -eq $htmlDevicesRowsOld ]; then
 fi
 
 # Finish!
-echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一      ~=[,,_,,]:3  TERMINATED !"
+echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	csvToReadme.sh	TERMINATED !"
 

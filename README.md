@@ -1,9 +1,9 @@
 # Tips'n'tools 
-Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with the value of the .csv files
+Note: Run <i>sh tipsntools.sh --update</i> to update the .html and README.md files with the value of the .csv files
 
 
 
-## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries, frameworks and tools
 <table>
 	<tr>
 		<td class="header"> Plateform </td>
@@ -2112,7 +2112,7 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 
 
 
-## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some interesting web pages, blogs or publications
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some interesting web pages, blogs and publications
 <table>
 	<tr>
 		<td class="header"> Platform </td>
