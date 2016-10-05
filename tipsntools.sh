@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 2.0.0
+# Version.............: 2.0.1
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
 #
@@ -198,6 +198,6 @@ else
 	usageAndExit
 fi
 
-echo "\n\n✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
+echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
 
 

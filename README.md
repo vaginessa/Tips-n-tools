@@ -2108,6 +2108,20 @@ Note: Run <i>sh tipsntools.sh --update</i> to update the .html and README.md fil
 		<td class="keywords"> JS , presentation </td>
 		<td class="url"> https://beebole.com/pure/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Apk Parser </td>
+		<td class="description"> APK parser library for java </td>
+		<td class="keywords"> APK </td>
+		<td class="url"> https://github.com/caoqianli/apk-parser </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Clocker Scroller </td>
+		<td class="description"> A cool animated RecyclerView clock face scroller </td>
+		<td class="keywords"> clock , view </td>
+		<td class="url"> https://github.com/andyb129/ClockScroller </td>
+	</tr>
 </table>
 
 
