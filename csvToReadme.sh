@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 7.1.0
+# Version.............: 7.2.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -81,7 +81,7 @@ if [ ! -d "$DEVICE_DIR" ]; then
 	echo "Create directory '$DEVICE_DIR' for devices things..."
 	mkdir $DEVICE_DIR
 else
-	echo "NOTE: Directory '$WEB_DIR' already created"
+	echo "NOTE: Directory '$DEVICE_DIR' already created"
 fi
 
 # Check if all the CSV files to use exist
