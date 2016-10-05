@@ -1,5 +1,5 @@
 # Tips'n'tools 
-Note: Run <i>sh tipsntools.sh --update</i> to update the .html and README.md files with the value of the .csv files
+Note: Run <i>sh tipsntools.sh --update</i> to update the .html and README.md files with the value of the .csv files\n
 Note: Run <i>sh tipsntools.sh --find aRegexOfSomething</i> to find items in the CSV files (a search-engine-like feature)
 
 ## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries, frameworks and tools
