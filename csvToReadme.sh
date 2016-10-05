@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 7.2.0
+# Version.............: 8.0.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -32,23 +32,35 @@
 # CONFIGURATION #
 # ############# #
 
+# The file to update with the HTML content (displayed in the Github repo)
 README_FILE="README.md"
 
+# Some configuration things
+UTILS_FOLDER=".utils"
+CSV2HTML_TOOLS_SCRIPT="csvToHtml_tools.sh"
+CSV2HTML_TOOLS_OPTIONS=" --limitedHtml"
+CSV2HTML_DEVICES_SCRIPT="csvToHtml_devices.sh"
+CSV2HTML_DEVICES_OPTIONS=" --limitedHtml"
+
+# The folders and files about the libraries and tools
 LIB_DIR="libz"
 CSV_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.csv"
 CSV_LIB_FILE_USELESS_ROWS=6
 HTML_LIB_FILE="$LIB_DIR/Tips-n-tools_Libraries.html"
 
+# The folder and files about some publications, articles, blogs...
 WEB_DIR="webz"
 CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
 CSV_WEB_FILE_USELESS_ROWS=6
 HTML_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.html"
 
+# The folder and files about the devices (smartphones, phablets, tablets, wearbles, smartwatches...)
 DEVICE_DIR="devz"
 CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 CSV_DEVICE_FILE_USELESS_ROWS=6
 HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
+# Misc.
 README_HEADER="# Tips'n'tools \nNote: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with the value of the .csv files";
 
 
@@ -126,13 +138,13 @@ fi
 
 # Update .html and README.md files
 echo "Write HTML file from CSV file about libraries..."
-cat $CSV_LIB_FILE | sh csvToHtml_tools.sh --limitedHtml > $HTML_LIB_FILE
+cat $CSV_LIB_FILE | sh $UTILS_FOLDER/$CSV2HTML_TOOLS_SCRIPT $CSV2HTML_TOOLS_OPTIONS > $HTML_LIB_FILE
 
 echo "Write HTML file from CSV file about web links..."
-cat $CSV_WEB_FILE | sh csvToHtml_tools.sh --limitedHtml > $HTML_WEB_FILE
+cat $CSV_WEB_FILE | sh $UTILS_FOLDER/$CSV2HTML_TOOLS_SCRIPT $CSV2HTML_TOOLS_OPTIONS > $HTML_WEB_FILE
 
 echo "Write HTML file from CSV file about devices..."
-cat $CSV_DEVICE_FILE | sh csvToHtml_devices.sh --limitedHtml > $HTML_DEVICE_FILE
+cat $CSV_DEVICE_FILE | sh $UTILS_FOLDER/$CSV2HTML_DEVICES_SCRIPT $CSV2HTML_DEVICES_OPTIONS > $HTML_DEVICE_FILE
 
 echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
