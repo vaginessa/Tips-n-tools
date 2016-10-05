@@ -1793,6 +1793,153 @@ Note: Run <i>sh csvToReadme.sh</i> to update the .html and README.md files with 
 		<td class="keywords"> Github , CI , DevOps , tool </td>
 		<td class="url"> https://travis-ci.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framalink </td>
+		<td class="description"> URL shorter </td>
+		<td class="keywords"> URL , tool , privacy , framasoft </td>
+		<td class="url"> https://frama.link/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framindmap </td>
+		<td class="description"> Mindmap tool </td>
+		<td class="keywords"> mind map , tool , privacy , framasoft </td>
+		<td class="url"> https://framindmap.org/c/login </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MyFrama </td>
+		<td class="description"> Bookmakrs and links sharing </td>
+		<td class="keywords"> link , bookmark , tool , privacy , framasoft </td>
+		<td class="url"> https://my.framasoft.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framadate </td>
+		<td class="description"> Make polls </td>
+		<td class="keywords"> polls , planning , tool , privacy , framasoft </td>
+		<td class="url"> https://framadate.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framadrive </td>
+		<td class="description"> </td>
+		<td class="keywords"> drive , cloud storage , tool , privacy , framasoft </td>
+		<td class="url"> https://framadrive.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framanotes </td>
+		<td class="description"> </td>
+		<td class="keywords"> notes , tool , privacy , framasoft </td>
+		<td class="url"> https://framanotes.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framasphère* </td>
+		<td class="description"> </td>
+		<td class="keywords"> social network , Diaspora* , tool , privacy , framasoft </td>
+		<td class="url"> https://framasphere.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framaganda </td>
+		<td class="description"> </td>
+		<td class="keywords"> agenda , tool , privacy , framasoft </td>
+		<td class="url"> https://framagenda.org/index.php/login </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framapad </td>
+		<td class="description"> </td>
+		<td class="keywords"> tool , privacy , framasoft </td>
+		<td class="url"> https://framapad.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framaforms </td>
+		<td class="description"> To make forms </td>
+		<td class="keywords"> forms , tool , provacy , framasoft </td>
+		<td class="url"> https://framaforms.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framalistes </td>
+		<td class="description"> Mailing listes </td>
+		<td class="keywords"> mailing list , tool , privacy , framasoft </td>
+		<td class="url"> https://framalistes.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framacarte </td>
+		<td class="description"> Map </td>
+		<td class="keywords"> map , tool , privacy , framasoft </td>
+		<td class="url"> https://framacarte.org/en/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framanews </td>
+		<td class="description"> </td>
+		<td class="keywords"> RSS , tool , privacy , framasoft </td>
+		<td class="url"> https://framanews.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framabee </td>
+		<td class="description"> An Internet search engine </td>
+		<td class="keywords"> search engine , tool , privacy , framasoft </td>
+		<td class="url"> https://framabee.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framapic </td>
+		<td class="description"> Share pictures online anonymously </td>
+		<td class="keywords"> picture , tool , privacy , framasoft </td>
+		<td class="url"> https://framapic.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framemo </td>
+		<td class="description"> Memo </td>
+		<td class="keywords"> memo , tool , privacy , framasoft </td>
+		<td class="url"> https://framemo.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framabin </td>
+		<td class="description"> Send encyphered messages </td>
+		<td class="keywords"> messages , privacy , tool , framasoft </td>
+		<td class="url"> https://framabin.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framatalk </td>
+		<td class="description"> Visio talks </td>
+		<td class="keywords"> Visio , privacy , tool , framasoft </td>
+		<td class="url"> https://framatalk.org/accueil/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framateam </td>
+		<td class="description"> Colloborative communication like Slack </td>
+		<td class="keywords"> tool , privacy , framasoft </td>
+		<td class="url"> https://framateam.org/login </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framaboard </td>
+		<td class="description"> Collaborative project management like Kanban </td>
+		<td class="keywords"> project management , tool , privacy , framasoft </td>
+		<td class="url"> https://framaboard.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Framadrop </td>
+		<td class="description"> Share file anonymously </td>
+		<td class="keywords"> file sharing , tool , privacy , framasoft </td>
+		<td class="url"> https://framadrop.org/ </td>
+	</tr>
 </table>
 
 
