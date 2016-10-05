@@ -33,7 +33,7 @@
 # ############# #
 
 # Some configuration things
-UTILS_FOLDER=".utils"
+UTILS_FOLDER="utils"
 CSV2README_SCRIPT="csvToReadme.sh"
 
 # The folders and files about the libraries and tools
@@ -42,11 +42,11 @@ CSV_TOOLS_FILE="$TOOLS_DIR/Tips-n-tools_Tools.csv"
 
 # The folder and files about some publications, articles, blogs...
 WEB_DIR="webz"
-CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
+CSV_WEBS_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
 
 # The folder and files about the devices (smartphones, phablets, tablets, wearables, smartwatches...)
 DEVICE_DIR="devz"
-CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
+CSV_DEVICES_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 
 
 # ######### #
@@ -57,6 +57,9 @@ CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 # \brief Displays the usage and exits
 usageAndExit(){
 	echo "USAGE: sh tipsntools.sh {--help | --update | --find yourRegexp}"
+	echo "\t --help             : displays the help, i.e. this usage."
+	echo "\t --update           : updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
+	echo "\t --find yourRegexp  : finds in all the CSV source files the rows wich contain elements matching yourRegexp"
 	exit 0	
 }
 
@@ -73,8 +76,53 @@ update(){
 # \param regexp - The regex to use
 # \brief Finds in CSV source files some items
 findInFiles(){
+
 	echo "Find in CSV files the items which match $1..."
-	# TODO
+	
+	regex=$1
+	
+	# The tools file
+	echo "============"
+	echo "=== Finding '$regex' in $CSV_TOOLS_FILE..."
+	echo "============"
+	findInCsvFile $CSV_TOOLS_FILE $regex
+	
+	# The web things file
+	echo "============"
+	echo "=== Finding '$regex' in $CSV_WEBS_FILE..."
+	echo "============"
+	findInCsvFile $CSV_WEBS_FILE $regex
+	
+	# The devices file
+	echo "============"
+	echo "=== Finding '$regex' in $CSV_DEVICES_FILE..."
+	echo "============"
+	findInCsvFile $CSV_DEVICES_FILE $regex
+	
+}
+
+# \fn findInFile
+# \param file - The file to use
+# \param regex - The regex to use
+# \brief Find a dedicated CSV file items wich match the regex
+findInCsvFile(){
+	file=$1
+	regex=$2
+	echo "<table>"
+	cat $file | while read -r line; do
+		case "$line" in
+			*$regex*)
+				echo "\t<tr>"
+				echo $line | sed 's/;/\n/g' | while read -r item; do
+				echo "\t\t<td>" $item "</td>"
+				done
+				echo "\t</tr>"
+			;;
+			*)
+			;;
+		esac
+	done
+	echo "</table>"
 }
 
 
@@ -114,13 +162,13 @@ if [ ! -e "$CSV_TOOLS_FILE" ]; then
 	exit 1;
 fi
 
-if [ ! -e "$CSV_WEB_FILE" ]; then
-	echo "ERROR: The file '$CSV_WEB_FILE' does not exist. Exit now."
+if [ ! -e "$CSV_WEBS_FILE" ]; then
+	echo "ERROR: The file '$CSV_WEBS_FILE' does not exist. Exit now."
 	exit 1;
 fi
 
-if [ ! -e "$CSV_DEVICE_FILE" ]; then
-	echo "ERROR: The file '$CSV_DEVICE_FILE' does not exist. Exit now."
+if [ ! -e "$CSV_DEVICES_FILE" ]; then
+	echo "ERROR: The file '$CSV_DEVICES_FILE' does not exist. Exit now."
 	exit 1;
 fi
 
