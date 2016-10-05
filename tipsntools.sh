@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 1.0.0
+# Version.............: 2.0.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
 #
@@ -77,28 +77,19 @@ update(){
 # \brief Finds in CSV source files some items
 findInFiles(){
 
-	echo "Find in CSV files the items which match $1..."
-	
+	echo "Finds in CSV files the items which match $1..."
 	regex=$1
 	
 	# The tools file
-	echo "============"
-	echo "=== Finding '$regex' in $CSV_TOOLS_FILE..."
-	echo "============"
 	findInCsvFile $CSV_TOOLS_FILE $regex
 	
 	# The web things file
-	echo "============"
-	echo "=== Finding '$regex' in $CSV_WEBS_FILE..."
-	echo "============"
 	findInCsvFile $CSV_WEBS_FILE $regex
 	
 	# The devices file
-	echo "============"
-	echo "=== Finding '$regex' in $CSV_DEVICES_FILE..."
-	echo "============"
 	findInCsvFile $CSV_DEVICES_FILE $regex
 	
+	echo "End of search."
 }
 
 # \fn findInFile
@@ -108,21 +99,23 @@ findInFiles(){
 findInCsvFile(){
 	file=$1
 	regex=$2
-	echo "<table>"
+	echo "-----> Finding '$regex' in $file..."
 	cat $file | while read -r line; do
 		case "$line" in
 			*$regex*)
-				echo "\t<tr>"
 				echo $line | sed 's/;/\n/g' | while read -r item; do
-				echo "\t\t<td>" $item "</td>"
+					if [ "$item" = "" ]; then
+						echo "\t <null>"
+					else
+						echo "\t" $item
+					fi
 				done
-				echo "\t</tr>"
+				echo "\n"
 			;;
 			*)
 			;;
 		esac
 	done
-	echo "</table>"
 }
 
 
@@ -205,6 +198,6 @@ else
 	usageAndExit
 fi
 
-echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
+echo "\n\n✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
 
 

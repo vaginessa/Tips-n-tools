@@ -304,3 +304,5 @@ JavaScript;BluebirdJS;For JS Promises;JS;http://bluebirdjs.com/docs/why-bluebird
 JavaScript;Redux;Predictable stable container for JavaScript apps;JS , container;http://redux.js.org/
 JavaScript;RevealJS;The HTML presentation framework;JS , presentation;http://lab.hakim.se/reveal-js/#/
 JavaScript;PureJS;JavaScript template engine;JS , presentation;https://beebole.com/pure/
+Android;Apk Parser;APK parser library for java;APK;https://github.com/caoqianli/apk-parser
+Android;Clocker Scroller;A cool animated RecyclerView clock face scroller ;clock , view;https://github.com/andyb129/ClockScroller
