@@ -1,17 +1,17 @@
 # Tips'n'tools 
- Note: Run
+ Run
 ```shell
 	sh tipsntools.sh --help 
 ```
  to get some help about the commands
 
- Note: Run
+ Run
 ```shell
 	sh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools} aRegex 
 ```
  to make some search in files with a regular expression 
 
- Note: Run
+ Run
 ```shell
 	sh tipsntools.sh --update 
 ```
