@@ -20,11 +20,11 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 2.0.1
+# Version.............: 3.0.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
 #
-# Usage: sh tipsntools.sh {--help | --update | --find yourRegexp}
+# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findDevices} yourRegexp}
 #
 
 
@@ -56,10 +56,13 @@ CSV_DEVICES_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 # \fn usageAndExit
 # \brief Displays the usage and exits
 usageAndExit(){
-	echo "USAGE: sh tipsntools.sh {--help | --update | --find yourRegexp}"
-	echo "\t --help             : displays the help, i.e. this usage."
-	echo "\t --update           : updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
-	echo "\t --find yourRegexp  : finds in all the CSV source files the rows wich contain elements matching yourRegexp"
+	echo "USAGE: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}"
+	echo "\t --help.....................: displays the help, i.e. this usage."
+	echo "\t --update...................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
+	echo "\t --findAll yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
+	echo "\t --findWeb yourRegexp.......: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
+	echo "\t --findTools yourRegexp.....: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t --findDevices yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
 	exit 0	
 }
 
@@ -72,10 +75,10 @@ update(){
 	cd ..
 }
 
-# \fn findInFiles
+# \fn findInAllFiles
 # \param regexp - The regex to use
 # \brief Finds in CSV source files some items
-findInFiles(){
+findInAllFiles(){
 
 	echo "Finds in CSV files the items which match $1..."
 	regex=$1
@@ -179,14 +182,38 @@ if [ $1 ]; then
 		else
 			update	
 		fi
-	# Find some data?
-	elif [ "$1" = "--find" ]; then
+	# Find some data in all files?
+	elif [ "$1" = "--findAll" ]; then
 		if [ "$2" ]; then
 			regexp="$2"
-			findInFiles $regexp 
+			findInAllFiles $regexp 
 		else
 			usageAndExit
 		fi
+	# Find some data in web file?		
+	elif [ "$1" = "--findWeb" ]; then
+		if [ "$2" ]; then
+			regexp="$2"
+			findInCsvFile $CSV_WEBS_FILE $regexp
+		else
+			usageAndExit
+		fi
+	# Find some data in the tools file?
+	elif [ "$1" = "--findTools" ]; then
+		if [ "$2" ]; then
+			regexp="$2"
+			findInCsvFile $CSV_TOOLS_FILE $regexp
+		else
+			usageAndExit
+		fi		
+	# Find some data in devices file?		
+	elif [ "$1" = "--findDevices" ]; then
+		if [ "$2" ]; then
+			regexp="$2"
+			findInCsvFile $CSV_DEVICES_FILE $regexp
+		else
+			usageAndExit
+		fi				
 	# Need some help?
 	elif [ "$1" = "--help" ]; then
 		usageAndExit
