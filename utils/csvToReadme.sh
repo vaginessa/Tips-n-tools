@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 9.0.0
+# Version.............: 9.1.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -62,9 +62,9 @@ HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
 # Misc.
 README_HEADER="# Tips'n'tools \n"
-README_HEADER="$README_HEADER Note: Run\n\`\`\`shell\n\tsh tipsntools.sh --help \n\`\`\`\n  to get some help about the commands\n\n"
-README_HEADER="$README_HEADER Note: Run\n\`\`\`shell\n\tsh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools} aRegex \n\`\`\`\n to make some search in files with a regular expression \n\n"
-README_HEADER="$README_HEADER Note: Run\n\`\`\`shell\n\tsh tipsntools.sh --update  \n\`\`\`\n  to update the .html and README.md files with the value of the .csv files\n\n"
+README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh --help \n\`\`\`\n  to get some help about the commands\n\n"
+README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools} aRegex \n\`\`\`\n to make some search in files with a regular expression \n\n"
+README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh --update  \n\`\`\`\n  to update the .html and README.md files with the value of the .csv files\n\n"
 
 
 # ######### #
