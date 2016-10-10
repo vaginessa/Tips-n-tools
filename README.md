@@ -259,7 +259,7 @@
 		<td class="name"> Leak Canary </td>
 		<td class="description"> A memory leak tool for Android and Java </td>
 		<td class="keywords"> leak , memory </td>
-		<td class="url"> </td>
+		<td class="url"> https://github.com/square/leakcanary </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -2139,6 +2139,83 @@
 		<td class="description"> A cool animated RecyclerView clock face scroller </td>
 		<td class="keywords"> clock , view </td>
 		<td class="url"> https://github.com/andyb129/ClockScroller </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Snappy Image Viewer </td>
+		<td class="description"> Android Image Viewer inspired by StackOveflow's swipe-to-dismiss and moving animations </td>
+		<td class="keywords"> animations , effects , swipe </td>
+		<td class="url"> https://github.com/nshmura/SnappyImageViewer </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> TeamCity </td>
+		<td class="description"> Powerful Continuous Integration out of the Box </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> https://www.jetbrains.com/teamcity/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Infer </td>
+		<td class="description"> A tool to detect bugs in Android and iOS apps before they ship </td>
+		<td class="keywords"> DevOps , CI , tools , bugs , Android , iOS </td>
+		<td class="url"> http://fbinfer.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> PMD </td>
+		<td class="description"> Source code analyzer finding common programming flaws </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> https://pmd.github.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> FindBugs </td>
+		<td class="description"> Find bugs in Java Programs </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> http://findbugs.sourceforge.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Checkstyle </td>
+		<td class="description"> Write well formated and written Java code </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> http://checkstyle.sourceforge.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Robolectric </td>
+		<td class="description"> Android Unit Testing Framework </td>
+		<td class="keywords"> DevOps , CI , tools , unit tests </td>
+		<td class="url"> https://github.com/robolectric/robolectric </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Calabash </td>
+		<td class="description"> Automated acceptance testing for mobile apps </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> http://calaba.sh/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Lint </td>
+		<td class="description"> Improve your code with Lint </td>
+		<td class="keywords"> DevOps , CI , tools , Lint , code , optimization </td>
+		<td class="url"> https://developer.android.com/studio/write/lint.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Monkey </td>
+		<td class="description"> UI/Application exerciser </td>
+		<td class="keywords"> DevOps , CI , tools , UI , tests , monkey </td>
+		<td class="url"> https://developer.android.com/studio/test/monkey.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Cucumber </td>
+		<td class="description"> Behaviour-Drive Developement </td>
+		<td class="keywords"> BDD </td>
+		<td class="url"> https://cucumber.io/ </td>
 	</tr>
 </table>
 
@@ -4080,6 +4157,41 @@
 		<td class="description"> </td>
 		<td class="keywords"> OOP , FP </td>
 		<td class="url"> http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Learning Android Gestures </td>
+		<td class="description"> </td>
+		<td class="keywords"> gestures </td>
+		<td class="url"> https://stfalcon.com/en/blog/post/learning-android-gestures </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Create a Matrix Effect on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Matrix , effect , animations </td>
+		<td class="url"> http://www.ssaurel.com/blog/create-a-matrix-effect-on-android/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Ingredients for a foolproof CI for Android projects </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="url"> https://blog.devdroids.com/ingredients-for-a-foolproof-ci-for-android-projects-9f34ec36fcc8#.w1cb7r71s </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Lint </td>
+		<td class="description"> Avoid bugs with Android’s Lint </td>
+		<td class="keywords"> DevOps , CI , tools , Lint , code , optimization </td>
+		<td class="url"> https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.vqokh9ghn </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> About TDD and BDD </td>
+		<td class="description"> Test-Driven-Development and Behaviour-Driven-Development </td>
+		<td class="keywords"> TDD , BDD , tests </td>
+		<td class="url"> https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/ http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/ </td>
 	</tr>
 </table>
 

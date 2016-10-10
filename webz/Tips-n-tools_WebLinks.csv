@@ -280,3 +280,8 @@ Android;Avoid bugs with Android's Lint;;Lint;https://blog.devdroids.com/avoid-bu
 /;Degooglisons / Degooglify;;privacy;https://degooglisons-internet.org/liste/
 Android;Diggin into Android System Services;;services;https://speakerdeck.com/devunwired/digging-into-android-system-services
 /;Object Oriented Programming vs. Functional Programming;;OOP , FP;http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming
+Android;Learning Android Gestures;;gestures;https://stfalcon.com/en/blog/post/learning-android-gestures
+Android;Create a Matrix Effect on Android;;Matrix , effect , animations;http://www.ssaurel.com/blog/create-a-matrix-effect-on-android/
+Android;Ingredients for a foolproof CI for Android projects;;DevOps , CI , tools;https://blog.devdroids.com/ingredients-for-a-foolproof-ci-for-android-projects-9f34ec36fcc8#.w1cb7r71s
+Android;Lint;Avoid bugs with Android’s Lint;DevOps , CI , tools , Lint , code , optimization;https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.vqokh9ghn
+Android;About TDD and BDD;Test-Driven-Development and Behaviour-Driven-Development;TDD , BDD , tests;https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/    http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/
