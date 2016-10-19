@@ -2217,6 +2217,83 @@
 		<td class="keywords"> BDD </td>
 		<td class="url"> https://cucumber.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AppBarLayout Spring Behaviour </td>
+		<td class="description"> </td>
+		<td class="keywords"> view , animations </td>
+		<td class="url"> https://github.com/ToDou/appbarlayout-spring-behavior </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ViewPagerIndicator </td>
+		<td class="description"> </td>
+		<td class="keywords"> view pager , indicator </td>
+		<td class="url"> https://github.com/JakeWharton/ViewPagerIndicator </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Debug Drawer </td>
+		<td class="description"> Android Debug Drawer for faster development </td>
+		<td class="keywords"> debug </td>
+		<td class="url"> https://github.com/palaima/DebugDrawer </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PageIndicatorView </td>
+		<td class="description"> </td>
+		<td class="keywords"> view pager , indicator </td>
+		<td class="url"> https://github.com/romandanylyk/PageIndicatorView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SwitchDateTimePicker </td>
+		<td class="description"> Android library for Date and Time Picker in same dialog </td>
+		<td class="keywords"> Switch date time </td>
+		<td class="url"> https://github.com/Kunzisoft/Android-SwitchDateTimePicker </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FiftyShadesOf </td>
+		<td class="description"> An elegant context-care loading placeholder for Android </td>
+		<td class="keywords"> place holder </td>
+		<td class="url"> https://github.com/florent37/FiftyShadesOf </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Squint </td>
+		<td class="description"> Provide Diagonal cut on view with awesome customization </td>
+		<td class="keywords"> view , diagonal </td>
+		<td class="url"> https://github.com/IntruderShanky/Squint </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BottomSheetPickers </td>
+		<td class="description"> Third-party date and time pickers for Android. </td>
+		<td class="keywords"> bottom sheet , date , time , picker </td>
+		<td class="url"> https://github.com/philliphsu/BottomSheetPickers </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BubbleTab </td>
+		<td class="description"> Put some bubble in your tabs and give your apps a supa fresh style ! </td>
+		<td class="keywords"> tabs , view , animations , bubble </td>
+		<td class="url"> https://github.com/florent37/BubbleTab </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material Calendar View </td>
+		<td class="description"> Material Design Calendar compatible with API 8+ </td>
+		<td class="keywords"> calendar , material , view </td>
+		<td class="url"> https://github.com/BlackBoxVision/material-calendar-view </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FunkyHeader </td>
+		<td class="description"> Provide Funky cuts on image (The Perfect Header for Profile UI) </td>
+		<td class="keywords"> viiew , header , effects </td>
+		<td class="url"> https://github.com/IntruderShanky/FunkyHeader </td>
+	</tr>
 </table>
 
 
@@ -4192,6 +4269,44 @@
 		<td class="description"> Test-Driven-Development and Behaviour-Driven-Development </td>
 		<td class="keywords"> TDD , BDD , tests </td>
 		<td class="url"> https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/ http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Immersion dans la tête d'un développeur </td>
+		<td class="description"> </td>
+		<td class="keywords"> article , dev </td>
+		<td class="url"> https://shirleyalmosni.wordpress.com/2016/10/08/immersion-dans-la-tete-dun-developpeur/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Développeurs, apprendre est notre métier </td>
+		<td class="description"> </td>
+		<td class="keywords"> article , dev </td>
+		<td class="url"> https://medium.jechercheundev.fr/d%C3%A9veloppeurs-apprendre-est-notre-m%C3%A9tier-42b32a52807e#.27l3rp9ax </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android leak pattern: subscriptions in views </td>
+		<td class="description"> </td>
+		<td class="keywords"> memory , leaks </td>
+		<td class="url"> https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.cdbv38by2 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Designing the schema of Realm effectively, and other Realm tips </td>
+		<td class="description"> </td>
+		<td class="keywords"> Realm , database , data storage </td>
+		<td class="url"> https://medium.com/@Zhuinden/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072#.v9vgwiha1 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> A la découverte de Direct Boot : une des fonctionnalités d'Android 7.0 (Nougat) ! </td>
+		<td class="name"> </td>
+		<td class="description"> Direct Boot , boot </td>
+		<td class="keywords"> https://www.edouard-marquez.me/blog/android-direct-boot </td>
 	</tr>
 </table>
 

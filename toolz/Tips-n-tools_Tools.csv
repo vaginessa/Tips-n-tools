@@ -317,3 +317,14 @@ Android;Robolectric;Android Unit Testing Framework;DevOps , CI , tools , unit te
 Android;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization;https://developer.android.com/studio/write/lint.html
 Android;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey;https://developer.android.com/studio/test/monkey.html
 /;Cucumber;Behaviour-Drive Developement;BDD;https://cucumber.io/
+Android;AppBarLayout Spring Behaviour;;view , animations;https://github.com/ToDou/appbarlayout-spring-behavior
+Android;ViewPagerIndicator;;view pager , indicator;https://github.com/JakeWharton/ViewPagerIndicator
+Android;Android Debug Drawer; Android Debug Drawer for faster development ;debug;https://github.com/palaima/DebugDrawer
+Android;PageIndicatorView;;view pager , indicator;https://github.com/romandanylyk/PageIndicatorView
+Android;SwitchDateTimePicker; Android library for Date and Time Picker in same dialog ;Switch date time;https://github.com/Kunzisoft/Android-SwitchDateTimePicker
+Android;FiftyShadesOf; An elegant context-care loading placeholder for Android ;place holder;https://github.com/florent37/FiftyShadesOf
+Android;Squint;Provide Diagonal cut on view with awesome customization;view , diagonal;https://github.com/IntruderShanky/Squint
+Android;BottomSheetPickers; Third-party date and time pickers for Android. ;bottom sheet , date , time , picker;https://github.com/philliphsu/BottomSheetPickers
+Android;BubbleTab ; Put some bubble in your tabs and give your apps a supa fresh style ! ;tabs , view , animations , bubble;https://github.com/florent37/BubbleTab
+Android;Material Calendar View; Material Design Calendar compatible with API 8+ ;calendar , material , view;https://github.com/BlackBoxVision/material-calendar-view
+Android;FunkyHeader; Provide Funky cuts on image (The Perfect Header for Profile UI) ;viiew , header , effects;https://github.com/IntruderShanky/FunkyHeader
