@@ -327,4 +327,6 @@ Android;Squint;Provide Diagonal cut on view with awesome customization;view , di
 Android;BottomSheetPickers; Third-party date and time pickers for Android. ;bottom sheet , date , time , picker;https://github.com/philliphsu/BottomSheetPickers
 Android;BubbleTab ; Put some bubble in your tabs and give your apps a supa fresh style ! ;tabs , view , animations , bubble;https://github.com/florent37/BubbleTab
 Android;Material Calendar View; Material Design Calendar compatible with API 8+ ;calendar , material , view;https://github.com/BlackBoxVision/material-calendar-view
-Android;FunkyHeader; Provide Funky cuts on image (The Perfect Header for Profile UI) ;viiew , header , effects;https://github.com/IntruderShanky/FunkyHeader
+Android;FunkyHeader; Provide Funky cuts on image (The Perfect Header for Profile UI) ;view , header , effects;https://github.com/IntruderShanky/FunkyHeader
+Android;Android Job; Android library to handle jobs in the background;job , task , threads , background;https://github.com/evernote/android-job
+Android;Sensey;Detecting gestures in a snap;gestures;https://github.com/nisrulz/sensey

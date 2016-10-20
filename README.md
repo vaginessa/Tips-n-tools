@@ -2291,8 +2291,22 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> FunkyHeader </td>
 		<td class="description"> Provide Funky cuts on image (The Perfect Header for Profile UI) </td>
-		<td class="keywords"> viiew , header , effects </td>
+		<td class="keywords"> view , header , effects </td>
 		<td class="url"> https://github.com/IntruderShanky/FunkyHeader </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Job </td>
+		<td class="description"> Android library to handle jobs in the background </td>
+		<td class="keywords"> job , task , threads , background </td>
+		<td class="url"> https://github.com/evernote/android-job </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Sensey </td>
+		<td class="description"> Detecting gestures in a snap </td>
+		<td class="keywords"> gestures </td>
+		<td class="url"> https://github.com/nisrulz/sensey </td>
 	</tr>
 </table>
 
@@ -4307,6 +4321,41 @@
 		<td class="name"> </td>
 		<td class="description"> Direct Boot , boot </td>
 		<td class="keywords"> https://www.edouard-marquez.me/blog/android-direct-boot </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> A Crash Course in UX Design Research </td>
+		<td class="description"> </td>
+		<td class="keywords"> UX , design </td>
+		<td class="url"> https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.o968lt80z </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to run a team of people who never see each other </td>
+		<td class="description"> </td>
+		<td class="keywords"> team </td>
+		<td class="url"> http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Designing settings </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , settings , preferences , UI , UX </td>
+		<td class="url"> https://medium.com/@imran_parvez/designing-settings-b2a96878961b#.4kvkqwcml </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to perfect your UX with persona scenarios </td>
+		<td class="description"> </td>
+		<td class="keywords"> UX , design </td>
+		<td class="url"> http://www.webdesignerdepot.com/2015/04/how-to-perfect-your-ux-with-persona-scenarios/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Dark Side of UI. Benefits of Dark Background </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://uxplanet.org/dark-side-of-ui-benefits-of-dark-background-12f560bf7165#.hr59bk8cj </td>
 	</tr>
 </table>
 
