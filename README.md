@@ -2308,6 +2308,27 @@
 		<td class="keywords"> gestures </td>
 		<td class="url"> https://github.com/nisrulz/sensey </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShareButton </td>
+		<td class="description"> </td>
+		<td class="keywords"> button , view , share </td>
+		<td class="url"> https://github.com/kayan1990/ShareButton </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DiagonalLayout </td>
+		<td class="description"> </td>
+		<td class="keywords"> view , layout , diagonal </td>
+		<td class="url"> https://github.com/florent37/DiagonalLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material ViewPagerIndicator </td>
+		<td class="description"> </td>
+		<td class="keywords"> view , indicator , view pager , material </td>
+		<td class="url"> https://github.com/ronaldsmartin/Material-ViewPagerIndicator </td>
+	</tr>
 </table>
 
 
@@ -4356,6 +4377,55 @@
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> https://uxplanet.org/dark-side-of-ui-benefits-of-dark-background-12f560bf7165#.hr59bk8cj </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Norse </td>
+		<td class="description"> </td>
+		<td class="keywords"> security , Internet , networks , attacks , lulz </td>
+		<td class="url"> http://www.norse-corp.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> We Are Data </td>
+		<td class="description"> </td>
+		<td class="keywords"> Watchdogs , networks , lulz </td>
+		<td class="url"> http://wearedata.watchdogs.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Exploring the Android Design Support Library : Bottom Navigation View </td>
+		<td class="description"> </td>
+		<td class="keywords"> bottom navigation view </td>
+		<td class="url"> https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Wear – Design + Code </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Wear , view , UI , UX </td>
+		<td class="url"> https://medium.com/@nelmerrosario/android-wear-design-code-2-eb2899d12342#.bslas92nv </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Proguard files : a cautinary tale </td>
+		<td class="description"> </td>
+		<td class="keywords"> Proguard , security </td>
+		<td class="url"> http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Gradle Helpers </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle </td>
+		<td class="url"> https://github.com/brunodles/GradleHelpers </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tout ce qu'il faut savoir sur les SoC et processeurs mobiles </td>
+		<td class="description"> </td>
+		<td class="keywords"> SoC </td>
+		<td class="url"> http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles </td>
 	</tr>
 </table>
 

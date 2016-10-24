@@ -330,3 +330,6 @@ Android;Material Calendar View; Material Design Calendar compatible with API 8+ 
 Android;FunkyHeader; Provide Funky cuts on image (The Perfect Header for Profile UI) ;view , header , effects;https://github.com/IntruderShanky/FunkyHeader
 Android;Android Job; Android library to handle jobs in the background;job , task , threads , background;https://github.com/evernote/android-job
 Android;Sensey;Detecting gestures in a snap;gestures;https://github.com/nisrulz/sensey
+Android;ShareButton;;button , view , share;https://github.com/kayan1990/ShareButton
+Android;DiagonalLayout;;view , layout , diagonal;https://github.com/florent37/DiagonalLayout
+Android;Material ViewPagerIndicator;;view , indicator , view pager , material;https://github.com/ronaldsmartin/Material-ViewPagerIndicator
