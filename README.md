@@ -2329,6 +2329,48 @@
 		<td class="keywords"> view , indicator , view pager , material </td>
 		<td class="url"> https://github.com/ronaldsmartin/Material-ViewPagerIndicator </td>
 	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Multiples </td>
+		<td class="description"> </td>
+		<td class="keywords"> pair , triples , quadriples , multiples </td>
+		<td class="url"> https://github.com/MFlisar/Multiples </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ColorTextView </td>
+		<td class="description"> </td>
+		<td class="keywords"> color , view , text view </td>
+		<td class="url"> https://github.com/zhonghanwen/ColorTextView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FastScroll </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fast scroll , indicator </td>
+		<td class="url"> https://github.com/L4Digital/FastScroll </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MapScaleView </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google Maps , scale </td>
+		<td class="url"> https://github.com/pengrad/MapScaleView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RadarChartView </td>
+		<td class="description"> </td>
+		<td class="keywords"> view , chart </td>
+		<td class="url"> https://github.com/DmitriyZaitsev/RadarChartView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Randomizer </td>
+		<td class="description"> </td>
+		<td class="keywords"> tests , random , mock </td>
+		<td class="url"> https://github.com/android-Infoedge/randomizer </td>
+	</tr>
 </table>
 
 
@@ -2388,7 +2430,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Upgrade </td>
 		<td class="description"> Site de veille </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> veille , news , IT </td>
 		<td class="url"> http://upgrade.news/ </td>
 	</tr>
 	<tr>
@@ -2498,7 +2540,7 @@
 	</tr>
 	<tr>
 		<td class="subjectDesign"> Design </td>
-		<td class="name"> Designeuropre </td>
+		<td class="name"> Designrope </td>
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> http://designrope.com/design/find-stock-photos-dont-suck/ </td>
@@ -4433,6 +4475,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> news , IT </td>
 		<td class="url"> http://arstechnica.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The full stack developer is a myth </td>
+		<td class="description"> </td>
+		<td class="keywords"> fullstack , dev </td>
+		<td class="url"> https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> TechCrunch </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> https://techcrunch.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> DevMag </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://devmag.fr/ </td>
 	</tr>
 </table>
 

@@ -10,7 +10,7 @@ Android;Multidex;About multidexing and eprformances;tuto , multidex;https://medi
 Android;UI Tips for pre and post Lollipop;;tuto , lollipop , design , material;https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2#.vb6rojwz0
 Android;Implement app invites;;tuto , app invites;http://riggaroo.co.za/app-invites-in-android/
 Android;Android login and signup screens;;tuto , material , login screen;http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
-/;Upgrade;Site de veille;;http://upgrade.news/
+/;Upgrade;Site de veille;veille , news , IT;http://upgrade.news/
 Android;Reduce your Android build duration;;;http://blog.octo.com/en/reduce-android-build-duration/
 Android;Data Binding Library: Great UI’s with Less code;;tuto , lib , data binding , vues;https://medium.com/google-developer-experts/data-binding-library-great-ui-s-with-less-code-f2575e0c588e#.xvrqq77qf
 Android;Genymotion, Gradle, Flavors;Stable functional tests with Genymotion Gradle Plugin and test-specific Product Flavors;gradle , flavors , genymotion;https://medium.com/@tomaszrykala/stable-functional-tests-with-genymotion-gradle-plugin-and-test-specific-product-flavors-4fe4b93f7c8c#.d3bwmzi2k
@@ -26,7 +26,7 @@ Android;Top 5 Android Testing Frameworks (with Examples);;Robotium , Espresso , 
 Design;Créer un bon logo d'application mobile;;design , logos;http://www.aieaieeye.com/creer-un-bon-logo-dapplication-mobile-pourquoi-comment/
 /;Diaspora*;;;https://diasporafoundation.org/
 Design;Clipingmagic;;png transparent;https://clippingmagic.com/
-Design;Designeuropre;;;http://designrope.com/design/find-stock-photos-dont-suck/
+Design;Designrope;;;http://designrope.com/design/find-stock-photos-dont-suck/
 Design;JustinMind;;mock up , proto , maquette;http://www.justinmind.com/
 /;5 règles pour réussir son hackathon;;hackathon , conseils;https://dakeez.wordpress.com/2011/11/15/5-regles-pour-reussir-son-hackathon/
 Android;Eliminating Code Overhead;;tutos , code overhead;https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015
@@ -304,3 +304,6 @@ Android;Proguard files : a cautinary tale;;Proguard , security;http://www.stken
 Android;Gradle Helpers;;Gradle;https://github.com/brunodles/GradleHelpers
 /;Tout ce qu'il faut savoir sur les SoC et processeurs mobiles;;SoC;http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles
 /;Ars Technica;;news , IT;http://arstechnica.com/
+/;The full stack developer is a myth;;fullstack , dev;https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8
+/;TechCrunch;;veille , news , IT;https://techcrunch.com/
+/;DevMag;;veille , news , IT;http://devmag.fr/
