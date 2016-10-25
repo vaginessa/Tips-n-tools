@@ -20,11 +20,12 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 3.0.0
+# Version.............: 4.0.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
 #
-# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findDevices} yourRegexp}
+# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}
+# Usage: sh tipsntools.sh {-h | -u | {-a | -w | -t | -d} yourRegexp}
 #
 
 
@@ -33,7 +34,7 @@
 # ############# #
 
 # Some configuration things
-UTILS_FOLDER="utils"
+UTILS_DIR="utils"
 CSV2README_SCRIPT="csvToReadme.sh"
 
 # The folders and files about the libraries and tools
@@ -53,53 +54,79 @@ CSV_DEVICES_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 # FUNCTIONS #
 # ######### #
 
-# \fn usageAndExit
+# \fn fUsageAndExit
 # \brief Displays the usage and exits
-usageAndExit(){
-	echo "USAGE: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}"
-	echo "\t --help.....................: displays the help, i.e. this usage."
-	echo "\t --update...................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
-	echo "\t --findAll yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
-	echo "\t --findWeb yourRegexp.......: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
-	echo "\t --findTools yourRegexp.....: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
-	echo "\t --findDevices yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
+fUsageAndExit(){
+	echo "USAGE:"
+	echo "sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}"
+	echo "sh tipsntools.sh {-h | -u | {-a | -w | -t | -d} yourRegexp}"
+	echo "\t --help , -h    ....................: displays the help, i.e. this usage."
+	echo "\t --update , -u    ..................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
+	echo "\t --findAll , -a    yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
+	echo "\t --findWeb , -w    yourRegexp.......: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
+	echo "\t --findTools , -t    yourRegexp.....: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t --findDevices , -d    yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
 	exit 0	
 }
 
-# \fn update
+# \fn fUpdate
 # \brief Updates the result file with HTML files built with CSV soruce files
-update(){
+fUpdate(){
 	echo "Update the result file..."
-	cd $UTILS_FOLDER
+	cd $UTILS_DIR
 	sh $CSV2README_SCRIPT
 	cd ..
 }
 
-# \fn findInAllFiles
+# \fn errBadCommand
+# \brief Displays an error message saying there is a bad command
+errBadCommand(){
+	echo "ERROR: Bad command, see help to use the script."
+}
+
+# \fn errBadCommandAndExit
+# \brief Displays an error message saying there is a bad command and exists
+errBadCommandandExit(){
+	errBadCommand
+	exit 1
+}
+
+# \fn errBadDirectory
+# \param directory - The missing/bad directory
+# \brief Displays an error message saying there is a bad/unexisting directory and exits
+errBadDirectory(){
+	echo "ERROR: The directory '$1' does not exist."
+	exit 1
+}
+
+# \fn errBadFile
+# \param file - The missing/bad file
+# \brief Displays an error message saying there is a bad/unexisting file and exits
+errBadFile(){
+	echo "ERROR: The file '$1' does not exist."
+	exit 1
+}
+
+# \fn fFindInAllFiles
 # \param regexp - The regex to use
 # \brief Finds in CSV source files some items
-findInAllFiles(){
-
+fFindInAllFiles(){
 	echo "Finds in CSV files the items which match $1..."
 	regex=$1
-	
 	# The tools file
-	findInCsvFile $CSV_TOOLS_FILE $regex
-	
+	fFindInCsvFile $CSV_TOOLS_FILE $regex
 	# The web things file
-	findInCsvFile $CSV_WEBS_FILE $regex
-	
+	fFindInCsvFile $CSV_WEBS_FILE $regex
 	# The devices file
-	findInCsvFile $CSV_DEVICES_FILE $regex
-	
+	fFindInCsvFile $CSV_DEVICES_FILE $regex
 	echo "End of search."
 }
 
-# \fn findInFile
+# \fn fFindInCsvFile
 # \param file - The file to use
 # \param regex - The regex to use
 # \brief Find a dedicated CSV file items wich match the regex
-findInCsvFile(){
+fFindInCsvFile(){
 	file=$1
 	regex=$2
 	echo "-----> Finding '$regex' in $file..."
@@ -128,101 +155,99 @@ findInCsvFile(){
 
 # Check the args and display usage if needed
 if [ "$#" -lt 1 -o "$#" -gt 2 ]; then
-	usageAndExit
+	fUsageAndExit
 fi
 
 # Check id the directories containing the data and the script exist
-if [ ! -d "$UTILS_FOLDER" ]; then
-	echo "ERROR: Directory '$UTILS_FOLDER' does not exists. Exit now."
-	exit 1
+if [ ! -d "$UTILS_DIR" ]; then
+	errBadDirectory $UTILS_DIR
 fi
 
 if [ ! -d "$TOOLS_DIR" ]; then
-	echo "ERROR: Directory '$TOOLS_DIR' does not exists. Exit now."
-	exit 1
+	errBadDirectory $TOOLS_DIR
 fi
 
 if [ ! -d "$WEB_DIR" ]; then
-	echo "ERROR: Directory '$WEB_DIR' does not exists. Exit now."
-	exit 1
+	errBadDirectory $WEB_DIR
 fi
 
 if [ ! -d "$DEVICE_DIR" ]; then
-	echo "ERROR: Directory '$DEVICE_DIR' does not exists. Exit now."
-	exit 1
+	errBadDirectory $DEVICE_DIR	
 fi
 
 # Check if all the files to use exist
 if [ ! -e "$CSV_TOOLS_FILE" ]; then
-	echo "ERROR: The file '$CSV_TOOLS_FILE' does not exist. Exit now."
-	exit 1;
+	errBadFile $CSV_TOOLS_FILE	
 fi
 
 if [ ! -e "$CSV_WEBS_FILE" ]; then
-	echo "ERROR: The file '$CSV_WEBS_FILE' does not exist. Exit now."
-	exit 1;
+	errBadFile $CSV_WEBS_FILE	
 fi
 
 if [ ! -e "$CSV_DEVICES_FILE" ]; then
-	echo "ERROR: The file '$CSV_DEVICES_FILE' does not exist. Exit now."
-	exit 1;
+	errBadFile $CSV_DEVICES_FILE	
 fi
 
-if [ ! -e "$UTILS_FOLDER/$CSV2README_SCRIPT" ]; then
-	echo "ERROR: The script '$UTILS_FOLDER/$CSV2README_SCRIPT' does not exist. Exit now."
-	exit 1;
+if [ ! -e "$UTILS_DIR/$CSV2README_SCRIPT" ]; then
+	errBadFile "$UTILS_DIR/$CSV2README_SCRIPT"
 fi
 
 # Let's work !
 if [ $1 ]; then
 	# Update the README.md file?
-	if [ "$1" = "--update" ]; then
+	if [ "$1" = "--update" -o "$1" = "-u" ]; then
 		if [ "$#" -ne 1 ]; then
-			usageAndExit
+			errBadCommand
+			fUsageAndExit
 		else
-			update	
+			fUpdate	
 		fi
 	# Find some data in all files?
-	elif [ "$1" = "--findAll" ]; then
+	elif [ "$1" = "--findAll" -o "$1" = "-a" ]; then
 		if [ "$2" ]; then
 			regexp="$2"
-			findInAllFiles $regexp 
+			fFindInAllFiles $regexp 
 		else
-			usageAndExit
+			errBadCommand		
+			fUsageAndExit
 		fi
 	# Find some data in web file?		
-	elif [ "$1" = "--findWeb" ]; then
+	elif [ "$1" = "--findWeb" -o "$1" = "-w" ]; then
 		if [ "$2" ]; then
 			regexp="$2"
-			findInCsvFile $CSV_WEBS_FILE $regexp
+			fFindInCsvFile $CSV_WEBS_FILE $regexp
 		else
-			usageAndExit
+			errBadCommand		
+			fUsageAndExit
 		fi
 	# Find some data in the tools file?
-	elif [ "$1" = "--findTools" ]; then
+	elif [ "$1" = "--findTools" -o "$1" = "-t" ]; then
 		if [ "$2" ]; then
 			regexp="$2"
-			findInCsvFile $CSV_TOOLS_FILE $regexp
+			fFindInCsvFile $CSV_TOOLS_FILE $regexp
 		else
-			usageAndExit
+			errBadCommand		
+			fUsageAndExit
 		fi		
 	# Find some data in devices file?		
-	elif [ "$1" = "--findDevices" ]; then
+	elif [ "$1" = "--findDevices" -o "$1" = "-d" ]; then
 		if [ "$2" ]; then
 			regexp="$2"
-			findInCsvFile $CSV_DEVICES_FILE $regexp
+			fFindInCsvFile $CSV_DEVICES_FILE $regexp
 		else
-			usageAndExit
+			errBadCommand		
+			fUsageAndExit
 		fi				
 	# Need some help?
-	elif [ "$1" = "--help" ]; then
-		usageAndExit
+	elif [ "$1" = "--help" -o "$1" = "-h" ]; then
+		fUsageAndExit
 	# Stop jumping on your keaboard...	
 	else
-		usageAndExit
+		errBadCommand	
+		fUsageAndExit
 	fi
 else
-	usageAndExit
+	fUsageAndExit
 fi
 
 echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
