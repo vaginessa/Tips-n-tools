@@ -2343,6 +2343,20 @@
 		<td class="keywords"> emojicon , emotes , smileys </td>
 		<td class="url"> http://emojipedia.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Video Trimmer </td>
+		<td class="description"> </td>
+		<td class="keywords"> video , trimmer , view </td>
+		<td class="url"> https://github.com/knowledge4life/k4l-video-trimmer </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShareButton </td>
+		<td class="description"> A share button with smooth animation </td>
+		<td class="keywords"> UI , views , buttons , share </td>
+		<td class="url"> https://github.com/kayan1990/ShareButton </td>
+	</tr>
 </table>
 
 
@@ -4411,7 +4425,7 @@
 		<td class="name"> Exploring the Android Design Support Library : Bottom Navigation View </td>
 		<td class="description"> </td>
 		<td class="keywords"> bottom navigation view </td>
-		<td class="url"> https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m </td>
+		<td class="url"> https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m https://medium.com/@nullthemall/bottomnavigationview-missing-pearls-eaa950f9ad4e#.r4b416ehi </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -4468,6 +4482,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> veille , news , IT </td>
 		<td class="url"> http://devmag.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android N shortcuts </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , shortcuts , deep link </td>
+		<td class="url"> https://catinean.com/2016/10/20/exploring-android-nougat-7-1-app-shortcuts/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bye, Bye Burger ! </td>
+		<td class="description"> About material design, bottom navigation and the old burger menu </td>
+		<td class="keywords"> UI , navigation , bottom , burger , material </td>
+		<td class="url"> https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.nrzxqnbha </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bash your way to better Android Development </td>
+		<td class="description"> </td>
+		<td class="keywords"> bash , shell , adb , android , dev </td>
+		<td class="url"> https://medium.com/@jonfhancock/bash-your-way-to-better-android-development-1169bc3e0424#.k8u0c2wfy </td>
 	</tr>
 </table>
 

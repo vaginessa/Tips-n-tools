@@ -298,7 +298,7 @@ A la découverte de Direct Boot : une des fonctionnalités d'Android 7.0 (Nougat
 /;Dark Side of UI. Benefits of Dark Background;;;https://uxplanet.org/dark-side-of-ui-benefits-of-dark-background-12f560bf7165#.hr59bk8cj
 /;Norse;;security , Internet , networks , attacks , lulz;http://www.norse-corp.com/
 /;We Are Data;;Watchdogs , networks , lulz;http://wearedata.watchdogs.com/
-Android;Exploring the Android Design Support Library : Bottom Navigation View;;bottom navigation view;https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m     
+Android;Exploring the Android Design Support Library : Bottom Navigation View;;bottom navigation view;https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m     https://medium.com/@nullthemall/bottomnavigationview-missing-pearls-eaa950f9ad4e#.r4b416ehi
 Android;Android Wear – Design + Code;;Android Wear , view , UI , UX;https://medium.com/@nelmerrosario/android-wear-design-code-2-eb2899d12342#.bslas92nv
 Android;Proguard files : a cautinary tale;;Proguard , security;http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html
 Android;Gradle Helpers;;Gradle;https://github.com/brunodles/GradleHelpers
@@ -307,3 +307,6 @@ Android;Gradle Helpers;;Gradle;https://github.com/brunodles/GradleHelpers
 /;The full stack developer is a myth;;fullstack , dev;https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8
 /;TechCrunch;;veille , news , IT;https://techcrunch.com/
 /;DevMag;;veille , news , IT;http://devmag.fr/
+Android;Android N shortcuts;;UI , shortcuts , deep link;https://catinean.com/2016/10/20/exploring-android-nougat-7-1-app-shortcuts/
+Android;Bye, Bye Burger !;About material design, bottom navigation and the old burger menu;UI , navigation , bottom , burger , material;https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.nrzxqnbha
+Android;Bash your way to better Android Development;;bash , shell , adb , android , dev;https://medium.com/@jonfhancock/bash-your-way-to-better-android-development-1169bc3e0424#.k8u0c2wfy
