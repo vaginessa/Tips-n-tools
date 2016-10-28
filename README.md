@@ -4504,6 +4504,34 @@
 		<td class="keywords"> bash , shell , adb , android , dev </td>
 		<td class="url"> https://medium.com/@jonfhancock/bash-your-way-to-better-android-development-1169bc3e0424#.k8u0c2wfy </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Material.io </td>
+		<td class="description"> </td>
+		<td class="keywords"> material design </td>
+		<td class="url"> https://material.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Material.io devices </td>
+		<td class="description"> </td>
+		<td class="keywords"> material design , devices , specs </td>
+		<td class="url"> https://material.io/devices/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Annotations to support your contracts </td>
+		<td class="description"> </td>
+		<td class="keywords"> annotations , contracts </td>
+		<td class="url"> https://tips.seebrock3r.me/annotations-to-support-your-contracts-609ff259d5df#.hs1ynkyyo </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Better Control Flow Analysis with Contract Annotations </td>
+		<td class="description"> </td>
+		<td class="keywords"> annotations , contracts </td>
+		<td class="url"> https://blog.jetbrains.com/idea/2013/10/better-control-flow-analysis-with-contract-annotations-and-intellij-idea-13/ </td>
+	</tr>
 </table>
 
 
