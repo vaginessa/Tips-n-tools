@@ -2357,6 +2357,27 @@
 		<td class="keywords"> UI , views , buttons , share </td>
 		<td class="url"> https://github.com/kayan1990/ShareButton </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FanLayoutManager </td>
+		<td class="description"> Horizontal list with items moving like fan blades </td>
+		<td class="keywords"> UI , views , list </td>
+		<td class="url"> https://github.com/Cleveroad/FanLayoutManager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Quiet </td>
+		<td class="description"> Quiet for Android – TCP over sound </td>
+		<td class="keywords"> TCP , sound , data exchange </td>
+		<td class="url"> https://github.com/quiet/org.quietmodem.Quiet </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Multi Selection </td>
+		<td class="description"> Multiselection Solution for Android in Kotlin </td>
+		<td class="keywords"> UI , view , list , selection </td>
+		<td class="url"> https://github.com/Yalantis/Multi-Selection </td>
+	</tr>
 </table>
 
 
@@ -4531,6 +4552,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> annotations , contracts </td>
 		<td class="url"> https://blog.jetbrains.com/idea/2013/10/better-control-flow-analysis-with-contract-annotations-and-intellij-idea-13/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android MVP without RxJava or Dagger </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , RxJava </td>
+		<td class="url"> https://blog.joaquimley.com/avenging-android-mvp-23461aebe9b5#.j8f437rcg </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RxJava: Android MVVM App structure with Retrofit </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVVM , RxJava , Retrofit </td>
+		<td class="url"> https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8 </td>
 	</tr>
 </table>
 

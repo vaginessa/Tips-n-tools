@@ -337,3 +337,6 @@ Design;Emoji Unicode Tables;;emojicon , emotes , smileys;http://apps.timwhitlock
 Design;Emojipedia;;emojicon , emotes , smileys;http://emojipedia.org/
 Android;Video Trimmer;;video , trimmer , view;https://github.com/knowledge4life/k4l-video-trimmer
 Android;ShareButton; A share button with smooth animation ;UI , views , buttons , share;https://github.com/kayan1990/ShareButton
+Android;FanLayoutManager;Horizontal list with items moving like fan blades;UI , views , list ;https://github.com/Cleveroad/FanLayoutManager
+Android;Quiet;Quiet for Android – TCP over sound;TCP , sound , data exchange;https://github.com/quiet/org.quietmodem.Quiet
+Android;Multi Selection; Multiselection Solution for Android in Kotlin ;UI , view , list , selection;https://github.com/Yalantis/Multi-Selection

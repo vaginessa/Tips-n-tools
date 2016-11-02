@@ -314,3 +314,5 @@ Design;Material.io;;material design;https://material.io/
 Design;Material.io devices;;material design , devices , specs;https://material.io/devices/
 Android;Annotations to support your contracts;;annotations , contracts;https://tips.seebrock3r.me/annotations-to-support-your-contracts-609ff259d5df#.hs1ynkyyo
 Android;Better Control Flow Analysis with Contract Annotations;;annotations , contracts;https://blog.jetbrains.com/idea/2013/10/better-control-flow-analysis-with-contract-annotations-and-intellij-idea-13/
+Android;Android MVP without RxJava or Dagger;;MVP , RxJava;https://blog.joaquimley.com/avenging-android-mvp-23461aebe9b5#.j8f437rcg
+Android;RxJava: Android MVVM App structure with Retrofit;;MVVM , RxJava , Retrofit;https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8
