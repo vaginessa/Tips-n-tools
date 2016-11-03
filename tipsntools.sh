@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 4.0.0
+# Version.............: 4.1.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
 #
@@ -60,12 +60,18 @@ fUsageAndExit(){
 	echo "USAGE:"
 	echo "sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}"
 	echo "sh tipsntools.sh {-h | -u | {-a | -w | -t | -d} yourRegexp}"
-	echo "\t --help , -h    ....................: displays the help, i.e. this usage."
-	echo "\t --update , -u    ..................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
-	echo "\t --findAll , -a    yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
-	echo "\t --findWeb , -w    yourRegexp.......: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
-	echo "\t --findTools , -t    yourRegexp.....: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
-	echo "\t --findDevices , -d    yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t --help	....................: displays the help, i.e. this usage."
+	echo "\t -h ........................: displays the help, i.e. this usage."
+	echo "\t --update ..................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
+	echo "\t -u ........................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
+	echo "\t --findAll yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
+	echo "\t -a yourRegexp..............: finds in all the CSV source files the rows which contain elements matching yourRegexp"
+	echo "\t --findWeb yourRegexp.......: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
+	echo "\t -w yourRegexp..............: finds in the web links CSV source file the rows which contain elements matching yourRegexp"	
+	echo "\t --findTools yourRegexp.....: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t -t yourRegexp..............: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t --findDevices yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t -d yourRegexp..............: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
 	exit 0	
 }
 

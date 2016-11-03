@@ -2378,6 +2378,20 @@
 		<td class="keywords"> UI , view , list , selection </td>
 		<td class="url"> https://github.com/Yalantis/Multi-Selection </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Swipe Coordinator </td>
+		<td class="description"> A coordinator layout for Android views to animate and typify touch events as swipe gestures </td>
+		<td class="keywords"> UI , swipe , view </td>
+		<td class="url"> https://github.com/VictorAlbertos/SwipeCoordinator </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Flickable Dialog </td>
+		<td class="description"> This dialog can flick and make it easy to dismiss sensuously. </td>
+		<td class="keywords"> UI , dialog , view </td>
+		<td class="url"> https://github.com/t-kurimura/flickabledialog </td>
+	</tr>
 </table>
 
 
@@ -4566,6 +4580,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> MVVM , RxJava , Retrofit </td>
 		<td class="url"> https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Do you like to ADB? </td>
+		<td class="description"> </td>
+		<td class="keywords"> ADB , Android Studio </td>
+		<td class="url"> http://crushingcode.co/do-you-like-to-adb/ </td>
 	</tr>
 </table>
 

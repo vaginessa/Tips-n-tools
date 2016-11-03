@@ -340,3 +340,5 @@ Android;ShareButton; A share button with smooth animation ;UI , views , buttons 
 Android;FanLayoutManager;Horizontal list with items moving like fan blades;UI , views , list ;https://github.com/Cleveroad/FanLayoutManager
 Android;Quiet;Quiet for Android – TCP over sound;TCP , sound , data exchange;https://github.com/quiet/org.quietmodem.Quiet
 Android;Multi Selection; Multiselection Solution for Android in Kotlin ;UI , view , list , selection;https://github.com/Yalantis/Multi-Selection
+Android;Swipe Coordinator; A coordinator layout for Android views to animate and typify touch events as swipe gestures ;UI , swipe , view;https://github.com/VictorAlbertos/SwipeCoordinator
+Android;Flickable Dialog; This dialog can flick and make it easy to dismiss sensuously. ;UI , dialog , view;https://github.com/t-kurimura/flickabledialog
