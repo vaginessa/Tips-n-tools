@@ -232,7 +232,11 @@ Android;Pidcat;Colored logcat script which only shows log entries for a specific
 Android;LoaderViewLibrary;Library that enables TextView and ImageView to show loading animation while waiting for the text and image get loaded;view , animations , loader;https://github.com/elye/loaderviewlibrary
 Android;Paper;Fast and simple data storage library for Android;database , storage , NoSQL , Kryo;https://github.com/pilgr/Paper
 Java;Kryo;Java serialziation andcloning : fast,e fficient, automatic;storage , serialization;https://github.com/EsotericSoftware/kryo
-Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy;https://github.com/DrKLO/Telegram
+Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy , FOSS;https://github.com/DrKLO/Telegram
+Web;Telegram; Telegram web application, GPL v3;Telegram , app , security , privacy , FOSS;https://github.com/zhukov/webogram
+/;Telegram;Telegram Desktop messaging app;Telegram , app , security , privacy , FOSS;https://github.com/telegramdesktop/tdesktop
+Android;Silence;A fork of Signal with only SMS/MMS encryption;app , security , privacy , FOSS;https://github.com/SilenceIM/Silence
+Android;Tor;Somes links to TOR tools;app , security , privacy , FOSS;https://github.com/guardianproject/tor-browser     https://github.com/amoghbl1/tor-browser    https://github.com/guardianproject/Orfox https://github.com/n8fr8/OrfoxFennec
 Android;FilpAnimation;Simple example for flip animation;animation , flip;https://github.com/4xes/FlipAnimation
 Android;BGABadgeView;;animation , badge;https://github.com/bingoogolapple/BGABadgeView-Android
 Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://github.com/grandcentrix/ThirtyInch/
@@ -259,27 +263,27 @@ Android;AndroidUtilCode;Some util classes…;utils;https://github.com/Blankj/And
 /;GitLab;Tool to use to unify issus, code review, configuration management , CI and CD;Git , DevOps , tool;https://about.gitlab.com/
 /;Jmeter;To laod test functionnal behavior and measure performances;Load test , performances , DevOps , tool;http://jmeter.apache.org/
 /;Travis;Tests Github hosted projects;Github , CI , DevOps , tool;https://travis-ci.org/
-/;Framalink;URL shorter;URL , tool , privacy , framasoft;https://frama.link/
-/;Framindmap;Mindmap tool;mind map , tool , privacy , framasoft;https://framindmap.org/c/login
+/;Framalink;URL shorter;URL , tool , privacy , framasoft , FOSS;https://frama.link/
+/;Framindmap;Mindmap tool;mind map , tool , privacy , framasoft , FOSS;https://framindmap.org/c/login
 /;MyFrama;Bookmakrs and links sharing;link , bookmark , tool , privacy , framasoft;https://my.framasoft.org/
-/;Framadate;Make polls;polls , planning , tool , privacy , framasoft;https://framadate.org/
+/;Framadate;Make polls;polls , planning , tool , privacy , framasoft , FOSS;https://framadate.org/
 /;Framadrive;;drive , cloud storage , tool , privacy , framasoft;https://framadrive.org/
-/;Framanotes;;notes , tool , privacy , framasoft;https://framanotes.org/
+/;Framanotes;;notes , tool , privacy , framasoft , FOSS;https://framanotes.org/
 /;Framasphère*;;social network , Diaspora* , tool , privacy , framasoft;https://framasphere.org/
-/;Framaganda;;agenda , tool , privacy , framasoft;https://framagenda.org/index.php/login
-/;Framapad;;tool , privacy , framasoft;https://framapad.org/
-/;Framaforms;To make forms;forms , tool , provacy , framasoft;https://framaforms.org/
-/;Framalistes;Mailing listes;mailing list , tool , privacy , framasoft;https://framalistes.org/
-/;Framacarte;Map;map , tool , privacy , framasoft;https://framacarte.org/en/
-/;Framanews;;RSS , tool , privacy , framasoft;https://framanews.org/
-/;Framabee;An Internet search engine;search engine , tool , privacy , framasoft;https://framabee.org/
-/;Framapic;Share pictures online anonymously;picture , tool , privacy , framasoft;https://framapic.org/
+/;Framaganda;;agenda , tool , privacy , framasoft , FOSS;https://framagenda.org/index.php/login
+/;Framapad;;tool , privacy , framasoft , FOSS;https://framapad.org/
+/;Framaforms;To make forms;forms , tool , provacy , framasoft , FOSS;https://framaforms.org/
+/;Framalistes;Mailing listes;mailing list , tool , privacy , framasoft , FOSS;https://framalistes.org/
+/;Framacarte;Map;map , tool , privacy , framasoft , FOSS;https://framacarte.org/en/
+/;Framanews;;RSS , tool , privacy , framasoft , FOSS;https://framanews.org/
+/;Framabee;An Internet search engine;search engine , tool , privacy , framasoft , FOSS;https://framabee.org/
+/;Framapic;Share pictures online anonymously;picture , tool , privacy , framasoft , FOSS;https://framapic.org/
 /;Framemo;Memo;memo , tool , privacy , framasoft;https://framemo.org/
-/;Framabin;Send encyphered messages;messages , privacy , tool , framasoft;https://framabin.org/
+/;Framabin;Send encyphered messages;messages , privacy , tool , framasoft , FOSS;https://framabin.org/
 /;Framatalk;Visio talks;Visio , privacy , tool , framasoft;https://framatalk.org/accueil/
-/;Framateam;Colloborative communication like Slack;tool , privacy , framasoft;https://framateam.org/login
+/;Framateam;Colloborative communication like Slack;tool , privacy , framasoft , FOSS;https://framateam.org/login
 /;Framaboard;Collaborative project management like Kanban ;project management , tool , privacy , framasoft;https://framaboard.org/
-/;Framadrop;Share file anonymously;file sharing , tool , privacy , framasoft;https://framadrop.org/
+/;Framadrop;Share file anonymously;file sharing , tool , privacy , framasoft , FOSS;https://framadrop.org/
 Android;AnimatorDuratinTile;A quick settings tile to quickly set the animator duration scale;animation;https://github.com/nickbutcher/AnimatorDurationTile
 Android;RealtimeBlurView;A realtime blurring overlay;blur , view;https://github.com/mmin18/RealtimeBlurView
 Android;AHBottomNavigation;A library to reproduce the behavior of the bottom navigation guidelines;bottom navigation;https://github.com/aurelhubert/ahbottomnavigation
@@ -342,3 +346,7 @@ Android;Quiet;Quiet for Android – TCP over sound;TCP , sound , data exchange;h
 Android;Multi Selection; Multiselection Solution for Android in Kotlin ;UI , view , list , selection;https://github.com/Yalantis/Multi-Selection
 Android;Swipe Coordinator; A coordinator layout for Android views to animate and typify touch events as swipe gestures ;UI , swipe , view;https://github.com/VictorAlbertos/SwipeCoordinator
 Android;Flickable Dialog; This dialog can flick and make it easy to dismiss sensuously. ;UI , dialog , view;https://github.com/t-kurimura/flickabledialog
+Android;Prevent Screen Off; This is the library that keeps the screen on until user is looking at the screen. ;UI , screen , off;https://github.com/kevalpatel2106/Prevent-Screen-Off
+Android;Android Fingerprint Authentication; A library that allows you to easily integrate and manage fingerprint authentication in your app. ;UI , fingerprint , authentication;https://github.com/multidots/android-fingerprint-authentication
+Android;User Ware Video View;"
+A customized video view that will automatically pause video is user is not looking at device screen";UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView

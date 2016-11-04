@@ -195,10 +195,10 @@ Java;JAD;Java Decompiler;RI , reverse engineering , tools;http://varaneckas.com/
 Kotlin;Learn Kotlin while developing an Android app;;Kotlin , tutorials;https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.4izg7j9n9
 Android;Feature discovery;;tap targets , prompts , step actions;https://material.google.com/growth-communications/feature-discovery.html#
 Android;Pathmorphing with AnimatedVectorDrawables in Android;;drawables , pathmorphing , animations;https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
-Web;Progressive Web Apps;;web app;https://developers.google.com/web/progressive-web-apps/
+Web;Progressive Web Apps;;progressive web app , pwa;https://developers.google.com/web/progressive-web-apps/
 /;Ecrans AMOLED vs IPS : qui offre la meilleure qualité d'afichage ?;;AMOLED , IPS;http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html
 /;Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina;;LCD , TFT , IPS , AMOLED , Retina;http://www.androidpit.fr/difference-lcd-tft-amoled-retina
-Web;Progressive Web Apps rocks;;progressive web apps;https://pwa.rocks/
+Web;Progressive Web Apps rocks;;progressive web apps , pwa;https://pwa.rocks/
 Android;Android Pit;;veille , news;http://www.androidpit.fr/
 Android;Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets;Article with references to tools or companies about security;security;http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm
 Android;FrAndroid;;veille , news;http://www.frandroid.com/
@@ -317,3 +317,4 @@ Android;Better Control Flow Analysis with Contract Annotations;;annotations , co
 Android;Android MVP without RxJava or Dagger;;MVP , RxJava;https://blog.joaquimley.com/avenging-android-mvp-23461aebe9b5#.j8f437rcg
 Android;RxJava: Android MVVM App structure with Retrofit;;MVVM , RxJava , Retrofit;https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8
 Android;Do you like to ADB?;;ADB , Android Studio;http://crushingcode.co/do-you-like-to-adb/
+Web;Pokedex.org;An open source and free  progress web app;progressive web app , pwa , html5 , css3;https://github.com/nolanlawson/pokedex.org

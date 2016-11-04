@@ -1630,8 +1630,36 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Telegram </td>
 		<td class="description"> Telegram Messenger for Android </td>
-		<td class="keywords"> Telegram , app , security , privacy </td>
+		<td class="keywords"> Telegram , app , security , privacy , FOSS </td>
 		<td class="url"> https://github.com/DrKLO/Telegram </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Telegram </td>
+		<td class="description"> Telegram web application, GPL v3 </td>
+		<td class="keywords"> Telegram , app , security , privacy , FOSS </td>
+		<td class="url"> https://github.com/zhukov/webogram </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Telegram </td>
+		<td class="description"> Telegram Desktop messaging app </td>
+		<td class="keywords"> Telegram , app , security , privacy , FOSS </td>
+		<td class="url"> https://github.com/telegramdesktop/tdesktop </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Silence </td>
+		<td class="description"> A fork of Signal with only SMS/MMS encryption </td>
+		<td class="keywords"> app , security , privacy , FOSS </td>
+		<td class="url"> https://github.com/SilenceIM/Silence </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tor </td>
+		<td class="description"> Somes links to TOR tools </td>
+		<td class="keywords"> app , security , privacy , FOSS </td>
+		<td class="url"> https://github.com/guardianproject/tor-browser https://github.com/amoghbl1/tor-browser https://github.com/guardianproject/Orfox https://github.com/n8fr8/OrfoxFennec </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -1815,14 +1843,14 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framalink </td>
 		<td class="description"> URL shorter </td>
-		<td class="keywords"> URL , tool , privacy , framasoft </td>
+		<td class="keywords"> URL , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://frama.link/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framindmap </td>
 		<td class="description"> Mindmap tool </td>
-		<td class="keywords"> mind map , tool , privacy , framasoft </td>
+		<td class="keywords"> mind map , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framindmap.org/c/login </td>
 	</tr>
 	<tr>
@@ -1836,7 +1864,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framadate </td>
 		<td class="description"> Make polls </td>
-		<td class="keywords"> polls , planning , tool , privacy , framasoft </td>
+		<td class="keywords"> polls , planning , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framadate.org/ </td>
 	</tr>
 	<tr>
@@ -1850,7 +1878,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framanotes </td>
 		<td class="description"> </td>
-		<td class="keywords"> notes , tool , privacy , framasoft </td>
+		<td class="keywords"> notes , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framanotes.org/ </td>
 	</tr>
 	<tr>
@@ -1864,56 +1892,56 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framaganda </td>
 		<td class="description"> </td>
-		<td class="keywords"> agenda , tool , privacy , framasoft </td>
+		<td class="keywords"> agenda , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framagenda.org/index.php/login </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framapad </td>
 		<td class="description"> </td>
-		<td class="keywords"> tool , privacy , framasoft </td>
+		<td class="keywords"> tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framapad.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framaforms </td>
 		<td class="description"> To make forms </td>
-		<td class="keywords"> forms , tool , provacy , framasoft </td>
+		<td class="keywords"> forms , tool , provacy , framasoft , FOSS </td>
 		<td class="url"> https://framaforms.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framalistes </td>
 		<td class="description"> Mailing listes </td>
-		<td class="keywords"> mailing list , tool , privacy , framasoft </td>
+		<td class="keywords"> mailing list , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framalistes.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framacarte </td>
 		<td class="description"> Map </td>
-		<td class="keywords"> map , tool , privacy , framasoft </td>
+		<td class="keywords"> map , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framacarte.org/en/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framanews </td>
 		<td class="description"> </td>
-		<td class="keywords"> RSS , tool , privacy , framasoft </td>
+		<td class="keywords"> RSS , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framanews.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framabee </td>
 		<td class="description"> An Internet search engine </td>
-		<td class="keywords"> search engine , tool , privacy , framasoft </td>
+		<td class="keywords"> search engine , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framabee.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framapic </td>
 		<td class="description"> Share pictures online anonymously </td>
-		<td class="keywords"> picture , tool , privacy , framasoft </td>
+		<td class="keywords"> picture , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framapic.org/ </td>
 	</tr>
 	<tr>
@@ -1927,7 +1955,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framabin </td>
 		<td class="description"> Send encyphered messages </td>
-		<td class="keywords"> messages , privacy , tool , framasoft </td>
+		<td class="keywords"> messages , privacy , tool , framasoft , FOSS </td>
 		<td class="url"> https://framabin.org/ </td>
 	</tr>
 	<tr>
@@ -1941,7 +1969,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framateam </td>
 		<td class="description"> Colloborative communication like Slack </td>
-		<td class="keywords"> tool , privacy , framasoft </td>
+		<td class="keywords"> tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framateam.org/login </td>
 	</tr>
 	<tr>
@@ -1955,7 +1983,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Framadrop </td>
 		<td class="description"> Share file anonymously </td>
-		<td class="keywords"> file sharing , tool , privacy , framasoft </td>
+		<td class="keywords"> file sharing , tool , privacy , framasoft , FOSS </td>
 		<td class="url"> https://framadrop.org/ </td>
 	</tr>
 	<tr>
@@ -2391,6 +2419,30 @@
 		<td class="description"> This dialog can flick and make it easy to dismiss sensuously. </td>
 		<td class="keywords"> UI , dialog , view </td>
 		<td class="url"> https://github.com/t-kurimura/flickabledialog </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Prevent Screen Off </td>
+		<td class="description"> This is the library that keeps the screen on until user is looking at the screen. </td>
+		<td class="keywords"> UI , screen , off </td>
+		<td class="url"> https://github.com/kevalpatel2106/Prevent-Screen-Off </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Fingerprint Authentication </td>
+		<td class="description"> A library that allows you to easily integrate and manage fingerprint authentication in your app. </td>
+		<td class="keywords"> UI , fingerprint , authentication </td>
+		<td class="url"> https://github.com/multidots/android-fingerprint-authentication </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> User Ware Video View </td>
+		<td class="description"> </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> A customized video view that will automatically pause video is user is not looking at device screen </td>
+		<td class="name"> UI , view , video , screen , user </td>
+		<td class="description"> https://github.com/kevalpatel2106/UserAwareVideoView </td>
 	</tr>
 </table>
 
@@ -3746,7 +3798,7 @@
 		<td class="subjectWeb"> Web </td>
 		<td class="name"> Progressive Web Apps </td>
 		<td class="description"> </td>
-		<td class="keywords"> web app </td>
+		<td class="keywords"> progressive web app , pwa </td>
 		<td class="url"> https://developers.google.com/web/progressive-web-apps/ </td>
 	</tr>
 	<tr>
@@ -3767,7 +3819,7 @@
 		<td class="subjectWeb"> Web </td>
 		<td class="name"> Progressive Web Apps rocks </td>
 		<td class="description"> </td>
-		<td class="keywords"> progressive web apps </td>
+		<td class="keywords"> progressive web apps , pwa </td>
 		<td class="url"> https://pwa.rocks/ </td>
 	</tr>
 	<tr>
@@ -4588,6 +4640,13 @@
 		<td class="keywords"> ADB , Android Studio </td>
 		<td class="url"> http://crushingcode.co/do-you-like-to-adb/ </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Pokedex.org </td>
+		<td class="description"> An open source and free progress web app </td>
+		<td class="keywords"> progressive web app , pwa , html5 , css3 </td>
+		<td class="url"> https://github.com/nolanlawson/pokedex.org </td>
+	</tr>
 </table>
 
 
@@ -5030,6 +5089,28 @@
 		<td class="dimensions"> 145.5 x 71 x 7.45 mm </td>
 		<td class="usbtype"> 153 g </td>
 		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Huawei </td>
+		<td class="name"> Mate 9 </td>
+		<td class="screensize"> 5.9'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Huawai HiSilicon KIRN 960 </td>
+		<td class="gpu"> ARM Mali-G71 MP8 </td>
+		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
+		<td class="battery"> 4000 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f/2.2 12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 156.9 x 78.9 x 7.9 mm </td>
+		<td class="usbtype"> 190 g </td>
+		<td class="weight"> </td>
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
