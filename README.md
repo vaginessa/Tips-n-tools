@@ -4647,6 +4647,13 @@
 		<td class="keywords"> progressive web app , pwa , html5 , css3 </td>
 		<td class="url"> https://github.com/nolanlawson/pokedex.org </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Developing for Android vs iOS navigation patterns </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , Android , iOS , navigation , patterns </td>
+		<td class="url"> https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c#.k5jfewsa8 </td>
+	</tr>
 </table>
 
 
