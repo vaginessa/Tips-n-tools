@@ -5,17 +5,17 @@ Libraries and tools;;;;
 ;;;;
 Plateform;Name;Description;Keywords;URL
 Android;HoloGraphLibrary;To make charts, diagrams, ...;graphs , charts;https://github.com/Androguide/HoloGraphLibrary
-/;Dokku;Tool which can build and deplou apps and manage their lyfecycle;build , PaaS , DevOps ,  tool;https://github.com/dokku/dokku
+/;Dokku;Tool which can build and deploy apps and manage their lyfecycle;build , PaaS , DevOps ,  tool , quality;https://github.com/dokku/dokku
 /;IFTTT;To automate community management;DevOps , tool;https://ifttt.com/
 /;Buffer;A tool to manage easily social medias;DevOps , tool;https://buffer.com/
-/;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool;https://instabug.com/
-/;Zapier;Connect the apps to use, automate tasks;Automatisation , automation , tool;https://zapier.com/
-/;Postman;To test and link APIs;API , tool;https://www.getpostman.com/
+/;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality;https://instabug.com/
+/;Zapier;Connect the apps to use, automate tasks; , qualityAutomatisation , automation , tool;https://zapier.com/
+/;Postman;To test and link APIs;API , tool , quality;https://www.getpostman.com/
 Android;Picasso;A powerful image downloading and caching library;pictures , image , caching;http://square.github.io/picasso/
 Android;Branded launch screen;New splash screens for Android;tuto , splash screen;http://antonioleiva.com/branded-launch-screen/
 Android;IntroScreen;To create intro screen on ViewPager and PageTransformer;tuto , intro screen;https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz
 Design;Espresso;Introduction to Espresso (what else?);tuto , espresso , UI tests;http://tutos-android-france.com/introduction-a-espresso/
-Android;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io;https://get.fabric.io/
+Android;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io , quality;https://get.fabric.io/
 Android;material;A library to bring fully animated Material Design components to pre-Lolipop Android;material design;https://github.com/rey5137/material
 Android;YahooNewOnboarding;Demos fo landing screens / start screens on Android;landing screen;https://github.com/rahulrj/YahooNewsOnboarding
 Android;AppIntro;App intros / landing screens;landing screen;https://github.com/PaoloRotolo/AppIntro
@@ -254,15 +254,15 @@ Android;BubbleAnimationLayout;Some animations combining bubles and cards;snimati
 Android;"RecyclerViewUndoSwipe
 "; Swipe and drag support for RecyclerView with undo action. ;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
 Android;AndroidUtilCode;Some util classes…;utils;https://github.com/Blankj/AndroidUtilCode
-/;Jfrog;Solutions to automate software package  management;DevOps , tool;https://www.jfrog.com/open-source/
-/;Artifactory;Repository and packages manager;Package , repo , DevOps , tool;https://www.jfrog.com/open-source/#os-arti
-/;Bintray;To pubilish and consume software releases;Bin , DevOps , tool;https://www.jfrog.com/open-source/#os-bin
-/;Gatling;Loas testing framework based on Scala, Akka and Netty;Stree test , load test , DevOps , tool;http://gatling.io/#/
+/;Jfrog;Solutions to automate software package  management;DevOps , tool , quality;https://www.jfrog.com/open-source/
+/;Artifactory;Repository and packages manager;Package , repo , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-arti
+/;Bintray;To pubilish and consume software releases;Bin , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-bin
+/;Gatling;Loas testing framework based on Scala, Akka and Netty;Stree test , load test , DevOps , tool , quality;http://gatling.io/#/
 /;Tunetoo;Coz geeks and nerdz must have fun t-shirtz !!;customization;http://www.tunetoo.com/
-/;Ansible;Deploy apps, manage systems, crush complexity;DevOps , tool;https://www.ansible.com/
-/;GitLab;Tool to use to unify issus, code review, configuration management , CI and CD;Git , DevOps , tool;https://about.gitlab.com/
-/;Jmeter;To laod test functionnal behavior and measure performances;Load test , performances , DevOps , tool;http://jmeter.apache.org/
-/;Travis;Tests Github hosted projects;Github , CI , DevOps , tool;https://travis-ci.org/
+/;Ansible;Deploy apps, manage systems, crush complexity;DevOps , tool , quality;https://www.ansible.com/
+/;GitLab;Tool to use to unify issus, code review, configuration management , CI and CD;Git , DevOps , tool , quality;https://about.gitlab.com/
+/;Jmeter;To laod test functionnal behavior and measure performances;Load test , performances , DevOps , tool , quality;http://jmeter.apache.org/
+/;Travis;Tests Github hosted projects;Github , CI , DevOps , tool , quality;https://travis-ci.org/
 /;Framalink;URL shorter;URL , tool , privacy , framasoft , FOSS;https://frama.link/
 /;Framindmap;Mindmap tool;mind map , tool , privacy , framasoft , FOSS;https://framindmap.org/c/login
 /;MyFrama;Bookmakrs and links sharing;link , bookmark , tool , privacy , framasoft;https://my.framasoft.org/
@@ -311,15 +311,16 @@ JavaScript;PureJS;JavaScript template engine;JS , presentation;https://beebole.c
 Android;Apk Parser;APK parser library for java;APK;https://github.com/caoqianli/apk-parser
 Android;Clocker Scroller;A cool animated RecyclerView clock face scroller ;clock , view;https://github.com/andyb129/ClockScroller
 Android;Snappy Image Viewer;Android Image Viewer inspired by StackOveflow's swipe-to-dismiss and moving animations;animations , effects , swipe;https://github.com/nshmura/SnappyImageViewer
-/;TeamCity;Powerful Continuous Integration out of the Box;DevOps , CI , tools;https://www.jetbrains.com/teamcity/
-/;Infer;A tool to detect bugs in Android and iOS apps before they ship;DevOps , CI , tools , bugs , Android , iOS;http://fbinfer.com/
-/;PMD;Source code analyzer finding common programming flaws;DevOps , CI , tools;https://pmd.github.io/
-Java;FindBugs;Find bugs in Java Programs;DevOps , CI , tools;http://findbugs.sourceforge.net/
-Java;Checkstyle;Write well formated and written Java code;DevOps , CI , tools;http://checkstyle.sourceforge.net/
-Android;Robolectric;Android Unit Testing Framework;DevOps , CI , tools , unit tests;https://github.com/robolectric/robolectric
-/;Calabash;Automated acceptance testing for mobile apps;DevOps , CI , tools;http://calaba.sh/
-Android;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization;https://developer.android.com/studio/write/lint.html
-Android;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey;https://developer.android.com/studio/test/monkey.html
+/;TeamCity;Powerful Continuous Integration out of the Box;DevOps , CI , tools , quality;https://www.jetbrains.com/teamcity/
+/;Infer;A tool to detect bugs in Android and iOS apps before they ship;DevOps , CI , tools , bugs , Android , iOS , quality;http://fbinfer.com/
+/;PMD;Source code analyzer finding common programming flaws;DevOps , CI , tools , quality;https://pmd.github.io/
+Java;FindBugs;Find bugs in Java Programs;DevOps , CI , tools , quality;http://findbugs.sourceforge.net/
+Java;Checkstyle;Write well formated and written Java code;DevOps , CI , tools , quality;http://checkstyle.sourceforge.net/
+Android;Robolectric;Android Unit Testing Framework;DevOps , CI , tools , unit tests , quality;https://github.com/robolectric/robolectric
+/;Calabash;Automated acceptance testing for mobile apps;DevOps , CI , tools , quality;http://calaba.sh/
+Android;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization , quality;https://developer.android.com/studio/write/lint.html
+Android;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , stress , monkey , quality;https://developer.android.com/studio/test/monkey.html
+Android;Monkeyrunner;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality;https://developer.android.com/studio/test/monkeyrunner/index.html
 /;Cucumber;Behaviour-Drive Developement;BDD;https://cucumber.io/
 Android;AppBarLayout Spring Behaviour;;view , animations;https://github.com/ToDou/appbarlayout-spring-behavior
 Android;ViewPagerIndicator;;view pager , indicator;https://github.com/JakeWharton/ViewPagerIndicator

@@ -40,8 +40,8 @@
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Dokku </td>
-		<td class="description"> Tool which can build and deplou apps and manage their lyfecycle </td>
-		<td class="keywords"> build , PaaS , DevOps , tool </td>
+		<td class="description"> Tool which can build and deploy apps and manage their lyfecycle </td>
+		<td class="keywords"> build , PaaS , DevOps , tool , quality </td>
 		<td class="url"> https://github.com/dokku/dokku </td>
 	</tr>
 	<tr>
@@ -62,21 +62,21 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Instabug </td>
 		<td class="description"> In-app feedback and bug tracking for mobile apps </td>
-		<td class="keywords"> bug , tracking , users , tool </td>
+		<td class="keywords"> bug , tracking , users , tool , quality </td>
 		<td class="url"> https://instabug.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Zapier </td>
 		<td class="description"> Connect the apps to use, automate tasks </td>
-		<td class="keywords"> Automatisation , automation , tool </td>
+		<td class="keywords"> , qualityAutomatisation , automation , tool </td>
 		<td class="url"> https://zapier.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Postman </td>
 		<td class="description"> To test and link APIs </td>
-		<td class="keywords"> API , tool </td>
+		<td class="keywords"> API , tool , quality </td>
 		<td class="url"> https://www.getpostman.com/ </td>
 	</tr>
 	<tr>
@@ -111,7 +111,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Fabric.io </td>
 		<td class="description"> Bug tracking and dashboard </td>
-		<td class="keywords"> Crashlytics , Fabric.io </td>
+		<td class="keywords"> Crashlytics , Fabric.io , quality </td>
 		<td class="url"> https://get.fabric.io/ </td>
 	</tr>
 	<tr>
@@ -1780,28 +1780,28 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Jfrog </td>
 		<td class="description"> Solutions to automate software package management </td>
-		<td class="keywords"> DevOps , tool </td>
+		<td class="keywords"> DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Artifactory </td>
 		<td class="description"> Repository and packages manager </td>
-		<td class="keywords"> Package , repo , DevOps , tool </td>
+		<td class="keywords"> Package , repo , DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/#os-arti </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Bintray </td>
 		<td class="description"> To pubilish and consume software releases </td>
-		<td class="keywords"> Bin , DevOps , tool </td>
+		<td class="keywords"> Bin , DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/#os-bin </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Gatling </td>
 		<td class="description"> Loas testing framework based on Scala, Akka and Netty </td>
-		<td class="keywords"> Stree test , load test , DevOps , tool </td>
+		<td class="keywords"> Stree test , load test , DevOps , tool , quality </td>
 		<td class="url"> http://gatling.io/#/ </td>
 	</tr>
 	<tr>
@@ -1815,28 +1815,28 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Ansible </td>
 		<td class="description"> Deploy apps, manage systems, crush complexity </td>
-		<td class="keywords"> DevOps , tool </td>
+		<td class="keywords"> DevOps , tool , quality </td>
 		<td class="url"> https://www.ansible.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> GitLab </td>
 		<td class="description"> Tool to use to unify issus, code review, configuration management , CI and CD </td>
-		<td class="keywords"> Git , DevOps , tool </td>
+		<td class="keywords"> Git , DevOps , tool , quality </td>
 		<td class="url"> https://about.gitlab.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Jmeter </td>
 		<td class="description"> To laod test functionnal behavior and measure performances </td>
-		<td class="keywords"> Load test , performances , DevOps , tool </td>
+		<td class="keywords"> Load test , performances , DevOps , tool , quality </td>
 		<td class="url"> http://jmeter.apache.org/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Travis </td>
 		<td class="description"> Tests Github hosted projects </td>
-		<td class="keywords"> Github , CI , DevOps , tool </td>
+		<td class="keywords"> Github , CI , DevOps , tool , quality </td>
 		<td class="url"> https://travis-ci.org/ </td>
 	</tr>
 	<tr>
@@ -2179,64 +2179,71 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> TeamCity </td>
 		<td class="description"> Powerful Continuous Integration out of the Box </td>
-		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> https://www.jetbrains.com/teamcity/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Infer </td>
 		<td class="description"> A tool to detect bugs in Android and iOS apps before they ship </td>
-		<td class="keywords"> DevOps , CI , tools , bugs , Android , iOS </td>
+		<td class="keywords"> DevOps , CI , tools , bugs , Android , iOS , quality </td>
 		<td class="url"> http://fbinfer.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> PMD </td>
 		<td class="description"> Source code analyzer finding common programming flaws </td>
-		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> https://pmd.github.io/ </td>
 	</tr>
 	<tr>
 		<td class="subjectJava"> Java </td>
 		<td class="name"> FindBugs </td>
 		<td class="description"> Find bugs in Java Programs </td>
-		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> http://findbugs.sourceforge.net/ </td>
 	</tr>
 	<tr>
 		<td class="subjectJava"> Java </td>
 		<td class="name"> Checkstyle </td>
 		<td class="description"> Write well formated and written Java code </td>
-		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> http://checkstyle.sourceforge.net/ </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Robolectric </td>
 		<td class="description"> Android Unit Testing Framework </td>
-		<td class="keywords"> DevOps , CI , tools , unit tests </td>
+		<td class="keywords"> DevOps , CI , tools , unit tests , quality </td>
 		<td class="url"> https://github.com/robolectric/robolectric </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Calabash </td>
 		<td class="description"> Automated acceptance testing for mobile apps </td>
-		<td class="keywords"> DevOps , CI , tools </td>
+		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> http://calaba.sh/ </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Lint </td>
 		<td class="description"> Improve your code with Lint </td>
-		<td class="keywords"> DevOps , CI , tools , Lint , code , optimization </td>
+		<td class="keywords"> DevOps , CI , tools , Lint , code , optimization , quality </td>
 		<td class="url"> https://developer.android.com/studio/write/lint.html </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Monkey </td>
 		<td class="description"> UI/Application exerciser </td>
-		<td class="keywords"> DevOps , CI , tools , UI , tests , monkey </td>
+		<td class="keywords"> DevOps , CI , tools , UI , tests , stress , monkey , quality </td>
 		<td class="url"> https://developer.android.com/studio/test/monkey.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Monkeyrunner </td>
+		<td class="description"> UI/Application exerciser </td>
+		<td class="keywords"> DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality </td>
+		<td class="url"> https://developer.android.com/studio/test/monkeyrunner/index.html </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
