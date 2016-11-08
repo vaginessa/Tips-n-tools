@@ -2451,6 +2451,13 @@
 		<td class="name"> UI , view , video , screen , user </td>
 		<td class="description"> https://github.com/kevalpatel2106/UserAwareVideoView </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> License Adapter </td>
+		<td class="description"> Adapter for RecyclerView to display app's oss dependencies' license </td>
+		<td class="keywords"> UI , view , licences , credits </td>
+		<td class="url"> https://github.com/yshrsmz/LicenseAdapter </td>
+	</tr>
 </table>
 
 

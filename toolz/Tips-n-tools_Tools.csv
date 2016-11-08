@@ -351,3 +351,4 @@ Android;Prevent Screen Off; This is the library that keeps the screen on until u
 Android;Android Fingerprint Authentication; A library that allows you to easily integrate and manage fingerprint authentication in your app. ;UI , fingerprint , authentication;https://github.com/multidots/android-fingerprint-authentication
 Android;User Ware Video View;"
 A customized video view that will automatically pause video is user is not looking at device screen";UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView
+Android;License Adapter;Adapter for RecyclerView to display app's oss dependencies' license ;UI , view , licences , credits;https://github.com/yshrsmz/LicenseAdapter
