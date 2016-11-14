@@ -352,3 +352,5 @@ Android;Android Fingerprint Authentication; A library that allows you to easily 
 Android;User Ware Video View;"
 A customized video view that will automatically pause video is user is not looking at device screen";UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView
 Android;License Adapter;Adapter for RecyclerView to display app's oss dependencies' license ;UI , view , licences , credits;https://github.com/yshrsmz/LicenseAdapter
+/;Spinnaker;;continuous deployment , DevOps , quality;http://www.spinnaker.io/
+Web;Electron;Build cross platform desktop apps with JavaScript, HTML and CSS;cross platform , desktop , JS , HTML , CSS , Github;http://electron.atom.io/

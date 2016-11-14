@@ -319,3 +319,22 @@ Android;RxJava: Android MVVM App structure with Retrofit;;MVVM , RxJava , Retrof
 Android;Do you like to ADB?;;ADB , Android Studio;http://crushingcode.co/do-you-like-to-adb/
 Web;Pokedex.org;An open source and free  progress web app;progressive web app , pwa , html5 , css3;https://github.com/nolanlawson/pokedex.org
 Design;Developing for Android vs iOS navigation patterns;;UI , Android , iOS , navigation , patterns;https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c#.k5jfewsa8
+Java;"
+Developing Reactive applications with Reactive Streams and Java 8";;reactive , Java;https://speakerdeck.com/sdeleuze/developing-reactive-applications-with-reactive-streams-and-java-8
+Android;"
+DevOps sur Android : from one git push to a Play Store release";;DevOps , CI , tools;https://speakerdeck.com/jeremiemartinez/devops-sur-android-from-one-git-push-to-a-play-store-release
+Design;Flexbox;;flexbox;https://speakerdeck.com/goetter/flexbox-place-a-la-gueule-de-bois
+Web;A journey from Interactive to Reactive;;reactive;http://blog.thomasbelin.fr/talks/reactive-programming/#1
+/;Tree-Shaking;;quality;http://blog.vincentogloblinsky.com/devfest-2016-tree-shaking-slides/#/
+Design;Google Design Sprint;;design , conception , sprint;http://www.slideshare.net/Matt_Gio/design-sprint-devfest-nantes-2016
+/;"Continuous Deployment with Spinnaker
+";;continuous deeployment , Spinnaker , DevOps , quality;https://docs.google.com/presentation/d/1x4Z61vRWkWEbYLsWjcHIylHLHRlajLmPTdMCJi_Tyhg/edit#slide=id.g17d09711c0_2_80
+Design;Angular 2 et les standards du Web;;Angular 2 , standards;https://speakerdeck.com/gillespie59/angular2-et-les-standards-du-web
+Android;La boîte à outils du développeur Android en 2016;;yools , libs , dev;http://fr.slideshare.net/Nilhcem/the-2016-android-developer-toolbox-nantes
+Web; De la réalité virtuelle dans nos navigateurs, en route vers le Metaverse;;WebVR , VR;https://speakerdeck.com/olivierguillet/devfest-nantes-2016-de-la-realite-virtuelle-dans-nos-navigateurs-en-route-vers-le-metaverse
+Android;Finally understanding how references work in Android and Java;;Android , Java , references , performances;https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.fsjokaizd
+Web;Progressive Web Apps;;pwa;https://developers.google.com/web/progressive-web-apps/
+Web;Que sont les Progressive Web Apps ?;;pwa;https://frank.taillandier.me/2016/06/28/que-sont-les-progressive-web-apps/
+Web;A selection of PWA;;pwa;https://pwa.rocks/
+Web;A Beginner’s Guide To Progressive Web Apps;;pwa;https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/
+Web;What are Progressive Web Apps?;;Ionic , pwa;http://blog.ionic.io/what-is-a-progressive-web-app/
