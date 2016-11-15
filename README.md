@@ -38,42 +38,42 @@
 		<td class="url"> https://github.com/Androguide/HoloGraphLibrary </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Dokku </td>
 		<td class="description"> Tool which can build and deploy apps and manage their lyfecycle </td>
 		<td class="keywords"> build , PaaS , DevOps , tool , quality </td>
 		<td class="url"> https://github.com/dokku/dokku </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> IFTTT </td>
 		<td class="description"> To automate community management </td>
 		<td class="keywords"> DevOps , tool </td>
 		<td class="url"> https://ifttt.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Buffer </td>
 		<td class="description"> A tool to manage easily social medias </td>
 		<td class="keywords"> DevOps , tool </td>
 		<td class="url"> https://buffer.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Instabug </td>
 		<td class="description"> In-app feedback and bug tracking for mobile apps </td>
 		<td class="keywords"> bug , tracking , users , tool , quality </td>
 		<td class="url"> https://instabug.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Zapier </td>
 		<td class="description"> Connect the apps to use, automate tasks </td>
-		<td class="keywords"> , qualityAutomatisation , automation , tool </td>
+		<td class="keywords"> qualityAutomatisation , automation , tool </td>
 		<td class="url"> https://zapier.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Postman </td>
 		<td class="description"> To test and link APIs </td>
 		<td class="keywords"> API , tool , quality </td>
@@ -202,21 +202,21 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Material Arc Menu </td>
 		<td class="description"> An arc menu with buttons inside </td>
-		<td class="keywords"> arc menus : buttons , material </td>
+		<td class="keywords"> arc menus , buttons , material </td>
 		<td class="url"> https://github.com/saurabharora90/MaterialArcMenu </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Animations effects to TextView </td>
 		<td class="description"> Animations effects to text views </td>
-		<td class="keywords"> animations : text views </td>
+		<td class="keywords"> animations , text views </td>
 		<td class="url"> https://github.com/hanks-zyh/HTextView </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Faker </td>
 		<td class="description"> Tool to make mock objects </td>
-		<td class="keywords"> mock : fake </td>
+		<td class="keywords"> Mock , fake </td>
 		<td class="url"> https://github.com/blocoio/faker </td>
 	</tr>
 	<tr>
@@ -230,7 +230,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> PasswordEditText </td>
 		<td class="description"> A custom EditText with a switchable icon showing/hidding passwords </td>
-		<td class="keywords"> password : edit text </td>
+		<td class="keywords"> Password , edit text </td>
 		<td class="url"> https://github.com/maksim88/PasswordEditText </td>
 	</tr>
 	<tr>
@@ -1375,31 +1375,31 @@
 		<td class="url"> https://github.com/iSECPartners/Introspy-Android </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> JD GUI </td>
 		<td class="description"> Java decompiler with a neat GUI </td>
-		<td class="keywords"> RI , reverse engineering , tool </td>
+		<td class="keywords"> RI , reverse engineering , tool , Java </td>
 		<td class="url"> https://github.com/java-decompiler/jd-gui </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Krakatau </td>
 		<td class="description"> Java decompiler, assembler and disassembler </td>
-		<td class="keywords"> RI , reverse engineering , tool </td>
+		<td class="keywords"> RI , reverse engineering , tool , Java </td>
 		<td class="url"> https://github.com/Storyyeller/Krakatau </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Procyon </td>
 		<td class="description"> Java 5+ capable decompiler </td>
-		<td class="keywords"> RI , reverse engineering , tool </td>
+		<td class="keywords"> RI , reverse engineering , tool , Java </td>
 		<td class="url"> https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Fernflower </td>
 		<td class="description"> Java decompiler with a neat GUI </td>
-		<td class="keywords"> RI , reverse engineering , tool </td>
+		<td class="keywords"> RI , reverse engineering , tool , Java </td>
 		<td class="url"> https://github.com/fesh0r/fernflower </td>
 	</tr>
 	<tr>
@@ -1599,7 +1599,7 @@
 		<td class="url"> https://cloudconvert.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Pidcat </td>
 		<td class="description"> Colored logcat script which only shows log entries for a specific application package </td>
 		<td class="keywords"> log , logcat , debug </td>
@@ -1622,7 +1622,7 @@
 	<tr>
 		<td class="subjectJava"> Java </td>
 		<td class="name"> Kryo </td>
-		<td class="description"> Java serialziation andcloning : fast,e fficient, automatic </td>
+		<td class="description"> Java serialization and cloning : fast, efficient, automatic </td>
 		<td class="keywords"> storage , serialization </td>
 		<td class="url"> https://github.com/EsotericSoftware/kryo </td>
 	</tr>
@@ -1756,18 +1756,15 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> BubbleAnimationLayout </td>
 		<td class="description"> Some animations combining bubles and cards </td>
-		<td class="keywords"> snimations , bubble </td>
+		<td class="keywords"> animations , bubble </td>
 		<td class="url"> https://github.com/Cleveroad/BubbleAnimationLayout </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> RecyclerViewUndoSwipe </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> </td>
-		<td class="name"> Swipe and drag support for RecyclerView with undo action. </td>
-		<td class="description"> ItemTouch , swipe , drag , RecyclerView </td>
-		<td class="keywords"> https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe </td>
+		<td class="description"> Swipe and drag support for RecyclerView with undo action </td>
+		<td class="keywords"> ItemTouch , swipe , drag , RecyclerView </td>
+		<td class="url"> https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -1777,63 +1774,63 @@
 		<td class="url"> https://github.com/Blankj/AndroidUtilCode </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Jfrog </td>
 		<td class="description"> Solutions to automate software package management </td>
 		<td class="keywords"> DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Artifactory </td>
 		<td class="description"> Repository and packages manager </td>
 		<td class="keywords"> Package , repo , DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/#os-arti </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Bintray </td>
 		<td class="description"> To pubilish and consume software releases </td>
 		<td class="keywords"> Bin , DevOps , tool , quality </td>
 		<td class="url"> https://www.jfrog.com/open-source/#os-bin </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Gatling </td>
 		<td class="description"> Loas testing framework based on Scala, Akka and Netty </td>
 		<td class="keywords"> Stree test , load test , DevOps , tool , quality </td>
 		<td class="url"> http://gatling.io/#/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Tunetoo </td>
 		<td class="description"> Coz geeks and nerdz must have fun t-shirtz !! </td>
 		<td class="keywords"> customization </td>
 		<td class="url"> http://www.tunetoo.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Ansible </td>
 		<td class="description"> Deploy apps, manage systems, crush complexity </td>
 		<td class="keywords"> DevOps , tool , quality </td>
 		<td class="url"> https://www.ansible.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> GitLab </td>
 		<td class="description"> Tool to use to unify issus, code review, configuration management , CI and CD </td>
 		<td class="keywords"> Git , DevOps , tool , quality </td>
 		<td class="url"> https://about.gitlab.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Jmeter </td>
 		<td class="description"> To laod test functionnal behavior and measure performances </td>
 		<td class="keywords"> Load test , performances , DevOps , tool , quality </td>
 		<td class="url"> http://jmeter.apache.org/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Travis </td>
 		<td class="description"> Tests Github hosted projects </td>
 		<td class="keywords"> Github , CI , DevOps , tool , quality </td>
@@ -2057,7 +2054,7 @@
 		<td class="url"> https://www.npmjs.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Grunt </td>
 		<td class="description"> The JavaScript task runner </td>
 		<td class="keywords"> JS , task runner </td>
@@ -2155,10 +2152,10 @@
 		<td class="url"> https://beebole.com/pure/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Apk Parser </td>
 		<td class="description"> APK parser library for java </td>
-		<td class="keywords"> APK </td>
+		<td class="keywords"> APK , Android </td>
 		<td class="url"> https://github.com/caoqianli/apk-parser </td>
 	</tr>
 	<tr>
@@ -2176,77 +2173,77 @@
 		<td class="url"> https://github.com/nshmura/SnappyImageViewer </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> TeamCity </td>
 		<td class="description"> Powerful Continuous Integration out of the Box </td>
 		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> https://www.jetbrains.com/teamcity/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Infer </td>
 		<td class="description"> A tool to detect bugs in Android and iOS apps before they ship </td>
 		<td class="keywords"> DevOps , CI , tools , bugs , Android , iOS , quality </td>
 		<td class="url"> http://fbinfer.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> PMD </td>
 		<td class="description"> Source code analyzer finding common programming flaws </td>
 		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> https://pmd.github.io/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> FindBugs </td>
 		<td class="description"> Find bugs in Java Programs </td>
-		<td class="keywords"> DevOps , CI , tools , quality </td>
+		<td class="keywords"> DevOps , CI , tools , quality , Java </td>
 		<td class="url"> http://findbugs.sourceforge.net/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Checkstyle </td>
 		<td class="description"> Write well formated and written Java code </td>
-		<td class="keywords"> DevOps , CI , tools , quality </td>
+		<td class="keywords"> DevOps , CI , tools , quality , Java </td>
 		<td class="url"> http://checkstyle.sourceforge.net/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Robolectric </td>
 		<td class="description"> Android Unit Testing Framework </td>
-		<td class="keywords"> DevOps , CI , tools , unit tests , quality </td>
+		<td class="keywords"> DevOps , CI , tools , unit tests , quality ,Android </td>
 		<td class="url"> https://github.com/robolectric/robolectric </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Calabash </td>
 		<td class="description"> Automated acceptance testing for mobile apps </td>
 		<td class="keywords"> DevOps , CI , tools , quality </td>
 		<td class="url"> http://calaba.sh/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Lint </td>
 		<td class="description"> Improve your code with Lint </td>
 		<td class="keywords"> DevOps , CI , tools , Lint , code , optimization , quality </td>
 		<td class="url"> https://developer.android.com/studio/write/lint.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Monkey </td>
 		<td class="description"> UI/Application exerciser </td>
-		<td class="keywords"> DevOps , CI , tools , UI , tests , stress , monkey , quality </td>
+		<td class="keywords"> DevOps , CI , tools , UI , tests , stress , monkey , quality , Android </td>
 		<td class="url"> https://developer.android.com/studio/test/monkey.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Monkeyrunner </td>
 		<td class="description"> UI/Application exerciser </td>
-		<td class="keywords"> DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality </td>
+		<td class="keywords"> DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality , Android </td>
 		<td class="url"> https://developer.android.com/studio/test/monkeyrunner/index.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Cucumber </td>
 		<td class="description"> Behaviour-Drive Developement </td>
 		<td class="keywords"> BDD </td>
@@ -2443,13 +2440,10 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> User Ware Video View </td>
-		<td class="description"> </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> A customized video view that will automatically pause video is user is not looking at device screen </td>
-		<td class="name"> UI , view , video , screen , user </td>
-		<td class="description"> https://github.com/kevalpatel2106/UserAwareVideoView </td>
+		<td class="name"> User aware Video View </td>
+		<td class="description"> A customized video view that will automatically pause video is user is not looking at device screen </td>
+		<td class="keywords"> UI , view , video , screen , user </td>
+		<td class="url"> https://github.com/kevalpatel2106/UserAwareVideoView </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -2471,6 +2465,195 @@
 		<td class="description"> Build cross platform desktop apps with JavaScript, HTML and CSS </td>
 		<td class="keywords"> cross platform , desktop , JS , HTML , CSS , Github </td>
 		<td class="url"> http://electron.atom.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Prototypr.io </td>
+		<td class="description"> Prototyping : From UX to Front End </td>
+		<td class="keywords"> UI , design , prototypes , veille </td>
+		<td class="url"> https://blog.prototypr.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Invision </td>
+		<td class="description"> Design Better. Faster. Together. </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.invisionapp.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Craft </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.invisionapp.com/craft </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Marvel </td>
+		<td class="description"> Simple design, prototyping and collaboration </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://marvelapp.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Flinto </td>
+		<td class="description"> iOS and Android prototypes made from your existing screen designs </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.flinto.com/lite </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Framer JS </td>
+		<td class="description"> Design the impossible with Framer </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://framerjs.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Justinmind </td>
+		<td class="description"> Prototype faster, communicate better </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.justinmind.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Balsamiq </td>
+		<td class="description"> A wireframing tool for mockups </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://balsamiq.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Axure </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> http://www.axure.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Pop </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://popapp.in/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Flinto </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.flinto.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Origami </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://facebook.github.io/origami/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> UXPin </td>
+		<td class="description"> Collaborative UX Design for Product Teams </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://www.uxpin.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Proto.io </td>
+		<td class="description"> Create fully-interactive high-fidelity prototypes that look and work exactly like the app should </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://proto.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Gradle </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , tool , quality , build </td>
+		<td class="url"> https://gradle.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> SonarQube </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , tool , quality , code analysis </td>
+		<td class="url"> http://www.sonarqube.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> GoCD </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , tool , quality , build </td>
+		<td class="url"> https://www.go.cd/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Fastlane </td>
+		<td class="description"> The easiest way to automate building and releasing your iOS and Android apps </td>
+		<td class="keywords"> DevOps , tool , quality , build </td>
+		<td class="url"> https://fastlane.tools/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Takt </td>
+		<td class="description"> Takt is Android library for measuring the FPS using Choreographer </td>
+		<td class="keywords"> FPS , tests , tool </td>
+		<td class="url"> https://github.com/wasabeef/Takt </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Pidcat </td>
+		<td class="description"> Colored logcat script which only shows log entries for a specific application package. </td>
+		<td class="keywords"> tool </td>
+		<td class="url"> https://github.com/JakeWharton/pidcat </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Sonarlint </td>
+		<td class="description"> </td>
+		<td class="keywords"> code analysis , plugin </td>
+		<td class="url"> http://www.sonarlint.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Fiddler </td>
+		<td class="description"> The free web debugging proxy for any browser, system or platform </td>
+		<td class="keywords"> web , HTTP , HTTPS , performances </td>
+		<td class="url"> http://www.telerik.com/fiddler </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Trello </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://trello.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Jira </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://fr.atlassian.com/software/jira </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Telegram </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://telegram.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Taiga </td>
+		<td class="description"> Tool for collaborative work </td>
+		<td class="keywords"> dev , tools </td>
+		<td class="url"> https://taiga.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Draw.io </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://www.draw.io/ </td>
 	</tr>
 </table>
 
@@ -2502,7 +2685,7 @@
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Multidex </td>
-		<td class="description"> About multidexing and eprformances </td>
+		<td class="description"> About multidexing and performances </td>
 		<td class="keywords"> tuto , multidex </td>
 		<td class="url"> https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.dlmgdpq5s </td>
 	</tr>
@@ -2710,13 +2893,6 @@
 		<td class="url"> http://unicode-table.com/en/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Draw.io </td>
-		<td class="description"> </td>
-		<td class="keywords"> </td>
-		<td class="url"> https://www.draw.io/ </td>
-	</tr>
-	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Develop a secured Android app </td>
 		<td class="description"> </td>
@@ -2788,16 +2964,16 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> About flip animatiions </td>
+		<td class="name"> About flip animations </td>
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> DroidLinguist </td>
 		<td class="description"> A tool that helps you easily translate your killer android apps! </td>
-		<td class="keywords"> languages , i18n </td>
+		<td class="keywords"> languages , i18n , Android </td>
 		<td class="url"> https://droidlinguist.io/#/home </td>
 	</tr>
 	<tr>
@@ -2885,10 +3061,10 @@
 		<td class="url"> https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Android code convention </td>
 		<td class="description"> </td>
-		<td class="keywords"> code convention </td>
+		<td class="keywords"> code convention , Android </td>
 		<td class="url"> http://fr.slideshare.net/Shaon_sikdar/android-code-convention https://source.android.com/source/code-style.html </td>
 	</tr>
 	<tr>
@@ -2899,17 +3075,17 @@
 		<td class="url"> https://medium.com/@hellotimmutton/combining-vector-drawables-with-day-night-theme-3b89e525475#.6hju4wcc4 </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Mockito </td>
 		<td class="description"> </td>
-		<td class="keywords"> mocks , TU , mockito </td>
+		<td class="keywords"> mocks , TU , mockito , Java </td>
 		<td class="url"> http://blog.soat.fr/2013/07/mockito-ou-comment-faciliter-lecriture-de-tests-unitaires/ https://gojko.net/2009/10/23/mockito-in-six-easy-examples/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> PowerMock </td>
 		<td class="description"> </td>
-		<td class="keywords"> mocks , TU , mockito , PowerMock </td>
+		<td class="keywords"> mocks , TU , mockito , PowerMock , Java </td>
 		<td class="url"> http://blog.netapsys.fr/etendez-les-fonctionnalites-de-mockito-grace-a-powermock/ https://github.com/jayway/powermock </td>
 	</tr>
 	<tr>
@@ -3382,10 +3558,10 @@
 		<td class="url"> http://www.upsight.com </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Apteligent </td>
 		<td class="description"> Mobile application performance management </td>
-		<td class="keywords"> Crittercism , APM , metrics </td>
+		<td class="keywords"> Crittercism , APM , metrics , Android </td>
 		<td class="url"> https://www.apteligent.com/ </td>
 	</tr>
 	<tr>
@@ -3438,7 +3614,7 @@
 		<td class="url"> http://www.androidpolice.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Unitag </td>
 		<td class="description"> To build and customize QR codes </td>
 		<td class="keywords"> QR codes , tag </td>
@@ -3543,7 +3719,7 @@
 		<td class="url"> https://kotlinlang.org/docs/reference/comparison-to-java.html </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Can I use </td>
 		<td class="description"> </td>
 		<td class="keywords"> web , API , features </td>
@@ -3634,34 +3810,6 @@
 		<td class="url"> https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Trello </td>
-		<td class="description"> Tool for collaborative work </td>
-		<td class="keywords"> dev , tools </td>
-		<td class="url"> https://trello.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Jira </td>
-		<td class="description"> Tool for collaborative work </td>
-		<td class="keywords"> dev , tools </td>
-		<td class="url"> https://fr.atlassian.com/software/jira </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Telegram </td>
-		<td class="description"> </td>
-		<td class="keywords"> privacy </td>
-		<td class="url"> https://telegram.org/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Taiga </td>
-		<td class="description"> Tool for collaborative work </td>
-		<td class="keywords"> dev , tools </td>
-		<td class="url"> https://taiga.io/ </td>
-	</tr>
-	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Better Android software development : MVVM with RxJava </td>
 		<td class="description"> </td>
@@ -3725,7 +3873,7 @@
 		<td class="url"> http://www.justinmind.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Display resolutions </td>
 		<td class="description"> </td>
 		<td class="keywords"> resolution </td>
@@ -3739,14 +3887,14 @@
 		<td class="url"> https://source.android.com/source/code-style.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Buffer app guidelines </td>
 		<td class="description"> </td>
 		<td class="keywords"> guidelines </td>
 		<td class="url"> https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Packtpub </td>
 		<td class="description"> Packt publishing </td>
 		<td class="keywords"> books , ebooks </td>
@@ -3781,28 +3929,28 @@
 		<td class="url"> https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectJava"> Java </td>
 		<td class="name"> CFR </td>
 		<td class="description"> Another Java decompiler </td>
 		<td class="keywords"> RI , reverse engineering , tools </td>
 		<td class="url"> http://www.benf.org/other/cfr/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> JAD </td>
 		<td class="description"> Java Decompiler </td>
 		<td class="keywords"> RI , reverse engineering , tools </td>
 		<td class="url"> http://varaneckas.com/jad/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectKotlin"> Kotlin </td>
 		<td class="name"> Software development explained with cars </td>
 		<td class="description"> </td>
 		<td class="keywords"> </td>
 		<td class="url"> https://toggl.com/developer-methods-infographic </td>
 	</tr>
 	<tr>
-		<td class="subjectKotlin"> Kotlin </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Learn Kotlin while developing an Android app </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , tutorials </td>
@@ -3816,14 +3964,14 @@
 		<td class="url"> https://material.google.com/growth-communications/feature-discovery.html# </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Pathmorphing with AnimatedVectorDrawables in Android </td>
 		<td class="description"> </td>
 		<td class="keywords"> drawables , pathmorphing , animations </td>
 		<td class="url"> https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/ </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Progressive Web Apps </td>
 		<td class="description"> </td>
 		<td class="keywords"> progressive web app , pwa </td>
@@ -3837,14 +3985,14 @@
 		<td class="url"> http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina </td>
 		<td class="description"> </td>
 		<td class="keywords"> LCD , TFT , IPS , AMOLED , Retina </td>
 		<td class="url"> http://www.androidpit.fr/difference-lcd-tft-amoled-retina </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Progressive Web Apps rocks </td>
 		<td class="description"> </td>
 		<td class="keywords"> progressive web apps , pwa </td>
@@ -3865,7 +4013,7 @@
 		<td class="url"> http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> FrAndroid </td>
 		<td class="description"> </td>
 		<td class="keywords"> veille , news </td>
@@ -3886,14 +4034,14 @@
 		<td class="url"> http://www.nextinpact.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectKotlin"> Kotlin </td>
 		<td class="name"> ZDNet </td>
 		<td class="description"> </td>
 		<td class="keywords"> veille , news </td>
 		<td class="url"> http://www.zdnet.fr/ </td>
 	</tr>
 	<tr>
-		<td class="subjectKotlin"> Kotlin </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Lessons from converting an app to 100% Kotlin </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , app convert </td>
@@ -3924,7 +4072,7 @@
 		<td class="url"> https://www.qualcomm.com/products/snapdragon/processors/comparison </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> AnTuTu </td>
 		<td class="description"> </td>
 		<td class="keywords"> devices , specs , hardware , comparison </td>
@@ -3938,7 +4086,7 @@
 		<td class="url"> http://android-foundry.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Hype pulse </td>
 		<td class="description"> </td>
 		<td class="keywords"> Android , goodies , geek </td>
@@ -3952,28 +4100,28 @@
 		<td class="url"> https://www.futuremark.com/benchmarks/pcmark </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectKotlin"> Kotlin </td>
 		<td class="name"> GameBench </td>
 		<td class="description"> A suite of performance analysis tools for Android and iOS devices </td>
 		<td class="keywords"> devices , tests , hardware </td>
 		<td class="url"> https://www.gamebench.net/ </td>
 	</tr>
 	<tr>
-		<td class="subjectKotlin"> Kotlin </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Kotlin : The Good, The Bad, The Ugly </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , how to </td>
 		<td class="url"> https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.nbl0pt294 </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> And then my phone became smarter – A journey into the Awareness API </td>
 		<td class="description"> </td>
 		<td class="keywords"> API Awareness </td>
 		<td class="url"> https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Dreamstime </td>
 		<td class="description"> </td>
 		<td class="keywords"> pictures , photos, free </td>
@@ -3994,7 +4142,7 @@
 		<td class="url"> https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8#.91gmqdksr </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Devknox </td>
 		<td class="description"> Androdi Studio plugin that helps developers to detect and resolve security issues </td>
 		<td class="keywords"> security , app </td>
@@ -4008,21 +4156,21 @@
 		<td class="url"> https://en.wikipedia.org/wiki/List_of_programming_languages_by_type </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Programming paradigm </td>
 		<td class="description"> </td>
 		<td class="keywords"> langages , types , paradigms </td>
 		<td class="url"> https://en.wikipedia.org/wiki/Programming_paradigm </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectKotlin"> Kotlin </td>
 		<td class="name"> Reducing Mobile Data Usage in your Apps </td>
 		<td class="description"> </td>
 		<td class="keywords"> mobile data </td>
 		<td class="url"> https://www.youtube.com/watch?v=tnj2uoTwevg </td>
 	</tr>
 	<tr>
-		<td class="subjectKotlin"> Kotlin </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Kotlin reference </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , lessons , basics </td>
@@ -4043,14 +4191,14 @@
 		<td class="url"> https://developer.android.com/guide/topics/renderscript/compute.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectSwift"> Swift </td>
 		<td class="name"> NDK </td>
 		<td class="description"> The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++. </td>
 		<td class="keywords"> NDK </td>
 		<td class="url"> https://developer.android.com/ndk/index.html </td>
 	</tr>
 	<tr>
-		<td class="subjectSwift"> Swift </td>
+		<td class="subjectKotlin"> Kotlin </td>
 		<td class="name"> Advanced ObjC <-> Swift Interoperability </td>
 		<td class="description"> </td>
 		<td class="keywords"> ObC , Swift , interoperability </td>
@@ -4064,28 +4212,28 @@
 		<td class="url"> https://speakerdeck.com/marcpoppleton/k-for-kotlin </td>
 	</tr>
 	<tr>
-		<td class="subjectKotlin"> Kotlin </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Kotlin awesome tricks for Android </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , tricks </td>
 		<td class="url"> http://antonioleiva.com/kotlin-awesome-tricks-for-android/ </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectJava"> Java </td>
 		<td class="name"> Physical Web URL validatator </td>
 		<td class="description"> </td>
 		<td class="keywords"> physical web , URL </td>
 		<td class="url"> https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/ </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Getters and setters are evil </td>
 		<td class="description"> </td>
 		<td class="keywords"> getter , setter , spaghetti , POO , OO </td>
 		<td class="url"> http://www.marcus-biel.com/getters-and-setters-are-evil/?utm_content=buffer27e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectGo"> Go </td>
 		<td class="name"> Anemic Domain Model </td>
 		<td class="description"> </td>
 		<td class="keywords"> OO , pattern , conception , layers </td>
@@ -4106,14 +4254,14 @@
 		<td class="url"> https://www.sitepoint.com/ios-and-android-programming-with-go/ </td>
 	</tr>
 	<tr>
-		<td class="subjectGo"> Go </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Github Wiki Go </td>
 		<td class="description"> </td>
 		<td class="keywords"> Go </td>
 		<td class="url"> https://github.com/golang/go/wiki/Mobile </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectScala"> Scala </td>
 		<td class="name"> Android Heap Allocation zero-to-one </td>
 		<td class="description"> </td>
 		<td class="keywords"> Android , heap , allocation , memory </td>
@@ -4127,14 +4275,14 @@
 		<td class="url"> http://www.scala-lang.org/ </td>
 	</tr>
 	<tr>
-		<td class="subjectScala"> Scala </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Scala on Android </td>
 		<td class="description"> </td>
 		<td class="keywords"> Scala , Android </td>
 		<td class="url"> http://macroid.github.io/ScalaOnAndroid.html </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectGroovy"> Groovy </td>
 		<td class="name"> Lorem pixel </td>
 		<td class="description"> Placeholder images </td>
 		<td class="keywords"> images , lorem ipsum </td>
@@ -4155,35 +4303,35 @@
 		<td class="url"> http://fr.slideshare.net/sascha_klein/android-on-groovygr8-48989809 </td>
 	</tr>
 	<tr>
-		<td class="subjectGroovy"> Groovy </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Developping Android applications with Groovy ? </td>
 		<td class="description"> </td>
 		<td class="keywords"> Groovy , Android </td>
 		<td class="url"> https://speakerdeck.com/player/e8e58fc0cdee0131f20616308848c4b8# </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Herethings about dark themes and battery savings </td>
 		<td class="description"> </td>
 		<td class="keywords"> AMOLED , battery , screen , wallpapers , themes </td>
 		<td class="url"> http://www.androidcentral.com/heres-thing-about-dark-themes-and-battery-savings </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Project blocks </td>
 		<td class="description"> </td>
 		<td class="keywords"> Google , blocks </td>
 		<td class="url"> https://projectbloks.withgoogle.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> UI Updates in a Multi-Windows World </td>
 		<td class="description"> </td>
 		<td class="keywords"> UI , multi windows </td>
 		<td class="url"> https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/ </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Fontawesome </td>
 		<td class="description"> </td>
 		<td class="keywords"> fonts </td>
@@ -4197,14 +4345,14 @@
 		<td class="url"> http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Eight ways your Android app can leak memory </td>
 		<td class="description"> </td>
 		<td class="keywords"> memory , leaks </td>
 		<td class="url"> http://blog.nimbledroid.com/2016/05/23/memory-leaks.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Oh shit, git ! </td>
 		<td class="description"> Tips to know to use git and fix some errors </td>
 		<td class="keywords"> Git , tips </td>
@@ -4246,28 +4394,28 @@
 		<td class="url"> https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Processes and Threads , Activitys, Threads and Memory leaks </td>
 		<td class="description"> </td>
 		<td class="keywords"> activity , threads , process , task , memory , leak </td>
 		<td class="url"> https://developer.android.com/guide/components/processes-and-threads.html http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Freesound </td>
 		<td class="description"> </td>
 		<td class="keywords"> sound </td>
 		<td class="url"> http://freesound.org/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Update Dependencies. Code. Repeat. </td>
 		<td class="description"> </td>
 		<td class="keywords"> Gradle </td>
 		<td class="url"> http://crushingcode.co/update-dependencies-code-repeat/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Crushing C.O.D.E </td>
 		<td class="description"> </td>
 		<td class="keywords"> dev </td>
@@ -4386,28 +4534,28 @@
 		<td class="url"> http://pierrchen.blogspot.fr/2016/09/an-walk-through-of-android-uidgid-based.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Avoid bugs with Android's Lint </td>
 		<td class="description"> </td>
 		<td class="keywords"> Lint </td>
 		<td class="url"> https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.lajt8ts2c </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Degooglisons / Degooglify </td>
 		<td class="description"> </td>
 		<td class="keywords"> privacy </td>
 		<td class="url"> https://degooglisons-internet.org/liste/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Diggin into Android System Services </td>
 		<td class="description"> </td>
 		<td class="keywords"> services </td>
 		<td class="url"> https://speakerdeck.com/devunwired/digging-into-android-system-services </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Object Oriented Programming vs. Functional Programming </td>
 		<td class="description"> </td>
 		<td class="keywords"> OOP , FP </td>
@@ -4442,7 +4590,7 @@
 		<td class="url"> https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.vqokh9ghn </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> About TDD and BDD </td>
 		<td class="description"> Test-Driven-Development and Behaviour-Driven-Development </td>
 		<td class="keywords"> TDD , BDD , tests </td>
@@ -4456,7 +4604,7 @@
 		<td class="url"> https://shirleyalmosni.wordpress.com/2016/10/08/immersion-dans-la-tete-dun-developpeur/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Développeurs, apprendre est notre métier </td>
 		<td class="description"> </td>
 		<td class="keywords"> article , dev </td>
@@ -4477,7 +4625,7 @@
 		<td class="url"> https://medium.com/@Zhuinden/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072#.v9vgwiha1 </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> </td>
 	</tr>
 	<tr>
@@ -4529,7 +4677,7 @@
 		<td class="url"> http://www.norse-corp.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> We Are Data </td>
 		<td class="description"> </td>
 		<td class="keywords"> Watchdogs , networks , lulz </td>
@@ -4557,7 +4705,7 @@
 		<td class="url"> http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Gradle Helpers </td>
 		<td class="description"> </td>
 		<td class="keywords"> Gradle </td>
@@ -4592,7 +4740,7 @@
 		<td class="url"> https://techcrunch.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> DevMag </td>
 		<td class="description"> </td>
 		<td class="keywords"> veille , news , IT </td>
@@ -4613,7 +4761,7 @@
 		<td class="url"> https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.nrzxqnbha </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Bash your way to better Android Development </td>
 		<td class="description"> </td>
 		<td class="keywords"> bash , shell , adb , android , dev </td>
@@ -4627,7 +4775,7 @@
 		<td class="url"> https://material.io/ </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Material.io devices </td>
 		<td class="description"> </td>
 		<td class="keywords"> material design , devices , specs </td>
@@ -4662,28 +4810,28 @@
 		<td class="url"> https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8 </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Do you like to ADB? </td>
 		<td class="description"> </td>
 		<td class="keywords"> ADB , Android Studio </td>
 		<td class="url"> http://crushingcode.co/do-you-like-to-adb/ </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Pokedex.org </td>
 		<td class="description"> An open source and free progress web app </td>
 		<td class="keywords"> progressive web app , pwa , html5 , css3 </td>
 		<td class="url"> https://github.com/nolanlawson/pokedex.org </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectJava"> Java </td>
 		<td class="name"> Developing for Android vs iOS navigation patterns </td>
 		<td class="description"> </td>
 		<td class="keywords"> UI , Android , iOS , navigation , patterns </td>
 		<td class="url"> https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c#.k5jfewsa8 </td>
 	</tr>
 	<tr>
-		<td class="subjectJava"> Java </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> </td>
 	</tr>
 	<tr>
@@ -4693,7 +4841,7 @@
 		<td class="keywords"> https://speakerdeck.com/sdeleuze/developing-reactive-applications-with-reactive-streams-and-java-8 </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> </td>
 	</tr>
 	<tr>
@@ -4703,35 +4851,35 @@
 		<td class="keywords"> https://speakerdeck.com/jeremiemartinez/devops-sur-android-from-one-git-push-to-a-play-store-release </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Flexbox </td>
 		<td class="description"> </td>
 		<td class="keywords"> flexbox </td>
 		<td class="url"> https://speakerdeck.com/goetter/flexbox-place-a-la-gueule-de-bois </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> A journey from Interactive to Reactive </td>
 		<td class="description"> </td>
 		<td class="keywords"> reactive </td>
 		<td class="url"> http://blog.thomasbelin.fr/talks/reactive-programming/#1 </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Tree-Shaking </td>
 		<td class="description"> </td>
 		<td class="keywords"> quality </td>
 		<td class="url"> http://blog.vincentogloblinsky.com/devfest-2016-tree-shaking-slides/#/ </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Google Design Sprint </td>
 		<td class="description"> </td>
 		<td class="keywords"> design , conception , sprint </td>
 		<td class="url"> http://www.slideshare.net/Matt_Gio/design-sprint-devfest-nantes-2016 </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> Continuous Deployment with Spinnaker </td>
 	</tr>
 	<tr>
@@ -4741,28 +4889,28 @@
 		<td class="keywords"> https://docs.google.com/presentation/d/1x4Z61vRWkWEbYLsWjcHIylHLHRlajLmPTdMCJi_Tyhg/edit#slide=id.g17d09711c0_2_80 </td>
 	</tr>
 	<tr>
-		<td class="subjectDesign"> Design </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Angular 2 et les standards du Web </td>
 		<td class="description"> </td>
 		<td class="keywords"> Angular 2 , standards </td>
 		<td class="url"> https://speakerdeck.com/gillespie59/angular2-et-les-standards-du-web </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> La boîte à outils du développeur Android en 2016 </td>
 		<td class="description"> </td>
 		<td class="keywords"> yools , libs , dev </td>
 		<td class="url"> http://fr.slideshare.net/Nilhcem/the-2016-android-developer-toolbox-nantes </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectAndroid"> Android </td>
 		<td class="name"> De la réalité virtuelle dans nos navigateurs, en route vers le Metaverse </td>
 		<td class="description"> </td>
 		<td class="keywords"> WebVR , VR </td>
 		<td class="url"> https://speakerdeck.com/olivierguillet/devfest-nantes-2016-de-la-realite-virtuelle-dans-nos-navigateurs-en-route-vers-le-metaverse </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectWeb"> Web </td>
 		<td class="name"> Finally understanding how references work in Android and Java </td>
 		<td class="description"> </td>
 		<td class="keywords"> Android , Java , references , performances </td>
@@ -4797,11 +4945,109 @@
 		<td class="url"> https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/ </td>
 	</tr>
 	<tr>
-		<td class="subjectWeb"> Web </td>
+		<td class="subjectDesign"> Design </td>
 		<td class="name"> What are Progressive Web Apps? </td>
 		<td class="description"> </td>
 		<td class="keywords"> Ionic , pwa </td>
 		<td class="url"> http://blog.ionic.io/what-is-a-progressive-web-app/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Vector Open Stock </td>
+		<td class="description"> Free vector graphics </td>
+		<td class="keywords"> UI , vector , graphics </td>
+		<td class="url"> https://www.vectoropenstock.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Icons As Part Of A Great User Experience </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , icons </td>
+		<td class="url"> https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Carousels Don’t Have to be Complicated </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , views , carousels </td>
+		<td class="url"> http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> The Ideal Design Workflow </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , design </td>
+		<td class="url"> https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.5pp60aud1 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> 16 Prototyping Tools & How Each Can Be Used </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , prototypes </td>
+		<td class="url"> https://blog.prototypr.io/14-prototyping-tools-how-each-can-be-used-1c804fab33a6#.rz7uv89tp </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Designing for Colour Blindness </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , design </td>
+		<td class="url"> https://blog.prototypr.io/designing-for-colour-blindness-b74a9d012ef2#.9av9iflbr </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Blog of Thomas Belin </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://blog.thomasbelin.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> A journey from Interactive to Reactive </td>
+		<td class="description"> </td>
+		<td class="keywords"> reactive </td>
+		<td class="url"> http://blog.thomasbelin.fr/talks/reactive-programming/#1 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Optimizer votre webapp </td>
+		<td class="description"> </td>
+		<td class="keywords"> web , optimisation , performances </td>
+		<td class="url"> https://speakerdeck.com/javamind/optimisez-votre-webapp </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Accessibilité, par où commencer ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> accessibility , UI , UX </td>
+		<td class="url"> http://devfest2016-accessibilite.juliemoynat.fr/#/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Haskell for the noobs </td>
+		<td class="description"> </td>
+		<td class="keywords"> Haskell </td>
+		<td class="url"> https://ptitfred.github.io/haskell-for-the-noobs/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Finally understanding how references work in Android and Java </td>
+		<td class="description"> </td>
+		<td class="keywords"> References , pointers , Java , Android </td>
+		<td class="url"> https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.w13p1mwi4 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Blog of Jeremie Martinez </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://jeremie-martinez.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Blog of Cyril Mottier </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://cyrilmottier.com/ </td>
 	</tr>
 </table>
 

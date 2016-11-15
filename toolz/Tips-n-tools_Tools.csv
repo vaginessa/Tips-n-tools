@@ -5,12 +5,12 @@ Libraries and tools;;;;
 ;;;;
 Plateform;Name;Description;Keywords;URL
 Android;HoloGraphLibrary;To make charts, diagrams, ...;graphs , charts;https://github.com/Androguide/HoloGraphLibrary
-/;Dokku;Tool which can build and deploy apps and manage their lyfecycle;build , PaaS , DevOps ,  tool , quality;https://github.com/dokku/dokku
-/;IFTTT;To automate community management;DevOps , tool;https://ifttt.com/
-/;Buffer;A tool to manage easily social medias;DevOps , tool;https://buffer.com/
-/;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality;https://instabug.com/
-/;Zapier;Connect the apps to use, automate tasks; , qualityAutomatisation , automation , tool;https://zapier.com/
-/;Postman;To test and link APIs;API , tool , quality;https://www.getpostman.com/
+DevTool;Dokku;Tool which can build and deploy apps and manage their lyfecycle;build , PaaS , DevOps ,  tool , quality;https://github.com/dokku/dokku
+DevTool;IFTTT;To automate community management;DevOps , tool;https://ifttt.com/
+DevTool;Buffer;A tool to manage easily social medias;DevOps , tool;https://buffer.com/
+DevTool;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality;https://instabug.com/
+DevTool;Zapier;Connect the apps to use, automate tasks;qualityAutomatisation , automation , tool;https://zapier.com/
+DevTool;Postman;To test and link APIs;API , tool , quality;https://www.getpostman.com/
 Android;Picasso;A powerful image downloading and caching library;pictures , image , caching;http://square.github.io/picasso/
 Android;Branded launch screen;New splash screens for Android;tuto , splash screen;http://antonioleiva.com/branded-launch-screen/
 Android;IntroScreen;To create intro screen on ViewPager and PageTransformer;tuto , intro screen;https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz
@@ -28,11 +28,11 @@ Android;CardsUI;A lib for cards UI;cards ui , material;https://github.com/gabrie
 Android;BottomSheets;A sliding bottom sheet with actions;bottom sheet , material;https://github.com/soarcn/BottomSheet
 Android;MaterialLeanBack;A leanback port for Android devices;material , lean back , photos;https://github.com/florent37/MaterialLeanBack
 Android;InteractiveCanvas;Library for distribution canvas over set of devices;interactive canvas , devices;https://github.com/elevenetc/InteractiveCanvas
-Android;Material Arc Menu;An arc menu with buttons inside;arc menus : buttons , material;https://github.com/saurabharora90/MaterialArcMenu
-Android;Animations effects to TextView;Animations effects to text views;animations : text views;https://github.com/hanks-zyh/HTextView
-Android;Faker;Tool to make mock objects;mock : fake;https://github.com/blocoio/faker
+Android;Material Arc Menu;An arc menu with buttons inside;arc menus , buttons , material;https://github.com/saurabharora90/MaterialArcMenu
+Android;Animations effects to TextView;Animations effects to text views;animations , text views;https://github.com/hanks-zyh/HTextView
+Android;Faker;Tool to make mock objects;Mock , fake;https://github.com/blocoio/faker
 Android;Knife;A rich text editor component for writing in Android;document , edit text;https://github.com/mthli/Knife
-Android;PasswordEditText;A custom EditText with a switchable icon showing/hidding passwords;password : edit text;https://github.com/maksim88/PasswordEditText
+Android;PasswordEditText;A custom EditText with a switchable icon showing/hidding passwords;Password , edit text;https://github.com/maksim88/PasswordEditText
 /;Upgrade;Site de veille;veille , tuto , site , tool;http://upgrade.news/
 Android;Quitnow sleep time;Lib to be sure the user is awake before disturbing it with soundy and vibrant notificatinos;notifications , awake , sleep;https://github.com/Fewlaps/quitnow-sleep-time
 Android;Loading view;Lib for a loading view;loading view , animations;https://github.com/lusfold/SpinnerLoading
@@ -196,10 +196,10 @@ Android;Enjarify;Tool for translating Dalvik bytecode to equivalent Java bytecod
 Android;Fino;Android small footprint inspection tool;RI , reverse engineering , tool;https://github.com/sysdream/fino
 Android;Indroid;;RI , reverse engineering , tool;https://bitbucket.org/aseemjakhar/indroid
 Android;Introspy;Security profiling for blackbox Android;RI , reverse engineering , tool;https://github.com/iSECPartners/Introspy-Android
-Java;JD GUI;Java decompiler with a neat GUI;RI , reverse engineering , tool;https://github.com/java-decompiler/jd-gui
-Java;Krakatau;Java decompiler, assembler and disassembler;RI , reverse engineering , tool;https://github.com/Storyyeller/Krakatau
-Java;Procyon;Java 5+ capable decompiler;RI , reverse engineering , tool;https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler
-Java;Fernflower;Java decompiler with a neat GUI;RI , reverse engineering , tool;https://github.com/fesh0r/fernflower
+DevTool;JD GUI;Java decompiler with a neat GUI;RI , reverse engineering , tool , Java;https://github.com/java-decompiler/jd-gui
+DevTool;Krakatau;Java decompiler, assembler and disassembler;RI , reverse engineering , tool , Java;https://github.com/Storyyeller/Krakatau
+DevTool;Procyon;Java 5+ capable decompiler;RI , reverse engineering , tool , Java;https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler
+DevTool;Fernflower;Java decompiler with a neat GUI;RI , reverse engineering , tool , Java;https://github.com/fesh0r/fernflower
 Android;Redexer;Bytecode instrumentation framework for Dalvik bytecode;RI , reverse engineering , tool;https://github.com/plum-umd/redexer    http://www.cs.umd.edu/projects/PL/redexer/
 Android;Simplify;Generic Android Deobfuscator;RI , reverse engineering , tool;https://github.com/CalebFenton/simplify
 Android;Bytecode Viewer;A Java 8 JAR and Android APK Reverse Engineering Suite;RI , reverse engineering , tool;https://github.com/Konloch/bytecode-viewer
@@ -228,10 +228,10 @@ Android;CompareImage;;image , comparison;https://github.com/Onkarn92/CompareImag
 Design;Thumby;Image paring and resizing server;picture , operations;https://www.thumby.io/
 Kotlin;Spek;A Kotlin Specification Framework for the JVM;uni tests , Kotlin , spek , tests;http://jetbrains.github.io/spek/notes/1.0.html
 Design;Cloud convert;Convert anything;convert , GIF , mp4 , memes;https://cloudconvert.com/
-Android;Pidcat;Colored logcat script which only shows log entries for a specific application package;log , logcat , debug;https://github.com/JakeWharton/pidcat
+DevTool;Pidcat;Colored logcat script which only shows log entries for a specific application package;log , logcat , debug;https://github.com/JakeWharton/pidcat
 Android;LoaderViewLibrary;Library that enables TextView and ImageView to show loading animation while waiting for the text and image get loaded;view , animations , loader;https://github.com/elye/loaderviewlibrary
 Android;Paper;Fast and simple data storage library for Android;database , storage , NoSQL , Kryo;https://github.com/pilgr/Paper
-Java;Kryo;Java serialziation andcloning : fast,e fficient, automatic;storage , serialization;https://github.com/EsotericSoftware/kryo
+Java;Kryo;Java serialization and cloning : fast, efficient, automatic;storage , serialization;https://github.com/EsotericSoftware/kryo
 Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy , FOSS;https://github.com/DrKLO/Telegram
 Web;Telegram; Telegram web application, GPL v3;Telegram , app , security , privacy , FOSS;https://github.com/zhukov/webogram
 /;Telegram;Telegram Desktop messaging app;Telegram , app , security , privacy , FOSS;https://github.com/telegramdesktop/tdesktop
@@ -250,19 +250,18 @@ Android;Versionberg; Gradle plugin for versioning your library/application on ev
 Android;Tray; a SharedPreferences replacement for Android with multiprocess support ;SharedPreferences , Preferences , process , multiprocess , multiproces , content , data storage;https://github.com/grandcentrix/tray
 Android;Ahoy onboarding;Android onboarding library.;view , intro screen , onboarding;https://github.com/codemybrainsout/ahoy-onboarding
 Android;Android page transition;ViewPager with verticl sliding effects and activity transition;ViewPager , effects , transitions;https://github.com/xmuSistone/android-page-transition
-Android;BubbleAnimationLayout;Some animations combining bubles and cards;snimations , bubble;https://github.com/Cleveroad/BubbleAnimationLayout
-Android;"RecyclerViewUndoSwipe
-"; Swipe and drag support for RecyclerView with undo action. ;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
+Android;BubbleAnimationLayout;Some animations combining bubles and cards;animations , bubble;https://github.com/Cleveroad/BubbleAnimationLayout
+Android;RecyclerViewUndoSwipe; Swipe and drag support for RecyclerView with undo action;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
 Android;AndroidUtilCode;Some util classes…;utils;https://github.com/Blankj/AndroidUtilCode
-/;Jfrog;Solutions to automate software package  management;DevOps , tool , quality;https://www.jfrog.com/open-source/
-/;Artifactory;Repository and packages manager;Package , repo , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-arti
-/;Bintray;To pubilish and consume software releases;Bin , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-bin
-/;Gatling;Loas testing framework based on Scala, Akka and Netty;Stree test , load test , DevOps , tool , quality;http://gatling.io/#/
-/;Tunetoo;Coz geeks and nerdz must have fun t-shirtz !!;customization;http://www.tunetoo.com/
-/;Ansible;Deploy apps, manage systems, crush complexity;DevOps , tool , quality;https://www.ansible.com/
-/;GitLab;Tool to use to unify issus, code review, configuration management , CI and CD;Git , DevOps , tool , quality;https://about.gitlab.com/
-/;Jmeter;To laod test functionnal behavior and measure performances;Load test , performances , DevOps , tool , quality;http://jmeter.apache.org/
-/;Travis;Tests Github hosted projects;Github , CI , DevOps , tool , quality;https://travis-ci.org/
+DevTool;Jfrog;Solutions to automate software package  management;DevOps , tool , quality;https://www.jfrog.com/open-source/
+DevTool;Artifactory;Repository and packages manager;Package , repo , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-arti
+DevTool;Bintray;To pubilish and consume software releases;Bin , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-bin
+DevTool;Gatling;Loas testing framework based on Scala, Akka and Netty;Stree test , load test , DevOps , tool , quality;http://gatling.io/#/
+DevTool;Tunetoo;Coz geeks and nerdz must have fun t-shirtz !!;customization;http://www.tunetoo.com/
+DevTool;Ansible;Deploy apps, manage systems, crush complexity;DevOps , tool , quality;https://www.ansible.com/
+DevTool;GitLab;Tool to use to unify issus, code review, configuration management , CI and CD;Git , DevOps , tool , quality;https://about.gitlab.com/
+DevTool;Jmeter;To laod test functionnal behavior and measure performances;Load test , performances , DevOps , tool , quality;http://jmeter.apache.org/
+DevTool;Travis;Tests Github hosted projects;Github , CI , DevOps , tool , quality;https://travis-ci.org/
 /;Framalink;URL shorter;URL , tool , privacy , framasoft , FOSS;https://frama.link/
 /;Framindmap;Mindmap tool;mind map , tool , privacy , framasoft , FOSS;https://framindmap.org/c/login
 /;MyFrama;Bookmakrs and links sharing;link , bookmark , tool , privacy , framasoft;https://my.framasoft.org/
@@ -294,7 +293,7 @@ JavaScript;JSX;JSX is a statically-typed, object-oriented programming language d
 JavaScript;Babel;A JavaScript compiler / transpiler;Transpiler , JS , web;https://babeljs.io/
 JavaScript;Browerify;To bundle JS depedencies;dependencies , web , JS;http://browserify.org/
 JavaScript;NPM;A package manager for JS;JS , package;https://www.npmjs.com/
-JavaScript;Grunt;The JavaScript task runner;JS , task runner;http://gruntjs.com/
+DevTool;Grunt;The JavaScript task runner;JS , task runner;http://gruntjs.com/
 JavaScript;Webpack;A module bundler;JS , dependencies;https://webpack.github.io/docs/
 JavaScript;CommonJS;Defines modules format;JS , module;http://requirejs.org/docs/commonjs.html
 JavaScript;Asynchronous Module Definition (AMD);Defines modules format;JS , module;http://requirejs.org/docs/whyamd.html
@@ -308,20 +307,20 @@ JavaScript;BluebirdJS;For JS Promises;JS;http://bluebirdjs.com/docs/why-bluebird
 JavaScript;Redux;Predictable stable container for JavaScript apps;JS , container;http://redux.js.org/
 JavaScript;RevealJS;The HTML presentation framework;JS , presentation;http://lab.hakim.se/reveal-js/#/
 JavaScript;PureJS;JavaScript template engine;JS , presentation;https://beebole.com/pure/
-Android;Apk Parser;APK parser library for java;APK;https://github.com/caoqianli/apk-parser
+DevTool;Apk Parser;APK parser library for java;APK , Android;https://github.com/caoqianli/apk-parser
 Android;Clocker Scroller;A cool animated RecyclerView clock face scroller ;clock , view;https://github.com/andyb129/ClockScroller
 Android;Snappy Image Viewer;Android Image Viewer inspired by StackOveflow's swipe-to-dismiss and moving animations;animations , effects , swipe;https://github.com/nshmura/SnappyImageViewer
-/;TeamCity;Powerful Continuous Integration out of the Box;DevOps , CI , tools , quality;https://www.jetbrains.com/teamcity/
-/;Infer;A tool to detect bugs in Android and iOS apps before they ship;DevOps , CI , tools , bugs , Android , iOS , quality;http://fbinfer.com/
-/;PMD;Source code analyzer finding common programming flaws;DevOps , CI , tools , quality;https://pmd.github.io/
-Java;FindBugs;Find bugs in Java Programs;DevOps , CI , tools , quality;http://findbugs.sourceforge.net/
-Java;Checkstyle;Write well formated and written Java code;DevOps , CI , tools , quality;http://checkstyle.sourceforge.net/
-Android;Robolectric;Android Unit Testing Framework;DevOps , CI , tools , unit tests , quality;https://github.com/robolectric/robolectric
-/;Calabash;Automated acceptance testing for mobile apps;DevOps , CI , tools , quality;http://calaba.sh/
-Android;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization , quality;https://developer.android.com/studio/write/lint.html
-Android;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , stress , monkey , quality;https://developer.android.com/studio/test/monkey.html
-Android;Monkeyrunner;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality;https://developer.android.com/studio/test/monkeyrunner/index.html
-/;Cucumber;Behaviour-Drive Developement;BDD;https://cucumber.io/
+DevTool;TeamCity;Powerful Continuous Integration out of the Box;DevOps , CI , tools , quality;https://www.jetbrains.com/teamcity/
+DevTool;Infer;A tool to detect bugs in Android and iOS apps before they ship;DevOps , CI , tools , bugs , Android , iOS , quality;http://fbinfer.com/
+DevTool;PMD;Source code analyzer finding common programming flaws;DevOps , CI , tools , quality;https://pmd.github.io/
+DevTool;FindBugs;Find bugs in Java Programs;DevOps , CI , tools , quality , Java;http://findbugs.sourceforge.net/
+DevTool;Checkstyle;Write well formated and written Java code;DevOps , CI , tools , quality , Java;http://checkstyle.sourceforge.net/
+DevTool;Robolectric;Android Unit Testing Framework;DevOps , CI , tools , unit tests , quality  ,Android;https://github.com/robolectric/robolectric
+DevTool;Calabash;Automated acceptance testing for mobile apps;DevOps , CI , tools , quality;http://calaba.sh/
+DevTool;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization , quality;https://developer.android.com/studio/write/lint.html
+DevTool;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , stress , monkey , quality , Android;https://developer.android.com/studio/test/monkey.html
+DevTool;Monkeyrunner;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality , Android;https://developer.android.com/studio/test/monkeyrunner/index.html
+DevTool;Cucumber;Behaviour-Drive Developement;BDD;https://cucumber.io/
 Android;AppBarLayout Spring Behaviour;;view , animations;https://github.com/ToDou/appbarlayout-spring-behavior
 Android;ViewPagerIndicator;;view pager , indicator;https://github.com/JakeWharton/ViewPagerIndicator
 Android;Android Debug Drawer; Android Debug Drawer for faster development ;debug;https://github.com/palaima/DebugDrawer
@@ -349,8 +348,34 @@ Android;Swipe Coordinator; A coordinator layout for Android views to animate and
 Android;Flickable Dialog; This dialog can flick and make it easy to dismiss sensuously. ;UI , dialog , view;https://github.com/t-kurimura/flickabledialog
 Android;Prevent Screen Off; This is the library that keeps the screen on until user is looking at the screen. ;UI , screen , off;https://github.com/kevalpatel2106/Prevent-Screen-Off
 Android;Android Fingerprint Authentication; A library that allows you to easily integrate and manage fingerprint authentication in your app. ;UI , fingerprint , authentication;https://github.com/multidots/android-fingerprint-authentication
-Android;User Ware Video View;"
-A customized video view that will automatically pause video is user is not looking at device screen";UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView
+Android;User aware Video View;A customized video view that will automatically pause video is user is not looking at device screen;UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView
 Android;License Adapter;Adapter for RecyclerView to display app's oss dependencies' license ;UI , view , licences , credits;https://github.com/yshrsmz/LicenseAdapter
 /;Spinnaker;;continuous deployment , DevOps , quality;http://www.spinnaker.io/
 Web;Electron;Build cross platform desktop apps with JavaScript, HTML and CSS;cross platform , desktop , JS , HTML , CSS , Github;http://electron.atom.io/
+Design;Prototypr.io;Prototyping : From UX to Front End;UI , design , prototypes , veille;https://blog.prototypr.io/
+Design;Invision;Design Better. Faster. Together.;UI , design , prototypes;https://www.invisionapp.com/
+Design;Craft;;UI , design , prototypes;https://www.invisionapp.com/craft
+Design;Marvel;Simple design, prototyping and collaboration;UI , design , prototypes;https://marvelapp.com/
+Design;Flinto;iOS and Android prototypes made from your existing screen designs;UI , design , prototypes;https://www.flinto.com/lite
+Design;Framer JS;Design the impossible with Framer;UI , design , prototypes;https://framerjs.com/
+Design;Justinmind;Prototype faster, communicate better;UI , design , prototypes;https://www.justinmind.com/
+Design;Balsamiq;A wireframing tool for mockups;UI , design , prototypes;https://balsamiq.com/
+Design;Axure;;UI , design , prototypes;http://www.axure.com/
+Design;Pop;;UI , design , prototypes;https://popapp.in/
+Design;Flinto;;UI , design , prototypes;https://www.flinto.com/
+Design;Origami;;UI , design , prototypes;https://facebook.github.io/origami/
+Design;UXPin;Collaborative UX Design for Product Teams;UI , design , prototypes;https://www.uxpin.com/
+Design;Proto.io;Create fully-interactive high-fidelity prototypes that look and work exactly like the app should;UI , design , prototypes;https://proto.io/
+DevTool;Gradle;;DevOps , tool , quality , build;https://gradle.org/
+DevTool;SonarQube;;DevOps , tool , quality , code analysis;http://www.sonarqube.org/
+DevTool;GoCD;;DevOps , tool , quality , build;https://www.go.cd/
+DevTool;Fastlane;The easiest way to automate building and releasing your iOS and Android apps;DevOps , tool , quality , build;https://fastlane.tools/
+DevTool;Takt; Takt is Android library for measuring the FPS using Choreographer;FPS , tests , tool;https://github.com/wasabeef/Takt
+DevTool;Pidcat; Colored logcat script which only shows log entries for a specific application package. ;tool;https://github.com/JakeWharton/pidcat
+DevTool;Sonarlint;;code analysis , plugin;http://www.sonarlint.org/
+DevTool;Fiddler;The free web debugging proxy for any browser, system or platform;web , HTTP , HTTPS , performances;http://www.telerik.com/fiddler
+DevTool;Trello;Tool for collaborative work;dev , tools;https://trello.com/
+DevTool;Jira;Tool for collaborative work;dev , tools;https://fr.atlassian.com/software/jira
+DevTool;Telegram;;privacy;https://telegram.org/
+DevTool;Taiga;Tool for collaborative work;dev , tools;https://taiga.io/
+Design;Draw.io;;;https://www.draw.io/
