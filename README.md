@@ -2655,6 +2655,41 @@
 		<td class="keywords"> </td>
 		<td class="url"> https://www.draw.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Activity Switcher </td>
+		<td class="description"> ActivitySwitcher is based on the Activity view operation management library, you can achieve any jump between Activity, close any Activity and end applications and other functions. </td>
+		<td class="keywords"> Activity </td>
+		<td class="url"> https://github.com/Hitomis/ActivitySwitcher </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ReView </td>
+		<td class="description"> A view to help developers and designers view the View's font size, color, and border. </td>
+		<td class="keywords"> UI , debug , views </td>
+		<td class="url"> https://github.com/maoruibin/ReView </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> A high productivity, full-stack web framework for the Go langage </td>
+		<td class="description"> </td>
+		<td class="keywords"> Go , golang </td>
+		<td class="url"> http://revel.github.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> SQLbrite </td>
+		<td class="description"> A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations. </td>
+		<td class="keywords"> SQL , reactive streams </td>
+		<td class="url"> https://github.com/square/sqlbrite </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Javapoet </td>
+		<td class="description"> A Java API for generating .java source files. </td>
+		<td class="keywords"> Java , code generation </td>
+		<td class="url"> https://github.com/square/javapoet </td>
+	</tr>
 </table>
 
 
@@ -5048,6 +5083,23 @@
 		<td class="description"> </td>
 		<td class="keywords"> veille , news </td>
 		<td class="url"> http://cyrilmottier.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RxJava 2: Android MVVM Lifecycle App Structure with Retrofit 2 </td>
+		<td class="description"> </td>
+		<td class="keywords"> RxJava 2 , MVVM , Retrofit 2 </td>
+		<td class="url"> https://medium.com/@manuelvicnt/rxjava2-android-mvvm-lifecycle-app-structure-with-retrofit-2-cf903849f49e#.nuubl2vlg </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Floating button for disabled people </td>
+		<td class="description"> Your User Can’t Click Your Floating Action Button </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> And you can fix it in one line </td>
+		<td class="name"> </td>
+		<td class="description"> http://collectiveidea.com/blog/archives/2016/10/10/your-user-cant-click-your-floating-action-button </td>
 	</tr>
 </table>
 
