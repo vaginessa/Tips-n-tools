@@ -2690,6 +2690,20 @@
 		<td class="keywords"> Java , code generation </td>
 		<td class="url"> https://github.com/square/javapoet </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DrawRouteMaps </td>
+		<td class="description"> Library for draw route maps between two point LatLang </td>
+		<td class="keywords"> UI , map , route , view </td>
+		<td class="url"> https://github.com/ar-android/DrawRouteMaps </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Audiogram </td>
+		<td class="description"> Lightweight audiowave progressbar </td>
+		<td class="keywords"> UI , view , sound , audio bar </td>
+		<td class="url"> https://github.com/alxrm/Audiogram </td>
+	</tr>
 </table>
 
 
@@ -5135,6 +5149,20 @@
 		<td class="description"> Computer Games on Laptop Graphic Cards </td>
 		<td class="keywords"> hardware , GPU , graphics cards </td>
 		<td class="url"> http://www.notebookcheck.net/Computer-Games-on-Laptop-Graphics-Cards.13849.0.html </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Bien comprendre la différence entre définition et résolution d’un écran </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , px , ppp , ppi , screen </td>
+		<td class="url"> http://www.frandroid.com/comment-faire/comment-fonctionne-la-technologie/342762_difference-entre-definition-resolution </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> DPI / PPI Calculator </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , px , ppp , ppi , dpi , screen </td>
+		<td class="url"> https://www.sven.de/dpi/ </td>
 	</tr>
 </table>
 
