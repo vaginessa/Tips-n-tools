@@ -5164,6 +5164,13 @@
 		<td class="keywords"> design , px , ppp , ppi , dpi , screen </td>
 		<td class="url"> https://www.sven.de/dpi/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> How to create Snapchat-like stickers for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , Snapchat , stickers , UI </td>
+		<td class="url"> https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.xro7aupgm </td>
+	</tr>
 </table>
 
 
@@ -5251,6 +5258,28 @@
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 6 GB </td>
 		<td class="camera"> Sony Exmor IMX 298 CMOS 5.22 x 3.92 mm 1.132 µm f/2.0 16 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 152.7 x 74.7 x 7.35 mm </td>
+		<td class="usbtype"> 158 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfOxygenOS"> OxygenOS </td>
+		<td class="constructor"> OnePlus </td>
+		<td class="name"> OnePlus 3T </td>
+		<td class="screensize"> 5.5'' </td>
+		<td class="screentype"> Corning Gorilla Glass 4 , 401 PPI , Optic AMOLED </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 821 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
+		<td class="battery"> 3400 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 6 GB </td>
+		<td class="camera"> Sony Exmor IMX 298 CMOS 5.22 x 3.92 mm 1.132 µm f/2.0 16 MP (back) , 15,87 MP (front) </td>
 		<td class="dimensions"> 152.7 x 74.7 x 7.35 mm </td>
 		<td class="usbtype"> 158 g </td>
 		<td class="weight"> no </td>
