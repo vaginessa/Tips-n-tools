@@ -2704,6 +2704,13 @@
 		<td class="keywords"> UI , view , sound , audio bar </td>
 		<td class="url"> https://github.com/alxrm/Audiogram </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ArcLayout </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , arc </td>
+		<td class="url"> https://github.com/florent37/ArcLayout </td>
+	</tr>
 </table>
 
 
@@ -5592,6 +5599,28 @@
 		<td class="usbtype"> 165 g </td>
 		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
 		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia XZ </td>
+		<td class="screensize"> 5.2'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , step detector , step counter , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 2900 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55mm 1.118µm 22.85 MP (back) , 12.98 MP (front) </td>
+		<td class="dimensions"> 146 x 72 x 8.1 mm </td>
+		<td class="usbtype"> 161 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 	</tr>
