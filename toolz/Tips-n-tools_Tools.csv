@@ -387,3 +387,4 @@ Java;Javapoet; A Java API for generating .java source files. ;Java , code genera
 Android;DrawRouteMaps; Library for draw route maps between two point LatLang ;UI , map , route , view;https://github.com/ar-android/DrawRouteMaps
 Android;Audiogram;Lightweight audiowave progressbar;UI , view , sound , audio bar;https://github.com/alxrm/Audiogram
 Android;ArcLayout;;UI , view , arc;https://github.com/florent37/ArcLayout
+Android;Activity Frame Metrics; Detect janky frames with Android Nougat FrameMetrics ;UI , debug , frames;https://github.com/frogermcs/ActivityFrameMetrics
