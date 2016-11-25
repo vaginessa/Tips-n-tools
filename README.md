@@ -2718,6 +2718,83 @@
 		<td class="keywords"> UI , debug , frames </td>
 		<td class="url"> https://github.com/frogermcs/ActivityFrameMetrics </td>
 	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Easy Flow </td>
+		<td class="description"> Simple and lightweight Finite State Machine for Java </td>
+		<td class="keywords"> state machine </td>
+		<td class="url"> https://github.com/Beh01der/EasyFlow </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AndroidUIGestureRecognizer </td>
+		<td class="description"> AndroidGestureRecognizer is an Android implementation of the Apple's UIGestureRecognizer framework </td>
+		<td class="keywords"> UI , gestures </td>
+		<td class="url"> https://github.com/sephiroth74/AndroidUIGestureRecognizer </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> smartGL </td>
+		<td class="description"> SmartGL is a Graphic Engine for creating Android Games and Apps. It is based on OpenGL and handles 2D Sprites and 3D Textured Objects. </td>
+		<td class="keywords"> OpenGL , game </td>
+		<td class="url"> https://github.com/smart-fun/smartGL </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> XmlToJson </td>
+		<td class="description"> Android Library for converting XML to JSON </td>
+		<td class="keywords"> XML , JSON </td>
+		<td class="url"> https://github.com/smart-fun/XmlToJson </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SmartFonts </td>
+		<td class="description"> Smart Fonts for Android is a Library which makes it easy to use Custom Fonts in Apps </td>
+		<td class="keywords"> fonts </td>
+		<td class="url"> https://github.com/smart-fun/SmartFonts </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Github pages </td>
+		<td class="description"> Websites for peoples and projects </td>
+		<td class="keywords"> Github , pages , sites </td>
+		<td class="url"> https://pages.github.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Selfie </td>
+		<td class="description"> A simple library to make taking screenshots of your apps a breeze. </td>
+		<td class="keywords"> UI , screen shots , captures </td>
+		<td class="url"> https://github.com/mplacona/selfie </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Frisson </td>
+		<td class="description"> Provide Funky cuts on image (The Perfect Header for Profile UI) </td>
+		<td class="keywords"> UI , header , view , profile </td>
+		<td class="url"> https://github.com/IntruderShanky/Frisson </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SpannableBar </td>
+		<td class="description"> SpannableBar is a Grid-style spannable bar, that is useful when you need a way to span a bar over columns. The view allows you to set the starting column, the span, the number of columns, and more. </td>
+		<td class="keywords"> UI , grid , columns , span , views </td>
+		<td class="url"> https://github.com/GreaseMonk/SpannableBar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> EditCard </td>
+		<td class="description"> Text field for credit cards numbers and associate dlogo </td>
+		<td class="keywords"> UI , views , credit cards </td>
+		<td class="url"> https://github.com/Morxander/EditCard </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Theo </td>
+		<td class="description"> Theo is an Android plugin that provides annotations for 'dangerous permissions' </td>
+		<td class="keywords"> UX , permissions </td>
+		<td class="url"> https://github.com/xbauquet/Theo </td>
+	</tr>
 </table>
 
 
@@ -5185,6 +5262,55 @@
 		<td class="keywords"> Android , Snapchat , stickers , UI </td>
 		<td class="url"> https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.xro7aupgm </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Making the most of the APK analyzer </td>
+		<td class="description"> </td>
+		<td class="keywords"> APK , DEX , analyzer </td>
+		<td class="url"> https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2#.kqu2byr5b </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Organize your analytics code </td>
+		<td class="description"> </td>
+		<td class="keywords"> analytics </td>
+		<td class="url"> https://medium.com/@Actine/organize-your-analytics-code-be9e5ff91543 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Machine Learning & Mobile Vision API : Face Detection </td>
+		<td class="description"> </td>
+		<td class="keywords"> Movile Vision , Face Detection </td>
+		<td class="url"> https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.g0s0m9r6b </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Machine Learning & Mobile Vision API : Barcode Detection </td>
+		<td class="description"> </td>
+		<td class="keywords"> Mobile Vision , Barcode Detection </td>
+		<td class="url"> https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-2-barcode-detection-61e84c858518#.uwfsz1e2h </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Machine Learning & Mobile Vision API : Text Detection </td>
+		<td class="description"> </td>
+		<td class="keywords"> Mobile Vision , Text Detection </td>
+		<td class="url"> https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-3-text-detection-20ba34d0d356#.x7ylgggwo </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Application Architecture </td>
+		<td class="description"> Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava. </td>
+		<td class="keywords"> MVP , RXJava , architecture </td>
+		<td class="url"> https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.3oq2l4buk </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Clean Architecture </td>
+		<td class="description"> A detailed guide on developing Android apps using the Clean Architecture pattern </td>
+		<td class="keywords"> Clean Architecture </td>
+		<td class="url"> https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.yt4r13fzi </td>
+	</tr>
 </table>
 
 
@@ -6007,6 +6133,28 @@
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfWindows"> Windows </td>
+		<td class="constructor"> HP </td>
+		<td class="name"> Elite x3 </td>
+		<td class="screensize"> 6'' </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> iris scanner , ? </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> 16 MP (back) , 8 MP (front) </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfOther"> Sworfish OS </td>
 		<td class="constructor"> Turing Robotic Industries </td>
 		<td class="name"> Monolith Chaconne </td>
@@ -6015,15 +6163,15 @@
 		<td class="screenresolution"> 2160 x 3840 px = 4K </td>
 		<td class="soc"> Qualcomm Snapdragon 830 , Qualcomm Snapdragon 830 , Qualcomm Snapdragon 830 </td>
 		<td class="gpu"> ? </td>
-		<td class="sensors"> </td>
-		<td class="battery"> </td>
+		<td class="sensors"> ? </td>
+		<td class="battery"> ? </td>
 		<td class="storage"> 1.2 TB </td>
 		<td class="ram"> 18 GB </td>
 		<td class="camera"> 60 MP (back) , 20 MP (front) </td>
-		<td class="dimensions"> </td>
-		<td class="usbtype"> </td>
-		<td class="weight"> </td>
-		<td class="ip"> </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
 		<td class="sdcard"> microSD , microSD </td>
 		<td class="sim"> nano , nano , nano , nano </td>
 	</tr>

@@ -388,3 +388,14 @@ Android;DrawRouteMaps; Library for draw route maps between two point LatLang ;UI
 Android;Audiogram;Lightweight audiowave progressbar;UI , view , sound , audio bar;https://github.com/alxrm/Audiogram
 Android;ArcLayout;;UI , view , arc;https://github.com/florent37/ArcLayout
 Android;Activity Frame Metrics; Detect janky frames with Android Nougat FrameMetrics ;UI , debug , frames;https://github.com/frogermcs/ActivityFrameMetrics
+Java;Easy Flow; Simple and lightweight Finite State Machine for Java ;state machine;https://github.com/Beh01der/EasyFlow
+Android;AndroidUIGestureRecognizer;AndroidGestureRecognizer is an Android implementation of the Apple's UIGestureRecognizer framework;UI , gestures;https://github.com/sephiroth74/AndroidUIGestureRecognizer
+Android;smartGL;SmartGL is a Graphic Engine for creating Android Games and Apps. It is based on OpenGL and handles 2D Sprites and 3D Textured Objects.;OpenGL , game;https://github.com/smart-fun/smartGL
+Android;XmlToJson; Android Library for converting XML to JSON ;XML , JSON;https://github.com/smart-fun/XmlToJson
+Android;SmartFonts; Smart Fonts for Android is a Library which makes it easy to use Custom Fonts in Apps;fonts;https://github.com/smart-fun/SmartFonts
+/;Github pages;Websites for peoples and projects;Github , pages , sites;https://pages.github.com/
+Android;Selfie;A simple library to make taking screenshots of your apps a breeze.;UI , screen shots , captures;https://github.com/mplacona/selfie
+Android;Frisson; Provide Funky cuts on image (The Perfect Header for Profile UI);UI , header , view , profile;https://github.com/IntruderShanky/Frisson
+Android;SpannableBar;SpannableBar is a Grid-style spannable bar, that is useful when you need a way to span a bar over columns. The view allows you to set the starting column, the span, the number of columns, and more.;UI , grid , columns , span , views;https://github.com/GreaseMonk/SpannableBar
+Android;EditCard;Text field for credit cards numbers and associate dlogo;UI , views , credit cards;https://github.com/Morxander/EditCard
+Android;Theo; Theo is an Android plugin that provides annotations for 'dangerous permissions' ;UX , permissions;https://github.com/xbauquet/Theo

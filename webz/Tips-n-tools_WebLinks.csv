@@ -358,3 +358,10 @@ And you can fix it in one line ";;http://collectiveidea.com/blog/archives/2016/1
 Design;Bien comprendre la différence entre définition et résolution d’un écran ;;design , px , ppp , ppi , screen;http://www.frandroid.com/comment-faire/comment-fonctionne-la-technologie/342762_difference-entre-definition-resolution
 Design;DPI / PPI Calculator;;design , px , ppp , ppi , dpi , screen;https://www.sven.de/dpi/
 Design;How to create Snapchat-like stickers for Android;;Android , Snapchat , stickers , UI;https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.xro7aupgm
+Android;Making the most of the APK analyzer;;APK , DEX , analyzer;https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2#.kqu2byr5b
+Android;Organize your analytics code;;analytics;https://medium.com/@Actine/organize-your-analytics-code-be9e5ff91543
+Android;Machine Learning & Mobile Vision API : Face Detection;;Movile Vision , Face Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.g0s0m9r6b
+Android;Machine Learning & Mobile Vision API : Barcode Detection;;Mobile Vision , Barcode Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-2-barcode-detection-61e84c858518#.uwfsz1e2h
+Android;Machine Learning & Mobile Vision API : Text Detection;;Mobile Vision , Text Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-3-text-detection-20ba34d0d356#.x7ylgggwo
+Android;Android Application Architecture;Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava.;MVP , RXJava , architecture;https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.3oq2l4buk
+Android;Android Clean Architecture;A detailed guide on developing Android apps using the Clean Architecture pattern;Clean Architecture;https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.yt4r13fzi
