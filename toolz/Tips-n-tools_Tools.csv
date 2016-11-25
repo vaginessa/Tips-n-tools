@@ -399,3 +399,6 @@ Android;Frisson; Provide Funky cuts on image (The Perfect Header for Profile UI)
 Android;SpannableBar;SpannableBar is a Grid-style spannable bar, that is useful when you need a way to span a bar over columns. The view allows you to set the starting column, the span, the number of columns, and more.;UI , grid , columns , span , views;https://github.com/GreaseMonk/SpannableBar
 Android;EditCard;Text field for credit cards numbers and associate dlogo;UI , views , credit cards;https://github.com/Morxander/EditCard
 Android;Theo; Theo is an Android plugin that provides annotations for 'dangerous permissions' ;UX , permissions;https://github.com/xbauquet/Theo
+Android;Android Debug Database; A library for debugging Android databases and shared preferences;SharedPreferences , databases , debug;https://github.com/amitshekhariitbhu/Android-Debug-Database
+Android;ImageMap;;UI , images , pictures , map;https://github.com/Pernifloss/ImageMap
+Android;Parceler;Android Parcelables made easy through code generation.;Parcelable , serialization;https://github.com/johncarl81/parceler
