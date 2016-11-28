@@ -839,7 +839,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Frog </td>
 		<td class="description"> </td>
-		<td class="keywords"> documentation , command lines </td>
+		<td class="keywords"> documentation , libs , finder , console </td>
 		<td class="url"> https://github.com/anupcowkur/frog </td>
 	</tr>
 	<tr>
@@ -2815,6 +2815,20 @@
 		<td class="description"> Android Parcelables made easy through code generation. </td>
 		<td class="keywords"> Parcelable , serialization </td>
 		<td class="url"> https://github.com/johncarl81/parceler </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Alfi </td>
+		<td class="description"> Android library finder </td>
+		<td class="keywords"> documentation , libs , finder , console </td>
+		<td class="url"> https://github.com/cesarferreira/alfi </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tipsntools </td>
+		<td class="description"> Tool which provides links and data about neat tools, libraries, frameworks and tips for developers </td>
+		<td class="keywords"> documentation , libs , finder , console </td>
+		<td class="url"> https://github.com/pylapp/Tips-n-tools </td>
 	</tr>
 </table>
 
