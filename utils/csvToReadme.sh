@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 10.0.0
+# Version.............: 10.0.1
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -176,7 +176,7 @@ echo "Write HTML file from CSV file about devices..."
 cat $CSV_DEVICE_FILE | sh $UTILS_FOLDER/$CSV2HTML_DEVICES_SCRIPT $CSV2HTML_DEVICES_OPTIONS > $HTML_DEVICE_FILE
 
 echo "Write HTML file from CSV file about SoC..."
-cat $CSV_SOC_FILE | sh $UTILS_FOLDER/$CSV2HTML_SOCS_SCRIPT $CSV2HTML_SOC_OPTIONS > $HTML_SOC_FILE
+cat $CSV_SOC_FILE | sh $UTILS_FOLDER/$CSV2HTML_SOCS_SCRIPT $CSV2HTML_SOCS_OPTIONS > $HTML_SOC_FILE
 
 echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
