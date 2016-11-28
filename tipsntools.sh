@@ -20,12 +20,12 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 6.0.0
+# Version.............: 7.0.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some elements or build HTML files from CSV files to update another file
 #
-# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}
-# Usage: sh tipsntools.sh {-h | -u | {-a | -w | -t | -d | -s} yourRegexp}
+# Usage: sh tipsntools.sh {--help | --count | --md5 | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}
+# Usage: sh tipsntools.sh {-h | -c | -m | -u | {-a | -w | -t | -d | -s} yourRegexp}
 #
 
 
@@ -65,10 +65,14 @@ CSV_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.csv"
 # \brief Displays the usage and exits
 fUsageAndExit(){
 	echo "USAGE:"
-	echo "sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}"
-	echo "sh tipsntools.sh {-h | -u | {-a | -w | -t | -d | -s} yourRegexp}"
+	echo "sh tipsntools.sh {--help | --count | --md5 | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}"
+	echo "sh tipsntools.sh {-h | -c | -m | -u | {-a | -w | -t | -d | -s} yourRegexp}"
 	echo "\t --help	....................: displays the help, i.e. this usage."
 	echo "\t -h ........................: displays the help, i.e. this usage."
+	echo "\t --count....................: count the number of items"
+	echo "\t -c ........................: count the number of items"
+	echo "\t --md5......................: compute the MD5 checksum"
+	echo "\t -m ........................: compute the MD5 checksum"	
 	echo "\t --update ..................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
 	echo "\t -u ........................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
 	echo "\t --findAll yourRegexp.......: finds in all the CSV source files the rows which contain elements matching yourRegexp"
@@ -174,24 +178,56 @@ fFindInCsvFile(){
 # \fn fMd5sum
 # \brief Make an MD5 checksum for each file and display them in the standard ouput
 fMd5sum(){
-
 	echo "******************"
 	echo "* MD5 checksums..."
 	echo "******************"
-
 	# Utils folder...
 	echo "\\tMD5 checksum for .sh files:\\n`md5sum */*.sh`"
-	
 	# CSV files
 	echo "\\tMD5 checksum for .csv files:\\n`md5sum */*.csv`"
-
 	# HTML files
 	echo "\\tMD5 checksum for .html files:\\n`md5sum */*.html`"
-	
 	# Main script, readme file and sheet file
 	echo "\\tMD5 checksum for main files:\\n`md5sum *.*`"
-	
 }
+
+# \fn fCountItems
+# \brief Computes the number of items listed in each file
+fCountItems(){
+	TOOLS_DIR="toolz"
+	CSV_TOOLS_FILE="$TOOLS_DIR/Tips-n-tools_Tools.csv"
+	CSV_TOOLS_FILE_USELESS_ROWS=6
+	HTML_TOOLS_FILE="$TOOLS_DIR/Tips-n-tools_Tools.html"
+	WEB_DIR="webz"
+	CSV_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
+	CSV_WEB_FILE_USELESS_ROWS=6
+	HTML_WEB_FILE="$WEB_DIR/Tips-n-tools_WebLinks.html"
+	DEVICE_DIR="devz"
+	CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
+	CSV_DEVICE_FILE_USELESS_ROWS=6
+	HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
+	SOC_DIR="socz"
+	CSV_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.csv"
+	CSV_SOC_FILE_USELESS_ROWS=6
+	HTML_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.html"
+	csvToolsRows=`cat $CSV_TOOLS_FILE | wc -l`
+	csvWebRows=`cat $CSV_WEB_FILE | wc -l`
+	csvDevicesRows=`cat $CSV_DEVICE_FILE | wc -l`
+	csvSocsRows=`cat $CSV_SOC_FILE | wc -l`
+	csvToolsRowsCleaned=$(($csvToolsRows - $CSV_TOOLS_FILE_USELESS_ROWS))
+	csvWebRowsCleaned=$(($csvWebRows - $CSV_WEB_FILE_USELESS_ROWS))
+	csvDevicesRowsCleaned=$(($csvDevicesRows - $CSV_DEVICE_FILE_USELESS_ROWS))
+	csvSocsRowsCleaned=$(($csvSocsRows - $CSV_SOC_FILE_USELESS_ROWS))
+	htmlToolsRowsNew=`cat $HTML_TOOLS_FILE | wc -l`
+	htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
+	htmlDevicesRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
+	htmlSocsRowsNew=`cat $HTML_SOC_FILE | wc -l`
+	echo "Items as TOOLS..........: $csvToolsRowsCleaned items in $CSV_TOOLS_FILE"
+	echo "Items as WEB THINGS.....: $csvWebRowsCleaned items in $CSV_WEB_FILE"
+	echo "Items in DEVICES........: $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE"
+	echo "Items in SoC............: $csvSocsRowsCleaned items in $CSV_SOC_FILE"
+}
+
 
 # ######### #
 # MAIN CODE #
@@ -303,7 +339,23 @@ if [ $1 ]; then
 	# Need some help?
 	elif [ "$1" = "--help" -o "$1" = "-h" ]; then
 		fUsageAndExit
-	# Stop jumping on your keaboard...	
+	# Compute MD5 checksums
+	elif [ "$1" = "--md5" -o "$1" = "-m" ]; then
+		if [ "$#" -ne 1 ]; then
+			errBadCommand		
+			fUsageAndExit
+		else
+			fMd5sum		
+		fi		
+	# Compute the number of items in each file
+	elif [ "$1" = "--count" -o "$1" = "-c" ]; then
+		if [ "$#" -ne 1 ]; then
+			errBadCommand		
+			fUsageAndExit
+		else
+			fCountItems
+		fi				
+	# Stop jumping on your keyboard...	
 	else
 		errBadCommand	
 		fUsageAndExit
