@@ -7,7 +7,13 @@
 
  Run
 ```shell
-	sh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools} aRegex 
+	sh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools | --findSocs} yourRegex 
+```
+ to make some search in files with a regular expression 
+
+ Run
+```shell
+	sh tipsntools.sh {-a | -w | -d | -t | -s} yourRegex 
 ```
  to make some search in files with a regular expression 
 
@@ -2830,6 +2836,13 @@
 		<td class="keywords"> documentation , libs , finder , console </td>
 		<td class="url"> https://github.com/pylapp/Tips-n-tools </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ENViews </td>
+		<td class="description"> A cool dynamic view library </td>
+		<td class="keywords"> UI , view , animations </td>
+		<td class="url"> https://github.com/codeestX/ENViews </td>
+	</tr>
 </table>
 
 
@@ -5346,6 +5359,20 @@
 		<td class="keywords"> Clean Architecture </td>
 		<td class="url"> https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.yt4r13fzi </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> SoC Specout </td>
+		<td class="description"> </td>
+		<td class="keywords"> devices , specs , hardware , comparison , SoC </td>
+		<td class="url"> http://system-on-a-chip.specout.com </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Making PNG optimization part of your app's diet </td>
+		<td class="description"> </td>
+		<td class="keywords"> PNG , app , diet </td>
+		<td class="url"> https://medium.com/picnic-engineering/making-png-optimization-part-of-your-apps-diet-47fb04e8a0c#.xo5y2tuw6 </td>
+	</tr>
 </table>
 
 
@@ -6409,3 +6436,8 @@
 		<td class="sim"> no </td>
 	</tr>
 </table>
+
+
+
+## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some SoC technical data
+USAGE: cat myFileToProcess.csv | sh csvToHtml_socs.sh [ --fullHtml | --limitedHtml | --help ]

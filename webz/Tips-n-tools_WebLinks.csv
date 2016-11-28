@@ -365,3 +365,5 @@ Android;Machine Learning & Mobile Vision API : Barcode Detection;;Mobile Vision
 Android;Machine Learning & Mobile Vision API : Text Detection;;Mobile Vision , Text Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-3-text-detection-20ba34d0d356#.x7ylgggwo
 Android;Android Application Architecture;Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava.;MVP , RXJava , architecture;https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.3oq2l4buk
 Android;Android Clean Architecture;A detailed guide on developing Android apps using the Clean Architecture pattern;Clean Architecture;https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.yt4r13fzi
+/;SoC Specout;;devices , specs , hardware , comparison , SoC;http://system-on-a-chip.specout.com
+Android;Making PNG optimization part of your app's diet;;PNG , app , diet;https://medium.com/picnic-engineering/making-png-optimization-part-of-your-apps-diet-47fb04e8a0c#.xo5y2tuw6

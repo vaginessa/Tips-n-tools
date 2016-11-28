@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 9.1.0
+# Version.............: 10.0.0
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -41,6 +41,8 @@ CSV2HTML_TOOLS_SCRIPT="csvToHtml_tools.sh"
 CSV2HTML_TOOLS_OPTIONS=" --limitedHtml"
 CSV2HTML_DEVICES_SCRIPT="csvToHtml_devices.sh"
 CSV2HTML_DEVICES_OPTIONS=" --limitedHtml"
+CSV2HTML_SOCS_SCRIPT="csvToHtml_socs.sh"
+CSV2HTML_SOCS_OPTIONS=" --limitedHtml"
 
 # The folders and files about the libraries and tools
 TOOLS_DIR="../toolz"
@@ -60,10 +62,17 @@ CSV_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 CSV_DEVICE_FILE_USELESS_ROWS=6
 HTML_DEVICE_FILE="$DEVICE_DIR/Tips-n-tools_Devices.html"
 
+# The folder and files about the SoC
+SOC_DIR="../socz"
+CSV_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.csv"
+CSV_SOC_FILE_USELESS_ROWS=6
+HTML_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.html"
+
 # Misc.
 README_HEADER="# Tips'n'tools \n"
 README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh --help \n\`\`\`\n  to get some help about the commands\n\n"
-README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools} aRegex \n\`\`\`\n to make some search in files with a regular expression \n\n"
+README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh {--findAll | --findWeb | --findDevices | --findTools | --findSocs} yourRegex \n\`\`\`\n to make some search in files with a regular expression \n\n"
+README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh {-a | -w | -d | -t | -s} yourRegex \n\`\`\`\n to make some search in files with a regular expression \n\n"
 README_HEADER="$README_HEADER Run\n\`\`\`shell\n\tsh tipsntools.sh --update  \n\`\`\`\n  to update the .html and README.md files with the value of the .csv files\n\n"
 
 
@@ -99,6 +108,13 @@ else
 	echo "NOTE: Directory '$DEVICE_DIR' already created"
 fi
 
+if [ ! -d "$SOC_DIR" ]; then
+	echo "Create directory '$SOC_DIR' for SoC things..."
+	mkdir $DEVICE_DIR
+else
+	echo "NOTE: Directory '$SOC_DIR' already created"
+fi
+
 # Check if all the CSV files to use exist
 if [ ! -e "$CSV_TOOLS_FILE" ]; then
 	echo "ERROR: The file '$CSV_TOOLS_FILE' does not exist. Impossible to parse it to HTML. Exit now."
@@ -112,6 +128,11 @@ fi
 
 if [ ! -e "$CSV_DEVICE_FILE" ]; then
 	echo "ERROR: The file '$CSV_DEVICE_FILE' does not exist. Impossible to parse it to HTML. Exit now."
+	exit 1;
+fi
+
+if [ ! -e "$CSV_SOC_FILE" ]; then
+	echo "ERROR: The file '$CSV_SOC_FILE' does not exist. Impossible to parse it to HTML. Exit now."
 	exit 1;
 fi
 
@@ -138,6 +159,11 @@ else
 	htmlDevicesRowsOld=0
 fi
 
+if [ -e $HTML_SOC_FILE ]; then
+	htmlSocsRowsOld=`cat $HTML_SOC_FILE | wc -l`
+else
+	htmlSocsRowsOld=0
+fi
 
 # Update .html and README.md files
 echo "Write HTML file from CSV file about libraries, frameworks and tools..."
@@ -149,6 +175,9 @@ cat $CSV_WEB_FILE | sh $UTILS_FOLDER/$CSV2HTML_TOOLS_SCRIPT $CSV2HTML_TOOLS_OPTI
 echo "Write HTML file from CSV file about devices..."
 cat $CSV_DEVICE_FILE | sh $UTILS_FOLDER/$CSV2HTML_DEVICES_SCRIPT $CSV2HTML_DEVICES_OPTIONS > $HTML_DEVICE_FILE
 
+echo "Write HTML file from CSV file about SoC..."
+cat $CSV_SOC_FILE | sh $UTILS_FOLDER/$CSV2HTML_SOCS_SCRIPT $CSV2HTML_SOC_OPTIONS > $HTML_SOC_FILE
+
 echo "Write README.md with HTML files' contents..."
 echo "\n\n" >> $README_FILE
 echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some useful and neat libraries, frameworks and tools" >> $README_FILE
@@ -159,22 +188,29 @@ cat $HTML_WEB_FILE >> $README_FILE
 echo "\n\n" >> $README_FILE
 echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some famous devices' technical characteristics" >> $README_FILE
 cat $HTML_DEVICE_FILE >> $README_FILE
+echo "\n\n" >> $README_FILE
+echo "## ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 Some SoC technical data" >> $README_FILE
+cat $HTML_SOC_FILE >> $README_FILE
 
 # Some stats about the number of fields
 csvToolsRows=`cat $CSV_TOOLS_FILE | wc -l`
 csvWebRows=`cat $CSV_WEB_FILE | wc -l`
 csvDevicesRows=`cat $CSV_DEVICE_FILE | wc -l`
+csvSocsRows=`cat $CSV_SOC_FILE | wc -l`
 csvToolsRowsCleaned=$(($csvToolsRows - $CSV_TOOLS_FILE_USELESS_ROWS))
 csvWebRowsCleaned=$(($csvWebRows - $CSV_WEB_FILE_USELESS_ROWS))
 csvDevicesRowsCleaned=$(($csvDevicesRows - $CSV_DEVICE_FILE_USELESS_ROWS))
+csvSocsRowsCleaned=$(($csvSocsRows - $CSV_SOC_FILE_USELESS_ROWS))
 htmlToolsRowsNew=`cat $HTML_TOOLS_FILE | wc -l`
 htmlWebRowsNew=`cat $HTML_WEB_FILE | wc -l`
-htmlDeviceRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
+htmlDevicesRowsNew=`cat $HTML_DEVICE_FILE | wc -l`
+htmlSocsRowsNew=`cat $HTML_SOC_FILE | wc -l`
 
 # Some outputs
 echo "Now we have $csvToolsRowsCleaned items in $CSV_TOOLS_FILE (evolution: $htmlToolsRowsOld -> $htmlToolsRowsNew)."
 echo "Now we have $csvWebRowsCleaned items in $CSV_WEB_FILE (evolution: $htmlWebRowsOld -> $htmlWebRowsNew)."
-echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (evolution: $htmlDevicesRowsOld -> $htmlDeviceRowsNew)."
+echo "Now we have $csvDevicesRowsCleaned items in $CSV_DEVICE_FILE (evolution: $htmlDevicesRowsOld -> $htmlDevicesRowsNew)."
+echo "Now we have $csvSocsRowsCleaned items in $CSV_SOC_FILE (evolution: $htmlSocsRowsOld -> $htmlSocsRowsNew)."
 
 if [ $htmlToolsRowsNew -lt $htmlToolsRowsOld ]; then
 	echo "WARNING: The new file $HTML_TOOLS_FILE has now a smaller size than its previous version."
@@ -188,9 +224,15 @@ elif [ $htmlWebRowsNew -eq $htmlWebRowsOld ]; then
 	echo "NOTE: The new file $HTML_WEB_FILE has the same size as its previous version."
 fi
 
-if [ $htmlDeviceRowsNew -lt $htmlDevicesRowsOld ]; then
+if [ $htmlDevicesRowsNew -lt $htmlDevicesRowsOld ]; then
 	echo "WARNING: The new file $HTML_DEVICE_FILE has now a smaller size than its previous version."
-elif [ $htmlDeviceRowsNew -eq $htmlDevicesRowsOld ]; then
+elif [ $htmlDevicesRowsNew -eq $htmlDevicesRowsOld ]; then
+	echo "NOTE: The new file $HTML_DEVICE_FILE has the same size as its previous version."
+fi
+
+if [ $htmlSocsRowsNew -lt $htmlSocsRowsOld ]; then
+	echo "WARNING: The new file $HTML_DEVICE_FILE has now a smaller size than its previous version."
+elif [ $htmlSocsRowsNew -eq $htmlSocsRowsOld ]; then
 	echo "NOTE: The new file $HTML_DEVICE_FILE has the same size as its previous version."
 fi
 

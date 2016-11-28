@@ -20,12 +20,12 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 4.1.0
+# Version.............: 5.0.0
 # Since...............: 05/10/2016
-# Description.........: Provides some features about this update/technical watch/... project: find some eleemnts or build HTML files from CSV files to update another file
+# Description.........: Provides some features about this update/technical watch/... project: find some elements or build HTML files from CSV files to update another file
 #
-# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}
-# Usage: sh tipsntools.sh {-h | -u | {-a | -w | -t | -d} yourRegexp}
+# Usage: sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}
+# Usage: sh tipsntools.sh {-h | -u | {-a | -w | -t | -d | -s} yourRegexp}
 #
 
 
@@ -49,6 +49,10 @@ CSV_WEBS_FILE="$WEB_DIR/Tips-n-tools_WebLinks.csv"
 DEVICE_DIR="devz"
 CSV_DEVICES_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 
+# The folder and files about the SoC
+SOC_DIR="socz"
+CSV_SOC_FILE="$SOC_DIR/Tips-n-tools_SoC.csv"
+
 
 # ######### #
 # FUNCTIONS #
@@ -58,8 +62,8 @@ CSV_DEVICES_FILE="$DEVICE_DIR/Tips-n-tools_Devices.csv"
 # \brief Displays the usage and exits
 fUsageAndExit(){
 	echo "USAGE:"
-	echo "sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices} yourRegexp}"
-	echo "sh tipsntools.sh {-h | -u | {-a | -w | -t | -d} yourRegexp}"
+	echo "sh tipsntools.sh {--help | --update | {--findAll | --findWeb | --findTools | --findDevices | --findSocs} yourRegexp}"
+	echo "sh tipsntools.sh {-h | -u | {-a | -w | -t | -d | -s} yourRegexp}"
 	echo "\t --help	....................: displays the help, i.e. this usage."
 	echo "\t -h ........................: displays the help, i.e. this usage."
 	echo "\t --update ..................: updates the defined result file with HTML files built thanks to CSV files and scripts in .utils/ folder"
@@ -72,6 +76,8 @@ fUsageAndExit(){
 	echo "\t -t yourRegexp..............: finds in the tools CSV source file the rows which contain elements matching yourRegexp"
 	echo "\t --findDevices yourRegexp...: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
 	echo "\t -d yourRegexp..............: finds in the devices CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t --findSocs yourRegexp......: finds in the SoC CSV source file the rows which contain elements matching yourRegexp"
+	echo "\t -s yourRegexp..............: finds in the devices CSV source file the rows which contain elements matching yourRegexp"	
 	exit 0	
 }
 
@@ -125,6 +131,8 @@ fFindInAllFiles(){
 	fFindInCsvFile $CSV_WEBS_FILE $regex
 	# The devices file
 	fFindInCsvFile $CSV_DEVICES_FILE $regex
+	# The SoC file
+	fFindInCsvFile $CSV_SOC_FILE $regex	
 	echo "End of search."
 }
 
@@ -181,6 +189,10 @@ if [ ! -d "$DEVICE_DIR" ]; then
 	errBadDirectory $DEVICE_DIR	
 fi
 
+if [ ! -d "$SOC_DIR" ]; then
+	errBadDirectory $SOC_DIR	
+fi
+
 # Check if all the files to use exist
 if [ ! -e "$CSV_TOOLS_FILE" ]; then
 	errBadFile $CSV_TOOLS_FILE	
@@ -192,6 +204,10 @@ fi
 
 if [ ! -e "$CSV_DEVICES_FILE" ]; then
 	errBadFile $CSV_DEVICES_FILE	
+fi
+
+if [ ! -e "$CSV_SOC_FILE" ]; then
+	errBadFile $CSV_SOC_FILE	
 fi
 
 if [ ! -e "$UTILS_DIR/$CSV2README_SCRIPT" ]; then
@@ -243,7 +259,16 @@ if [ $1 ]; then
 		else
 			errBadCommand		
 			fUsageAndExit
-		fi				
+		fi
+	# Find some data in SoC file?		
+	elif [ "$1" = "--findSocs" -o "$1" = "-s" ]; then
+		if [ "$2" ]; then
+			regexp="$2"
+			fFindInCsvFile $CSV_SOC_FILE $regexp
+		else
+			errBadCommand		
+			fUsageAndExit
+		fi							
 	# Need some help?
 	elif [ "$1" = "--help" -o "$1" = "-h" ]; then
 		fUsageAndExit
