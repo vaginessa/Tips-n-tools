@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 5.0.0
+# Version.............: 6.0.0
 # Since...............: 05/10/2016
 # Description.........: Provides some features about this update/technical watch/... project: find some elements or build HTML files from CSV files to update another file
 #
@@ -36,6 +36,9 @@
 # Some configuration things
 UTILS_DIR="utils"
 CSV2README_SCRIPT="csvToReadme.sh"
+CSV2HTMLDEVICES_SCRIPT="csvToHtml_devices.sh"
+CSV2HTMLTOOLS_SCRIPT="csvToHtml_tools.sh"
+CSV2HTMLSOCS_SCRIPT="csvToHtml_socs.sh"
 
 # The folders and files about the libraries and tools
 TOOLS_DIR="toolz"
@@ -162,6 +165,22 @@ fFindInCsvFile(){
 	done
 }
 
+# \fn fMd5sum
+# \brief Make an MD5 checksum for each file and display them in the standard ouput
+fMd5sum(){
+	# Utils folder...
+	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2README_SCRIPT`"
+	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLDEVICES_SCRIPT`"
+	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLTOOLS_SCRIPT`"
+	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLSOCS_SCRIPT`"
+	
+	# CSV files
+	# TODO
+	# HTML files
+	# TODO
+	# Main script, readme file and sheet file
+	# TODO
+}
 
 # ######### #
 # MAIN CODE #
@@ -280,6 +299,8 @@ if [ $1 ]; then
 else
 	fUsageAndExit
 fi
+
+fMd5sum
 
 echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
 
