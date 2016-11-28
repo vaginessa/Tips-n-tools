@@ -87,7 +87,9 @@ fUsageAndExit(){
 # \fn fUpdate
 # \brief Updates the result file with HTML files built with CSV soruce files
 fUpdate(){
-	echo "Update the result file..."
+	echo "******************************"
+	echo "* Updating destination file..."
+	echo "******************************"	
 	cd $UTILS_DIR
 	sh $CSV2README_SCRIPT
 	cd ..
@@ -126,7 +128,9 @@ errBadFile(){
 # \param regexp - The regex to use
 # \brief Finds in CSV source files some items
 fFindInAllFiles(){
-	echo "Finds in CSV files the items which match $1..."
+	echo "****************************"
+	echo "* Find in all files for '$1'..."
+	echo "****************************"	
 	regex=$1
 	# The tools file
 	fFindInCsvFile $CSV_TOOLS_FILE $regex
@@ -144,9 +148,11 @@ fFindInAllFiles(){
 # \param regex - The regex to use
 # \brief Find a dedicated CSV file items wich match the regex
 fFindInCsvFile(){
+	echo "****************************"
+	echo "* Find in '$1' for '$2'..."
+	echo "****************************"	
 	file=$1
 	regex=$2
-	echo "-----> Finding '$regex' in $file..."
 	cat $file | while read -r line; do
 		case "$line" in
 			*$regex*)
@@ -168,18 +174,23 @@ fFindInCsvFile(){
 # \fn fMd5sum
 # \brief Make an MD5 checksum for each file and display them in the standard ouput
 fMd5sum(){
+
+	echo "******************"
+	echo "* MD5 checksums..."
+	echo "******************"
+
 	# Utils folder...
-	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2README_SCRIPT`"
-	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLDEVICES_SCRIPT`"
-	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLTOOLS_SCRIPT`"
-	echo "MD5 checksum: `md5sum $UTILS_DIR/$CSV2HTMLSOCS_SCRIPT`"
+	echo "\\tMD5 checksum for .sh files:\\n`md5sum */*.sh`"
 	
 	# CSV files
-	# TODO
+	echo "\\tMD5 checksum for .csv files:\\n`md5sum */*.csv`"
+
 	# HTML files
-	# TODO
+	echo "\\tMD5 checksum for .html files:\\n`md5sum */*.html`"
+	
 	# Main script, readme file and sheet file
-	# TODO
+	echo "\\tMD5 checksum for main files:\\n`md5sum *.*`"
+	
 }
 
 # ######### #
@@ -240,8 +251,9 @@ if [ $1 ]; then
 		if [ "$#" -ne 1 ]; then
 			errBadCommand
 			fUsageAndExit
-		else
-			fUpdate	
+		else		
+			fUpdate
+			fMd5sum	
 		fi
 	# Find some data in all files?
 	elif [ "$1" = "--findAll" -o "$1" = "-a" ]; then
@@ -264,7 +276,7 @@ if [ $1 ]; then
 	# Find some data in the tools file?
 	elif [ "$1" = "--findTools" -o "$1" = "-t" ]; then
 		if [ "$2" ]; then
-			regexp="$2"
+			regexp="$2"				
 			fFindInCsvFile $CSV_TOOLS_FILE $regexp
 		else
 			errBadCommand		
@@ -273,7 +285,7 @@ if [ $1 ]; then
 	# Find some data in devices file?		
 	elif [ "$1" = "--findDevices" -o "$1" = "-d" ]; then
 		if [ "$2" ]; then
-			regexp="$2"
+			regexp="$2"			
 			fFindInCsvFile $CSV_DEVICES_FILE $regexp
 		else
 			errBadCommand		
@@ -282,7 +294,7 @@ if [ $1 ]; then
 	# Find some data in SoC file?		
 	elif [ "$1" = "--findSocs" -o "$1" = "-s" ]; then
 		if [ "$2" ]; then
-			regexp="$2"
+			regexp="$2"			
 			fFindInCsvFile $CSV_SOC_FILE $regexp
 		else
 			errBadCommand		
@@ -299,8 +311,6 @@ if [ $1 ]; then
 else
 	fUsageAndExit
 fi
-
-fMd5sum
 
 echo "✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一	tipsntools.sh	TERMINATED !"
 
