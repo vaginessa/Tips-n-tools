@@ -2843,6 +2843,13 @@
 		<td class="keywords"> UI , view , animations </td>
 		<td class="url"> https://github.com/codeestX/ENViews </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Swagger </td>
+		<td class="description"> Powerful open source framework backed by a large ecosystem of tools that helps to design, build, document, and consume RESTful APIs. </td>
+		<td class="keywords"> framework , tool , API , REST </td>
+		<td class="url"> http://swagger.io/ </td>
+	</tr>
 </table>
 
 
@@ -5379,6 +5386,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Java , Android , guidlines , best practices </td>
 		<td class="url"> https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.io6c1i6se </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How I Organize Android project structure </td>
+		<td class="description"> </td>
+		<td class="keywords"> project , structure , good practices </td>
+		<td class="url"> https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30#.6u9tm6azp </td>
 	</tr>
 </table>
 

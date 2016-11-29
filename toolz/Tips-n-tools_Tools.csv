@@ -405,3 +405,4 @@ Android;Parceler;Android Parcelables made easy through code generation.;Parcelab
 Android;Alfi;Android library finder;documentation , libs , finder , console;https://github.com/cesarferreira/alfi
 Android;Tipsntools;Tool which provides links and data about neat tools, libraries, frameworks and tips for developers;documentation , libs , finder , console;https://github.com/pylapp/Tips-n-tools
 Android;ENViews;A cool dynamic view library;UI , view , animations;https://github.com/codeestX/ENViews
+/;Swagger;Powerful open source framework backed by a large ecosystem of tools that helps to design, build, document, and consume RESTful APIs.;framework , tool , API , REST;http://swagger.io/
