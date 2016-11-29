@@ -5394,6 +5394,20 @@
 		<td class="keywords"> project , structure , good practices </td>
 		<td class="url"> https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30#.6u9tm6azp </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Instant Loading Web Apps with an Application Shell Architecture </td>
+		<td class="description"> </td>
+		<td class="keywords"> App shell , architecture , pwa </td>
+		<td class="url"> https://developers.google.com/web/updates/2015/11/app-shell </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Your First Progressive Web App </td>
+		<td class="description"> </td>
+		<td class="keywords"> codelab , pwa </td>
+		<td class="url"> https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/ </td>
+	</tr>
 </table>
 
 
