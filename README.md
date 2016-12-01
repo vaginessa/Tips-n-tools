@@ -2864,6 +2864,13 @@
 		<td class="keywords"> UI , colors </td>
 		<td class="url"> http://www.colorcombos.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Blurry </td>
+		<td class="description"> An easy blur library </td>
+		<td class="keywords"> UI , blur </td>
+		<td class="url"> https://github.com/wasabeef/Blurry </td>
+	</tr>
 </table>
 
 

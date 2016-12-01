@@ -408,3 +408,4 @@ Android;ENViews;A cool dynamic view library;UI , view , animations;https://githu
 /;Swagger;Powerful open source framework backed by a large ecosystem of tools that helps to design, build, document, and consume RESTful APIs.;framework , tool , API , REST;http://swagger.io/
 Android;CaptchaImageView;Custom ImageView to generate captcha image.;UI , captcha;https://github.com/jineshfrancs/CaptchaImageView
 Design;Color combos;Color Combinations and Color Schemes;UI , colors;http://www.colorcombos.com/
+Android;Blurry;An easy blur library;UI , blur;https://github.com/wasabeef/Blurry
