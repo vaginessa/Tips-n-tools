@@ -410,3 +410,5 @@ Android;CaptchaImageView;Custom ImageView to generate captcha image.;UI , captch
 Design;Color combos;Color Combinations and Color Schemes;UI , colors;http://www.colorcombos.com/
 Android;Blurry;An easy blur library;UI , blur;https://github.com/wasabeef/Blurry
 /;Jekyll;Transform your plain text into static websites and blogs;Github , plaint text , web page;http://jekyllrb.com/
+Web;WOW.js;Reveal animations when  Scroll;UI , animations , scroll , effects;http://mynameismatthieu.com/WOW/
+Web;Animate.css;CSS animations;UI , animations , effects;https://daneden.github.io/animate.css/
