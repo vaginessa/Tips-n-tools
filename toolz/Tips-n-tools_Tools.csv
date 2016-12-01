@@ -406,3 +406,5 @@ Android;Alfi;Android library finder;documentation , libs , finder , console;http
 Android;Tipsntools;Tool which provides links and data about neat tools, libraries, frameworks and tips for developers;documentation , libs , finder , console;https://github.com/pylapp/Tips-n-tools
 Android;ENViews;A cool dynamic view library;UI , view , animations;https://github.com/codeestX/ENViews
 /;Swagger;Powerful open source framework backed by a large ecosystem of tools that helps to design, build, document, and consume RESTful APIs.;framework , tool , API , REST;http://swagger.io/
+Android;CaptchaImageView;Custom ImageView to generate captcha image.;UI , captcha;https://github.com/jineshfrancs/CaptchaImageView
+Design;Color combos;Color Combinations and Color Schemes;UI , colors;http://www.colorcombos.com/

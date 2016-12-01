@@ -2850,6 +2850,20 @@
 		<td class="keywords"> framework , tool , API , REST </td>
 		<td class="url"> http://swagger.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CaptchaImageView </td>
+		<td class="description"> Custom ImageView to generate captcha image. </td>
+		<td class="keywords"> UI , captcha </td>
+		<td class="url"> https://github.com/jineshfrancs/CaptchaImageView </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Color combos </td>
+		<td class="description"> Color Combinations and Color Schemes </td>
+		<td class="keywords"> UI , colors </td>
+		<td class="url"> http://www.colorcombos.com/ </td>
+	</tr>
 </table>
 
 
@@ -5407,6 +5421,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> codelab , pwa </td>
 		<td class="url"> https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Your presenters don't need all those lifecycle events </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , presenter </td>
+		<td class="url"> https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.66anrlwf7 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Product Flavors for Android Library </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle , product flavors </td>
+		<td class="url"> https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.5sbf9e26q </td>
 	</tr>
 </table>
 

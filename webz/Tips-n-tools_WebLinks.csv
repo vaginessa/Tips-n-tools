@@ -371,3 +371,5 @@ Android;Effective Java for Android;;Java , Android , guidlines , best practices;
 Android;How I Organize Android project structure;;project , structure , good practices;https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30#.6u9tm6azp
 Web;Instant Loading Web Apps with an Application Shell Architecture;;App shell , architecture , pwa;https://developers.google.com/web/updates/2015/11/app-shell
 Web; Your First Progressive Web App ;;codelab , pwa;https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+Android;Your presenters don't need all those lifecycle events;;MVP , presenter;https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.66anrlwf7
+Android;Product Flavors for Android Library;;Gradle , product flavors;https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.5sbf9e26q
