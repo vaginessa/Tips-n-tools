@@ -412,3 +412,11 @@ Android;Blurry;An easy blur library;UI , blur;https://github.com/wasabeef/Blurry
 /;Jekyll;Transform your plain text into static websites and blogs;Github , plaint text , web page;http://jekyllrb.com/
 Web;WOW.js;Reveal animations when  Scroll;UI , animations , scroll , effects;http://mynameismatthieu.com/WOW/
 Web;Animate.css;CSS animations;UI , animations , effects;https://daneden.github.io/animate.css/
+Android;Coordinators; Simple MVWhatever for Android ;MVW , architecture;https://github.com/square/coordinators
+/;Browsix;Run C, C++, Go and Node.js programs as processes in browsers, including LaTeX, GNU Make, Go HTTP servers, and POSIX shell scripts.;;https://browsix.org/
+Android;TcontributionsView; TContributionsView can be use for a Contributions View, like in one personal homepage of Github, and more than that. ;UI , view , contributions;https://github.com/barryhappy/TContributionsView
+Android;Verso;Offline reverse geocode;Geolocalition , geocode , position;https://github.com/firetrap/verso
+Android;Pageloader;Simple library for loading page with easy customization;UI , loading , view;https://github.com/arieridwan8/pageloader
+Android;Cadar;Calendar with pictures and good UI;U , view , calendar;https://github.com/memfis19/Cadar
+Android;MsvSearch;;UI , view , material search view;https://github.com/claudiodegio/MsvSearch
+Android;Circle Alarm Timer View;;UI , view , circle;https://github.com/yingLanNull/CircleAlarmTimerView

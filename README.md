@@ -2892,6 +2892,62 @@
 		<td class="keywords"> UI , animations , effects </td>
 		<td class="url"> https://daneden.github.io/animate.css/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Coordinators </td>
+		<td class="description"> Simple MVWhatever for Android </td>
+		<td class="keywords"> MVW , architecture </td>
+		<td class="url"> https://github.com/square/coordinators </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Browsix </td>
+		<td class="description"> Run C, C++, Go and Node.js programs as processes in browsers, including LaTeX, GNU Make, Go HTTP servers, and POSIX shell scripts. </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://browsix.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> TcontributionsView </td>
+		<td class="description"> TContributionsView can be use for a Contributions View, like in one personal homepage of Github, and more than that. </td>
+		<td class="keywords"> UI , view , contributions </td>
+		<td class="url"> https://github.com/barryhappy/TContributionsView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Verso </td>
+		<td class="description"> Offline reverse geocode </td>
+		<td class="keywords"> Geolocalition , geocode , position </td>
+		<td class="url"> https://github.com/firetrap/verso </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Pageloader </td>
+		<td class="description"> Simple library for loading page with easy customization </td>
+		<td class="keywords"> UI , loading , view </td>
+		<td class="url"> https://github.com/arieridwan8/pageloader </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Cadar </td>
+		<td class="description"> Calendar with pictures and good UI </td>
+		<td class="keywords"> U , view , calendar </td>
+		<td class="url"> https://github.com/memfis19/Cadar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MsvSearch </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , material search view </td>
+		<td class="url"> https://github.com/claudiodegio/MsvSearch </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Circle Alarm Timer View </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , circle </td>
+		<td class="url"> https://github.com/yingLanNull/CircleAlarmTimerView </td>
+	</tr>
 </table>
 
 
@@ -5463,6 +5519,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Gradle , product flavors </td>
 		<td class="url"> https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.5sbf9e26q </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MovieGuide </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , RxJava , Dagger 2 , Clean Architecture , sample </td>
+		<td class="url"> https://github.com/esoxjem/MovieGuide </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Custom Transitions in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , transitions </td>
+		<td class="url"> https://medium.com/@belokon.roman/custom-transitions-in-android-f8949870bd63#.oreiy0hi3 </td>
 	</tr>
 </table>
 
