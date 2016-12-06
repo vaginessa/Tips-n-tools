@@ -2976,6 +2976,13 @@
 		<td class="keywords"> UI , terminal , NodeJS </td>
 		<td class="url"> https://github.com/yaronn/blessed-contrib </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Android Assets Studio </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , UI , assets , icons </td>
+		<td class="url"> https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_example </td>
+	</tr>
 </table>
 
 
@@ -5561,6 +5568,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , transitions </td>
 		<td class="url"> https://medium.com/@belokon.roman/custom-transitions-in-android-f8949870bd63#.oreiy0hi3 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Icon handbook </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , icons , Android , pixels , sizes , dpi </td>
+		<td class="url"> http://iconhandbook.co.uk/reference/chart/android/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Designing for Seamlessness </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , design , seamlessess </td>
+		<td class="url"> https://developer.android.com/guide/practices/seamlessness.html </td>
 	</tr>
 </table>
 

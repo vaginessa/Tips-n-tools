@@ -375,3 +375,5 @@ Android;Your presenters don't need all those lifecycle events;;MVP , presenter;h
 Android;Product Flavors for Android Library;;Gradle , product flavors;https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.5sbf9e26q
 Android;MovieGuide;;MVP , RxJava , Dagger 2 , Clean Architecture , sample;https://github.com/esoxjem/MovieGuide
 Android;Custom Transitions in Android;;UI , transitions;https://medium.com/@belokon.roman/custom-transitions-in-android-f8949870bd63#.oreiy0hi3
+Design;Icon handbook;;UI , icons , Android , pixels , sizes , dpi;http://iconhandbook.co.uk/reference/chart/android/
+Design;Designing for Seamlessness;;Android , design , seamlessess;https://developer.android.com/guide/practices/seamlessness.html
