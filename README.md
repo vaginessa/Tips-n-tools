@@ -2948,6 +2948,34 @@
 		<td class="keywords"> UI , view , circle </td>
 		<td class="url"> https://github.com/yingLanNull/CircleAlarmTimerView </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> WeatherView </td>
+		<td class="description"> WeatherView is an Android Library that helps you make a cool weather animation for your app </td>
+		<td class="keywords"> UI , view , animations , weather </td>
+		<td class="url"> https://github.com/MatteoBattilana/WeatherView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> InDec </td>
+		<td class="description"> Increment and Decrement </td>
+		<td class="keywords"> lib , increment , decrement </td>
+		<td class="url"> https://github.com/Hariofspades/IncDec </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Blessed </td>
+		<td class="description"> A high-level terminal interface library for node.js. </td>
+		<td class="keywords"> UI , terminal , NodeJS </td>
+		<td class="url"> https://github.com/chjj/blessed </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Blessed-contrib </td>
+		<td class="description"> Build terminal dashboards using ascii/ansi art and javascript </td>
+		<td class="keywords"> UI , terminal , NodeJS </td>
+		<td class="url"> https://github.com/yaronn/blessed-contrib </td>
+	</tr>
 </table>
 
 

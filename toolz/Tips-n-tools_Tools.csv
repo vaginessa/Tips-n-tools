@@ -420,3 +420,7 @@ Android;Pageloader;Simple library for loading page with easy customization;UI , 
 Android;Cadar;Calendar with pictures and good UI;U , view , calendar;https://github.com/memfis19/Cadar
 Android;MsvSearch;;UI , view , material search view;https://github.com/claudiodegio/MsvSearch
 Android;Circle Alarm Timer View;;UI , view , circle;https://github.com/yingLanNull/CircleAlarmTimerView
+Android;WeatherView; WeatherView is an Android Library that helps you make a cool weather animation for your app ;UI , view , animations , weather;https://github.com/MatteoBattilana/WeatherView
+Android;InDec; Increment and Decrement ;lib , increment , decrement;https://github.com/Hariofspades/IncDec
+JavaScript;Blessed; A high-level terminal interface library for node.js. ;UI , terminal , NodeJS;https://github.com/chjj/blessed
+JavaScript;Blessed-contrib; Build terminal dashboards using ascii/ansi art and javascript ;UI , terminal , NodeJS;https://github.com/yaronn/blessed-contrib
