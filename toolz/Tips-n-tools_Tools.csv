@@ -425,3 +425,4 @@ Android;InDec; Increment and Decrement ;lib , increment , decrement;https://gith
 JavaScript;Blessed; A high-level terminal interface library for node.js. ;UI , terminal , NodeJS;https://github.com/chjj/blessed
 JavaScript;Blessed-contrib; Build terminal dashboards using ascii/ansi art and javascript ;UI , terminal , NodeJS;https://github.com/yaronn/blessed-contrib
 Design;Android Assets Studio;;Android , UI , assets , icons;https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_example
+Android;FABOptions; A multi-functional FAB component with customizable options;UI , FAB , options , view;https://github.com/JoaquimLey/FabOptions

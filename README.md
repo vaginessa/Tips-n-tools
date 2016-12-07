@@ -2983,6 +2983,13 @@
 		<td class="keywords"> Android , UI , assets , icons </td>
 		<td class="url"> https://romannurik.github.io/AndroidAssetStudio/icons-generic.html#source.space.trim=1&source.space.pad=0&size=24&padding=8&color=33b5e5%2C100&name=ic_example </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FABOptions </td>
+		<td class="description"> A multi-functional FAB component with customizable options </td>
+		<td class="keywords"> UI , FAB , options , view </td>
+		<td class="url"> https://github.com/JoaquimLey/FabOptions </td>
+	</tr>
 </table>
 
 
@@ -5582,6 +5589,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , design , seamlessess </td>
 		<td class="url"> https://developer.android.com/guide/practices/seamlessness.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Why Native Apps Really are Doomed </td>
+		<td class="description"> </td>
+		<td class="keywords"> medium </td>
+		<td class="url"> https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.mxxj0w6n3 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Why Native Apps Really aren't doomed </td>
+		<td class="description"> </td>
+		<td class="keywords"> medium </td>
+		<td class="url"> https://www.novoda.com/blog/native-apps-are-not-dead/ </td>
 	</tr>
 </table>
 
