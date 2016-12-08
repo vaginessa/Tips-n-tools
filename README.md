@@ -3032,6 +3032,20 @@
 		<td class="keywords"> UI , toast , notification </td>
 		<td class="url"> https://github.com/code-mc/loadtoast </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Sweet Alert Dialog </td>
+		<td class="description"> SweetAlert for Android, a beautiful and clever alert dialog </td>
+		<td class="keywords"> UI , view , alert , dialogs </td>
+		<td class="url"> https://github.com/pedant/sweet-alert-dialog </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> LovelyDialog </td>
+		<td class="description"> This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs. </td>
+		<td class="keywords"> UI , view , alert , dialogs </td>
+		<td class="url"> https://github.com/yarolegovich/LovelyDialog </td>
+	</tr>
 </table>
 
 
@@ -5652,6 +5666,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , view , chat heats , Facebook Messenger , medium </td>
 		<td class="url"> https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.iqhl07557 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Material UI </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , material , design , UX </td>
+		<td class="url"> http://www.material-ui.com </td>
 	</tr>
 </table>
 

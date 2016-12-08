@@ -432,3 +432,5 @@ Android;Knob; Rotating knob selector with discrete values;UI , effect , view , b
 Android;Achievement Toast;Alternative to show Toast or an alert message just inside the activity.;UI , toast , notification , achievement;https://github.com/mkodekar/AchievementToast
 Android;TabDigit;;UI , view , digits , countdown;https://github.com/xenione/tab-digit
 Android;LoadToast; Pretty material design toasts with feedback animations ;UI , toast , notification;https://github.com/code-mc/loadtoast
+Android;Sweet Alert Dialog;SweetAlert for Android, a beautiful and clever alert dialog;UI , view , alert , dialogs;https://github.com/pedant/sweet-alert-dialog
+Android;LovelyDialog; This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs. ;UI , view , alert , dialogs;https://github.com/yarolegovich/LovelyDialog
