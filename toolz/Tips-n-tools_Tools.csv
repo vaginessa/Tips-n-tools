@@ -434,3 +434,5 @@ Android;TabDigit;;UI , view , digits , countdown;https://github.com/xenione/tab-
 Android;LoadToast; Pretty material design toasts with feedback animations ;UI , toast , notification;https://github.com/code-mc/loadtoast
 Android;Sweet Alert Dialog;SweetAlert for Android, a beautiful and clever alert dialog;UI , view , alert , dialogs;https://github.com/pedant/sweet-alert-dialog
 Android;LovelyDialog; This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs. ;UI , view , alert , dialogs;https://github.com/yarolegovich/LovelyDialog
+Android;OnePageSigninSignup; Signin and Signup in single Screen using PercentRelativeLayout;UI , view , sign in , sign up , authentication , form;https://github.com/irfaan008/OnePageSigninSignup
+Android;Before After Slider;;UI , view , slider , before , after;https://github.com/developer--/before_after_slider
