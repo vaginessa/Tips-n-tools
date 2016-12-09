@@ -3060,6 +3060,27 @@
 		<td class="keywords"> UI , view , slider , before , after </td>
 		<td class="url"> https://github.com/developer--/before_after_slider </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Color safe </td>
+		<td class="description"> Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios. </td>
+		<td class="keywords"> UI , UX , colors , design , accessibility </td>
+		<td class="url"> http://colorsafe.co/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Colorable </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , colors , design , accessibility </td>
+		<td class="url"> http://jxnblk.com/colorable/demos/text/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Web AIM contrast checker </td>
+		<td class="description"> Web acce »ssibility in mind </td>
+		<td class="keywords"> UI , UX , colors , design , accessibility </td>
+		<td class="url"> http://webaim.org/resources/contrastchecker/ </td>
+	</tr>
 </table>
 
 
@@ -5708,6 +5729,34 @@
 		<td class="description"> how well does your browser support HTML5? </td>
 		<td class="keywords"> HTML5 , test , browser </td>
 		<td class="url"> https://html5test.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Add Colors To Your Palette With Color Mixing </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , colors </td>
+		<td class="url"> https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> From Darkness to Light: Color Versatility Using Tints, Tones, and Shades </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , colors , dark , light </td>
+		<td class="url"> https://www.viget.com/articles/tints-tones-shades </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Color Contrast for Better Readability </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , colors , contrast , readbility </td>
+		<td class="url"> https://www.viget.com/articles/color-contrast </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Shades of Gray — Yes, Really </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , colors , shades of gray </td>
+		<td class="url"> https://www.viget.com/articles/shades-of-gray-yes-really </td>
 	</tr>
 </table>
 

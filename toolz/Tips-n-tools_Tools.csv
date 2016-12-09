@@ -436,3 +436,6 @@ Android;Sweet Alert Dialog;SweetAlert for Android, a beautiful and clever alert 
 Android;LovelyDialog; This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs. ;UI , view , alert , dialogs;https://github.com/yarolegovich/LovelyDialog
 Android;OnePageSigninSignup; Signin and Signup in single Screen using PercentRelativeLayout;UI , view , sign in , sign up , authentication , form;https://github.com/irfaan008/OnePageSigninSignup
 Android;Before After Slider;;UI , view , slider , before , after;https://github.com/developer--/before_after_slider
+Design;Color safe; Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios. ;UI , UX , colors , design , accessibility;http://colorsafe.co/
+Design;Colorable;;UI , UX , colors , design , accessibility;http://jxnblk.com/colorable/demos/text/
+Design;Web AIM contrast checker;Web acce »ssibility in mind;UI , UX , colors , design , accessibility;http://webaim.org/resources/contrastchecker/
