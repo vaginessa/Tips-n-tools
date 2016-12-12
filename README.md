@@ -3077,9 +3077,16 @@
 	<tr>
 		<td class="subjectDesign"> Design </td>
 		<td class="name"> Web AIM contrast checker </td>
-		<td class="description"> Web acce »ssibility in mind </td>
+		<td class="description"> Web accessibility in mind </td>
 		<td class="keywords"> UI , UX , colors , design , accessibility </td>
 		<td class="url"> http://webaim.org/resources/contrastchecker/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PageFlip </td>
+		<td class="description"> 3D Style Page Flip on Android </td>
+		<td class="keywords"> UI , view , animations , filp </td>
+		<td class="url"> https://github.com/eschao/android-PageFlip </td>
 	</tr>
 </table>
 
@@ -5757,6 +5764,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , UX , colors , shades of gray </td>
 		<td class="url"> https://www.viget.com/articles/shades-of-gray-yes-really </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Draw a custom view </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , custom view </td>
+		<td class="url"> https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.qsksyd5ef </td>
 	</tr>
 </table>
 
