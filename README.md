@@ -3088,6 +3088,13 @@
 		<td class="keywords"> UI , view , animations , filp </td>
 		<td class="url"> https://github.com/eschao/android-PageFlip </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ScrollParallaxImageView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , scroll , image , parallax </td>
+		<td class="url"> https://github.com/gjiazhe/ScrollParallaxImageView </td>
+	</tr>
 </table>
 
 
@@ -5771,6 +5778,41 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , view , custom view </td>
 		<td class="url"> https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.qsksyd5ef </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How To Make Your Android Application Secured </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , app , security , HTTPS , OkHttp , Retrofit , Intents , Cipher , preferences , root </td>
+		<td class="url"> https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AsteroidOS </td>
+		<td class="description"> </td>
+		<td class="keywords"> wearables , AsteroidOS , OS </td>
+		<td class="url"> https://asteroidos.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Lineage Android Distribution </td>
+		<td class="description"> </td>
+		<td class="keywords"> Lineageos , OS , CyanogenMod </td>
+		<td class="url"> https://github.com/LineageOS </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Wear </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Wear , wearables , OS </td>
+		<td class="url"> https://www.android.com/intl/fr_fr/wear/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CyanogenMod </td>
+		<td class="description"> </td>
+		<td class="keywords"> Cyanogen , OS </td>
+		<td class="url"> https://www.cyanogenmod.org/ </td>
 	</tr>
 </table>
 

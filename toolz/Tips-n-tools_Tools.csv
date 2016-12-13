@@ -440,3 +440,4 @@ Design;Color safe; Empowering designers with beautiful and accessible color pale
 Design;Colorable;;UI , UX , colors , design , accessibility;http://jxnblk.com/colorable/demos/text/
 Design;Web AIM contrast checker;Web accessibility in mind;UI , UX , colors , design , accessibility;http://webaim.org/resources/contrastchecker/
 Android;PageFlip; 3D Style Page Flip on Android ;UI , view , animations , filp;https://github.com/eschao/android-PageFlip
+Android;ScrollParallaxImageView;;UI , view , scroll , image , parallax;https://github.com/gjiazhe/ScrollParallaxImageView
