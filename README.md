@@ -5863,6 +5863,20 @@
 		<td class="keywords"> Lint , rules , Android Studio </td>
 		<td class="url"> https://medium.com/@mosesJay/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.muy6xnpyc </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Things </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , IoT , Things </td>
+		<td class="url"> https://developer.android.com/things/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Weave </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , IoT , Weave </td>
+		<td class="url"> https://developers.google.com/weave/ </td>
+	</tr>
 </table>
 
 

@@ -399,3 +399,5 @@ Android;On properly using volatile and synchronized;;Java , synchronized , volat
 Android;Offline App Architecture;;app deisgn , pattern , architecture , offline;https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8
 Android;No more value classes boilerplate — The power of AutoValue.;;Autovalue , binding , default values;https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.paufrp7di
 Android;Writing custom lint rules and integrating them with Android Studio inspections;;Lint , rules , Android Studio;https://medium.com/@mosesJay/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.muy6xnpyc
+Android;Android Things;;Android , IoT , Things;https://developer.android.com/things/index.html
+Android;Weave;;Android , IoT , Weave;https://developers.google.com/weave/
