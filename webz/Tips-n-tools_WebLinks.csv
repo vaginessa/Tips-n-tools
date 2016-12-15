@@ -394,3 +394,8 @@ Android;How To Make Your Android Application Secured;;Android , app , security ,
 /;Lineage Android Distribution;;Lineageos , OS , CyanogenMod;https://github.com/LineageOS
 Android;Android Wear;;Android Wear , wearables , OS;https://www.android.com/intl/fr_fr/wear/
 Android;CyanogenMod;;Cyanogen , OS;https://www.cyanogenmod.org/
+Android;Keep your device screen in smartly;;UI , UX , screen on , vision;https://medium.com/@kevalpatel2106/keep-your-device-screen-on-smartly-7081b692c09e
+Android;On properly using volatile and synchronized;;Java , synchronized , volatile , threads;https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.9s817tkqy
+Android;Offline App Architecture;;app deisgn , pattern , architecture , offline;https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8
+Android;No more value classes boilerplate — The power of AutoValue.;;Autovalue , binding , default values;https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.paufrp7di
+Android;Writing custom lint rules and integrating them with Android Studio inspections;;Lint , rules , Android Studio;https://medium.com/@mosesJay/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.muy6xnpyc

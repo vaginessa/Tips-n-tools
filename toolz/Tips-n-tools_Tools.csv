@@ -346,7 +346,7 @@ Android;Quiet;Quiet for Android – TCP over sound;TCP , sound , data exchange;h
 Android;Multi Selection; Multiselection Solution for Android in Kotlin ;UI , view , list , selection;https://github.com/Yalantis/Multi-Selection
 Android;Swipe Coordinator; A coordinator layout for Android views to animate and typify touch events as swipe gestures ;UI , swipe , view;https://github.com/VictorAlbertos/SwipeCoordinator
 Android;Flickable Dialog; This dialog can flick and make it easy to dismiss sensuously. ;UI , dialog , view;https://github.com/t-kurimura/flickabledialog
-Android;Prevent Screen Off; This is the library that keeps the screen on until user is looking at the screen. ;UI , screen , off;https://github.com/kevalpatel2106/Prevent-Screen-Off
+Android;Prevent Screen Off; This is the library that keeps the screen on until user is looking at the screen. ;UI , screen , off , vision , UX;https://github.com/kevalpatel2106/Prevent-Screen-Off
 Android;Android Fingerprint Authentication; A library that allows you to easily integrate and manage fingerprint authentication in your app. ;UI , fingerprint , authentication;https://github.com/multidots/android-fingerprint-authentication
 Android;User aware Video View;A customized video view that will automatically pause video is user is not looking at device screen;UI , view , video , screen , user;https://github.com/kevalpatel2106/UserAwareVideoView
 Android;License Adapter;Adapter for RecyclerView to display app's oss dependencies' license ;UI , view , licences , credits;https://github.com/yshrsmz/LicenseAdapter
@@ -441,3 +441,5 @@ Design;Colorable;;UI , UX , colors , design , accessibility;http://jxnblk.com/co
 Design;Web AIM contrast checker;Web accessibility in mind;UI , UX , colors , design , accessibility;http://webaim.org/resources/contrastchecker/
 Android;PageFlip; 3D Style Page Flip on Android ;UI , view , animations , filp;https://github.com/eschao/android-PageFlip
 Android;ScrollParallaxImageView;;UI , view , scroll , image , parallax;https://github.com/gjiazhe/ScrollParallaxImageView
+Android;OnePreference; A library which presents all your preference in a single list on the phone, without the two-step header and detail approach followed by the Android SDK. For tablets, it uses the two pane layout;UI , preferences;https://github.com/saurabharora90/OnePreference
+Android;Accordion Swipe Layout;;UI , view , accordion , swipe , layout;https://github.com/alexandrius/accordion-swipe-layout

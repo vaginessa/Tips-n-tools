@@ -2434,7 +2434,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Prevent Screen Off </td>
 		<td class="description"> This is the library that keeps the screen on until user is looking at the screen. </td>
-		<td class="keywords"> UI , screen , off </td>
+		<td class="keywords"> UI , screen , off , vision , UX </td>
 		<td class="url"> https://github.com/kevalpatel2106/Prevent-Screen-Off </td>
 	</tr>
 	<tr>
@@ -3094,6 +3094,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , view , scroll , image , parallax </td>
 		<td class="url"> https://github.com/gjiazhe/ScrollParallaxImageView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> OnePreference </td>
+		<td class="description"> A library which presents all your preference in a single list on the phone, without the two-step header and detail approach followed by the Android SDK. For tablets, it uses the two pane layout </td>
+		<td class="keywords"> UI , preferences </td>
+		<td class="url"> https://github.com/saurabharora90/OnePreference </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Accordion Swipe Layout </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , accordion , swipe , layout </td>
+		<td class="url"> https://github.com/alexandrius/accordion-swipe-layout </td>
 	</tr>
 </table>
 
@@ -5813,6 +5827,41 @@
 		<td class="description"> </td>
 		<td class="keywords"> Cyanogen , OS </td>
 		<td class="url"> https://www.cyanogenmod.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Keep your device screen in smartly </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , screen on , vision </td>
+		<td class="url"> https://medium.com/@kevalpatel2106/keep-your-device-screen-on-smartly-7081b692c09e </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> On properly using volatile and synchronized </td>
+		<td class="description"> </td>
+		<td class="keywords"> Java , synchronized , volatile , threads </td>
+		<td class="url"> https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.9s817tkqy </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Offline App Architecture </td>
+		<td class="description"> </td>
+		<td class="keywords"> app deisgn , pattern , architecture , offline </td>
+		<td class="url"> https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> No more value classes boilerplate — The power of AutoValue. </td>
+		<td class="description"> </td>
+		<td class="keywords"> Autovalue , binding , default values </td>
+		<td class="url"> https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.paufrp7di </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Writing custom lint rules and integrating them with Android Studio inspections </td>
+		<td class="description"> </td>
+		<td class="keywords"> Lint , rules , Android Studio </td>
+		<td class="url"> https://medium.com/@mosesJay/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.muy6xnpyc </td>
 	</tr>
 </table>
 
