@@ -443,3 +443,5 @@ Android;PageFlip; 3D Style Page Flip on Android ;UI , view , animations , filp;h
 Android;ScrollParallaxImageView;;UI , view , scroll , image , parallax;https://github.com/gjiazhe/ScrollParallaxImageView
 Android;OnePreference; A library which presents all your preference in a single list on the phone, without the two-step header and detail approach followed by the Android SDK. For tablets, it uses the two pane layout;UI , preferences;https://github.com/saurabharora90/OnePreference
 Android;Accordion Swipe Layout;;UI , view , accordion , swipe , layout;https://github.com/alexandrius/accordion-swipe-layout
+Android;SquareLoading;A square animated loader;UI , view , loader;https://github.com/yuweiguocn/SquareLoading
+Android;Network Connection Class; Listen to current network traffic in the app and categorize the quality of the network.;network , trafic , bandwidth;https://github.com/facebook/network-connection-class
