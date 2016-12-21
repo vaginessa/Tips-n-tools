@@ -3123,6 +3123,20 @@
 		<td class="keywords"> network , trafic , bandwidth </td>
 		<td class="url"> https://github.com/facebook/network-connection-class </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Stencil </td>
+		<td class="description"> Android library, written exclusively in kotlin, for animating the path created from text </td>
+		<td class="keywords"> UI , animations , texts </td>
+		<td class="url"> https://github.com/thoughtbot/stencil </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ImageZoom </td>
+		<td class="description"> An Android library that makes any view to be zoomable </td>
+		<td class="keywords"> UI , zoom , view </td>
+		<td class="url"> https://github.com/okaybroda/ImageZoom </td>
+	</tr>
 </table>
 
 
@@ -5890,6 +5904,48 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , IoT , Weave </td>
 		<td class="url"> https://developers.google.com/weave/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> You’re a strong, beautiful user and you deserve more </td>
+		<td class="description"> </td>
+		<td class="keywords"> IFTTT , conception , design </td>
+		<td class="url"> https://medium.com/tradecraft-traction/youre-a-strong-beautiful-user-and-you-deserve-more-60a27c8cc81d#.rwy1a0vjw </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Use peak-end rule to improve customer experience </td>
+		<td class="description"> </td>
+		<td class="keywords"> UX , conception , design </td>
+		<td class="url"> https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wj6q9p84d </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Getting started with UI motion design </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , design , motion , conception </td>
+		<td class="url"> https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801#.xf2vm2g0t </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> The Current State of Adaptive Design </td>
+		<td class="description"> </td>
+		<td class="keywords"> adaptive design </td>
+		<td class="url"> https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4#.e0jh8vnmk </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Designing for Hands in VR </td>
+		<td class="description"> </td>
+		<td class="keywords"> VR , design , hands </td>
+		<td class="url"> https://medium.com/facebook-design/designing-for-hands-in-vr-61e6815add99#.9r0uoqs02 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Perfectionism Ruined my Productivity </td>
+		<td class="description"> </td>
+		<td class="keywords"> perfectionism , productivity </td>
+		<td class="url"> http://www.vanschneider.com/perfectionism-is-killing-your-creativity/ </td>
 	</tr>
 </table>
 
