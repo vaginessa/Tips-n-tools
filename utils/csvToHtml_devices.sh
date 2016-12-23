@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 7.0.0
+# Version.............: 8.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
@@ -57,11 +57,15 @@ table, td, .header {
 	background-color: #fafafa;
 }
 .typeSmartphone {
-	background-color: #000000;
-	color: #ffffff;
+	background-color: #ffc107;
+	color: #000000;
 }
 .typeWatch {
 	background-color: #795548;
+	color: #ffffff;
+}
+.typeBand {
+	background-color: #000000;
 	color: #ffffff;
 }
 .typeOther {
@@ -113,7 +117,7 @@ table, td, .header {
 
 # Check args: if --fullHtml option, use CSS ; if --limitedHTML option, do not use CSS ; if --help, display usage ; otherwise display usage
 if [ "$#" -ne 1 ]; then
-	echo "USAGE: cat myFileToProcess.csv | sh csvToHtml_tools.sh [ --fullHtml | --limitedHtml | --help ]"
+	echo "USAGE: cat myFileToProcess.csv | sh csvToHtml_devices.sh [ --fullHtml | --limitedHtml | --help ]"
 	exit 0	
 fi
 
@@ -177,6 +181,9 @@ while read -r line; do
 					*watch*)
 						echo "\t\t<td class=\"typeWatch\">" $cleanItem "</td>"	
 					;;
+					*band*)
+						echo "\t\t<td class=\"typeBand\">" $cleanItem "</td>"	
+					;;					
 					*)
 						echo "\t\t<td class=\"typeOther\">" $cleanItem "</td>"	
 					;;

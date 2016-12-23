@@ -6749,7 +6749,7 @@
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
-		<td class="name"> IPhone 7 </td>
+		<td class="name"> iPhone 7 </td>
 		<td class="screensize"> 4.7'' </td>
 		<td class="screentype"> Retina HD , ForceTouch , IPS </td>
 		<td class="screenresolution"> 750 x 1334 px , 326ppi </td>
@@ -7049,6 +7049,138 @@
 		<td class="dimensions"> x x 9.95 mm </td>
 		<td class="usbtype"> ? </td>
 		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Xiaomi </td>
+		<td class="name"> Mi Band 2 </td>
+		<td class="screensize"> 0.42'' </td>
+		<td class="screentype"> OLED </td>
+		<td class="screenresolution"> ? </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> clock , step , calories , heart rythm </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Xiaomi </td>
+		<td class="name"> Mi Band Pulse / Mi Band 1S </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> no </td>
+		<td class="sensors"> Bluetooth 4.1 , vibrator , 3 LED , accelerometer , heart rythm </td>
+		<td class="battery"> 45 mAh </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Smartband SWR10 </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> ARM Cortex-M0 32 bits </td>
+		<td class="gpu"> no </td>
+		<td class="sensors"> vibrator , 3 LED , BLE , NFC </td>
+		<td class="battery"> 35 mAh </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 16 kB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> 21 g </td>
+		<td class="weight"> IP 58 (dust almost max , water : 1 m during 30 min) </td>
+		<td class="ip"> micro USB </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Smartband 2 </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> no </td>
+		<td class="sensors"> heart rythm , vibrator , NFC , Bluetooth </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> micro USB </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Fitbit </td>
+		<td class="name"> Fitbit charge 2 </td>
+		<td class="screensize"> ? </td>
+		<td class="screentype"> OLED </td>
+		<td class="screenresolution"> ? </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> Bluetooth 4.0 , heart rythm , accelerometer , altimeter , vibrator , chronometer , podometer , notifications </td>
+		<td class="battery"> ? , Li-Polymer </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> Meizu </td>
+		<td class="name"> Band </td>
+		<td class="screensize"> ? </td>
+		<td class="screentype"> OLED </td>
+		<td class="screenresolution"> ? </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> podometer , calories , heart rythm , sleep , Bluetooth , notifications </td>
+		<td class="battery"> </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP ? </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
