@@ -447,3 +447,4 @@ Android;SquareLoading;A square animated loader;UI , view , loader;https://github
 Android;Network Connection Class; Listen to current network traffic in the app and categorize the quality of the network.;network , trafic , bandwidth;https://github.com/facebook/network-connection-class
 Android;Stencil;Android library, written exclusively in kotlin, for animating the path created from text;UI , animations , texts;https://github.com/thoughtbot/stencil
 Android;ImageZoom;An Android library that makes any view to be zoomable;UI , zoom , view;https://github.com/okaybroda/ImageZoom
+Android;ExpandableSelector;ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which ca be collapsed or expanded.;UI , view , expandable , selector;https://github.com/Karumi/ExpandableSelector
