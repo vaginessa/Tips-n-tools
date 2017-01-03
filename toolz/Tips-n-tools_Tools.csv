@@ -410,7 +410,7 @@ Android;CaptchaImageView;Custom ImageView to generate captcha image.;UI , captch
 Design;Color combos;Color Combinations and Color Schemes;UI , colors;http://www.colorcombos.com/
 Android;Blurry;An easy blur library;UI , blur;https://github.com/wasabeef/Blurry
 /;Jekyll;Transform your plain text into static websites and blogs;Github , plaint text , web page;http://jekyllrb.com/
-Web;WOW.js;Reveal animations when  Scroll;UI , animations , scroll , effects;http://mynameismatthieu.com/WOW/
+JavaScript;WOW.js;Reveal animations when  Scroll;UI , animations , scroll , effects;http://mynameismatthieu.com/WOW/
 Web;Animate.css;CSS animations;UI , animations , effects;https://daneden.github.io/animate.css/
 Android;Coordinators; Simple MVWhatever for Android ;MVW , architecture;https://github.com/square/coordinators
 /;Browsix;Run C, C++, Go and Node.js programs as processes in browsers, including LaTeX, GNU Make, Go HTTP servers, and POSIX shell scripts.;;https://browsix.org/
@@ -448,3 +448,15 @@ Android;Network Connection Class; Listen to current network traffic in the app a
 Android;Stencil;Android library, written exclusively in kotlin, for animating the path created from text;UI , animations , texts;https://github.com/thoughtbot/stencil
 Android;ImageZoom;An Android library that makes any view to be zoomable;UI , zoom , view;https://github.com/okaybroda/ImageZoom
 Android;ExpandableSelector;ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which ca be collapsed or expanded.;UI , view , expandable , selector;https://github.com/Karumi/ExpandableSelector
+JavaScript;Svg.js;A lightweight library for manipulating and animating SVG;SVG , JS;https://github.com/svgdotjs/svg.js
+JavaScript;Sat-js;A simple JavaScript library for performing 2D collision detection;2D collision detection , JS;https://github.com/jriecken/sat-js
+JavaScript;Mathjs;An extensive math library for JavaScript and Node.js;JS , math;https://github.com/josdejong/mathjs
+Android;Screen on; Keep the screen on while developing Android apps;screen on;https://github.com/adi1133/screen-on
+Android;Colorful;Dynamic theme library allowing  to change  apps' color schemes easily.;UI , colors , themes;https://github.com/garretyoder/Colorful
+Android;PanoramaImageView; An imageView can auto scroll with device rotating.;UI , image view , panorama , rotation , scroll;https://github.com/gjiazhe/PanoramaImageView
+Android;PanningView;Library for panning an image horizntoally and vertically;UI , panning , view , animations , drawables;https://github.com/nacho91/PanningView
+Android;ThemedGoogleMap;To make GoogleMap with custom theme;UI , Google Map , themes;https://github.com/jineshfrancs/ThemedGoogleMap
+Android;Gifcap;Create GIFs from Android devices;GIF , capture;https://github.com/outlook/gifcap
+Android;RememberEditText;;UI , remeber , edit texts;https://github.com/markzhai/RememberEditText
+Android;Vorolay; VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.;UI , view , Voronoi , diagrams;https://github.com/Quatja/Vorolay
+Android;AndroidPerformanceMonitor; A transparent ui-block detection library for Android. (known as BlockCanary);UI -block , performances , monotoring;https://github.com/markzhai/AndroidPerformanceMonitor
