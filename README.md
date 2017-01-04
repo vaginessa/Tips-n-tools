@@ -6066,6 +6066,20 @@
 		<td class="keywords"> tests , stress </td>
 		<td class="url"> https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.i4xsef3uo </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Netmarketshare </td>
+		<td class="description"> Market Share Statistics for Internet Technologies </td>
+		<td class="keywords"> stats , reports , web browsers </td>
+		<td class="url"> http://www.netmarketshare.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AAWP </td>
+		<td class="description"> All About Windows Phone </td>
+		<td class="keywords"> Windows Phone </td>
+		<td class="url"> http://allaboutwindowsphone.com/ </td>
+	</tr>
 </table>
 
 
