@@ -3228,6 +3228,48 @@
 		<td class="keywords"> UI -block , performances , monotoring </td>
 		<td class="url"> https://github.com/markzhai/AndroidPerformanceMonitor </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Vexels </td>
+		<td class="description"> The eprfect tool for designers and non designers </td>
+		<td class="keywords"> UI , design , pictures </td>
+		<td class="url"> https://www.vexels.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material about library </td>
+		<td class="description"> Making it easy to create beautiful about screens for apps </td>
+		<td class="keywords"> UI , about , view </td>
+		<td class="url"> https://github.com/daniel-stoneuk/material-about-library?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5027 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Atmosphere </td>
+		<td class="description"> Open-Source Automation Testing Framework For Android </td>
+		<td class="keywords"> DevOps , quality , tests , gestures , sensors </td>
+		<td class="url"> http://atmosphereframework.com/?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5019 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FontChange </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , fonts </td>
+		<td class="url"> https://github.com/10uroi/FontChange </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Rosetta </td>
+		<td class="description"> Android library lets us support multiple languages without headaches. </td>
+		<td class="keywords"> UI , i18n , langages </td>
+		<td class="url"> https://github.com/ahmedaljazzar/rosetta </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> WindView </td>
+		<td class="description"> WindView is an Android Library to show Weather's Wind & pressure Status </td>
+		<td class="keywords"> UI , view , weather </td>
+		<td class="url"> https://github.com/AhmadNemati/WindView </td>
+	</tr>
 </table>
 
 
@@ -6079,6 +6121,27 @@
 		<td class="description"> All About Windows Phone </td>
 		<td class="keywords"> Windows Phone </td>
 		<td class="url"> http://allaboutwindowsphone.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google Interview University </td>
+		<td class="description"> </td>
+		<td class="keywords"> tips , knowledges , dev </td>
+		<td class="url"> https://github.com/jwasham/google-interview-university </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Five Reasons Your Boss Was Right To Shut Down Your Innovation Lab </td>
+		<td class="description"> </td>
+		<td class="keywords"> innovation , lav , R&D , creativity , failures </td>
+		<td class="url"> http://www.forbes.com/sites/tendayiviki/2016/09/04/five-reasons-your-boss-was-right-to-close-your-innovation-lab/#341a53c94f5b </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> How HTTP/2 Is Changing Web Performance Best Practices </td>
+		<td class="description"> </td>
+		<td class="keywords"> HTTP , HTTP2 , web , performances </td>
+		<td class="url"> https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/ </td>
 	</tr>
 </table>
 

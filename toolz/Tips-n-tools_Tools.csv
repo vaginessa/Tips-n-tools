@@ -460,3 +460,9 @@ Android;Gifcap;Create GIFs from Android devices;GIF , capture;https://github.com
 Android;RememberEditText;;UI , remeber , edit texts;https://github.com/markzhai/RememberEditText
 Android;Vorolay; VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.;UI , view , Voronoi , diagrams;https://github.com/Quatja/Vorolay
 Android;AndroidPerformanceMonitor; A transparent ui-block detection library for Android. (known as BlockCanary);UI -block , performances , monotoring;https://github.com/markzhai/AndroidPerformanceMonitor
+Design;Vexels;The eprfect tool for designers and non designers;UI , design , pictures;https://www.vexels.com/
+Android;Material about library; Making it easy to create beautiful about screens for apps;UI , about , view;https://github.com/daniel-stoneuk/material-about-library?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5027
+Android;Atmosphere;Open-Source Automation Testing Framework For Android;DevOps , quality , tests , gestures , sensors;http://atmosphereframework.com/?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5019
+Android;FontChange;;UI , fonts;https://github.com/10uroi/FontChange
+Android;Rosetta; Android library lets us support multiple languages without headaches.;UI , i18n , langages;https://github.com/ahmedaljazzar/rosetta
+Android;WindView; WindView is an Android Library to show Weather's Wind & pressure Status;UI , view , weather;https://github.com/AhmadNemati/WindView
