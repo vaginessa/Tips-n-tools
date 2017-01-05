@@ -3232,7 +3232,7 @@
 		<td class="subjectDesign"> Design </td>
 		<td class="name"> Vexels </td>
 		<td class="description"> The eprfect tool for designers and non designers </td>
-		<td class="keywords"> UI , design , pictures </td>
+		<td class="keywords"> UI , design , pictures , images </td>
 		<td class="url"> https://www.vexels.com/ </td>
 	</tr>
 	<tr>
@@ -3274,8 +3274,22 @@
 		<td class="subjectDesign"> Design </td>
 		<td class="name"> Shutterstock </td>
 		<td class="description"> </td>
-		<td class="keywords"> UI , design , pictures </td>
+		<td class="keywords"> UI , design , pictures , images </td>
 		<td class="url"> https://www.shutterstock.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Freepik </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , pictures , images </td>
+		<td class="url"> http://www.freepik.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Flaticons </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , pictures , images </td>
+		<td class="url"> http://www.flaticon.com/ </td>
 	</tr>
 </table>
 
@@ -3478,13 +3492,6 @@
 		<td class="description"> </td>
 		<td class="keywords"> comparaisons , apps maquettes </td>
 		<td class="url"> https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61#.6szx9q47g </td>
-	</tr>
-	<tr>
-		<td class="subjectDesign"> Design </td>
-		<td class="name"> Flaticons </td>
-		<td class="description"> </td>
-		<td class="keywords"> images , icons </td>
-		<td class="url"> http://www.flaticon.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
