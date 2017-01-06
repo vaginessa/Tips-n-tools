@@ -6157,6 +6157,13 @@
 		<td class="keywords"> HTTP , HTTP2 , web , performances </td>
 		<td class="url"> https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How we Misuse Mocks for Android Tests </td>
+		<td class="description"> </td>
+		<td class="keywords"> mocks , tests </td>
+		<td class="url"> http://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/ </td>
+	</tr>
 </table>
 
 
@@ -6628,6 +6635,28 @@
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Asus </td>
+		<td class="name"> ZenFone AR </td>
+		<td class="screensize"> 5.7'' </td>
+		<td class="screentype"> Corning Gorilla Glass 4 , Super AMOLED </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 821 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , barometer , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3300 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB , 128 GB , 256 GB </td>
+		<td class="ram"> 6 GB , 8GB </td>
+		<td class="camera"> Sony Exmor IMX318 RS CMOS 5.49x4.11 mm 1 µm f/2.0 22.57 MP (back) , 2.07 MP (front) </td>
+		<td class="dimensions"> 158.67 x 77.7 x 8.95 mm </td>
+		<td class="usbtype"> 170 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Huawei </td>
 		<td class="name"> Honor 8 </td>
 		<td class="screensize"> 5.2'' </td>
@@ -6868,7 +6897,7 @@
 		<td class="sim"> ? </td>
 	</tr>
 	<tr>
-		<td class="typeOther"> phablet </td>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Lenovo </td>
 		<td class="name"> Phab 2 Pro </td>
@@ -7395,6 +7424,28 @@
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
 	</tr>
+	<tr>
+		<td class="typeBox"> box </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Nvidia </td>
+		<td class="name"> Shield Android TV </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> Nvidia Tegra x1 </td>
+		<td class="gpu"> Maxwell (256 CUDA core) </td>
+		<td class="sensors"> no </td>
+		<td class="battery"> no </td>
+		<td class="storage"> 3 GB </td>
+		<td class="ram"> 16 GB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 210 x 130 x 25 mm </td>
+		<td class="usbtype"> 654 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> micro USB , USB 3.0 </td>
+		<td class="sdcard"> ? </td>
+		<td class="sim"> no </td>
+	</tr>
 </table>
 
 
@@ -7463,6 +7514,27 @@
 		<td class="cpua"> 64 bits </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
 		<td class="gpuas"> OpenGL ES , OpenCL , Vulkan </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
+		<td class="constructorQualcomm"> Qualcomm </td>
+		<td class="name"> Snapdragon 835 </td>
+		<td class="modem"> Qualcomm Snapdragon X16 LTE </td>
+		<td class="pds"> 1 Gbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> 5.0 </td>
+		<td class="nfc"> X </td>
+		<td class="usb"> 3.1 </td>
+		<td class="csm"> 32 MP </td>
+		<td class="vcm"> 4K Ultra HD </td>
+		<td class="vpm"> 4K Ultra HD </td>
+		<td class="dm"> 2160 x 3840 px , 4K </td>
+		<td class="cpu"> Qualcomm Kryo </td>
+		<td class="cpucn"> 8 </td>
+		<td class="cpucsm"> 2.45 GHz </td>
+		<td class="cpua"> 64 bits </td>
+		<td class="gpu"> Qualcomm Adreno 540 </td>
+		<td class="gpuas"> OpenGL ES , OpenCL , Vulkan , Tango, Daydream </td>
 	</tr>
 	<tr>
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>

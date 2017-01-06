@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 8.0.0
+# Version.............: 9.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
@@ -66,6 +66,10 @@ table, td, .header {
 }
 .typeBand {
 	background-color: #000000;
+	color: #ffffff;
+}
+.typeBox {
+	background-color: #2196f3;
 	color: #ffffff;
 }
 .typeOther {
@@ -183,7 +187,10 @@ while read -r line; do
 					;;
 					*band*)
 						echo "\t\t<td class=\"typeBand\">" $cleanItem "</td>"	
-					;;					
+					;;	
+					*box*)
+						echo "\t\t<td class=\"typeBox\">" $cleanItem "</td>"	
+					;;										
 					*)
 						echo "\t\t<td class=\"typeOther\">" $cleanItem "</td>"	
 					;;
