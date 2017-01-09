@@ -6205,6 +6205,7 @@
 		<td class="header"> USB Type </td>
 		<td class="header"> SD Card </td>
 		<td class="header"> SIM </td>
+		<td class="header"> UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6227,6 +6228,7 @@
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> micro </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6249,6 +6251,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6271,6 +6274,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6293,6 +6297,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6315,6 +6320,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6337,6 +6343,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6359,6 +6366,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Touchwiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6381,6 +6389,7 @@
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Touchwiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6403,6 +6412,7 @@
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Touchwiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6425,6 +6435,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> Touchwiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6447,6 +6458,7 @@
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Sense UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6469,6 +6481,7 @@
 		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Optimus UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6491,6 +6504,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6513,6 +6527,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6535,6 +6550,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6557,6 +6573,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6579,6 +6596,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6601,6 +6619,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6623,6 +6642,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Xperia UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6645,6 +6665,7 @@
 		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , micro </td>
+		<td class="ui"> Zen UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6667,6 +6688,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> Zen UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6689,6 +6711,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> EMUI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6711,6 +6734,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> EMUI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6733,6 +6757,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> EMUI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6755,6 +6780,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> EMUI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6777,6 +6803,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> micro , nano </td>
+		<td class="ui"> MIUI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6799,6 +6826,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> micro </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6821,6 +6849,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> ? , ? </td>
+		<td class="ui"> Liquid UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6843,6 +6872,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6865,6 +6895,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6887,6 +6918,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6909,6 +6941,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6931,6 +6964,7 @@
 		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> MiFavor </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6953,6 +6987,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -6975,6 +7010,7 @@
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Vibe UI </td>
 	</tr>
 	<tr>
 		<td class="typeOther"> phablet </td>
@@ -6997,6 +7033,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> Vibe UI </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7019,6 +7056,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7041,6 +7079,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7063,6 +7102,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7085,6 +7125,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7107,6 +7148,7 @@
 		<td class="ip"> 2.0 </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7129,6 +7171,7 @@
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7151,6 +7194,7 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -7173,6 +7217,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> microSD , microSD </td>
 		<td class="sim"> nano , nano , nano , nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7195,6 +7240,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7217,6 +7263,7 @@
 		<td class="ip"> Micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7239,6 +7286,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7261,6 +7309,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7283,6 +7332,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7305,6 +7355,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7327,6 +7378,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7349,6 +7401,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7371,6 +7424,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7393,6 +7447,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeWatch"> watch </td>
@@ -7415,6 +7470,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7437,6 +7493,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7459,6 +7516,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7481,6 +7539,7 @@
 		<td class="ip"> micro USB </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7503,6 +7562,7 @@
 		<td class="ip"> micro USB </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7525,6 +7585,7 @@
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7547,6 +7608,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7569,6 +7631,7 @@
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7591,6 +7654,7 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7613,6 +7677,7 @@
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7635,6 +7700,7 @@
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> on </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBand"> band </td>
@@ -7657,6 +7723,7 @@
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeBox"> box </td>
@@ -7679,6 +7746,7 @@
 		<td class="ip"> micro USB , USB 3.0 </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
 	</tr>
 </table>
 

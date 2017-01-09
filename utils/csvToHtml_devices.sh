@@ -20,10 +20,10 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 9.0.0
+# Version.............: 10.0.0
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
-#			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen reoslution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM
+#			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen resolution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM , UI
 #
 # Usage: sh csvToHtml_devices.sh --help
 # Usage: cat myFileToProcess.csv | sh csvToHtml_devices.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
@@ -106,7 +106,7 @@ table, td, .header {
 .pfFuschia {
 	background-color: #e91e63;
 }
-.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .ip, .usbtype, .sdcard, .sim {
+.os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .ip, .usbtype, .sdcard, .sim, .ui {
 	text-align: center;
 }
 .url {
@@ -280,7 +280,10 @@ while read -r line; do
 				;;
 			19)
 				echo "\t\t<td class=\"sim\">" $cleanItem "</td>"			
-				;;																	
+				;;
+			20)
+				echo "\t\t<td class=\"ui\">" $cleanItem "</td>"			
+				;;																						
 		esac
 		fieldIndex=$(($fieldIndex + 1))
 	done
