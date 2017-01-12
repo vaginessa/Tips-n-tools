@@ -6546,7 +6546,7 @@
 		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy Note 7 </td>
 		<td class="screensize"> 5.7'' </td>
-		<td class="screentype"> Gorilla Glass 5 , Super AMOLED </td>
+		<td class="screentype"> Corning Gorilla Glass 5 , Super AMOLED </td>
 		<td class="screenresolution"> Quad HD </td>
 		<td class="soc"> Samsung Exynos 8890 </td>
 		<td class="gpu"> ? </td>
@@ -6584,6 +6584,52 @@
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> Sense UI </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> HTC </td>
+		<td class="name"> U Ultra </td>
+		<td class="screensize"> 5.7'' </td>
+		<td class="screentype"> Corning Gorilla Glass 5 , Super LCD 5 </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 821 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> fingerprint , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB , 128 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony Exmor IMX378 R CMOS f/1.8 12.29 MP (back) , 15.93 MP (front) </td>
+		<td class="dimensions"> 162.41 x 79.79 x 7.99 mm </td>
+		<td class="usbtype"> 170 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+		<td class="ui"> Sense UI </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> HTC </td>
+		<td class="name"> U Play </td>
+		<td class="screensize"> 5.2'' </td>
+		<td class="screentype"> Corning Gorilla Glass , Super LCD </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> MediaTek Helio P10 </td>
+		<td class="gpu"> ARM Mali-T860 MP2 </td>
+		<td class="sensors"> fingerprint , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 2500 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> CMOS BSI f/2.0 15.93 MP (back) , 15.93 MP (front) </td>
+		<td class="dimensions"> 145.99 x 72.9 x 7.99 mm </td>
+		<td class="usbtype"> 145 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
 		<td class="ui"> Sense UI </td>
 	</tr>
 	<tr>
@@ -8024,7 +8070,7 @@
 		<td class="cpucn"> 8 </td>
 		<td class="cpucsm"> 2.3 GHz </td>
 		<td class="cpua"> 64 bits </td>
-		<td class="gpu"> Mali T880 </td>
+		<td class="gpu"> ARM Mali T880 </td>
 		<td class="gpuas"> ? </td>
 	</tr>
 	<tr>
@@ -8046,6 +8092,27 @@
 		<td class="cpucsm"> 2.2 GHz </td>
 		<td class="cpua"> 64 bits </td>
 		<td class="gpu"> ? </td>
+		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorOther"> MediaTek </td>
+		<td class="name"> Helio P10 </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> ? </td>
+		<td class="pus"> ? </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> 21 MP </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> 1200 x 1900 , Full HD </td>
+		<td class="cpu"> Cortex A53 </td>
+		<td class="cpucn"> 8 </td>
+		<td class="cpucsm"> 2 GHz </td>
+		<td class="cpua"> 64 bits </td>
+		<td class="gpu"> ARM Mali T860 </td>
 		<td class="gpuas"> ? </td>
 	</tr>
 </table>
