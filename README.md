@@ -6292,10 +6292,17 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> How to decompile Android apk files and look into source code </td>
+		<td class="name"> How to decompile Android APK files and look into source code </td>
 		<td class="description"> </td>
 		<td class="keywords"> tuto , dex , RI , hack , jar , Android </td>
 		<td class="url"> http://e-spartans.com/2016/02/19/decompile-apk-files/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Compatibility Definition Document </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , requirements , constructors </td>
+		<td class="url"> https://source.android.com/compatibility/cdd.html </td>
 	</tr>
 </table>
 
