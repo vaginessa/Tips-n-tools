@@ -417,3 +417,13 @@ Web;Netmarketshare;Market Share Statistics for Internet Technologies;stats , rep
 Web;How HTTP/2 Is Changing Web Performance Best Practices;;HTTP , HTTP2 , web , performances;https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
 Android;How we Misuse Mocks for Android Tests;;mocks , tests;http://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/
 /;Have fun with machine learning ; An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks;machine learning , neural network;https://github.com/humphd/have-fun-with-machine-learning
+Android;MVP RxAndroid Sample; A sample to showcase MVP pattern with RX-Android, Retrofit 2.0 ;Android , Retrofit , MVP , Rx , showcase , tuto;https://github.com/ahmedeltaher/MVP-RX-Android-Sample?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4975
+Android;Understanding the Android bytecode;;Dalvik , JVM , bytecode , DEX , Smali;http://mariokmk.github.io/programming/2015/03/06/learning-android-bytecode.html
+Android;android cracking;Tools and techniques for android reversing. Eeducational purposes only!;Android , hack;http://androidcracking.blogspot.fr/
+Android;Dalvik opcodes;;Dalvik , bytecode , opcodes;http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
+Android;Understanding the Dalvik bytecode with the Dedexer tool;;Dalvik , bytecode , Dedexer;http://www.slideshare.net/paller/understanding-the-dalvik-bytecode-with-the-dedexer-tool
+Java;Jasmin;;Java , assembler , JVM;http://jasmin.sourceforge.net/
+Android;Dalvik bytecode;;Dalvik , Java , bytecode;https://source.android.com/devices/tech/dalvik/dalvik-bytecode.html
+Android;Reverse Engineering Android: Disassembling Hello World;;tuto , dex ,  RI , hack;https://apkudo.com/?p=775
+Android;How to Decompile and Recompile a Jar;;tuto , dex ,  RI , hack , jar , Android;http://adrynalyne-teachtofish.blogspot.fr/2011/11/how-to-decompile-and-recompile-jar.html
+Android;How to decompile Android apk files and look into source code;;tuto , dex ,  RI , hack , jar , Android;http://e-spartans.com/2016/02/19/decompile-apk-files/

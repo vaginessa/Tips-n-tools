@@ -470,3 +470,10 @@ Design;Shutterstock;;UI , design , pictures , images;https://www.shutterstock.co
 Design;Freepik;;UI , design , pictures , images;http://www.freepik.com/
 Design;Flaticons;;UI , design , pictures , images;http://www.flaticon.com/
 Android;IconShowcase Dashboard; A full-of-features, easy-to-customize, free and open source, Material Design dashboard for icon packs.;UI , UX , design , icons;https://github.com/jahirfiquitiva/IconShowcase-Dashboard
+Android;CustomBottomSheetBehavior; Custom BottomSheetBehavior for Android that mimic Google Maps behavior;UI , bottom sheet , behavior , anchor;https://github.com/miguelhincapie/CustomBottomSheetBehavior
+Android;UDP discovery;An easy yet powerful device discovery and short messaging protocol and library (for local wifi networks). ;UDP , devices , discovery , WiFi , networks;https://github.com/afollestad/udp-discovery
+/;International; Tool to convert CSV to localization specific files (iOS/Android);i18n , localization , langages;https://github.com/cesarferreira/international
+Android;Store; Android Library for Async Data Loading and Caching;async data , load , cache , store;https://github.com/NYTimes/Store
+Android;TextFloatingActionButton;Floating action button with text which can be changed;UI , view , button , texts , floating action button , FAB;https://github.com/EdSergeev/TextFloatingActionButton
+Android;TwoStageRate;library to help you promote your android app by prompting users to rate the app after using it for a few days. Also its two stage process Lnsures higher reviews to go to playstore while getting useful feedback on lower ratings;UI , view , rate , note , store;https://github.com/shaileshmamgain5/TwoStageRate
+Android;Smali / baksmali;;Android , RI , hack , bytecode , dex;https://github.com/JesusFreke/smali

@@ -3298,6 +3298,55 @@
 		<td class="keywords"> UI , UX , design , icons </td>
 		<td class="url"> https://github.com/jahirfiquitiva/IconShowcase-Dashboard </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CustomBottomSheetBehavior </td>
+		<td class="description"> Custom BottomSheetBehavior for Android that mimic Google Maps behavior </td>
+		<td class="keywords"> UI , bottom sheet , behavior , anchor </td>
+		<td class="url"> https://github.com/miguelhincapie/CustomBottomSheetBehavior </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> UDP discovery </td>
+		<td class="description"> An easy yet powerful device discovery and short messaging protocol and library (for local wifi networks). </td>
+		<td class="keywords"> UDP , devices , discovery , WiFi , networks </td>
+		<td class="url"> https://github.com/afollestad/udp-discovery </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> International </td>
+		<td class="description"> Tool to convert CSV to localization specific files (iOS/Android) </td>
+		<td class="keywords"> i18n , localization , langages </td>
+		<td class="url"> https://github.com/cesarferreira/international </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Store </td>
+		<td class="description"> Android Library for Async Data Loading and Caching </td>
+		<td class="keywords"> async data , load , cache , store </td>
+		<td class="url"> https://github.com/NYTimes/Store </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> TextFloatingActionButton </td>
+		<td class="description"> Floating action button with text which can be changed </td>
+		<td class="keywords"> UI , view , button , texts , floating action button , FAB </td>
+		<td class="url"> https://github.com/EdSergeev/TextFloatingActionButton </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> TwoStageRate </td>
+		<td class="description"> library to help you promote your android app by prompting users to rate the app after using it for a few days. Also its two stage process Lnsures higher reviews to go to playstore while getting useful feedback on lower ratings </td>
+		<td class="keywords"> UI , view , rate , note , store </td>
+		<td class="url"> https://github.com/shaileshmamgain5/TwoStageRate </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Smali / baksmali </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , RI , hack , bytecode , dex </td>
+		<td class="url"> https://github.com/JesusFreke/smali </td>
+	</tr>
 </table>
 
 
@@ -6177,6 +6226,76 @@
 		<td class="description"> An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks </td>
 		<td class="keywords"> machine learning , neural network </td>
 		<td class="url"> https://github.com/humphd/have-fun-with-machine-learning </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MVP RxAndroid Sample </td>
+		<td class="description"> A sample to showcase MVP pattern with RX-Android, Retrofit 2.0 </td>
+		<td class="keywords"> Android , Retrofit , MVP , Rx , showcase , tuto </td>
+		<td class="url"> https://github.com/ahmedeltaher/MVP-RX-Android-Sample?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4975 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Understanding the Android bytecode </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dalvik , JVM , bytecode , DEX , Smali </td>
+		<td class="url"> http://mariokmk.github.io/programming/2015/03/06/learning-android-bytecode.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> android cracking </td>
+		<td class="description"> Tools and techniques for android reversing. Eeducational purposes only! </td>
+		<td class="keywords"> Android , hack </td>
+		<td class="url"> http://androidcracking.blogspot.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Dalvik opcodes </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dalvik , bytecode , opcodes </td>
+		<td class="url"> http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Understanding the Dalvik bytecode with the Dedexer tool </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dalvik , bytecode , Dedexer </td>
+		<td class="url"> http://www.slideshare.net/paller/understanding-the-dalvik-bytecode-with-the-dedexer-tool </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Jasmin </td>
+		<td class="description"> </td>
+		<td class="keywords"> Java , assembler , JVM </td>
+		<td class="url"> http://jasmin.sourceforge.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Dalvik bytecode </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dalvik , Java , bytecode </td>
+		<td class="url"> https://source.android.com/devices/tech/dalvik/dalvik-bytecode.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Reverse Engineering Android: Disassembling Hello World </td>
+		<td class="description"> </td>
+		<td class="keywords"> tuto , dex , RI , hack </td>
+		<td class="url"> https://apkudo.com/?p=775 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How to Decompile and Recompile a Jar </td>
+		<td class="description"> </td>
+		<td class="keywords"> tuto , dex , RI , hack , jar , Android </td>
+		<td class="url"> http://adrynalyne-teachtofish.blogspot.fr/2011/11/how-to-decompile-and-recompile-jar.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How to decompile Android apk files and look into source code </td>
+		<td class="description"> </td>
+		<td class="keywords"> tuto , dex , RI , hack , jar , Android </td>
+		<td class="url"> http://e-spartans.com/2016/02/19/decompile-apk-files/ </td>
 	</tr>
 </table>
 
