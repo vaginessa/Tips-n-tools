@@ -3347,6 +3347,34 @@
 		<td class="keywords"> Android , RI , hack , bytecode , dex </td>
 		<td class="url"> https://github.com/JesusFreke/smali </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AppFollow </td>
+		<td class="description"> Review & Updates Monitor for App Store & Google Play </td>
+		<td class="keywords"> Google Play , App Store , monitor , review </td>
+		<td class="url"> http://appfollow.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Crate </td>
+		<td class="description"> Compile time safety for Android assets </td>
+		<td class="keywords"> Gradle , assets </td>
+		<td class="url"> https://github.com/oriley-me/crate </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CycleMenu </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , cycle meny , circle menu , menu </td>
+		<td class="url"> https://github.com/Cleveroad/CycleMenu </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> WakaTime </td>
+		<td class="description"> Metrics, insights, and time tracking automatically generated from your programming activity </td>
+		<td class="keywords"> metrics , insights , time , tracking , dev </td>
+		<td class="url"> https://wakatime.com/ </td>
+	</tr>
 </table>
 
 
@@ -6310,6 +6338,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android Things , Android , Raspberry , RaspberryPi , tuto </td>
 		<td class="url"> https://www.androidthings.rocks/2017/01/03/get-started-with-android-things-today/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AppFollow — helps to be aware of app activities in Google Play </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google Play , App Store , monitor , review , store , tracking </td>
+		<td class="url"> https://android.jlelse.eu/appfollow-helps-to-be-aware-of-app-activities-in-google-play-494fcbea02ae#.lmg64kl89 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> How To Communicate Hidden Gestures in Mobile App </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , gestures </td>
+		<td class="url"> https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b#.8ch39kggr </td>
 	</tr>
 </table>
 
