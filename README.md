@@ -241,6 +241,13 @@
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
+		<td class="name"> Hackernoon </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , tuto , site , tool </td>
+		<td class="url"> https://hackernoon.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
 		<td class="name"> Upgrade </td>
 		<td class="description"> Site de veille </td>
 		<td class="keywords"> veille , tuto , site , tool </td>
@@ -3375,6 +3382,41 @@
 		<td class="keywords"> metrics , insights , time , tracking , dev </td>
 		<td class="url"> https://wakatime.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShimmerRecyclerView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , shimmer , place holder </td>
+		<td class="url"> https://github.com/sharish/ShimmerRecyclerView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> HorizontalCalendar </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , calendar </td>
+		<td class="url"> https://github.com/Mulham-Raee/HorizontalCalendar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Auto Fill Edit Text </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , edit text , autofill , autocompletion </td>
+		<td class="url"> https://github.com/nntuyen/auto-fill-edit-text </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Loupe </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , zoom , glass , loupe </td>
+		<td class="url"> https://github.com/xenione/loupe </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tutors </td>
+		<td class="description"> A simple way to show the user interface tutorials </td>
+		<td class="keywords"> UI , UX , view , tuto , how to , indicator , app intro </td>
+		<td class="url"> https://github.com/Popalay/Tutors </td>
+	</tr>
 </table>
 
 
@@ -6352,6 +6394,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , UX , gestures </td>
 		<td class="url"> https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b#.8ch39kggr </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Modern Android – How to ditch Activities & Fragments </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , Activity , Fragment , single activity , one page </td>
+		<td class="url"> https://realm.io/news/sf-fabien-davos-modern-android-ditching-activities-fragments/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Things Basics: Obstacle avoidance sensor with LED feedback </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Things , Android , Raspberry , RaspberryPi , tuto </td>
+		<td class="url"> https://hackernoon.com/android-things-basics-obstacle-avoidance-sensor-with-led-feedback-9127e13f2e76#.br6b3dz9e </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> A useful memory debugger plugin for Android Studio </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Studio , plugin , memory , debugger </td>
+		<td class="url"> https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.ig2d0btgm </td>
 	</tr>
 </table>
 

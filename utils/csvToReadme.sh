@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 10.0.1
+# Version.............: 10.0.2
 # Since...............: 21/06/2016
 # Description.........: Parses the CSV files (previously generated from the ODS file) to HTML files, and concatenate them to the README.md file
 #
@@ -231,9 +231,9 @@ elif [ $htmlDevicesRowsNew -eq $htmlDevicesRowsOld ]; then
 fi
 
 if [ $htmlSocsRowsNew -lt $htmlSocsRowsOld ]; then
-	echo "WARNING: The new file $HTML_DEVICE_FILE has now a smaller size than its previous version."
+	echo "WARNING: The new file $HTML_SOC_FILE has now a smaller size than its previous version."
 elif [ $htmlSocsRowsNew -eq $htmlSocsRowsOld ]; then
-	echo "NOTE: The new file $HTML_DEVICE_FILE has the same size as its previous version."
+	echo "NOTE: The new file $HTML_SOC_FILE has the same size as its previous version."
 fi
 
 # Finish!

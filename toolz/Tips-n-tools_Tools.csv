@@ -33,6 +33,7 @@ Android;Animations effects to TextView;Animations effects to text views;animatio
 Android;Faker;Tool to make mock objects;Mock , fake;https://github.com/blocoio/faker
 Android;Knife;A rich text editor component for writing in Android;document , edit text;https://github.com/mthli/Knife
 Android;PasswordEditText;A custom EditText with a switchable icon showing/hidding passwords;Password , edit text;https://github.com/maksim88/PasswordEditText
+/;Hackernoon;;veille , tuto , site , tool;https://hackernoon.com/
 /;Upgrade;Site de veille;veille , tuto , site , tool;http://upgrade.news/
 Android;Quitnow sleep time;Lib to be sure the user is awake before disturbing it with soundy and vibrant notificatinos;notifications , awake , sleep;https://github.com/Fewlaps/quitnow-sleep-time
 Android;Loading view;Lib for a loading view;loading view , animations;https://github.com/lusfold/SpinnerLoading
@@ -481,3 +482,8 @@ Android;Smali / baksmali;;Android , RI , hack , bytecode , dex;https://github.co
 Android;Crate; Compile time safety for Android assets;Gradle , assets;https://github.com/oriley-me/crate
 Android;CycleMenu;;UI , view , cycle meny , circle menu , menu;https://github.com/Cleveroad/CycleMenu
 /;WakaTime;Metrics, insights, and time tracking automatically generated from your programming activity;metrics , insights , time , tracking , dev;https://wakatime.com/
+Android;ShimmerRecyclerView;;UI , view , shimmer , place holder;https://github.com/sharish/ShimmerRecyclerView
+Android;HorizontalCalendar;;UI , view , calendar;https://github.com/Mulham-Raee/HorizontalCalendar
+Android;Auto Fill Edit Text;;UI , view , edit text , autofill , autocompletion;https://github.com/nntuyen/auto-fill-edit-text
+Android;Loupe;;UI , view , zoom , glass , loupe;https://github.com/xenione/loupe
+Android;Tutors; A simple way to show the user interface tutorials;UI , UX , view , tuto , how to , indicator , app intro;https://github.com/Popalay/Tutors
