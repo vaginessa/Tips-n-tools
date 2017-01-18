@@ -3417,6 +3417,13 @@
 		<td class="keywords"> UI , UX , view , tuto , how to , indicator , app intro </td>
 		<td class="url"> https://github.com/Popalay/Tutors </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AnchorImageView </td>
+		<td class="description"> An ImageView that anchors points according to the pixels, locates the anchored area </td>
+		<td class="keywords"> UI , view , anchor , image view </td>
+		<td class="url"> https://github.com/jcodeing/AnchorImageView </td>
+	</tr>
 </table>
 
 
@@ -6415,6 +6422,55 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android Studio , plugin , memory , debugger </td>
 		<td class="url"> https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.ig2d0btgm </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How we Misuse Mocks for Android Tests </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , mocks </td>
+		<td class="url"> https://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Why I Don't use Robolectric </td>
+		<td class="description"> Poublication about the defects Robolectric can have and what we have to be aware of </td>
+		<td class="keywords"> Android , mocks , Robolectric , cons </td>
+		<td class="url"> https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Commits.io </td>
+		<td class="description"> Create a poster entirely from your code </td>
+		<td class="keywords"> posters , fun </td>
+		<td class="url"> https://commits.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Clean tests, Part 1: Naming </td>
+		<td class="description"> </td>
+		<td class="keywords"> tests , unit tests </td>
+		<td class="url"> https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.2j754f7yb </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Clean tests, Part 2: Comments </td>
+		<td class="description"> </td>
+		<td class="keywords"> tests , unit tests </td>
+		<td class="url"> https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.urrtax8em </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> 15 tips to improve your unit tests </td>
+		<td class="description"> </td>
+		<td class="keywords"> tests , unit tests </td>
+		<td class="url"> http://www.slideshare.net/dpreussler/15-tips-to-improve-your-unit-tests-droidcon-berlin-2016-barcamp </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Dead Zebra </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , goodies , geek </td>
+		<td class="url"> http://shop.deadzebra.com/ </td>
 	</tr>
 </table>
 

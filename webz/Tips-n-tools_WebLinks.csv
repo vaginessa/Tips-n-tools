@@ -434,3 +434,10 @@ Design;How To Communicate Hidden Gestures in Mobile App;;UI , UX , gestures;http
 Android;Modern Android – How to ditch Activities & Fragments;;UI , Activity , Fragment , single activity , one page;https://realm.io/news/sf-fabien-davos-modern-android-ditching-activities-fragments/
 Android;Android Things Basics: Obstacle avoidance sensor with LED feedback;;Android Things , Android , Raspberry , RaspberryPi , tuto;https://hackernoon.com/android-things-basics-obstacle-avoidance-sensor-with-led-feedback-9127e13f2e76#.br6b3dz9e
 Android;A useful memory debugger plugin for Android Studio;;Android Studio , plugin , memory , debugger;https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.ig2d0btgm
+Android;How we Misuse Mocks for Android Tests;;Android , mocks;https://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/
+Android;Why I Don't use Robolectric;Poublication about the defects Robolectric can have and what we have to be aware of;Android , mocks , Robolectric , cons;https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/
+/;Commits.io;Create a poster entirely from your code;posters , fun;https://commits.io/
+/;Clean tests, Part 1: Naming;;tests , unit tests;https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.2j754f7yb
+/;Clean tests, Part 2: Comments;;tests , unit tests;https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.urrtax8em
+/;15 tips to improve your unit tests;;tests , unit tests;http://www.slideshare.net/dpreussler/15-tips-to-improve-your-unit-tests-droidcon-berlin-2016-barcamp
+/;Dead Zebra;;Android , goodies , geek;http://shop.deadzebra.com/
