@@ -491,3 +491,4 @@ Android;AnchorImageView;An ImageView that anchors points according to the pixels
 JavaScript;Johnny Five;The JavaScript Robotics & IoT Platform;J5 , IoT , robotics , Firmata;http://johnny-five.io/    https://github.com/rwaldron/johnny-five
 JavaScript;NodeJS;;Node JS , JS;https://nodejs.org/en/
 JavaScript;EJS;Embedded JavaScriot;JS , template;http://www.embeddedjs.com/
+/;Tapster;A Robot on Every Desk;Robot , automation , Appium , NodeJS , Bitbeam , Lego techniks , 3D printed , tests , DIY;http://www.tapster.io/
