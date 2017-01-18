@@ -3424,6 +3424,27 @@
 		<td class="keywords"> UI , view , anchor , image view </td>
 		<td class="url"> https://github.com/jcodeing/AnchorImageView </td>
 	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Johnny Five </td>
+		<td class="description"> The JavaScript Robotics & IoT Platform </td>
+		<td class="keywords"> J5 , IoT , robotics , Firmata </td>
+		<td class="url"> http://johnny-five.io/ https://github.com/rwaldron/johnny-five </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> NodeJS </td>
+		<td class="description"> </td>
+		<td class="keywords"> Node JS , JS </td>
+		<td class="url"> https://nodejs.org/en/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> EJS </td>
+		<td class="description"> Embedded JavaScriot </td>
+		<td class="keywords"> JS , template </td>
+		<td class="url"> http://www.embeddedjs.com/ </td>
+	</tr>
 </table>
 
 
@@ -6471,6 +6492,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , goodies , geek </td>
 		<td class="url"> http://shop.deadzebra.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Firmata </td>
+		<td class="description"> </td>
+		<td class="keywords"> IoT , Arduino , microcontroler </td>
+		<td class="url"> http://www.firmata.org/wiki/Main_Page </td>
 	</tr>
 </table>
 
