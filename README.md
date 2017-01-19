@@ -3449,8 +3449,22 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Tapster </td>
 		<td class="description"> A Robot on Every Desk </td>
-		<td class="keywords"> Robot , automation , Appium , NodeJS , Bitbeam , Lego techniks , 3D printed , tests , DIY </td>
+		<td class="keywords"> hardware , tobot , automation , Appium , NodeJS , Bitbeam , Lego techniks , 3D printed , tests , DIY </td>
 		<td class="url"> http://www.tapster.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Hackster </td>
+		<td class="description"> Community dedicated to learning hardware </td>
+		<td class="keywords"> hardware </td>
+		<td class="url"> https://www.hackster.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> NodeBots </td>
+		<td class="description"> </td>
+		<td class="keywords"> Make robots powered by JavaScript </td>
+		<td class="url"> hardware , bot , robots , JS </td>
 	</tr>
 </table>
 
