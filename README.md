@@ -3462,9 +3462,72 @@
 	<tr>
 		<td class="subjectJavaScript"> JavaScript </td>
 		<td class="name"> NodeBots </td>
+		<td class="description"> Make robots powered by JavaScript </td>
+		<td class="keywords"> hardware , bot , robots , JS </td>
+		<td class="url"> http://nodebots.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Goneremote.io </td>
 		<td class="description"> </td>
-		<td class="keywords"> Make robots powered by JavaScript </td>
-		<td class="url"> hardware , bot , robots , JS </td>
+		<td class="keywords"> UI , UX , design , Android </td>
+		<td class="url"> http://goneremote.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Android Asset Studio </td>
+		<td class="description"> A collection of tools to easily generate assets such as launcher icons for your Android app. </td>
+		<td class="keywords"> design </td>
+		<td class="url"> http://romannurik.github.io/AndroidAssetStudio/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Bot Framework </td>
+		<td class="description"> Build a great conversationalist </td>
+		<td class="keywords"> smart bot , bot , chat bot , Microsoft </td>
+		<td class="url"> https://dev.botframework.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Wit.ai </td>
+		<td class="description"> Natural Language for Developers </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://wit.ai/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Feelter </td>
+		<td class="description"> </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://feelter.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Botlist </td>
+		<td class="description"> </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://botlist.co/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Revealedittext </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , reveal , text field , EditText </td>
+		<td class="url"> https://github.com/michaelprimez/revealedittext </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FlowLayout </td>
+		<td class="description"> A flow layout for Android with auto-spacing </td>
+		<td class="keywords"> UI , view , flow layout , autospacing </td>
+		<td class="url"> https://github.com/nex3z/FlowLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BlobLayout </td>
+		<td class="description"> BlobLayout is custom layout for Android like blob style. </td>
+		<td class="keywords"> UI , view , layout , BLOB </td>
+		<td class="url"> https://github.com/r21nomi/BlobLayout </td>
 	</tr>
 </table>
 
@@ -6520,6 +6583,69 @@
 		<td class="description"> </td>
 		<td class="keywords"> IoT , Arduino , microcontroler </td>
 		<td class="url"> http://www.firmata.org/wiki/Main_Page </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Let the Action Buttons in the Dialog Box Scream its Outcome </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , Dialogs </td>
+		<td class="url"> https://hackernoon.com/let-the-action-buttons-in-the-dialog-box-scream-its-outcome-b319c5efc698#.6bo71l8w9 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> 15 Mobile KPIs Every Developer Needs to Measure…Right Now </td>
+		<td class="description"> </td>
+		<td class="keywords"> KPI , Key Performance Indicator , app </td>
+		<td class="url"> https://android.jlelse.eu/15-mobile-kpis-every-developer-needs-to-measure-right-now-b1cf1cc8b707#.sq2pfnarl </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Top KPIs to measure in your eCommerce app </td>
+		<td class="description"> </td>
+		<td class="keywords"> KPI , Key Performance Indicator , app </td>
+		<td class="url"> https://android.jlelse.eu/top-kpis-to-measure-in-your-ecommerce-app-64daf88bc1ed#.ya2vd59pv </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Migration From SQLite to Realm </td>
+		<td class="description"> </td>
+		<td class="keywords"> Realm , SQLite , storage , cache , database </td>
+		<td class="url"> https://android.jlelse.eu/migration-from-sqlite-to-realm-a91bc6d2e568 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Quick Tip : How to Use Android's Assis API </td>
+		<td class="description"> </td>
+		<td class="keywords"> Assist API , Assistant , voice interaction </td>
+		<td class="url"> https://code.tutsplus.com/tutorials/quick-tip-how-to-use-androids-assist-api--cms-27933 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Design for internationalization </td>
+		<td class="description"> </td>
+		<td class="keywords"> i18n , UI , UX </td>
+		<td class="url"> https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.j7hx6z6us </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> IBM Globalization – UI expansion </td>
+		<td class="description"> </td>
+		<td class="keywords"> i18n , UI , UX </td>
+		<td class="url"> http://www-01.ibm.com/software/globalization/guidelines/a3.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Resolving Conflicts in android gradle dependencies </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle , conflicts </td>
+		<td class="url"> https://blog.mindorks.com/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.x38g4zxvg </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Case Study. Master/Detail Pattern Revisited </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , master detail pattern </td>
+		<td class="url"> http://goneremote.io/master-detail-pattern/ </td>
 	</tr>
 </table>
 

@@ -493,4 +493,13 @@ JavaScript;NodeJS;;Node JS , JS;https://nodejs.org/en/
 JavaScript;EJS;Embedded JavaScriot;JS , template;http://www.embeddedjs.com/
 /;Tapster;A Robot on Every Desk;hardware , tobot , automation , Appium , NodeJS , Bitbeam , Lego techniks , 3D printed , tests , DIY;http://www.tapster.io/
 /;Hackster;Community dedicated to learning hardware;hardware;https://www.hackster.io/
-JavaScript;NodeBots;";Make robots powered by JavaScript";hardware , bot , robots , JS;http://nodebots.io/
+JavaScript;NodeBots;Make robots powered by JavaScript;hardware , bot , robots , JS;http://nodebots.io/
+Design;Goneremote.io;;UI , UX , design , Android;http://goneremote.io/
+Design;Android Asset Studio;A collection of tools to easily generate assets such as launcher icons for your Android app.;design;http://romannurik.github.io/AndroidAssetStudio/index.html
+/;Bot Framework;Build a great conversationalist;smart bot , bot , chat bot , Microsoft;https://dev.botframework.com/
+/;Wit.ai;Natural Language for Developers;smart bot , bot , chat bot;https://wit.ai/
+/;Feelter;;smart bot , bot , chat bot;https://feelter.com/
+/;Botlist;;smart bot , bot , chat bot;https://botlist.co/
+Android;Revealedittext;;UI , view , reveal , text field , EditText;https://github.com/michaelprimez/revealedittext
+Android;FlowLayout; A flow layout for Android with auto-spacing;UI , view , flow layout , autospacing;https://github.com/nex3z/FlowLayout
+Android;BlobLayout; BlobLayout is custom layout for Android like blob style.;UI , view , layout , BLOB;https://github.com/r21nomi/BlobLayout

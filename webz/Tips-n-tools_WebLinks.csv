@@ -442,3 +442,12 @@ Android;Why I Don't use Robolectric;Poublication about the defects Robolectric c
 /;15 tips to improve your unit tests;;tests , unit tests;http://www.slideshare.net/dpreussler/15-tips-to-improve-your-unit-tests-droidcon-berlin-2016-barcamp
 /;Dead Zebra;;Android , goodies , geek;http://shop.deadzebra.com/
 /;Firmata;;IoT , Arduino , microcontroler;http://www.firmata.org/wiki/Main_Page
+Design;Let the Action Buttons in the Dialog Box Scream its Outcome;;UI , UX , Dialogs;https://hackernoon.com/let-the-action-buttons-in-the-dialog-box-scream-its-outcome-b319c5efc698#.6bo71l8w9
+/;15 Mobile KPIs Every Developer Needs to Measure…Right Now;;KPI , Key Performance Indicator , app ;https://android.jlelse.eu/15-mobile-kpis-every-developer-needs-to-measure-right-now-b1cf1cc8b707#.sq2pfnarl
+/;Top KPIs to measure in your eCommerce app;;KPI , Key Performance Indicator , app ;https://android.jlelse.eu/top-kpis-to-measure-in-your-ecommerce-app-64daf88bc1ed#.ya2vd59pv
+/;Migration From SQLite to Realm;;Realm , SQLite , storage , cache , database;https://android.jlelse.eu/migration-from-sqlite-to-realm-a91bc6d2e568
+Android;Quick Tip : How to Use Android's Assis API;;Assist API , Assistant , voice interaction;https://code.tutsplus.com/tutorials/quick-tip-how-to-use-androids-assist-api--cms-27933
+Design;Design for internationalization;;i18n , UI , UX;https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.j7hx6z6us
+Design;IBM Globalization – UI expansion;;i18n , UI , UX;http://www-01.ibm.com/software/globalization/guidelines/a3.html
+Android;Resolving Conflicts in android gradle dependencies;;Gradle , conflicts;https://blog.mindorks.com/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.x38g4zxvg
+Design;Case Study. Master/Detail Pattern Revisited;;UI , UX , master detail pattern;http://goneremote.io/master-detail-pattern/
