@@ -3529,6 +3529,20 @@
 		<td class="keywords"> UI , view , layout , BLOB </td>
 		<td class="url"> https://github.com/r21nomi/BlobLayout </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RecyclerStickyHeaderView </td>
+		<td class="description"> Sticky header view or suspending view for RecyclerView </td>
+		<td class="keywords"> UI , view , sticky </td>
+		<td class="url"> https://github.com/TellH/RecyclerStickyHeaderView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ArcPageIndicator </td>
+		<td class="description"> Page Indicator for Android ViewPager with a lot of animations and very original graphics, that uses an ellipses to dispose indication spots, and can draw a hand, like in old elevators </td>
+		<td class="keywords"> UI , view , arc pager indicator </td>
+		<td class="url"> https://github.com/BeppiMenozzi/ArcPageIndicator </td>
+	</tr>
 </table>
 
 
