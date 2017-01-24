@@ -505,3 +505,6 @@ Android;FlowLayout; A flow layout for Android with auto-spacing;UI , view , flow
 Android;BlobLayout; BlobLayout is custom layout for Android like blob style.;UI , view , layout , BLOB;https://github.com/r21nomi/BlobLayout
 Android;RecyclerStickyHeaderView; Sticky header view or suspending view for RecyclerView;UI , view , sticky;https://github.com/TellH/RecyclerStickyHeaderView
 Android;ArcPageIndicator; Page Indicator for Android ViewPager with a lot of animations and very original graphics, that uses an ellipses to dispose indication spots, and can draw a hand, like in old elevators;UI , view , arc pager indicator;https://github.com/BeppiMenozzi/ArcPageIndicator
+Android;Android Material Stepper; This library allows to use Material steppers inside Android applications;UI , view , steps , stepper , indicator , progress;https://github.com/stepstone-tech/android-material-stepper
+Design;My Fonts;;UI , design , fonts;http://www.myfonts.com/
+Design;DaFond;;UI , design , fonts;http://www.dafont.com/

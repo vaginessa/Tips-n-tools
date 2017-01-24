@@ -3543,6 +3543,27 @@
 		<td class="keywords"> UI , view , arc pager indicator </td>
 		<td class="url"> https://github.com/BeppiMenozzi/ArcPageIndicator </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Material Stepper </td>
+		<td class="description"> This library allows to use Material steppers inside Android applications </td>
+		<td class="keywords"> UI , view , steps , stepper , indicator , progress </td>
+		<td class="url"> https://github.com/stepstone-tech/android-material-stepper </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> My Fonts </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , fonts </td>
+		<td class="url"> http://www.myfonts.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> DaFond </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , fonts </td>
+		<td class="url"> http://www.dafont.com/ </td>
+	</tr>
 </table>
 
 
@@ -6660,6 +6681,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , UX , master detail pattern </td>
 		<td class="url"> http://goneremote.io/master-detail-pattern/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> VM vs Conteneur : le match </td>
+		<td class="description"> </td>
+		<td class="keywords"> VM , conteneur , container </td>
+		<td class="url"> http://www.techpageone.fr/technologie-fr/vm-vs-conteneur-le-match/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tech Page One </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://www.techpageone.fr/ </td>
 	</tr>
 </table>
 
