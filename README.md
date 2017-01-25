@@ -3481,7 +3481,7 @@
 		<td class="url"> http://romannurik.github.io/AndroidAssetStudio/index.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Bot Framework </td>
 		<td class="description"> Build a great conversationalist </td>
 		<td class="keywords"> smart bot , bot , chat bot , Microsoft </td>
@@ -3502,7 +3502,7 @@
 		<td class="url"> https://feelter.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Botlist </td>
 		<td class="description"> </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
@@ -3572,7 +3572,7 @@
 		<td class="url"> https://lstore.graphics/livemockups/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Tools for Bot Development </td>
 		<td class="description"> </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
@@ -3726,56 +3726,56 @@
 		<td class="url"> https://android.jlelse.eu/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> api.ai </td>
 		<td class="description"> API.AI for Facebook Messenger Platform </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> http://content.api.ai/facebook-messenger-bot </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Recast.AI </td>
 		<td class="description"> Collaborative Bot Platform </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> https://recast.ai/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Init.ai </td>
 		<td class="description"> The most powerful way to build, train, and deploy intelligent conversational apps </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> https://www.init.ai/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> LUIS </td>
 		<td class="description"> Language Understanding Intelligent Service (LUIS) </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> https://www.luis.ai/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Kitt AI </td>
 		<td class="description"> </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> http://kitt.ai </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Kik </td>
 		<td class="description"> </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> https://dev.kik.com </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Botkit </td>
 		<td class="description"> Open-source toolkit for creating bots </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
 		<td class="url"> https://howdy.ai/botkit/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> Bots </td>
+		<td class="subjectBots"> Bots </td>
 		<td class="name"> Botlytics </td>
 		<td class="description"> Analytics for your bot </td>
 		<td class="keywords"> smart bot , bot , chat bot , analytics </td>
