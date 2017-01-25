@@ -539,3 +539,4 @@ Bots;Kitt AI;;smart bot , bot , chat bot;http://kitt.ai
 Bots;Kik;;smart bot , bot , chat bot;https://dev.kik.com
 Bots;Botkit;Open-source toolkit for creating bots;smart bot , bot , chat bot;https://howdy.ai/botkit/
 Bots;Botlytics;Analytics for your bot;smart bot , bot , chat bot , analytics;http://www.botlytics.co/
+Android;OkHTTP stats;OkHttp Analytical library to get stats like average network speed. Also get global callbacks for network errors and successes;OkHTTP , metrics , stats , network , HTTP;https://github.com/flipkart-incubator/okhttp-stats
