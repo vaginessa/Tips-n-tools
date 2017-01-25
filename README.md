@@ -243,14 +243,14 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Hackernoon </td>
 		<td class="description"> </td>
-		<td class="keywords"> veille , tuto , site , tool </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
 		<td class="url"> https://hackernoon.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Upgrade </td>
 		<td class="description"> Site de veille </td>
-		<td class="keywords"> veille , tuto , site , tool </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
 		<td class="url"> http://upgrade.news/ </td>
 	</tr>
 	<tr>
@@ -2483,7 +2483,7 @@
 		<td class="subjectDesign"> Design </td>
 		<td class="name"> Prototypr.io </td>
 		<td class="description"> Prototyping : From UX to Front End </td>
-		<td class="keywords"> UI , design , prototypes , veille </td>
+		<td class="keywords"> UI , design , prototypes , veille , news </td>
 		<td class="url"> https://blog.prototypr.io/ </td>
 	</tr>
 	<tr>
@@ -3481,7 +3481,7 @@
 		<td class="url"> http://romannurik.github.io/AndroidAssetStudio/index.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectOther"> Bots </td>
 		<td class="name"> Bot Framework </td>
 		<td class="description"> Build a great conversationalist </td>
 		<td class="keywords"> smart bot , bot , chat bot , Microsoft </td>
@@ -3502,7 +3502,7 @@
 		<td class="url"> https://feelter.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectOther"> Bots </td>
 		<td class="name"> Botlist </td>
 		<td class="description"> </td>
 		<td class="keywords"> smart bot , bot , chat bot </td>
@@ -3564,6 +3564,223 @@
 		<td class="keywords"> UI , design , fonts </td>
 		<td class="url"> http://www.dafont.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Looped Live Mockups </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , design , PS , mockup , motions </td>
+		<td class="url"> https://lstore.graphics/livemockups/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Tools for Bot Development </td>
+		<td class="description"> </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://hackernoon.com/18-best-tools-for-bot-development-eb083f5894b </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> hackr news </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> https://news.ycombinator.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Hacker News </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> http://hckrnews.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Upgrade </td>
+		<td class="description"> Site de veille </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://upgrade.news/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> The Android Arsenal </td>
+		<td class="description"> </td>
+		<td class="keywords"> tools , libs </td>
+		<td class="url"> https://android-arsenal.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Police </td>
+		<td class="description"> </td>
+		<td class="keywords"> tools , libs , news , veille </td>
+		<td class="url"> http://www.androidpolice.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Pit </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.androidpit.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> FrAndroid </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.frandroid.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Clubic </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.clubic.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Next Inpact </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.nextinpact.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> ZDNet </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> http://www.zdnet.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Ars Technica </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , IT </td>
+		<td class="url"> http://arstechnica.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> TechCrunch </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> https://techcrunch.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DevMag </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://devmag.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Blog of Thomas Belin </td>
+		<td class="description"> </td>
+		<td class="keywords"> blog , veille , news </td>
+		<td class="url"> http://blog.thomasbelin.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Blog of Jeremie Martinez </td>
+		<td class="description"> </td>
+		<td class="keywords"> blog , veille , news </td>
+		<td class="url"> http://jeremie-martinez.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Blog of Cyril Mottier </td>
+		<td class="description"> </td>
+		<td class="keywords"> blog , veille , news </td>
+		<td class="url"> http://cyrilmottier.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> 9to5Google </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> https://9to5google.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> 9to5Mac </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news </td>
+		<td class="url"> https://9to5mac.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tech Page One </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://www.techpageone.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How I stay up-to-date as a Developer </td>
+		<td class="description"> </td>
+		<td class="keywords"> developer , news , up to date </td>
+		<td class="url"> https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AndroidPub </td>
+		<td class="description"> The Pub(lication) for Android & Tech, focused on Development </td>
+		<td class="keywords"> veille , news , Android </td>
+		<td class="url"> https://android.jlelse.eu/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> api.ai </td>
+		<td class="description"> API.AI for Facebook Messenger Platform </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> http://content.api.ai/facebook-messenger-bot </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Recast.AI </td>
+		<td class="description"> Collaborative Bot Platform </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://recast.ai/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Init.ai </td>
+		<td class="description"> The most powerful way to build, train, and deploy intelligent conversational apps </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://www.init.ai/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> LUIS </td>
+		<td class="description"> Language Understanding Intelligent Service (LUIS) </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://www.luis.ai/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Kitt AI </td>
+		<td class="description"> </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> http://kitt.ai </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Kik </td>
+		<td class="description"> </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://dev.kik.com </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Botkit </td>
+		<td class="description"> Open-source toolkit for creating bots </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://howdy.ai/botkit/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> Bots </td>
+		<td class="name"> Botlytics </td>
+		<td class="description"> Analytics for your bot </td>
+		<td class="keywords"> smart bot , bot , chat bot , analytics </td>
+		<td class="url"> http://www.botlytics.co/ </td>
+	</tr>
 </table>
 
 
@@ -3620,17 +3837,10 @@
 		<td class="url"> http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Upgrade </td>
-		<td class="description"> Site de veille </td>
-		<td class="keywords"> veille , news , IT </td>
-		<td class="url"> http://upgrade.news/ </td>
-	</tr>
-	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Reduce your Android build duration </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> build , duration </td>
 		<td class="url"> http://blog.octo.com/en/reduce-android-build-duration/ </td>
 	</tr>
 	<tr>
@@ -4502,20 +4712,6 @@
 		<td class="url"> http://www.phonearena.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
-		<td class="name"> The Android Arsenal </td>
-		<td class="description"> </td>
-		<td class="keywords"> tools , libs </td>
-		<td class="url"> https://android-arsenal.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectAndroid"> Android </td>
-		<td class="name"> Android Police </td>
-		<td class="description"> </td>
-		<td class="keywords"> tools , libs , news , veille </td>
-		<td class="url"> http://www.androidpolice.com/ </td>
-	</tr>
-	<tr>
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Unitag </td>
 		<td class="description"> To build and customize QR codes </td>
@@ -4902,48 +5098,13 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> Android Pit </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://www.androidpit.fr/ </td>
-	</tr>
-	<tr>
-		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets </td>
 		<td class="description"> Article with references to tools or companies about security </td>
 		<td class="keywords"> security </td>
 		<td class="url"> http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> FrAndroid </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://www.frandroid.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Clubic </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://www.clubic.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Next Inpact </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://www.nextinpact.com/ </td>
-	</tr>
-	<tr>
 		<td class="subjectKotlin"> Kotlin </td>
-		<td class="name"> ZDNet </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://www.zdnet.fr/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
 		<td class="name"> Lessons from converting an app to 100% Kotlin </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kotlin , app convert </td>
@@ -4951,13 +5112,10 @@
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
-		<td class="name"> </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> Escaping The Sandbox By Not Breaking It </td>
-		<td class="name"> </td>
-		<td class="description"> Android , iOS , sandbox </td>
-		<td class="keywords"> https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it </td>
+		<td class="name"> Escaping The Sandbox By Not Breaking It </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , iOS , sandbox </td>
+		<td class="url"> https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
@@ -5622,31 +5780,10 @@
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
-		<td class="name"> Ars Technica </td>
-		<td class="description"> </td>
-		<td class="keywords"> news , IT </td>
-		<td class="url"> http://arstechnica.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
 		<td class="name"> The full stack developer is a myth </td>
 		<td class="description"> </td>
 		<td class="keywords"> fullstack , dev </td>
 		<td class="url"> https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8 </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> TechCrunch </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news , IT </td>
-		<td class="url"> https://techcrunch.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectAndroid"> Android </td>
-		<td class="name"> DevMag </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news , IT </td>
-		<td class="url"> http://devmag.fr/ </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -5897,13 +6034,6 @@
 	</tr>
 	<tr>
 		<td class="subjectWeb"> Web </td>
-		<td class="name"> Blog of Thomas Belin </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://blog.thomasbelin.fr/ </td>
-	</tr>
-	<tr>
-		<td class="subjectWeb"> Web </td>
 		<td class="name"> A journey from Interactive to Reactive </td>
 		<td class="description"> </td>
 		<td class="keywords"> reactive </td>
@@ -5938,20 +6068,6 @@
 		<td class="url"> https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.w13p1mwi4 </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Blog of Jeremie Martinez </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://jeremie-martinez.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Blog of Cyril Mottier </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://cyrilmottier.com/ </td>
-	</tr>
-	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> RxJava 2: Android MVVM Lifecycle App Structure with Retrofit 2 </td>
 		<td class="description"> </td>
@@ -5961,33 +6077,9 @@
 	<tr>
 		<td class="subjectDesign"> Design </td>
 		<td class="name"> Floating button for disabled people </td>
-		<td class="description"> Your User Can’t Click Your Floating Action Button </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> And you can fix it in one line </td>
-		<td class="name"> </td>
-		<td class="description"> http://collectiveidea.com/blog/archives/2016/10/10/your-user-cant-click-your-floating-action-button </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> 9to5Google </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> https://9to5google.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> 9to5Mac </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> https://9to5mac.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Ars Technica </td>
-		<td class="description"> </td>
-		<td class="keywords"> veille , news </td>
-		<td class="url"> http://arstechnica.com/ </td>
+		<td class="description"> Your User Can’t Click Your Floating Action Button And you can fix it in one line </td>
+		<td class="keywords"> floating action button , UI , UX </td>
+		<td class="url"> http://collectiveidea.com/blog/archives/2016/10/10/your-user-cant-click-your-floating-action-button </td>
 	</tr>
 	<tr>
 		<td class="subjectOther"> / </td>
@@ -6690,11 +6782,39 @@
 		<td class="url"> http://www.techpageone.fr/technologie-fr/vm-vs-conteneur-le-match/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Tech Page One </td>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Designing the schema of Realm effectively, and other Realm tips </td>
 		<td class="description"> </td>
-		<td class="keywords"> veille , news , IT </td>
-		<td class="url"> http://www.techpageone.fr/ </td>
+		<td class="keywords"> Realm , database , storage , best practices </td>
+		<td class="url"> https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072#.t84wzinxl </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RealmList<RealmString> is an anti-pattern! </td>
+		<td class="description"> </td>
+		<td class="keywords"> Realm , database , storage , best practices </td>
+		<td class="url"> https://hackernoon.com/realmlist-realmstring-is-an-anti-pattern-bfc10efb7ca5#.ahcjdda0c </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Java is Unsound: The Industry Perspective </td>
+		<td class="description"> </td>
+		<td class="keywords"> Java , types , sound & unsound , failures </td>
+		<td class="url"> https://hackernoon.com/java-is-unsound-28c84cb2b3f#.icxc30p9q </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> 10 Signs of Technical Debt in your Android app </td>
+		<td class="description"> </td>
+		<td class="keywords"> technical debts , best practices , code smell </td>
+		<td class="url"> https://android.jlelse.eu/10-signs-of-technical-debt-in-your-android-app-602d9d27bd71#.v16phowai </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Free resources to build your next Open Source project </td>
+		<td class="description"> </td>
+		<td class="keywords"> project , tools , open source </td>
+		<td class="url"> https://hackernoon.com/free-resources-to-build-your-next-open-source-project-36d096c536b5 </td>
 	</tr>
 </table>
 

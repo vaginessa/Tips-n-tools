@@ -33,8 +33,8 @@ Android;Animations effects to TextView;Animations effects to text views;animatio
 Android;Faker;Tool to make mock objects;Mock , fake;https://github.com/blocoio/faker
 Android;Knife;A rich text editor component for writing in Android;document , edit text;https://github.com/mthli/Knife
 Android;PasswordEditText;A custom EditText with a switchable icon showing/hidding passwords;Password , edit text;https://github.com/maksim88/PasswordEditText
-/;Hackernoon;;veille , tuto , site , tool;https://hackernoon.com/
-/;Upgrade;Site de veille;veille , tuto , site , tool;http://upgrade.news/
+/;Hackernoon;;news , veille , tuto , site , tool;https://hackernoon.com/
+/;Upgrade;Site de veille;news , veille , tuto , site , tool;http://upgrade.news/
 Android;Quitnow sleep time;Lib to be sure the user is awake before disturbing it with soundy and vibrant notificatinos;notifications , awake , sleep;https://github.com/Fewlaps/quitnow-sleep-time
 Android;Loading view;Lib for a loading view;loading view , animations;https://github.com/lusfold/SpinnerLoading
 Android;Leak Canary;A memory leak tool for Android and Java;leak , memory;https://github.com/square/leakcanary
@@ -353,7 +353,7 @@ Android;User aware Video View;A customized video view that will automatically pa
 Android;License Adapter;Adapter for RecyclerView to display app's oss dependencies' license ;UI , view , licences , credits;https://github.com/yshrsmz/LicenseAdapter
 /;Spinnaker;;continuous deployment , DevOps , quality;http://www.spinnaker.io/
 Web;Electron;Build cross platform desktop apps with JavaScript, HTML and CSS;cross platform , desktop , JS , HTML , CSS , Github;http://electron.atom.io/
-Design;Prototypr.io;Prototyping : From UX to Front End;UI , design , prototypes , veille;https://blog.prototypr.io/
+Design;Prototypr.io;Prototyping : From UX to Front End;UI , design , prototypes , veille ,  news;https://blog.prototypr.io/
 Design;Invision;Design Better. Faster. Together.;UI , design , prototypes;https://www.invisionapp.com/
 Design;Craft;;UI , design , prototypes;https://www.invisionapp.com/craft
 Design;Marvel;Simple design, prototyping and collaboration;UI , design , prototypes;https://marvelapp.com/
@@ -496,10 +496,10 @@ JavaScript;EJS;Embedded JavaScriot;JS , template;http://www.embeddedjs.com/
 JavaScript;NodeBots;Make robots powered by JavaScript;hardware , bot , robots , JS;http://nodebots.io/
 Design;Goneremote.io;;UI , UX , design , Android;http://goneremote.io/
 Design;Android Asset Studio;A collection of tools to easily generate assets such as launcher icons for your Android app.;design;http://romannurik.github.io/AndroidAssetStudio/index.html
-/;Bot Framework;Build a great conversationalist;smart bot , bot , chat bot , Microsoft;https://dev.botframework.com/
+Bots;Bot Framework;Build a great conversationalist;smart bot , bot , chat bot , Microsoft;https://dev.botframework.com/
 /;Wit.ai;Natural Language for Developers;smart bot , bot , chat bot;https://wit.ai/
 /;Feelter;;smart bot , bot , chat bot;https://feelter.com/
-/;Botlist;;smart bot , bot , chat bot;https://botlist.co/
+Bots;Botlist;;smart bot , bot , chat bot;https://botlist.co/
 Android;Revealedittext;;UI , view , reveal , text field , EditText;https://github.com/michaelprimez/revealedittext
 Android;FlowLayout; A flow layout for Android with auto-spacing;UI , view , flow layout , autospacing;https://github.com/nex3z/FlowLayout
 Android;BlobLayout; BlobLayout is custom layout for Android like blob style.;UI , view , layout , BLOB;https://github.com/r21nomi/BlobLayout
@@ -508,3 +508,34 @@ Android;ArcPageIndicator; Page Indicator for Android ViewPager with a lot of ani
 Android;Android Material Stepper; This library allows to use Material steppers inside Android applications;UI , view , steps , stepper , indicator , progress;https://github.com/stepstone-tech/android-material-stepper
 Design;My Fonts;;UI , design , fonts;http://www.myfonts.com/
 Design;DaFond;;UI , design , fonts;http://www.dafont.com/
+Design;Looped Live Mockups;;UI , UX , design , PS , mockup , motions;https://lstore.graphics/livemockups/
+Bots;Tools for Bot Development;;smart bot , bot , chat bot;https://hackernoon.com/18-best-tools-for-bot-development-eb083f5894b
+/;hackr news;;news , veille , tuto , site , tool;https://news.ycombinator.com/
+/;Hacker News;;news , veille , tuto , site , tool;http://hckrnews.com/
+/;Upgrade;Site de veille;veille , news , IT;http://upgrade.news/
+Android;The Android Arsenal;;tools , libs;https://android-arsenal.com/
+Android;Android Police;;tools , libs , news , veille;http://www.androidpolice.com/
+Android;Android Pit;;veille , news;http://www.androidpit.fr/
+/;FrAndroid;;veille , news;http://www.frandroid.com/
+/;Clubic;;veille , news;http://www.clubic.com/
+/;Next Inpact;;veille , news;http://www.nextinpact.com/
+/;ZDNet;;veille , news;http://www.zdnet.fr/
+/;Ars Technica;;news , veille , IT;http://arstechnica.com/
+/;TechCrunch;;veille , news , IT;https://techcrunch.com/
+Android;DevMag;;veille , news , IT;http://devmag.fr/
+Web;Blog of Thomas Belin;;blog , veille , news;http://blog.thomasbelin.fr/
+/;Blog of Jeremie Martinez;;blog , veille , news;http://jeremie-martinez.com/
+/;Blog of Cyril Mottier;;blog , veille , news;http://cyrilmottier.com/
+/;9to5Google;;veille , news;https://9to5google.com/
+/;9to5Mac;;veille , news;https://9to5mac.com/
+/;Tech Page One;;veille , news , IT;http://www.techpageone.fr/
+/;How I stay up-to-date as a Developer;;developer , news , up to date;https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82
+/;AndroidPub;The Pub(lication) for Android & Tech, focused on Development;veille , news , Android;https://android.jlelse.eu/
+Bots;api.ai;API.AI for Facebook Messenger Platform;smart bot , bot , chat bot;http://content.api.ai/facebook-messenger-bot
+Bots;Recast.AI;Collaborative Bot Platform;smart bot , bot , chat bot;https://recast.ai/
+Bots;Init.ai;The most powerful way to build, train, and deploy intelligent conversational apps;smart bot , bot , chat bot;https://www.init.ai/
+Bots;LUIS;Language Understanding Intelligent Service (LUIS);smart bot , bot , chat bot;https://www.luis.ai/
+Bots;Kitt AI;;smart bot , bot , chat bot;http://kitt.ai
+Bots;Kik;;smart bot , bot , chat bot;https://dev.kik.com
+Bots;Botkit;Open-source toolkit for creating bots;smart bot , bot , chat bot;https://howdy.ai/botkit/
+Bots;Botlytics;Analytics for your bot;smart bot , bot , chat bot , analytics;http://www.botlytics.co/
