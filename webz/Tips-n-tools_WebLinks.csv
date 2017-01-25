@@ -439,3 +439,6 @@ Java;Java is Unsound: The Industry Perspective;;Java , types , sound & unsound ,
 Android;10 Signs of Technical Debt in your Android app;;technical debts , best practices , code smell;https://android.jlelse.eu/10-signs-of-technical-debt-in-your-android-app-602d9d27bd71#.v16phowai
 /;Free resources to build your next Open Source project;;project , tools , open source;https://hackernoon.com/free-resources-to-build-your-next-open-source-project-36d096c536b5
 Bots;Mirai;Leaked Mirai Source Code for Research/IoC Development Purposes;study , Mirai , research;https://github.com/jgamblin/Mirai-Source-Code
+/;S.O.L.I.D. principles;;dev , pattern , quality , principles , best practices , SOLID;https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea#.r7tyo4qk9
+/;Few simple rules for good coding(my 15 years experience);;dev , pattern , quality , principles , best practices , SOLID;https://android.jlelse.eu/few-simple-rules-to-write-good-code-my-15-years-experience-78a133557ec5#.x2q6jo2kf
+Android;Configure Build Variants with Flavors;;Gradle , build variants , flavor;https://android.jlelse.eu/flavors-386c4a53bf18
