@@ -195,7 +195,6 @@ Kotlin;Lessons from converting an app to 100% Kotlin;;Kotlin , app convert;https
 /;Escaping The Sandbox By Not Breaking It;;Android , iOS , sandbox;https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it
 /;Learn Git with Bitbucket Cloud;;Git , tutorial;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 /;Qualcomm Processors Comparison;;devices , specs , hardware , comparison , snapdragon;https://www.qualcomm.com/products/snapdragon/processors/comparison
-Android;AnTuTu;;devices , specs , hardware , comparison;http://www.antutu.com/en/index.shtml
 Android;Android Foundry;;Android , goodies , geek;http://android-foundry.com/
 /;Hype pulse;;Android , goodies , geek;http://www.hypepulse.com/
 /;PC Mark;Complete performance testing;devices , tests , hardware;https://www.futuremark.com/benchmarks/pcmark
@@ -287,7 +286,7 @@ Android;Exploring the Android Design Support Library : Bottom Navigation View;;
 Android;Android Wear – Design + Code;;Android Wear , view , UI , UX;https://medium.com/@nelmerrosario/android-wear-design-code-2-eb2899d12342#.bslas92nv
 Android;Proguard files : a cautinary tale;;Proguard , security;http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html
 /;Gradle Helpers;;Gradle;https://github.com/brunodles/GradleHelpers
-/;Tout ce qu'il faut savoir sur les SoC et processeurs mobiles;;SoC;http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles
+/;Tout ce qu'il faut savoir sur les SoC et processeurs mobiles;;SoC , CPU , GPU , chips , hardware;http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles
 /;The full stack developer is a myth;;fullstack , dev;https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8
 Android;Android N shortcuts;;UI , shortcuts , deep link;https://catinean.com/2016/10/20/exploring-android-nougat-7-1-app-shortcuts/
 Android;Bye, Bye Burger !;About material design, bottom navigation and the old burger menu;UI , navigation , bottom , burger , material;https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.nrzxqnbha
@@ -445,3 +444,13 @@ Android;Configure Build Variants with Flavors;;Gradle , build variants , flavor;
 Web;Angular vs React — the DEAL BREAKER;;Angular , React , Vue.js;https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc#.toybrih9g
 Android;Bash your way to better Android Development;;Android , dev , adb , bash , shell , terminal;https://jonfhancock.com/bash-your-way-to-better-android-development-1169bc3e0424#.4gefachi0
 Android;Writing your first Android Things driver;;Android Things , driver;https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
+Design;Using @android:color/transparent in gradients;;Android , gradient , colors;https://android.jlelse.eu/android-dev-tip-3-99da754151ad
+Design;FontShop;;fonts;https://www.fontshop.com/search
+Design;Kilm Type Foundry;;fonts;https://klim.co.nz
+Android;Understanding Android Gradle build files;;Gradle;https://medium.com/@wasyl/understanding-android-gradle-build-files-e4b45b73cc4c
+Android;3 Tips for Building Popular Android Instant Apps;;tips , instant apps;http://www.ironsrc.com/news/tips-build-android-instant-apps/
+Android;Passwordless Authentication With Account Kit ;;authentication , security , Account Kit , password , passwordless;https://code.tutsplus.com/tutorials/quick-tip-passwordless-authentication-with-account-kit--cms-28033
+Android;Replicant;Replicant is a fully free Android distribution running on several devices;Android, OS , Replicant;http://www.replicant.us/
+/;MiniFree;Ministry Of Freedom;freedom , privacy , hacks;https://minifree.org/
+/;GitLab vs GitHub. Key differences & similarities;;GitLab , Github;http://usersnap.com/blog/gitlab-github/
+/;SET;Social-Engineer Toolkit;freedom , privacy , RI;https://www.trustedsec.com/social-engineer-toolkit/

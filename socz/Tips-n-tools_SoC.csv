@@ -11,4 +11,6 @@ smartphone / tablet;Qualcomm;Snapdragon 653;Qualcomm Snapdragon X9 LTE;300 Mbps;
 smartphone / tablet;Qualcomm;Snapdragon 625;Qualcomm Snapdragon X9 LTE;300 Mbps;150 Mbps;4.1 , BLE;X;3.0;24 MP;4K Ultra HD;4K Ultra HD;1200 x 1900 , Full HD;ARM Cortex 53;4 + 4;2.0 GHz;64 bits;Qualcomm Adreno 506;Open GL ES
 smartphone / tablet;Samsung;Exynos 8 Octa (8890);?;600 Mbps;150 Mbps;?;?;?;24 MP;4K Ultra HD;4K Ultra HD;4096 x 2160 px , UHD;Samsung custom core , ARM Cortex 53;8;2.3 GHz;64 bits;ARM Mali T880;?
 iPhone 7;Apple;A10 Fusion;?;?;?;4.1 , BLE;?;?;12 MP;4K;4K;?;Apple Twister;4;2.2 GHz;64 bits;?;?
-smartphone;MediaTek;Helio P10;?;?;?;?;?;?;21 MP;?;?;1200 x 1900 , Full HD;Cortex A53;8;2 GHz;64 bits;ARM Mali T860;?
+smartphone;MediaTek;Helio P10;?;?;?;?;?;?;21 MP;?;?;1200 x 1900 , Full HD;ARM Cortex A53;8;2 GHz;64 bits;ARM Mali T860;?
+smartphone;MediaTek;Helio P35;?;?;?;?;?;?;?;?;?;1080p;ARM Cortex-A73 , ARM Cortex-A52 , ARM Cortex-A35;4 + 4 + 2;;;ARM Mali G71;?
+smartphone;Huawei;Kirin 950;?;600 Mbps;150 Mbps;?;?;?;?;?;?;?;ARM Cortex-A73 , ARM Cortex A53;4 + 4;?;?;ARM Mali T880;Vulkan , OpenGL ES , Direct X 12

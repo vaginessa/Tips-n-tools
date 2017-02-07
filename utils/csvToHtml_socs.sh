@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 1.0.0
+# Version.............: 2.0.0
 # Since...............: 28/11/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #			This file must contain several columns: TTarget, Constructor, Name, Modem, Peak download speed, Peak upload speed, Bluetooth, NFC, USB, Camera support max., Video capture max., Video playback max., Display max., CPU, CPU cores number, CPU clock speed max., CPU architecture, GPU, GPU API support
@@ -77,11 +77,19 @@ table, td, .header {
 	color: #ffffff;
 }
 .constructorSamsung {
-	background-color: #2196f3;
+	background-color: #3f51b5;
 	color: #ffffff;
 }
 .constructorApple {
-	background-color: #000000;
+	background-color: #ffeb3b;
+	color: #000000;
+}
+.constructorMediaTek {
+	background-color: #00bcd4;
+	color: #ffffff;
+}
+.constructorHuawei {
+	background-color: #ff9800;
 	color: #ffffff;
 }
 .constructorOther {
@@ -182,7 +190,13 @@ while read -r line; do
 					;;
 					*Apple*)
 						echo "\t\t<td class=\"constructorApple\">" $cleanItem "</td>"	
-					;;					
+					;;
+					*MediaTek*)
+						echo "\t\t<td class=\"constructorMediaTek\">" $cleanItem "</td>"	
+					;;
+					*Huawei*)
+						echo "\t\t<td class=\"constructorHuawei\">" $cleanItem "</td>"	
+					;;										
 					*)
 						echo "\t\t<td class=\"constructorOther\">" $cleanItem "</td>"
 					;;

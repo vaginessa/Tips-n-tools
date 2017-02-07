@@ -540,3 +540,26 @@ Bots;Kik;;smart bot , bot , chat bot;https://dev.kik.com
 Bots;Botkit;Open-source toolkit for creating bots;smart bot , bot , chat bot;https://howdy.ai/botkit/
 Bots;Botlytics;Analytics for your bot;smart bot , bot , chat bot , analytics;http://www.botlytics.co/
 Android;OkHTTP stats;OkHttp Analytical library to get stats like average network speed. Also get global callbacks for network errors and successes;OkHTTP , metrics , stats , network , HTTP;https://github.com/flipkart-incubator/okhttp-stats
+/;Geekbench;;benchmarks , tests , hardware , devices;http://www.geekbench.com/
+/;AnTuTu;;benchmarks , tests , hardware , devices;http://www.antutu.com
+Android;Uber ADB Tools;A tool that enables advanced features through adb installing and uninstalling apps like wildcards and multi device support. Useful if you want to clean your test device from all company apks or install a lot of apks in one go. Written in Java so it should run on your platform.;ADB , tool , dev , devices;https://github.com/patrickfav/uber-adb-tools
+Kotlin;Kluent;Flluent assertions library for Kotlin;assertions;https://github.com/MarkusAmshove/Kluent
+Android;Lottie; Render After Effects animations natively on Android;after effects , animations , rendering;https://github.com/airbnb/lottie-android
+Android;Floating text button; Simple floating button with action text;floating text button , view;https://github.com/dimorinny/floating-text-button
+Android;SharePanel;;share , panel , view;https://github.com/architjn/SharePanel
+Android;Deguard;Statistical Deobfuscation for Android;ProGuard , obfuscation , RI , reverse engineering , tool;http://www.apk-deguard.com/
+Android;Glitch;"A ""glitch effect"" library for Android";glitch , effects , animations;https://github.com/BoD/aLibGlitch
+/;AppRadar;App Marketing like a Pro;app , store , marketing;https://github.com/stepstone-tech/android-material-stepper
+/;Bitrise;;CCI , tool , continuous integration , Jenkins , cloud , service;https://www.bitrise.io/
+Android;Lemniscate; An easy way to make your progress view nice and sleek;view , animations , effect , progress;https://github.com/vlad1m1r990/Lemniscate
+Java;Error prone;Catch common Java mistakes as compile-time errors;Java , errors;https://github.com/google/error-prone
+Android;PreviewSeekBar;A SeekBar suited for showing a preview of something;view , seekbar;https://github.com/rubensousa/PreviewSeekBar
+Android;LayoutSwitch;A sample showing an easy way to make switch animation from list layout to grid layout with RecyclerView;layout , effects;https://github.com/gjiazhe/LayoutSwitch
+Android;ImageTransition;A small android library to transition between a circular ImageView from one Activity to a rectangular ImageView in the launched Activity;transitions , activity;https://github.com/vikramkakkar/ImageTransition
+DevTool;Puppet;;DevOps;https://puppet.com
+DevTool;Bamboo;Bamboo is a continuous integration and delivery tool that ties automated builds, tests, and releases in a single workflow;DevOps , continuous integration, automated builds;https://confluence.atlassian.com/bamboo/bamboo-documentation-home-289276551.html
+DevTool;Vagrant;Create and configure lightweight, reproducible, and portable development environments.;DevOps;https://www.vagrantup.com/
+DevTool;Mattermost;Open source, private cloud Slack-alternative;Slack , chat , channels;https://about.mattermost.com/
+DevTool;APKUDO;;DevOps;https://apkudo.com/
+DevTool;Bitbucket;;DevOps , repository , repo;https://bitbucket.org/
+DevTool;Redmine;;DevOps , forge;http://www.redmine.org/
