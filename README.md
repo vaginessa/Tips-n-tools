@@ -3788,6 +3788,167 @@
 		<td class="keywords"> OkHTTP , metrics , stats , network , HTTP </td>
 		<td class="url"> https://github.com/flipkart-incubator/okhttp-stats </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Geekbench </td>
+		<td class="description"> </td>
+		<td class="keywords"> benchmarks , tests , hardware , devices </td>
+		<td class="url"> http://www.geekbench.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AnTuTu </td>
+		<td class="description"> </td>
+		<td class="keywords"> benchmarks , tests , hardware , devices </td>
+		<td class="url"> http://www.antutu.com </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Uber ADB Tools </td>
+		<td class="description"> A tool that enables advanced features through adb installing and uninstalling apps like wildcards and multi device support. Useful if you want to clean your test device from all company apks or install a lot of apks in one go. Written in Java so it should run on your platform. </td>
+		<td class="keywords"> ADB , tool , dev , devices </td>
+		<td class="url"> https://github.com/patrickfav/uber-adb-tools </td>
+	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> Kluent </td>
+		<td class="description"> Flluent assertions library for Kotlin </td>
+		<td class="keywords"> assertions </td>
+		<td class="url"> https://github.com/MarkusAmshove/Kluent </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Lottie </td>
+		<td class="description"> Render After Effects animations natively on Android </td>
+		<td class="keywords"> after effects , animations , rendering </td>
+		<td class="url"> https://github.com/airbnb/lottie-android </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Floating text button </td>
+		<td class="description"> Simple floating button with action text </td>
+		<td class="keywords"> floating text button , view </td>
+		<td class="url"> https://github.com/dimorinny/floating-text-button </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SharePanel </td>
+		<td class="description"> </td>
+		<td class="keywords"> share , panel , view </td>
+		<td class="url"> https://github.com/architjn/SharePanel </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Deguard </td>
+		<td class="description"> Statistical Deobfuscation for Android </td>
+		<td class="keywords"> ProGuard , obfuscation , RI , reverse engineering , tool </td>
+		<td class="url"> http://www.apk-deguard.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Glitch </td>
+		<td class="description"> A glitch effect library for Android </td>
+		<td class="keywords"> glitch , effects , animations </td>
+		<td class="url"> https://github.com/BoD/aLibGlitch </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> AppRadar </td>
+		<td class="description"> App Marketing like a Pro </td>
+		<td class="keywords"> app , store , marketing </td>
+		<td class="url"> https://github.com/stepstone-tech/android-material-stepper </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Bitrise </td>
+		<td class="description"> </td>
+		<td class="keywords"> CCI , tool , continuous integration , Jenkins , cloud , service </td>
+		<td class="url"> https://www.bitrise.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Lemniscate </td>
+		<td class="description"> An easy way to make your progress view nice and sleek </td>
+		<td class="keywords"> view , animations , effect , progress </td>
+		<td class="url"> https://github.com/vlad1m1r990/Lemniscate </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Error prone </td>
+		<td class="description"> Catch common Java mistakes as compile-time errors </td>
+		<td class="keywords"> Java , errors </td>
+		<td class="url"> https://github.com/google/error-prone </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PreviewSeekBar </td>
+		<td class="description"> A SeekBar suited for showing a preview of something </td>
+		<td class="keywords"> view , seekbar </td>
+		<td class="url"> https://github.com/rubensousa/PreviewSeekBar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> LayoutSwitch </td>
+		<td class="description"> A sample showing an easy way to make switch animation from list layout to grid layout with RecyclerView </td>
+		<td class="keywords"> layout , effects </td>
+		<td class="url"> https://github.com/gjiazhe/LayoutSwitch </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ImageTransition </td>
+		<td class="description"> A small android library to transition between a circular ImageView from one Activity to a rectangular ImageView in the launched Activity </td>
+		<td class="keywords"> transitions , activity </td>
+		<td class="url"> https://github.com/vikramkakkar/ImageTransition </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Puppet </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps </td>
+		<td class="url"> https://puppet.com </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Bamboo </td>
+		<td class="description"> Bamboo is a continuous integration and delivery tool that ties automated builds, tests, and releases in a single workflow </td>
+		<td class="keywords"> DevOps , continuous integration, automated builds </td>
+		<td class="url"> https://confluence.atlassian.com/bamboo/bamboo-documentation-home-289276551.html </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Vagrant </td>
+		<td class="description"> Create and configure lightweight, reproducible, and portable development environments. </td>
+		<td class="keywords"> DevOps </td>
+		<td class="url"> https://www.vagrantup.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Mattermost </td>
+		<td class="description"> Open source, private cloud Slack-alternative </td>
+		<td class="keywords"> Slack , chat , channels </td>
+		<td class="url"> https://about.mattermost.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> APKUDO </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps </td>
+		<td class="url"> https://apkudo.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Bitbucket </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , repository , repo </td>
+		<td class="url"> https://bitbucket.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Redmine </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , forge </td>
+		<td class="url"> http://www.redmine.org/ </td>
+	</tr>
 </table>
 
 
@@ -5140,13 +5301,6 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> AnTuTu </td>
-		<td class="description"> </td>
-		<td class="keywords"> devices , specs , hardware , comparison </td>
-		<td class="url"> http://www.antutu.com/en/index.shtml </td>
-	</tr>
-	<tr>
-		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Android Foundry </td>
 		<td class="description"> </td>
 		<td class="keywords"> Android , goodies , geek </td>
@@ -5782,7 +5936,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Tout ce qu'il faut savoir sur les SoC et processeurs mobiles </td>
 		<td class="description"> </td>
-		<td class="keywords"> SoC </td>
+		<td class="keywords"> SoC , CPU , GPU , chips , hardware </td>
 		<td class="url"> http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles </td>
 	</tr>
 	<tr>
@@ -6872,6 +7026,83 @@
 		<td class="keywords"> Android Things , driver </td>
 		<td class="url"> https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Using @android:color/transparent in gradients </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , gradient , colors </td>
+		<td class="url"> https://android.jlelse.eu/android-dev-tip-3-99da754151ad </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> FontShop </td>
+		<td class="description"> </td>
+		<td class="keywords"> fonts </td>
+		<td class="url"> https://www.fontshop.com/search </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Kilm Type Foundry </td>
+		<td class="description"> </td>
+		<td class="keywords"> fonts </td>
+		<td class="url"> https://klim.co.nz </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Understanding Android Gradle build files </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle </td>
+		<td class="url"> https://medium.com/@wasyl/understanding-android-gradle-build-files-e4b45b73cc4c </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> 3 Tips for Building Popular Android Instant Apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> tips , instant apps </td>
+		<td class="url"> http://www.ironsrc.com/news/tips-build-android-instant-apps/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Passwordless Authentication With Account Kit </td>
+		<td class="description"> </td>
+		<td class="keywords"> authentication , security , Account Kit , password , passwordless </td>
+		<td class="url"> https://code.tutsplus.com/tutorials/quick-tip-passwordless-authentication-with-account-kit--cms-28033 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Replicant </td>
+		<td class="description"> Replicant is a fully free Android distribution running on several devices </td>
+		<td class="keywords"> Android, OS , Replicant </td>
+		<td class="url"> http://www.replicant.us/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MiniFree </td>
+		<td class="description"> Ministry Of Freedom </td>
+		<td class="keywords"> freedom , privacy , hacks </td>
+		<td class="url"> https://minifree.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> GitLab vs GitHub. Key differences & similarities </td>
+		<td class="description"> </td>
+		<td class="keywords"> GitLab , Github </td>
+		<td class="url"> http://usersnap.com/blog/gitlab-github/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> SET </td>
+		<td class="description"> Social-Engineer Toolkit </td>
+		<td class="keywords"> freedom , privacy , RI </td>
+		<td class="url"> https://www.trustedsec.com/social-engineer-toolkit/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Open GAPPS </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google Apps, Gapps </td>
+		<td class="url"> http://opengapps.org/ </td>
+	</tr>
 </table>
 
 
@@ -7053,7 +7284,7 @@
 		<td class="battery"> 2550 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
 		<td class="ram"> 3 GB </td>
-		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.95mm x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
+		<td class="camera"> Sony IMX240 RS Exmor CMOS f/1.9 5.9 x 3.35 mm 1.12 µm 15.87 MP (back) , 8.29 MP (front) </td>
 		<td class="dimensions"> 143.4 x 70.5 x 6.8 mm </td>
 		<td class="usbtype"> 138 g </td>
 		<td class="weight"> no </td>
@@ -7800,6 +8031,29 @@
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Vertu </td>
+		<td class="name"> Constellation (2017) </td>
+		<td class="screensize"> 5.5 '' </td>
+		<td class="screentype"> AMOLED </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 820 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , fingerprint , Bluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 3220 mAh , Li-ion </td>
+		<td class="storage"> 128 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS BSI f/2.0 6.25 x 4.65 mm 12.19 MP (bach) , 4.13 MP (front) </td>
+		<td class="dimensions"> 161.5 x 77 x 10 mm </td>
+		<td class="usbtype"> 241 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfIOS"> iOS </td>
 		<td class="constructor"> Apple </td>
 		<td class="name"> iPhone 6S </td>
@@ -8439,7 +8693,7 @@
 		<td class="weight"> ? </td>
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
-		<td class="sim"> on </td>
+		<td class="sim"> no </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
@@ -8469,24 +8723,70 @@
 		<td class="typeBox"> box </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Nvidia </td>
-		<td class="name"> Shield Android TV </td>
+		<td class="name"> Shield Android TV (2017) </td>
 		<td class="screensize"> no </td>
 		<td class="screentype"> no </td>
 		<td class="screenresolution"> no </td>
 		<td class="soc"> Nvidia Tegra x1 </td>
 		<td class="gpu"> Maxwell (256 CUDA core) </td>
-		<td class="sensors"> no </td>
+		<td class="sensors"> Bluetooth 4.1 , BLE , WiFi , HDMI , Gigabit Ethernet </td>
 		<td class="battery"> no </td>
-		<td class="storage"> 3 GB </td>
-		<td class="ram"> 16 GB </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 3 GB </td>
 		<td class="camera"> no </td>
 		<td class="dimensions"> 210 x 130 x 25 mm </td>
 		<td class="usbtype"> 654 g </td>
 		<td class="weight"> no </td>
-		<td class="ip"> micro USB , USB 3.0 </td>
-		<td class="sdcard"> ? </td>
+		<td class="ip"> USB 2.0 , microUSB 3.0 </td>
+		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
 		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeBox"> box </td>
+		<td class="pfOther"> ? </td>
+		<td class="constructor"> Razer </td>
+		<td class="name"> Razer Forge TV </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> Snapdragon 805 </td>
+		<td class="gpu"> Qualcomm Adreno 420 </td>
+		<td class="sensors"> WiFi , HDMI , Gigabit Ethernet </td>
+		<td class="battery"> no </td>
+		<td class="storage"> 16 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 105 x 105 x 17 mm </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> no </td>
+		<td class="ip"> USB 2.0 , microUSB 3.0 </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+		<td class="ui"> / </td>
+	</tr>
+	<tr>
+		<td class="typeBox"> box </td>
+		<td class="pfOther"> tvOS </td>
+		<td class="constructor"> Apple </td>
+		<td class="name"> Apple TV </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> A8 </td>
+		<td class="gpu"> PowerVR GX6450 </td>
+		<td class="sensors"> Bluetooth 4.0 , WiFi , HDMI , Gigabit Ethernet </td>
+		<td class="battery"> no </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 33 x 99 x 99 mm </td>
+		<td class="usbtype"> 425 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> microUSB C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 </table>
 
@@ -8664,7 +8964,7 @@
 	</tr>
 	<tr>
 		<td class="targetSmartphone"> smartphone </td>
-		<td class="constructorOther"> MediaTek </td>
+		<td class="constructorMediaTek"> MediaTek </td>
 		<td class="name"> Helio P10 </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> ? </td>
@@ -8676,11 +8976,53 @@
 		<td class="vcm"> ? </td>
 		<td class="vpm"> ? </td>
 		<td class="dm"> 1200 x 1900 , Full HD </td>
-		<td class="cpu"> Cortex A53 </td>
+		<td class="cpu"> ARM Cortex A53 </td>
 		<td class="cpucn"> 8 </td>
 		<td class="cpucsm"> 2 GHz </td>
 		<td class="cpua"> 64 bits </td>
 		<td class="gpu"> ARM Mali T860 </td>
 		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorMediaTek"> MediaTek </td>
+		<td class="name"> Helio P35 </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> ? </td>
+		<td class="pus"> ? </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> 1080p </td>
+		<td class="cpu"> ARM Cortex-A73 , ARM Cortex-A52 , ARM Cortex-A35 </td>
+		<td class="cpucn"> 4 + 4 + 2 </td>
+		<td class="cpucsm"> </td>
+		<td class="cpua"> </td>
+		<td class="gpu"> ARM Mali G71 </td>
+		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorHuawei"> Huawei </td>
+		<td class="name"> Kirin 950 </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> 600 Mbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> ? </td>
+		<td class="cpu"> ARM Cortex-A73 , ARM Cortex A53 </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> ? </td>
+		<td class="cpua"> ? </td>
+		<td class="gpu"> ARM Mali T880 </td>
+		<td class="gpuas"> Vulkan , OpenGL ES , Direct X 12 </td>
 	</tr>
 </table>
