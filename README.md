@@ -3949,6 +3949,48 @@
 		<td class="keywords"> DevOps , forge </td>
 		<td class="url"> http://www.redmine.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Vowkswagen </td>
+		<td class="description"> :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass. </td>
+		<td class="keywords"> CI , lulz , VW </td>
+		<td class="url"> https://github.com/auchenberg/volkswagen </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Fetch </td>
+		<td class="description"> A better in app Download Manager for Android </td>
+		<td class="keywords"> download manager , file </td>
+		<td class="url"> https://github.com/tonyofrancis/Fetch </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> KerningViews </td>
+		<td class="description"> Provides a set of views which allows to adjust the spacing between the characters in the text of that view, also known as Kerning effect. </td>
+		<td class="keywords"> kerning , effects , swpaces , texts </td>
+		<td class="url"> https://github.com/aritraroy/KerningViews </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Cuck </td>
+		<td class="description"> An in-app HTTP inspector for Android OkHttp clients </td>
+		<td class="keywords"> HTTP , OkHTTP , inspector </td>
+		<td class="url"> https://github.com/jgilfelt/chuck </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CoordinatorTabLayout </td>
+		<td class="description"> Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout </td>
+		<td class="keywords"> UI , views , coordinator , tab , layout </td>
+		<td class="url"> https://github.com/hugeterry/CoordinatorTabLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Coordinators </td>
+		<td class="description"> Simple MVWhatever for Android </td>
+		<td class="keywords"> design pattern , MV, Mvx, coordination </td>
+		<td class="url"> https://github.com/square/coordinators </td>
+	</tr>
 </table>
 
 
@@ -7102,6 +7144,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Google Apps, Gapps </td>
 		<td class="url"> http://opengapps.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Building a Music Player App for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> tuto </td>
+		<td class="url"> http://sapandiwakar.in/building-a-music-player-app-for-android/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Coordinators: solving a problem you didn’t even know you had </td>
+		<td class="description"> </td>
+		<td class="keywords"> design pattern , MV, Mvx, coordination </td>
+		<td class="url"> https://hackernoon.com/coordinators-solving-a-problem-you-didnt-even-know-you-had-e86623f15eb </td>
 	</tr>
 </table>
 

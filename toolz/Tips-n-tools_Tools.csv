@@ -563,3 +563,9 @@ DevTool;Mattermost;Open source, private cloud Slack-alternative;Slack , chat , c
 DevTool;APKUDO;;DevOps;https://apkudo.com/
 DevTool;Bitbucket;;DevOps , repository , repo;https://bitbucket.org/
 DevTool;Redmine;;DevOps , forge;http://www.redmine.org/
+JavaScript;Vowkswagen; :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.;CI , lulz , VW;https://github.com/auchenberg/volkswagen
+Android;Fetch; A better in app Download Manager for Android;download manager , file;https://github.com/tonyofrancis/Fetch
+Android;KerningViews; Provides a set of views which allows to adjust the spacing between the characters in the text of that view, also known as Kerning effect. ;kerning , effects , swpaces , texts;https://github.com/aritraroy/KerningViews
+Android;Cuck;An in-app HTTP inspector for Android OkHttp clients;HTTP , OkHTTP , inspector;https://github.com/jgilfelt/chuck
+Android;CoordinatorTabLayout;Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout;UI , views , coordinator , tab , layout;https://github.com/hugeterry/CoordinatorTabLayout
+Android;Coordinators;Simple MVWhatever for Android;design pattern , MV, Mvx, coordination;https://github.com/square/coordinators
