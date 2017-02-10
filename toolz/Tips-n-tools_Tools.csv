@@ -569,3 +569,5 @@ Android;KerningViews; Provides a set of views which allows to adjust the spacing
 Android;Cuck;An in-app HTTP inspector for Android OkHttp clients;HTTP , OkHTTP , inspector;https://github.com/jgilfelt/chuck
 Android;CoordinatorTabLayout;Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout;UI , views , coordinator , tab , layout;https://github.com/hugeterry/CoordinatorTabLayout
 Android;Coordinators;Simple MVWhatever for Android;design pattern , MV, Mvx, coordination;https://github.com/square/coordinators
+Android;Louvre;A small customizable library useful to handle an gallery image pick action built-in your app;UI , view , gallery;https://github.com/andremion/Louvre
+Android;AwesomeBar;Just beautiful action bar;UI , view , action bar;https://github.com/florent37/AwesomeBar

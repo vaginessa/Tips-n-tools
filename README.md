@@ -3991,6 +3991,20 @@
 		<td class="keywords"> design pattern , MV, Mvx, coordination </td>
 		<td class="url"> https://github.com/square/coordinators </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Louvre </td>
+		<td class="description"> A small customizable library useful to handle an gallery image pick action built-in your app </td>
+		<td class="keywords"> UI , view , gallery </td>
+		<td class="url"> https://github.com/andremion/Louvre </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AwesomeBar </td>
+		<td class="description"> Just beautiful action bar </td>
+		<td class="keywords"> UI , view , action bar </td>
+		<td class="url"> https://github.com/florent37/AwesomeBar </td>
+	</tr>
 </table>
 
 
@@ -7158,6 +7172,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> design pattern , MV, Mvx, coordination </td>
 		<td class="url"> https://hackernoon.com/coordinators-solving-a-problem-you-didnt-even-know-you-had-e86623f15eb </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> When to NOT use RxJava </td>
+		<td class="description"> Should I use RxJava or not ? </td>
+		<td class="keywords"> RxJava , best practices </td>
+		<td class="url"> http://konmik.com/post/when_to_not_use_rxjava/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Introduction to Functional Reactive Programming </td>
+		<td class="description"> Make reactive programming without RxJava and with functional aspecs </td>
+		<td class="keywords"> reactive programming , RxJava , functional programming </td>
+		<td class="url"> https://speakerdeck.com/dlew/introduction-to-functional-reactive-programming </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Things: Electronics 101 </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Things , Android </td>
+		<td class="url"> https://medium.com/exploring-android/android-things-electronics-101-e7e5cd2f327 </td>
 	</tr>
 </table>
 
