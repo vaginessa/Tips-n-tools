@@ -460,3 +460,6 @@ Android;Coordinators: solving a problem you didn’t even know you had;;design p
 Java;When to NOT use RxJava;Should I use RxJava or not ?;RxJava , best practices;http://konmik.com/post/when_to_not_use_rxjava/
 Java;Introduction to Functional Reactive Programming;Make reactive programming without RxJava and with functional aspecs;reactive programming , RxJava , functional programming;https://speakerdeck.com/dlew/introduction-to-functional-reactive-programming
 Android;Android Things: Electronics 101;;Android Things , Android;https://medium.com/exploring-android/android-things-electronics-101-e7e5cd2f327
+/;Open Observatory of Network Interference;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/
+/;Open Observatory of Network Interference app;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/post/ooni-mobile-app/
+Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo ;Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo;https://github.com/ravidsrk/android-mvp-starter

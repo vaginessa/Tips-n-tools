@@ -571,3 +571,13 @@ Android;CoordinatorTabLayout;Combination of TabLayout and CoordinatorLayout./Tab
 Android;Coordinators;Simple MVWhatever for Android;design pattern , MV, Mvx, coordination;https://github.com/square/coordinators
 Android;Louvre;A small customizable library useful to handle an gallery image pick action built-in your app;UI , view , gallery;https://github.com/andremion/Louvre
 Android;AwesomeBar;Just beautiful action bar;UI , view , action bar;https://github.com/florent37/AwesomeBar
+/;Measurement Kit;;OONI , TOR , privacy , security , network , FOSS , censorship;https://github.com/measurement-kit/measurement-kit
+/;OONI probe Android;;OONI , TOR , privacy , security , network , FOSS , censorship , probe;https://github.com/TheTorProject/ooniprobe-android
+/;SQLite browser;;BDD , DB , database , SQLite;https://github.com/sqlitebrowser/sqlitebrowser
+Android;Debug bottle;Debug Bottle is an Android runtime debug / develop tools written using kotlin langage;debug;https://github.com/kiruto/debug-bottle
+Android;Timber; A logger with a small, extensible API which provides utility on top of Android's normal Log class.;debug , logs;https://github.com/JakeWharton/timber
+Android;Butterknife;Bind Android views and callbacks to fields and methods;view , binder;https://github.com/JakeWharton/butterknife
+Android;Dagger;Dagger is a fully static, compile-time dependency injection framework for both Java and Android. It is an adaptation of an earlier version created by Square and now maintained by Google.;injection , dependancies , framework , views;https://google.github.io/dagger/
+Android;Glide;An image loading and caching library for Android focused on smooth scrolling;image caching , smooth scrolling , image loading;https://github.com/bumptech/glide
+Android;Stetho;A debug bridge for Android applications;Facebook , debug , bridge;http://facebook.github.io/stetho/
+Java;JaCoCo;;code , overage , Java;http://www.eclemma.org/jacoco/

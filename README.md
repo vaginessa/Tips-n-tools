@@ -4005,6 +4005,76 @@
 		<td class="keywords"> UI , view , action bar </td>
 		<td class="url"> https://github.com/florent37/AwesomeBar </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Measurement Kit </td>
+		<td class="description"> </td>
+		<td class="keywords"> OONI , TOR , privacy , security , network , FOSS , censorship </td>
+		<td class="url"> https://github.com/measurement-kit/measurement-kit </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OONI probe Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> OONI , TOR , privacy , security , network , FOSS , censorship , probe </td>
+		<td class="url"> https://github.com/TheTorProject/ooniprobe-android </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> SQLite browser </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , DB , database , SQLite </td>
+		<td class="url"> https://github.com/sqlitebrowser/sqlitebrowser </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Debug bottle </td>
+		<td class="description"> Debug Bottle is an Android runtime debug / develop tools written using kotlin langage </td>
+		<td class="keywords"> debug </td>
+		<td class="url"> https://github.com/kiruto/debug-bottle </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Timber </td>
+		<td class="description"> A logger with a small, extensible API which provides utility on top of Android's normal Log class. </td>
+		<td class="keywords"> debug , logs </td>
+		<td class="url"> https://github.com/JakeWharton/timber </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Butterknife </td>
+		<td class="description"> Bind Android views and callbacks to fields and methods </td>
+		<td class="keywords"> view , binder </td>
+		<td class="url"> https://github.com/JakeWharton/butterknife </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Dagger </td>
+		<td class="description"> Dagger is a fully static, compile-time dependency injection framework for both Java and Android. It is an adaptation of an earlier version created by Square and now maintained by Google. </td>
+		<td class="keywords"> injection , dependancies , framework , views </td>
+		<td class="url"> https://google.github.io/dagger/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Glide </td>
+		<td class="description"> An image loading and caching library for Android focused on smooth scrolling </td>
+		<td class="keywords"> image caching , smooth scrolling , image loading </td>
+		<td class="url"> https://github.com/bumptech/glide </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Stetho </td>
+		<td class="description"> A debug bridge for Android applications </td>
+		<td class="keywords"> Facebook , debug , bridge </td>
+		<td class="url"> http://facebook.github.io/stetho/ </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> JaCoCo </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , overage , Java </td>
+		<td class="url"> http://www.eclemma.org/jacoco/ </td>
+	</tr>
 </table>
 
 
@@ -7193,6 +7263,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android Things , Android </td>
 		<td class="url"> https://medium.com/exploring-android/android-things-electronics-101-e7e5cd2f327 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Open Observatory of Network Interference </td>
+		<td class="description"> </td>
+		<td class="keywords"> OONI , TOR , privacy , security , network , FOSS , censorship </td>
+		<td class="url"> https://ooni.torproject.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Open Observatory of Network Interference app </td>
+		<td class="description"> </td>
+		<td class="keywords"> OONI , TOR , privacy , security , network , FOSS , censorship </td>
+		<td class="url"> https://ooni.torproject.org/post/ooni-mobile-app/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android MVP starter </td>
+		<td class="description"> Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo </td>
+		<td class="keywords"> Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo </td>
+		<td class="url"> https://github.com/ravidsrk/android-mvp-starter </td>
 	</tr>
 </table>
 
