@@ -581,3 +581,7 @@ Android;Dagger;Dagger is a fully static, compile-time dependency injection frame
 Android;Glide;An image loading and caching library for Android focused on smooth scrolling;image caching , smooth scrolling , image loading;https://github.com/bumptech/glide
 Android;Stetho;A debug bridge for Android applications;Facebook , debug , bridge;http://facebook.github.io/stetho/
 Java;JaCoCo;;code , overage , Java;http://www.eclemma.org/jacoco/
+Dart;Flutter;Flutter is a new project to help developers build high-performance, high-fidelity, mobile apps for iOS and Android from a single codebase.;Flutter , Dart;https://flutter.io/
+Dart;Dart;;Dart;https://www.dartlang.org/
+Rust;Rust;Rust est un langage de programmation système ultra-rapide, qui prévient les erreurs de segmentation et garantit la sûreté entre threads. ;Rust;https://www.rust-lang.org/fr/
+Android;Image magnifier;;UI , view , image , zoom;https://github.com/nomanr/android-image-magnifier

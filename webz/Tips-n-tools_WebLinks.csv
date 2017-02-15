@@ -463,3 +463,6 @@ Android;Android Things: Electronics 101;;Android Things , Android;https://medium
 /;Open Observatory of Network Interference;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/
 /;Open Observatory of Network Interference app;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/post/ooni-mobile-app/
 Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo ;Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo;https://github.com/ravidsrk/android-mvp-starter
+/;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
+/;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
+Web;Mojo;This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl.;Chromium , Mojo;https://www.chromium.org/developers/design-documents/mojo

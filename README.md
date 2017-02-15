@@ -4075,6 +4075,34 @@
 		<td class="keywords"> code , overage , Java </td>
 		<td class="url"> http://www.eclemma.org/jacoco/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDart"> Dart </td>
+		<td class="name"> Flutter </td>
+		<td class="description"> Flutter is a new project to help developers build high-performance, high-fidelity, mobile apps for iOS and Android from a single codebase. </td>
+		<td class="keywords"> Flutter , Dart </td>
+		<td class="url"> https://flutter.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDart"> Dart </td>
+		<td class="name"> Dart </td>
+		<td class="description"> </td>
+		<td class="keywords"> Dart </td>
+		<td class="url"> https://www.dartlang.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectRust"> Rust </td>
+		<td class="name"> Rust </td>
+		<td class="description"> Rust est un langage de programmation système ultra-rapide, qui prévient les erreurs de segmentation et garantit la sûreté entre threads. </td>
+		<td class="keywords"> Rust </td>
+		<td class="url"> https://www.rust-lang.org/fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Image magnifier </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , image , zoom </td>
+		<td class="url"> https://github.com/nomanr/android-image-magnifier </td>
+	</tr>
 </table>
 
 
@@ -7284,6 +7312,27 @@
 		<td class="description"> Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo </td>
 		<td class="keywords"> Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo </td>
 		<td class="url"> https://github.com/ravidsrk/android-mvp-starter </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google’s not-so-secret new OS </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , Magenta , Andromeda , OS </td>
+		<td class="url"> https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Fuchsia Google Source </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , Magenta , Andromeda , OS </td>
+		<td class="url"> https://fuchsia.googlesource.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Mojo </td>
+		<td class="description"> This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl. </td>
+		<td class="keywords"> Chromium , Mojo </td>
+		<td class="url"> https://www.chromium.org/developers/design-documents/mojo </td>
 	</tr>
 </table>
 
