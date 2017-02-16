@@ -466,3 +466,6 @@ Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2
 /;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
 /;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
 Web;Mojo;This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl.;Chromium , Mojo;https://www.chromium.org/developers/design-documents/mojo
+/;The 9 Types of Programmers and Why Some are Better than Others;;medium;https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e
+/;How I stay up-to-date as a Developer;;medium;https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82
+/;Seniority;;medium;https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b
