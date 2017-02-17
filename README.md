@@ -1661,6 +1661,34 @@
 		<td class="url"> https://github.com/telegramdesktop/tdesktop </td>
 	</tr>
 	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Adblock Plus </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://adblockplus.org/fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Ghostery </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://addons.mozilla.org/fr/firefox/addon/ghostery/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Privacy Badger </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://www.eff.org/fr/privacybadger </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> NoScript </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy </td>
+		<td class="url"> https://addons.mozilla.org/fr/firefox/addon/noscript/ </td>
+	</tr>
+	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Silence </td>
 		<td class="description"> A fork of Signal with only SMS/MMS encryption </td>
@@ -7354,6 +7382,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> medium </td>
 		<td class="url"> https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Electronic Frontier Foundation </td>
+		<td class="description"> </td>
+		<td class="keywords"> privacy , EFF </td>
+		<td class="url"> https://www.eff.org/ </td>
 	</tr>
 </table>
 

@@ -236,6 +236,10 @@ Java;Kryo;Java serialization and cloning : fast, efficient, automatic;storage ,
 Android;Telegram;Telegram Messenger for Android;Telegram , app , security , privacy , FOSS;https://github.com/DrKLO/Telegram
 Web;Telegram; Telegram web application, GPL v3;Telegram , app , security , privacy , FOSS;https://github.com/zhukov/webogram
 /;Telegram;Telegram Desktop messaging app;Telegram , app , security , privacy , FOSS;https://github.com/telegramdesktop/tdesktop
+/;Adblock Plus;;privacy;https://adblockplus.org/fr/
+/;Ghostery;;privacy;https://addons.mozilla.org/fr/firefox/addon/ghostery/
+/;Privacy Badger;;privacy;https://www.eff.org/fr/privacybadger
+/;NoScript;;privacy;https://addons.mozilla.org/fr/firefox/addon/noscript/
 Android;Silence;A fork of Signal with only SMS/MMS encryption;app , security , privacy , FOSS;https://github.com/SilenceIM/Silence
 Android;Tor;Somes links to TOR tools;app , security , privacy , FOSS;https://github.com/guardianproject/tor-browser     https://github.com/amoghbl1/tor-browser    https://github.com/guardianproject/Orfox https://github.com/n8fr8/OrfoxFennec
 Android;FilpAnimation;Simple example for flip animation;animation , flip;https://github.com/4xes/FlipAnimation
