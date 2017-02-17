@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 14.0.0
+# Version.............: 15.0.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -109,6 +109,11 @@ table, td, .header {
 .subjectDart {
 	background-color: #64ffda;
 	color: #000000;
+}
+.subjectAi {
+	background-color: #000000;
+	color: #00bcd4;
+	border: 1px solid #ffffff; 
 }
 .name {
 	text-align: center;
@@ -230,6 +235,9 @@ while read -r line; do
 					;;
 					*Dart*)
 						echo "\t\t<td class=\"subjectDart\">" $cleanItem "</td>"
+					;;
+					*AI*)
+						echo "\t\t<td class=\"subjectAi\">" $cleanItem "</td>"
 					;;
 					*)
 						echo "\t\t<td class=\"subjectOther\">" $cleanItem "</td>"
