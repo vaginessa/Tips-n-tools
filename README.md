@@ -4145,6 +4145,41 @@
 		<td class="keywords"> AI , IA , Google , machine intelligence , neural networks </td>
 		<td class="url"> https://github.com/tensorflow </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> iOS2androidres </td>
+		<td class="description"> Copy iOS image resources to their appropriate Android directory </td>
+		<td class="keywords"> res , drawables , images , icons , iOS , Android </td>
+		<td class="url"> https://github.com/jordanjoz1/ios2androidres </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Codecov </td>
+		<td class="description"> Code coverage done right </td>
+		<td class="keywords"> code , coverage , quality </td>
+		<td class="url"> https://github.com/codecov </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> NewHandwave </td>
+		<td class="description"> </td>
+		<td class="keywords"> camera , gestures , recognition , moves , hands </td>
+		<td class="url"> https://github.com/Koalified/NewHandwave </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google beacons </td>
+		<td class="description"> </td>
+		<td class="keywords"> beacons </td>
+		<td class="url"> https://developers.google.com/beacons/overview </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google beacons : Eddystone </td>
+		<td class="description"> </td>
+		<td class="keywords"> beacons , Eddystone </td>
+		<td class="url"> https://developers.google.com/beacons/eddystone </td>
+	</tr>
 </table>
 
 
@@ -7380,7 +7415,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> The 9 Types of Programmers and Why Some are Better than Others </td>
 		<td class="description"> </td>
-		<td class="keywords"> medium </td>
+		<td class="keywords"> medium , programmers , developers , </td>
 		<td class="url"> https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e </td>
 	</tr>
 	<tr>
@@ -7394,7 +7429,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Seniority </td>
 		<td class="description"> </td>
-		<td class="keywords"> medium </td>
+		<td class="keywords"> Medium , seniority , skills , senior , old but up-to-date dev </td>
 		<td class="url"> https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b </td>
 	</tr>
 	<tr>
@@ -7403,6 +7438,69 @@
 		<td class="description"> </td>
 		<td class="keywords"> privacy , EFF </td>
 		<td class="url"> https://www.eff.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Managing Launcher Shortcuts </td>
+		<td class="description"> </td>
+		<td class="keywords"> launcher , shortcuts </td>
+		<td class="url"> http://daniel-stone.uk/2017/02/03/managing-launcher-shortcuts.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> JaCoCo </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , coverage , quality , JaCoCo , Java , Gradle </td>
+		<td class="url"> https://docs.gradle.org/current/userguide/jacoco_plugin.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Android Globalization Best Practices </td>
+		<td class="description"> </td>
+		<td class="keywords"> i18n , internationalization , g11n , globalization , translations , langages , localization , cultures </td>
+		<td class="url"> https://barmij.ly/Academy/Articles/Read/Android-Globalization-Best-Practices </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Nearby Messages with Beacons </td>
+		<td class="description"> </td>
+		<td class="keywords"> API Nearby , beacons , nearby messages </td>
+		<td class="url"> https://medium.com/@pjwelcome/nearby-messages-with-beacons-8a075dde20f0 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Supporting Different Languages and Cultures </td>
+		<td class="description"> </td>
+		<td class="keywords"> i18n , internationalization , g11n , globalization , translations , langages , localization , cultures </td>
+		<td class="url"> https://developer.android.com/training/basics/supporting-devices/languages.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Localization Checklist </td>
+		<td class="description"> </td>
+		<td class="keywords"> i18n , internationalization , g11n , globalization , translations , langages , localization , cultures </td>
+		<td class="url"> https://developer.android.com/distribute/tools/localization-checklist.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android NDK passing complex data not so scary anymore </td>
+		<td class="description"> </td>
+		<td class="keywords"> NDK , native call , Android </td>
+		<td class="url"> https://medium.com/vorm/android-ndk-passing-complex-data-not-so-scary-anymore-fff1123537c6 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Android developer — bored at work? </td>
+		<td class="description"> </td>
+		<td class="keywords"> bored , nothing to do </td>
+		<td class="url"> https://medium.com/@josiassena/android-developer-bored-at-work-efa0530415c4 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The best way to learn new technologies is by doing. Here’s some inspiration. </td>
+		<td class="description"> </td>
+		<td class="keywords"> learn , technologies </td>
+		<td class="url"> https://hackernoon.com/the-best-way-to-learn-new-technologies-is-by-doing-heres-some-inspiration-6ca144216790 </td>
 	</tr>
 </table>
 

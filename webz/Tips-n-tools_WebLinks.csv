@@ -466,7 +466,16 @@ Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2
 /;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
 /;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
 Web;Mojo;This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl.;Chromium , Mojo;https://www.chromium.org/developers/design-documents/mojo
-/;The 9 Types of Programmers and Why Some are Better than Others;;medium;https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e
+/;The 9 Types of Programmers and Why Some are Better than Others;;medium , programmers , developers , ;https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e
 /;How I stay up-to-date as a Developer;;medium;https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82
-/;Seniority;;medium;https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b
+/;Seniority;;Medium , seniority , skills , senior , old but up-to-date dev;https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b
 /;Electronic Frontier Foundation;;privacy , EFF;https://www.eff.org/
+Android;Managing Launcher Shortcuts;;launcher , shortcuts;http://daniel-stone.uk/2017/02/03/managing-launcher-shortcuts.html
+/;JaCoCo;;code , coverage , quality , JaCoCo , Java , Gradle;https://docs.gradle.org/current/userguide/jacoco_plugin.html
+/;Android Globalization Best Practices;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://barmij.ly/Academy/Articles/Read/Android-Globalization-Best-Practices
+Android;Nearby Messages with Beacons;;API Nearby , beacons , nearby messages;https://medium.com/@pjwelcome/nearby-messages-with-beacons-8a075dde20f0
+Android;Supporting Different Languages and Cultures;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://developer.android.com/training/basics/supporting-devices/languages.html
+Android;Localization Checklist;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://developer.android.com/distribute/tools/localization-checklist.html
+Android;Android NDK passing complex data not so scary anymore;;NDK , native call , Android;https://medium.com/vorm/android-ndk-passing-complex-data-not-so-scary-anymore-fff1123537c6
+/;Android developer — bored at work?;;bored , nothing to do;https://medium.com/@josiassena/android-developer-bored-at-work-efa0530415c4
+/;The best way to learn new technologies is by doing. Here’s some inspiration.;;learn ,  technologies;https://hackernoon.com/the-best-way-to-learn-new-technologies-is-by-doing-heres-some-inspiration-6ca144216790
