@@ -596,3 +596,4 @@ Design;iOS2androidres; Copy iOS image resources to their appropriate Android dir
 Android;NewHandwave;;camera , gestures , recognition , moves , hands;https://github.com/Koalified/NewHandwave
 /;Google beacons;;beacons;https://developers.google.com/beacons/overview
 /;Google beacons : Eddystone;;beacons , Eddystone;https://developers.google.com/beacons/eddystone
+Android;Alerter; An Android Alerting Library;UI , view , alert;https://github.com/Tapadoo/Alerter

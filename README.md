@@ -4180,6 +4180,13 @@
 		<td class="keywords"> beacons , Eddystone </td>
 		<td class="url"> https://developers.google.com/beacons/eddystone </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Alerter </td>
+		<td class="description"> An Android Alerting Library </td>
+		<td class="keywords"> UI , view , alert </td>
+		<td class="url"> https://github.com/Tapadoo/Alerter </td>
+	</tr>
 </table>
 
 
@@ -7501,6 +7508,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> learn , technologies </td>
 		<td class="url"> https://hackernoon.com/the-best-way-to-learn-new-technologies-is-by-doing-heres-some-inspiration-6ca144216790 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Using git to generate versionName and versionCode for Android apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> version code , version name , git </td>
+		<td class="url"> https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Associate Android Developer Exam </td>
+		<td class="description"> </td>
+		<td class="keywords"> certification , Google , Android </td>
+		<td class="url"> https://www.udacity.com/google-certifications </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google Developer Certification </td>
+		<td class="description"> </td>
+		<td class="keywords"> certification , Google , Android </td>
+		<td class="url"> https://developers.google.com/training/certification/ </td>
 	</tr>
 </table>
 
