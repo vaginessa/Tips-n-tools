@@ -482,3 +482,5 @@ Android;Android NDK passing complex data not so scary anymore;;NDK , native call
 /;Using git to generate versionName and versionCode for Android apps;;version code , version name , git;https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af
 Android;Associate Android Developer Exam;;certification , Google , Android;https://www.udacity.com/google-certifications
 /;Google Developer Certification;;certification , Google , Android;https://developers.google.com/training/certification/
+Android;Using the Android Keystore system to store and retrieve sensitive information;;keystore , data , storage , database , seucirty , sensitive information;https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b
+JavaScript;Dwitter;;JS , demo;https://www.dwitter.net/

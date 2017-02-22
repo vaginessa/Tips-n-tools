@@ -4187,6 +4187,13 @@
 		<td class="keywords"> UI , view , alert </td>
 		<td class="url"> https://github.com/Tapadoo/Alerter </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Dachshund Tab Layout </td>
+		<td class="description"> Extended Android Tab Layout with animated indicators that have continuous feedback. </td>
+		<td class="keywords"> UI , view , Tab Layout , tabs , indicators </td>
+		<td class="url"> https://github.com/Andy671/Dachshund-Tab-Layout </td>
+	</tr>
 </table>
 
 
@@ -7529,6 +7536,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> certification , Google , Android </td>
 		<td class="url"> https://developers.google.com/training/certification/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Using the Android Keystore system to store and retrieve sensitive information </td>
+		<td class="description"> </td>
+		<td class="keywords"> keystore , data , storage , database , seucirty , sensitive information </td>
+		<td class="url"> https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Dwitter </td>
+		<td class="description"> </td>
+		<td class="keywords"> JS , demo </td>
+		<td class="url"> https://www.dwitter.net/ </td>
 	</tr>
 </table>
 
