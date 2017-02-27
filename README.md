@@ -4194,6 +4194,76 @@
 		<td class="keywords"> UI , view , Tab Layout , tabs , indicators </td>
 		<td class="url"> https://github.com/Andy671/Dachshund-Tab-Layout </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ExpectAnim </td>
+		<td class="description"> Describe your animation and run ! </td>
+		<td class="keywords"> UI , animations , effects </td>
+		<td class="url"> https://github.com/florent37/ExpectAnim </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Shortbread </td>
+		<td class="description"> Android library that generates app shortcuts from Shortcut annotations </td>
+		<td class="keywords"> UI , views , shortcuts </td>
+		<td class="url"> https://github.com/MatthiasRobbers/shortbread </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bridge </td>
+		<td class="description"> A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed </td>
+		<td class="keywords"> networks , URL connections , HTTP </td>
+		<td class="url"> https://github.com/afollestad/bridge </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material color creator Android </td>
+		<td class="description"> A library for generating color palette shades and overlay colors (Java) </td>
+		<td class="keywords"> colors </td>
+		<td class="url"> https://github.com/shopgun/material-color-creator-android </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Epoxy </td>
+		<td class="description"> Epoxy is an Android library for building complex screens in a RecyclerView </td>
+		<td class="keywords"> UI , recycler view , animations , complex UI </td>
+		<td class="url"> https://github.com/airbnb/epoxy </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AppIconNameChanger </td>
+		<td class="description"> Change Android launcher App Icon and App Name programmatically ! </td>
+		<td class="keywords"> launcher , name , app , icons </td>
+		<td class="url"> https://github.com/myinnos/AppIconNameChanger </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AndroidAppShortcuts </td>
+		<td class="description"> App Shortcuts for Android on Pre Nougat 7.1! </td>
+		<td class="keywords"> UI , views , shortcuts </td>
+		<td class="url"> https://github.com/michelelacorte/AndroidAppShortcuts </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ChatKit </td>
+		<td class="description"> Flexible components for chat UI implementation. </td>
+		<td class="keywords"> UI , views , chat , messaging </td>
+		<td class="url"> https://github.com/stfalcon-studio/ChatKit </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Zoomy </td>
+		<td class="description"> Zoomy is an easy to use pinch-to-zoom Android library </td>
+		<td class="keywords"> UI , views , zoom , pinch to zoom </td>
+		<td class="url"> https://github.com/imablanco/Zoomy </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Debug badge </td>
+		<td class="description"> Add badge(version code, version name, etc) for your DEBUG APK </td>
+		<td class="keywords"> UI , icons , badges </td>
+		<td class="url"> https://github.com/yuebinyun/debug-badge </td>
+	</tr>
 </table>
 
 
@@ -7550,6 +7620,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> JS , demo </td>
 		<td class="url"> https://www.dwitter.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to improve quality and syntax of your Android code </td>
+		<td class="description"> </td>
+		<td class="keywords"> clean code, quality , checkstyle , sources , metrics , Gradle , Android , quality tools </td>
+		<td class="url"> http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/ </td>
 	</tr>
 </table>
 

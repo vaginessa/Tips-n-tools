@@ -484,3 +484,4 @@ Android;Associate Android Developer Exam;;certification , Google , Android;https
 /;Google Developer Certification;;certification , Google , Android;https://developers.google.com/training/certification/
 Android;Using the Android Keystore system to store and retrieve sensitive information;;keystore , data , storage , database , seucirty , sensitive information;https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b
 JavaScript;Dwitter;;JS , demo;https://www.dwitter.net/
+/;How to improve quality and syntax of your Android code;;clean code, quality , checkstyle , sources , metrics , Gradle , Android , quality tools;http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
