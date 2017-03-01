@@ -4264,6 +4264,41 @@
 		<td class="keywords"> UI , icons , badges </td>
 		<td class="url"> https://github.com/yuebinyun/debug-badge </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MSPoweruser </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT , Microsoft , Windows </td>
+		<td class="url"> https://mspoweruser.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The Verge </td>
+		<td class="description"> </td>
+		<td class="keywords"> veille , news , IT </td>
+		<td class="url"> http://www.theverge.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Stethoscope </td>
+		<td class="description"> Personalized, user-focused recommendations for employee information security </td>
+		<td class="keywords"> Recommandations , security , Netflix </td>
+		<td class="url"> https://github.com/Netflix/Stethoscope </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> LoggingInterceptor </td>
+		<td class="description"> An OkHttp interceptor which pretty logs request and response data. </td>
+		<td class="keywords"> OkHTTP , interceptor , logs </td>
+		<td class="url"> https://github.com/ihsanbal/LoggingInterceptor </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DateTimeRangePicker </td>
+		<td class="description"> A date time range picker </td>
+		<td class="keywords"> UI , view , date , range , time , picker </td>
+		<td class="url"> https://github.com/skedgo/DateTimeRangePicker </td>
+	</tr>
 </table>
 
 
@@ -7628,6 +7663,13 @@
 		<td class="keywords"> clean code, quality , checkstyle , sources , metrics , Gradle , Android , quality tools </td>
 		<td class="url"> http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Know the soul of the high-performance employee, then we can build the 10,000 things. </td>
+		<td class="description"> </td>
+		<td class="keywords"> medium , employees , social </td>
+		<td class="url"> https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f#.4ey9ltu2u </td>
+	</tr>
 </table>
 
 
@@ -7982,6 +8024,29 @@
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> LG </td>
+		<td class="name"> G6 </td>
+		<td class="screensize"> 5.7’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1440 x 2880 px = QH + </td>
+		<td class="soc"> Qualcomm Snapdragon 821 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3300 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony IMX 258 Exmor TS CMOS 1.133 µm f/1.8 12.98 MP (back) , 5.04 MP (front) </td>
+		<td class="dimensions"> 148.9 x 71.9 x 7.9 mm </td>
+		<td class="usbtype"> 163 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> UX 6.0 </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Z3 Compact </td>
 		<td class="screensize"> 4.6'' </td>
@@ -8194,7 +8259,7 @@
 		<td class="screensize"> 5.2'' </td>
 		<td class="screentype"> IPS </td>
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
-		<td class="soc"> Huawai HiSilicon KIRN 950 </td>
+		<td class="soc"> Huawei HiSilicon KIRIN 950 </td>
 		<td class="gpu"> ARM Mali-T880 MP4 </td>
 		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
@@ -8217,7 +8282,7 @@
 		<td class="screensize"> 5.9'' </td>
 		<td class="screentype"> IPS </td>
 		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
-		<td class="soc"> Huawai HiSilicon KIRN 960 </td>
+		<td class="soc"> Huawei HiSilicon KIRIN 960 </td>
 		<td class="gpu"> ARM Mali-G71 MP8 </td>
 		<td class="sensors"> Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
 		<td class="battery"> 4000 mAh , Li-Polymer </td>
@@ -8263,19 +8328,42 @@
 		<td class="screensize"> 5.09'' </td>
 		<td class="screentype"> AMOLED </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
-		<td class="soc"> Huawai HiSilicon KIRN 950 </td>
+		<td class="soc"> Huawei HiSilicon KIRIN 950 </td>
 		<td class="gpu"> ARM Cortex A72 , ARM Cortex A53 </td>
 		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 2900 mAh , Li-Polymer </td>
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 4 GB </td>
 		<td class="camera"> CMOS f/2.2 11.81 MP (back) , 7.99 MP (front) </td>
-		<td class="dimensions"> 146,1 x 69,9 x 7,8 mm </td>
+		<td class="dimensions"> 146.1 x 69.9 x 7.8 mm </td>
 		<td class="usbtype"> 145 g </td>
 		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> EMUI </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Huawei </td>
+		<td class="name"> P 10 </td>
+		<td class="screensize"> 5.1‘’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Huawei HiSilicon KIRIN 960 </td>
+		<td class="gpu"> ARM Mali-G71 MP8 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3200 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB , 128 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f/1.8 12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 145.3 x 69.3 x 6.98 mm </td>
+		<td class="usbtype"> 145 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
 		<td class="ui"> EMUI </td>
 	</tr>
 	<tr>
@@ -8368,6 +8456,29 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Wiko </td>
+		<td class="name"> U Pulse </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 720 x 1280 px = HD </td>
+		<td class="soc"> MediaTek MT6737 </td>
+		<td class="gpu"> ARM Mali-T720 MP2 </td>
+		<td class="sensors"> fingerprint , light , accelerometer , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> CMOS 12.98 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 153.5 x 77.5 x 8.5 mm </td>
+		<td class="usbtype"> 167 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> micro </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
@@ -8530,6 +8641,29 @@
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
 		<td class="ui"> Vibe UI </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> BkackBerry </td>
+		<td class="name"> KEYone </td>
+		<td class="screensize"> 4.5’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 625 </td>
+		<td class="gpu"> Qualcomm Adreno 506 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3505 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> Sony Exmor IMX378 RS CMOS 6.25 x 4.65 mm 1.544 µm f/2.0 (12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 149.3 x 72.5 x 9.4 mm </td>
+		<td class="usbtype"> 180 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -9323,6 +9457,7 @@
 		<td class="header"> Target </td>
 		<td class="header"> Constructor </td>
 		<td class="header"> Name </td>
+		<td class="header"> Gravure </td>
 		<td class="header"> Modem </td>
 		<td class="header"> Peak download speed </td>
 		<td class="header"> Peak upload speed </td>
@@ -9344,6 +9479,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 820 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X12 LTE </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9365,6 +9501,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 821 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X12 LTE </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9386,6 +9523,7 @@
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 835 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X16 LTE </td>
 		<td class="pds"> 1 Gbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9407,6 +9545,7 @@
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 653 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X9 LTE </td>
 		<td class="pds"> 300 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9428,6 +9567,7 @@
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 625 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X9 LTE </td>
 		<td class="pds"> 300 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9449,6 +9589,7 @@
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorSamsung"> Samsung </td>
 		<td class="name"> Exynos 8 Octa (8890) </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9470,6 +9611,7 @@
 		<td class="targetIphone"> iPhone 7 </td>
 		<td class="constructorApple"> Apple </td>
 		<td class="name"> A10 Fusion </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> ? </td>
 		<td class="pus"> ? </td>
@@ -9491,6 +9633,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorMediaTek"> MediaTek </td>
 		<td class="name"> Helio P10 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> ? </td>
 		<td class="pus"> ? </td>
@@ -9512,6 +9655,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorMediaTek"> MediaTek </td>
 		<td class="name"> Helio P35 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> ? </td>
 		<td class="pus"> ? </td>
@@ -9524,15 +9668,38 @@
 		<td class="dm"> 1080p </td>
 		<td class="cpu"> ARM Cortex-A73 , ARM Cortex-A52 , ARM Cortex-A35 </td>
 		<td class="cpucn"> 4 + 4 + 2 </td>
-		<td class="cpucsm"> </td>
-		<td class="cpua"> </td>
+		<td class="cpucsm"> ? </td>
+		<td class="cpua"> ? </td>
 		<td class="gpu"> ARM Mali G71 </td>
+		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorMediaTek"> MediaTek </td>
+		<td class="name"> Helio X30 </td>
+		<td class="gravure"> 10 mm </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> 600 Mbps </td>
+		<td class="pus"> 100 Mbps </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> 4K </td>
+		<td class="dm"> ? </td>
+		<td class="cpu"> ARM Cortex A73 , ARM Cortex A53 </td>
+		<td class="cpucn"> 2 + 8 </td>
+		<td class="cpucsm"> 2.5 GHz , 1.9 GHz – 2.2 GHz </td>
+		<td class="cpua"> ? </td>
+		<td class="gpu"> ? </td>
 		<td class="gpuas"> ? </td>
 	</tr>
 	<tr>
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorHuawei"> Huawei </td>
 		<td class="name"> Kirin 950 </td>
+		<td class="gravure"> ? </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -9549,5 +9716,49 @@
 		<td class="cpua"> ? </td>
 		<td class="gpu"> ARM Mali T880 </td>
 		<td class="gpuas"> Vulkan , OpenGL ES , Direct X 12 </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorOther"> Spreadtrum </td>
+		<td class="name"> SC9861G-IA </td>
+		<td class="gravure"> ? </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> 300 Mbps </td>
+		<td class="pus"> 100 Mbps </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> 26 MP </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> 1600 x 2560 px , Quad HD </td>
+		<td class="cpu"> ? </td>
+		<td class="cpucn"> 8 </td>
+		<td class="cpucsm"> 2 GHz </td>
+		<td class="cpua"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorXiaomi"> Xiaomi </td>
+		<td class="name"> Surge S1 </td>
+		<td class="gravure"> ? </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> ? </td>
+		<td class="pus"> ? </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> ? </td>
+		<td class="cpu"> ARM Cortex A53 , ARM Cortex A53 </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> 2.2 GHz , 1.4 GHz </td>
+		<td class="cpua"> ? </td>
+		<td class="gpu"> ARM Mali T860 </td>
+		<td class="gpuas"> ? </td>
 	</tr>
 </table>

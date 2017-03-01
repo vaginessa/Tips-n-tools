@@ -608,3 +608,8 @@ Android;AndroidAppShortcuts; App Shortcuts for Android on Pre Nougat 7.1!;UI , v
 Android;ChatKit;Flexible components for chat UI implementation.;UI , views , chat , messaging;https://github.com/stfalcon-studio/ChatKit
 Android;Zoomy; Zoomy is an easy to use pinch-to-zoom Android library;UI , views , zoom , pinch to zoom;https://github.com/imablanco/Zoomy
 Android;Debug badge; Add badge(version code, version name, etc) for your DEBUG APK;UI , icons , badges;https://github.com/yuebinyun/debug-badge
+/;MSPoweruser;;veille , news , IT , Microsoft , Windows;https://mspoweruser.com/
+/;The Verge;;veille , news , IT;http://www.theverge.com/
+/;Stethoscope;Personalized, user-focused recommendations for employee information security;Recommandations , security , Netflix;https://github.com/Netflix/Stethoscope
+Android;LoggingInterceptor; An OkHttp interceptor which pretty logs request and response data.;OkHTTP , interceptor , logs;https://github.com/ihsanbal/LoggingInterceptor
+Android;DateTimeRangePicker;A date time range picker;UI , view , date , range , time , picker;https://github.com/skedgo/DateTimeRangePicker

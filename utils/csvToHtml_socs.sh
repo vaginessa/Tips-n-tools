@@ -20,10 +20,10 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 2.0.0
+# Version.............: 3.0.0
 # Since...............: 28/11/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
-#			This file must contain several columns: TTarget, Constructor, Name, Modem, Peak download speed, Peak upload speed, Bluetooth, NFC, USB, Camera support max., Video capture max., Video playback max., Display max., CPU, CPU cores number, CPU clock speed max., CPU architecture, GPU, GPU API support
+#			This file must contain several columns: Target, Constructor, Name, Gravure, Modem, Peak download speed, Peak upload speed, Bluetooth, NFC, USB, Camera support max., Video capture max., Video playback max., Display max., CPU, CPU cores number, CPU clock speed max., CPU architecture, GPU, GPU API support
 #
 # Usage: sh csvToHtml_socs.sh --help
 # Usage: cat myFileToProcess.csv | sh csvToHtml_socs.sh [ --fullHtml | --limitedHtml ] > myOutputFile.html
@@ -89,14 +89,18 @@ table, td, .header {
 	color: #ffffff;
 }
 .constructorHuawei {
-	background-color: #ff9800;
+	background-color: #d50000;
 	color: #ffffff;
+}
+.constructorXiaomi {
+	background-color: #ff9800;
+	color: #000000;
 }
 .constructorOther {
 	background-color: #eeeeee;
 	color: #000000
 }
-.target, .constructor, .name, .modem, .pds, .pus, .bluetoothn .nfc, .usb, .csm, .vcm, .vpm, .dm, .cpu, .cpucn, .cpua, .gpu, .gpuas  {
+.target, .constructor, .name, .gravure, .modem, .pds, .pus, .bluetoothn .nfc, .usb, .csm, .vcm, .vpm, .dm, .cpu, .cpucn, .cpua, .gpu, .gpuas  {
 	text-align: center;
 }
 </style>
@@ -196,7 +200,10 @@ while read -r line; do
 					;;
 					*Huawei*)
 						echo "\t\t<td class=\"constructorHuawei\">" $cleanItem "</td>"	
-					;;										
+					;;
+					*Xiaomi*)
+						echo "\t\t<td class=\"constructorXiaomi\">" $cleanItem "</td>"	
+					;;	
 					*)
 						echo "\t\t<td class=\"constructorOther\">" $cleanItem "</td>"
 					;;
@@ -206,51 +213,54 @@ while read -r line; do
 				echo "\t\t<td class=\"name\">" $cleanItem "</td>"
 				;;
 			3)
-				echo "\t\t<td class=\"modem\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"gravure\">" $cleanItem "</td>"
 				;;
 			4)
-				echo "\t\t<td class=\"pds\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"modem\">" $cleanItem "</td>"			
 				;;
 			5)
-				echo "\t\t<td class=\"pus\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"pds\">" $cleanItem "</td>"			
 				;;
 			6)
-				echo "\t\t<td class=\"bluetooth\">" $cleanItem "</td>"			
+				echo "\t\t<td class=\"pus\">" $cleanItem "</td>"			
 				;;
 			7)
+				echo "\t\t<td class=\"bluetooth\">" $cleanItem "</td>"			
+				;;
+			8)
 				echo "\t\t<td class=\"nfc\">" $cleanItem "</td>"			
 				;;			
-			8)
+			9)
 				echo "\t\t<td class=\"usb\">" $cleanItem "</td>"			
 				;;
-			9)
+			10)
 				echo "\t\t<td class=\"csm\">" $cleanItem "</td>"			
 				;;
-			10)
+			11)
 				echo "\t\t<td class=\"vcm\">" $cleanItem "</td>"			
 				;;
-			11)
+			12)
 				echo "\t\t<td class=\"vpm\">" $cleanItem "</td>"			
 				;;
-			12)
+			13)
 				echo "\t\t<td class=\"dm\">" $cleanItem "</td>"			
 				;;												
-			13)
+			14)
 				echo "\t\t<td class=\"cpu\">" $cleanItem "</td>"			
 				;;
-			14)
+			15)
 				echo "\t\t<td class=\"cpucn\">" $cleanItem "</td>"			
 				;;					
-			15)
+			16)
 				echo "\t\t<td class=\"cpucsm\">" $cleanItem "</td>"			
 				;;				
-			16)
+			17)
 				echo "\t\t<td class=\"cpua\">" $cleanItem "</td>"			
 				;;
-			17)
+			18)
 				echo "\t\t<td class=\"gpu\">" $cleanItem "</td>"			
 				;;	
-			18)
+			19)
 				echo "\t\t<td class=\"gpuas\">" $cleanItem "</td>"			
 				;;															
 		esac
