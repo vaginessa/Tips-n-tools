@@ -613,3 +613,4 @@ Android;Debug badge; Add badge(version code, version name, etc) for your DEBUG A
 /;Stethoscope;Personalized, user-focused recommendations for employee information security;Recommandations , security , Netflix;https://github.com/Netflix/Stethoscope
 Android;LoggingInterceptor; An OkHttp interceptor which pretty logs request and response data.;OkHTTP , interceptor , logs;https://github.com/ihsanbal/LoggingInterceptor
 Android;DateTimeRangePicker;A date time range picker;UI , view , date , range , time , picker;https://github.com/skedgo/DateTimeRangePicker
+Android;Storage Chooser; Lets user choose between internal or external storage with just few lines of code;UI , views , storage , storage chooser;https://github.com/codekidX/storage-chooser
