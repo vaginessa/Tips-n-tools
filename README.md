@@ -8768,6 +8768,29 @@
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Lenovo </td>
+		<td class="name"> Moto G5 Plus </td>
+		<td class="screensize"> 5.2’’ </td>
+		<td class="screentype"> Corning Gorilla Glass 3 , IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 625 </td>
+		<td class="gpu"> Qualcomm Adreno 506 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB , 64 GB </td>
+		<td class="ram"> 2 GB , 4 GB </td>
+		<td class="camera"> CMOS f/1.7 12.19 MP (back) , 4.92 MP (front) </td>
+		<td class="dimensions"> 150.2 x 74 x 9.7 mm </td>
+		<td class="usbtype"> 155 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> BlackBerry </td>
 		<td class="name"> KEYone </td>
 		<td class="screensize"> 4.5’’ </td>
@@ -9036,7 +9059,7 @@
 		<td class="dimensions"> 49.8 x 42.3 x 11.4 mm </td>
 		<td class="usbtype"> 47 g </td>
 		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
-		<td class="ip"> Micro-B </td>
+		<td class="ip"> micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
 		<td class="ui"> ? </td>
@@ -9154,6 +9177,29 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeWatch"> watch </td>
+		<td class="pfAndroid"> Android Wear </td>
+		<td class="constructor"> LG </td>
+		<td class="name"> G Watch Sport </td>
+		<td class="screensize"> 1.38’’ </td>
+		<td class="screentype"> ? </td>
+		<td class="screenresolution"> 480 x 480 px </td>
+		<td class="soc"> Qualcomm Snapdragon Wear 2100 </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> 4G , NFC , GPS </td>
+		<td class="battery"> 430 mAh </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 768 MB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> ? </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
@@ -9570,6 +9616,29 @@
 		<td class="sim"> no </td>
 		<td class="ui"> / </td>
 	</tr>
+	<tr>
+		<td class="typeOther"> / </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Sony </td>
+		<td class="name"> Xperia Touch </td>
+		<td class="screensize"> no </td>
+		<td class="screentype"> no </td>
+		<td class="screenresolution"> no </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> Miracast , NFC , micro HDMI , Wi-Fi , Bluetooth 4.2 </td>
+		<td class="battery"> no </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> 143 x 134 x 69 mm </td>
+		<td class="usbtype"> 932 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+		<td class="ui"> / </td>
+	</tr>
 </table>
 
 
@@ -9731,6 +9800,28 @@
 		<td class="gpuas"> ? </td>
 	</tr>
 	<tr>
+		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
+		<td class="constructorSamsung"> Samsung </td>
+		<td class="name"> Exynos 9 Series 8895 </td>
+		<td class="gravure"> 10 nm </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> 1 Gbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> 28 MP </td>
+		<td class="vcm"> 4K Ultra HD </td>
+		<td class="vpm"> 4K Ultra HD </td>
+		<td class="dm"> ? </td>
+		<td class="cpu"> Samsung custom core , ARM Cortex-A53 </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> ? </td>
+		<td class="cpua"> 64 bits </td>
+		<td class="gpu"> ARM Mali G71 </td>
+		<td class="gpuas"> </td>
+	</tr>
+	<tr>
 		<td class="targetIphone"> iPhone 7 </td>
 		<td class="constructorApple"> Apple </td>
 		<td class="name"> A10 Fusion </td>
@@ -9749,7 +9840,7 @@
 		<td class="cpucn"> 4 </td>
 		<td class="cpucsm"> 2.2 GHz </td>
 		<td class="cpua"> 64 bits </td>
-		<td class="gpu"> ? </td>
+		<td class="gpu"> PowerVR Series7XT </td>
 		<td class="gpuas"> ? </td>
 	</tr>
 	<tr>
@@ -9800,7 +9891,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorMediaTek"> MediaTek </td>
 		<td class="name"> Helio X30 </td>
-		<td class="gravure"> 10 mm </td>
+		<td class="gravure"> 10 nm </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 100 Mbps </td>
