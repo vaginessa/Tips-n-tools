@@ -614,3 +614,10 @@ Android;Debug badge; Add badge(version code, version name, etc) for your DEBUG A
 Android;LoggingInterceptor; An OkHttp interceptor which pretty logs request and response data.;OkHTTP , interceptor , logs;https://github.com/ihsanbal/LoggingInterceptor
 Android;DateTimeRangePicker;A date time range picker;UI , view , date , range , time , picker;https://github.com/skedgo/DateTimeRangePicker
 Android;Storage Chooser; Lets user choose between internal or external storage with just few lines of code;UI , views , storage , storage chooser;https://github.com/codekidX/storage-chooser
+/;Lepton;;OS , Lepton , IoT , ARM , Cortex , real time , deep embeded;https://github.com/lepton-distribution/lepton
+Android;HorizontalPicker;;UI , view , picker;https://github.com/GoodieBag/HorizontalPicker
+Android;EchantedViewPager;EchantedViewPager is a custom ViewPager that provides some custom and usefull functionalities, such as, scalling scroll, alpha scroll and swipe to dismiss option.;UI , view , pager;https://github.com/TMSantos/echantedviewpager
+Android;RxMagneto;A fast, simple and powerful Play Store information fetcher for Android.;Play Store , fetch , data;https://github.com/aritraroy/RxMagneto
+/;OpenStack;Open source software for creating private and public clouds;OpenStack , cloud , FOSS;https://www.openstack.org/
+Design;Material Design Kit;Android Nougat Free GUI;UI , UX , design , widgets , kit;http://materialdesignkit.com/android-gui/
+/;iFixt;;hardware;https://fr.ifixit.com/

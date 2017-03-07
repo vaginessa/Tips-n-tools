@@ -4306,6 +4306,55 @@
 		<td class="keywords"> UI , views , storage , storage chooser </td>
 		<td class="url"> https://github.com/codekidX/storage-chooser </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Lepton </td>
+		<td class="description"> </td>
+		<td class="keywords"> OS , Lepton , IoT , ARM , Cortex , real time , deep embeded </td>
+		<td class="url"> https://github.com/lepton-distribution/lepton </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> HorizontalPicker </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , picker </td>
+		<td class="url"> https://github.com/GoodieBag/HorizontalPicker </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> EchantedViewPager </td>
+		<td class="description"> EchantedViewPager is a custom ViewPager that provides some custom and usefull functionalities, such as, scalling scroll, alpha scroll and swipe to dismiss option. </td>
+		<td class="keywords"> UI , view , pager </td>
+		<td class="url"> https://github.com/TMSantos/echantedviewpager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RxMagneto </td>
+		<td class="description"> A fast, simple and powerful Play Store information fetcher for Android. </td>
+		<td class="keywords"> Play Store , fetch , data </td>
+		<td class="url"> https://github.com/aritraroy/RxMagneto </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OpenStack </td>
+		<td class="description"> Open source software for creating private and public clouds </td>
+		<td class="keywords"> OpenStack , cloud , FOSS </td>
+		<td class="url"> https://www.openstack.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Material Design Kit </td>
+		<td class="description"> Android Nougat Free GUI </td>
+		<td class="keywords"> UI , UX , design , widgets , kit </td>
+		<td class="url"> http://materialdesignkit.com/android-gui/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> iFixt </td>
+		<td class="description"> </td>
+		<td class="keywords"> hardware </td>
+		<td class="url"> https://fr.ifixit.com/ </td>
+	</tr>
 </table>
 
 
@@ -7676,6 +7725,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> medium , employees , social </td>
 		<td class="url"> https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f#.4ey9ltu2u </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Configuring Android project </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , project , tips , best practices , Gradle , proguard , strict mode , name , code </td>
+		<td class="url"> https://speakerdeck.com/dmytrodanylyk/configuring-android-project </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Why do programmers wear headphones? For the same reason that you can’t juggle. </td>
+		<td class="description"> </td>
+		<td class="keywords"> dev , headphones </td>
+		<td class="url"> https://hackernoon.com/why-do-programmers-where-headphones-5ca3a2f81266 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Blurred Lines: The Future of UX & UI </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , UX , UI </td>
+		<td class="url"> https://hackernoon.com/blurred-lines-the-future-of-ux-ui-7cab0a91fc81 </td>
 	</tr>
 </table>
 
