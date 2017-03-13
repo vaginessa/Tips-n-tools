@@ -486,6 +486,10 @@ Android;Using the Android Keystore system to store and retrieve sensitive inform
 JavaScript;Dwitter;;JS , demo;https://www.dwitter.net/
 /;How to improve quality and syntax of your Android code;;clean code, quality , checkstyle , sources , metrics , Gradle , Android , quality tools;http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
 /;Know the soul of the high-performance employee, then we can build the 10,000 things.;;medium , employees , social;https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f#.4ey9ltu2u
-Android;Configuring Android project;;Android , project , tips , best practices , Gradle , proguard , strict mode , name , code;https://speakerdeck.com/dmytrodanylyk/configuring-android-project
 /;Why do programmers wear headphones? For the same reason that you can’t juggle.;;dev , headphones;https://hackernoon.com/why-do-programmers-where-headphones-5ca3a2f81266
 Design;Blurred Lines: The Future of UX & UI;;design , UX , UI;https://hackernoon.com/blurred-lines-the-future-of-ux-ui-7cab0a91fc81
+/;The Developer’s Edge: How To Become A Senior Developer;;Medium , seniority , skills , senior , old but up-to-date dev;https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45
+Android;Configuring Android Project - Little Things That Matter;;gitignore , tools , flavors , keystore , proguar;https://hackernoon.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0
+Android;Configuring Android Project - Static Code Analysis Tools;;static code , analysis , tools , Lint , PMD , findbugs;https://hackernoon.com/configuring-android-project-static-code-analysis-tools-b6dd83282921
+Android;Configuring Android Project  - Version Name & Code;;version code , version name , git;https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323
+/;How to Create the Next Great Programming Language;;code , programmaing langage , lulz;https://hackernoon.com/how-to-create-the-next-great-programming-language-cff4f1ba921

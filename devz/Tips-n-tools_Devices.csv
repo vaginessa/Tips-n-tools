@@ -81,6 +81,7 @@ band;/;Meizu;Band;?;OLED;?;?;?;podometer , calories , heart rythm , sleep , Blue
 band;/;Jawbone;UP24;no;no;no;?;?;Bluetooth 4.0 , podometer , sleep , jack 3.5;?;?;?;no;?;?;IP 67;no;no;no;/
 band;/;Asus;VivoWatch;1.28 '';Corning Gorilla Glass 3 , LCD;128 x 128 px;?;?;Bluetooth 4.0 , heart rythm , accelerometer , UV , step , calories;?;?;?;no;?;50 g;?;no;no;no;?
 band;/;Withings;Activité Steel;?;?;?;?;?;Bluetooth 4.0 , step , run , swim , sleep , calories;battery CR2025;?;?;no;?;?;IP68 (dust max, water : 1 m during 30 min);no;no;no;?
+band;/;TomTom;Touch;?;OLED;?;?;?;Bluetooth , heart rythm , podometer , calories , distance , clock , body composition , notifications , sleep;?;?;?;no;?;?;IPX7;?;no;no;/
 box;Android;Nvidia;Shield Android TV (2017);no;no;no;Nvidia Tegra x1;Maxwell (256 CUDA core);Bluetooth 4.1 , BLE , WiFi , HDMI , Gigabit Ethernet;no;?;3 GB;no;210 x 130 x 25 mm;654 g;no;USB 2.0 , microUSB 3.0;no;no;?
 box;?;Razer;Razer Forge TV;no;no;no;Snapdragon 805;Qualcomm Adreno 420;WiFi , HDMI , Gigabit Ethernet;no;16 GB;2 GB;no;105 x 105 x 17 mm;?;no;USB 2.0 , microUSB 3.0;no;no;/
 box;tvOS;Apple;Apple TV;no;no;no;A8;PowerVR GX6450;Bluetooth 4.0 , WiFi , HDMI , Gigabit Ethernet;no;32 GB , 64 GB;2 GB;no;33 x 99 x 99 mm;425 g;no;microUSB C;no;no;/

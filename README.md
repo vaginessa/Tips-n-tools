@@ -4355,6 +4355,13 @@
 		<td class="keywords"> hardware </td>
 		<td class="url"> https://fr.ifixit.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> PaintCode </td>
+		<td class="description"> Turn drawings into Swift / JS / Java / SVG / … code </td>
+		<td class="keywords"> code translation, paint , draw </td>
+		<td class="url"> https://www.paintcodeapp.com/ </td>
+	</tr>
 </table>
 
 
@@ -7727,13 +7734,6 @@
 		<td class="url"> https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f#.4ey9ltu2u </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
-		<td class="name"> Configuring Android project </td>
-		<td class="description"> </td>
-		<td class="keywords"> Android , project , tips , best practices , Gradle , proguard , strict mode , name , code </td>
-		<td class="url"> https://speakerdeck.com/dmytrodanylyk/configuring-android-project </td>
-	</tr>
-	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Why do programmers wear headphones? For the same reason that you can’t juggle. </td>
 		<td class="description"> </td>
@@ -7746,6 +7746,41 @@
 		<td class="description"> </td>
 		<td class="keywords"> design , UX , UI </td>
 		<td class="url"> https://hackernoon.com/blurred-lines-the-future-of-ux-ui-7cab0a91fc81 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The Developer’s Edge: How To Become A Senior Developer </td>
+		<td class="description"> </td>
+		<td class="keywords"> Medium , seniority , skills , senior , old but up-to-date dev </td>
+		<td class="url"> https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Configuring Android Project - Little Things That Matter </td>
+		<td class="description"> </td>
+		<td class="keywords"> gitignore , tools , flavors , keystore , proguar </td>
+		<td class="url"> https://hackernoon.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Configuring Android Project - Static Code Analysis Tools </td>
+		<td class="description"> </td>
+		<td class="keywords"> static code , analysis , tools , Lint , PMD , findbugs </td>
+		<td class="url"> https://hackernoon.com/configuring-android-project-static-code-analysis-tools-b6dd83282921 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Configuring Android Project  - Version Name & Code </td>
+		<td class="description"> </td>
+		<td class="keywords"> version code , version name , git </td>
+		<td class="url"> https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to Create the Next Great Programming Language </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , programmaing langage , lulz </td>
+		<td class="url"> https://hackernoon.com/how-to-create-the-next-great-programming-language-cff4f1ba921 </td>
 	</tr>
 </table>
 
@@ -9546,6 +9581,29 @@
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
 		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeBand"> band </td>
+		<td class="pfOther"> / </td>
+		<td class="constructor"> TomTom </td>
+		<td class="name"> Touch </td>
+		<td class="screensize"> ? </td>
+		<td class="screentype"> OLED </td>
+		<td class="screenresolution"> ? </td>
+		<td class="soc"> ? </td>
+		<td class="gpu"> ? </td>
+		<td class="sensors"> Bluetooth , heart rythm , podometer , calories , distance , clock , body composition , notifications , sleep </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> ? </td>
+		<td class="camera"> no </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IPX7 </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> no </td>
+		<td class="ui"> / </td>
 	</tr>
 	<tr>
 		<td class="typeBox"> box </td>
