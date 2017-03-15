@@ -224,7 +224,7 @@ Android;SmileyLoadingView;A custom loading view;loading view , animations;https:
 Android;EncryptedPreferences;AES-256 encrypted SharedPreferences;AES , security , encryption , preferences;https://github.com/PDDStudio/EncryptedPreferences
 Design;Legofy; Make images look as if they are made out of 1x1 LEGO blocks;Lego;https://github.com/JuanPotato/Legofy
 Android;Barcodescanner;;bar code , qr code , scanner;https://github.com/dm77/barcodescanner
-Android;RecyclerViewSnap;;snap helper , snap , view , swipe;https://github.com/rubensousa/RecyclerViewSnap
+Android;RecyclerViewSnap;;snap helper , snap , view , swipe, list;https://github.com/rubensousa/RecyclerViewSnap
 Android;CompareImage;;image , comparison;https://github.com/Onkarn92/CompareImage
 Design;Thumby;Image paring and resizing server;picture , operations;https://www.thumby.io/
 Kotlin;Spek;A Kotlin Specification Framework for the JVM;uni tests , Kotlin , spek , tests;http://jetbrains.github.io/spek/notes/1.0.html
@@ -622,3 +622,8 @@ Android;RxMagneto;A fast, simple and powerful Play Store information fetcher for
 Design;Material Design Kit;Android Nougat Free GUI;UI , UX , design , widgets , kit;http://materialdesignkit.com/android-gui/
 /;iFixt;;hardware;https://fr.ifixit.com/
 Design;PaintCode;Turn drawings into Swift / JS / Java / SVG / … code;code translation, paint , draw;https://www.paintcodeapp.com/
+Android;Kotterknife;"View ""injection"" library for Android with Kotlin";Kotlin , view injection , butterknife;https://github.com/JakeWharton/kotterknife
+Android;Carbon;Material Design implementation for Android 2.3+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more;UI , views , material design;https://github.com/ZieIony/Carbon
+Kotlin;Dokka;Documentation Engine for Kotlin;Kotlin , documentation , javadoc , dokka;https://github.com/Kotlin/dokka
+Android;Google dictionnary;An android library that provides easy access to meanings of any word, phrase, or slang via Google, within any application;Google , search , dicitonnary , UI , views;https://github.com/chizoba/google-dictionary
+/;React VR;Build VR websites and interactive 360 experiences with React;React , VR , facebook;https://facebookincubator.github.io/react-vr/

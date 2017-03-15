@@ -1580,7 +1580,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> RecyclerViewSnap </td>
 		<td class="description"> </td>
-		<td class="keywords"> snap helper , snap , view , swipe </td>
+		<td class="keywords"> snap helper , snap , view , swipe, list </td>
 		<td class="url"> https://github.com/rubensousa/RecyclerViewSnap </td>
 	</tr>
 	<tr>
@@ -4361,6 +4361,41 @@
 		<td class="description"> Turn drawings into Swift / JS / Java / SVG / … code </td>
 		<td class="keywords"> code translation, paint , draw </td>
 		<td class="url"> https://www.paintcodeapp.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Kotterknife </td>
+		<td class="description"> View injection library for Android with Kotlin </td>
+		<td class="keywords"> Kotlin , view injection , butterknife </td>
+		<td class="url"> https://github.com/JakeWharton/kotterknife </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Carbon </td>
+		<td class="description"> Material Design implementation for Android 2.3+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more </td>
+		<td class="keywords"> UI , views , material design </td>
+		<td class="url"> https://github.com/ZieIony/Carbon </td>
+	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> Dokka </td>
+		<td class="description"> Documentation Engine for Kotlin </td>
+		<td class="keywords"> Kotlin , documentation , javadoc , dokka </td>
+		<td class="url"> https://github.com/Kotlin/dokka </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Google dictionnary </td>
+		<td class="description"> An android library that provides easy access to meanings of any word, phrase, or slang via Google, within any application </td>
+		<td class="keywords"> Google , search , dicitonnary , UI , views </td>
+		<td class="url"> https://github.com/chizoba/google-dictionary </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> React VR </td>
+		<td class="description"> Build VR websites and interactive 360 experiences with React </td>
+		<td class="keywords"> React , VR , facebook </td>
+		<td class="url"> https://facebookincubator.github.io/react-vr/ </td>
 	</tr>
 </table>
 
@@ -7781,6 +7816,34 @@
 		<td class="description"> </td>
 		<td class="keywords"> code , programmaing langage , lulz </td>
 		<td class="url"> https://hackernoon.com/how-to-create-the-next-great-programming-language-cff4f1ba921 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Open-Source Android Apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> FOSS , open-source , apps </td>
+		<td class="url"> https://github.com/pcqpcq/open-source-android-apps </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Why your app should crash </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , error , crash , force close , app , errors , exceptions </td>
+		<td class="url"> http://jeroenmols.com/blog/2017/03/08/appcrash/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Splash screen in Android : The right way </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , splash screen </td>
+		<td class="url"> https://android.jlelse.eu/launch-screen-in-android-the-right-way-aca7e8c31f52#.ow7wap4zy </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> HTTP cats </td>
+		<td class="description"> </td>
+		<td class="keywords"> HTTP , errors , code , status , cats </td>
+		<td class="url"> https://http.cat/ </td>
 	</tr>
 </table>
 
