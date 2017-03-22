@@ -4404,6 +4404,48 @@
 		<td class="keywords"> DevOps , forge </td>
 		<td class="url"> https://www.tuleap.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Authority </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> http://www.androidauthority.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ColorPickerView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , view , color picker </td>
+		<td class="url"> https://github.com/skydoves/ColorPickerView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Hover </td>
+		<td class="description"> A floating menu library for Android </td>
+		<td class="keywords"> UI , UX , view , floating , movable , menu </td>
+		<td class="url"> https://github.com/google/hover </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DiscreteScrollView </td>
+		<td class="description"> Scrollable list of items, where current item is centered and can be changed using swipes </td>
+		<td class="keywords"> UI , UX , view , scroll view </td>
+		<td class="url"> https://github.com/yarolegovich/DiscreteScrollView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Holding Button </td>
+		<td class="description"> Button which is visible while user holds it </td>
+		<td class="keywords"> UI , UX , view , button </td>
+		<td class="url"> https://github.com/dewarder/HoldingButton </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Material Chip View </td>
+		<td class="description"> Material Chip view. Can be used as tags for categories, contacts or creating text clouds </td>
+		<td class="keywords"> UI , UX , views , chips </td>
+		<td class="url"> https://github.com/robertlevonyan/materialChipView </td>
+	</tr>
 </table>
 
 
@@ -7872,6 +7914,55 @@
 		<td class="description"> </td>
 		<td class="keywords"> HPE , high-performance-employees , quiet , workspaces </td>
 		<td class="url"> https://hackernoon.com/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces-4381241a6453 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Quick tips for reducing the cognitive load of your code </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , quality , cognitive load </td>
+		<td class="url"> https://hackernoon.com/quick-tips-for-reducing-the-cognitive-load-of-your-code-bb75d43b5676 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Managing Technical Debt </td>
+		<td class="description"> </td>
+		<td class="keywords"> debt , technical debt </td>
+		<td class="url"> https://hackernoon.com/managing-technical-debt-1806424e7d40 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The future is algorithms, not code </td>
+		<td class="description"> </td>
+		<td class="keywords"> algorithm , code </td>
+		<td class="url"> https://hackernoon.com/the-future-is-algorithms-not-code-64cacca3b908 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Associate Android Developer Certification </td>
+		<td class="description"> All the info and materials about the certification that I've collected so far </td>
+		<td class="keywords"> developer , certifications </td>
+		<td class="url"> https://github.com/Amejia481/Associate-Android-Developer-Certification </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android TensorFlow Machine Learning Example </td>
+		<td class="description"> </td>
+		<td class="keywords"> TensorFlow , machine learning , Android </td>
+		<td class="url"> https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> From Design to Android </td>
+		<td class="description"> Talking about Constraint Layout, chains, data binding, bottom sheets, view switcher </td>
+		<td class="keywords"> UI , UX , design , Android app , tools , widgets , views </td>
+		<td class="url"> http://saulmm.github.io/from-design-to-android-part1 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google Merchandise Store </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , goodies , geek </td>
+		<td class="url"> https://your.googlemerchandisestore.com/index </td>
 	</tr>
 </table>
 

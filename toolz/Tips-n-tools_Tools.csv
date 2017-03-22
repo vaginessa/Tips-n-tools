@@ -628,3 +628,9 @@ Kotlin;Dokka;Documentation Engine for Kotlin;Kotlin , documentation , javadoc , 
 Android;Google dictionnary;An android library that provides easy access to meanings of any word, phrase, or slang via Google, within any application;Google , search , dicitonnary , UI , views;https://github.com/chizoba/google-dictionary
 /;React VR;Build VR websites and interactive 360 experiences with React;React , VR , facebook;https://facebookincubator.github.io/react-vr/
 DevTool;Tuleap;;DevOps , forge;https://www.tuleap.org/
+Android;Android Authority;;news , veille , tuto , site , tool;http://www.androidauthority.com/
+Android;ColorPickerView;;UI , UX , view , color picker;https://github.com/skydoves/ColorPickerView
+Android;Hover;A floating menu library for Android;UI , UX , view , floating , movable , menu;https://github.com/google/hover
+Android;DiscreteScrollView; Scrollable list of items, where current item is centered and can be changed using swipes;UI , UX , view , scroll view;https://github.com/yarolegovich/DiscreteScrollView
+Android;Holding Button;Button which is visible while user holds it;UI , UX , view , button;https://github.com/dewarder/HoldingButton
+Android;Material Chip View;Material Chip view. Can be used as tags for categories, contacts or creating text clouds;UI , UX , views , chips;https://github.com/robertlevonyan/materialChipView
