@@ -634,3 +634,6 @@ Android;Hover;A floating menu library for Android;UI , UX , view , floating , mo
 Android;DiscreteScrollView; Scrollable list of items, where current item is centered and can be changed using swipes;UI , UX , view , scroll view;https://github.com/yarolegovich/DiscreteScrollView
 Android;Holding Button;Button which is visible while user holds it;UI , UX , view , button;https://github.com/dewarder/HoldingButton
 Android;Material Chip View;Material Chip view. Can be used as tags for categories, contacts or creating text clouds;UI , UX , views , chips;https://github.com/robertlevonyan/materialChipView
+Android;Android Shape ImageView;Custom shaped android imageview components;UI , views, shape , image views;https://github.com/siyamed/android-shape-imageview
+Android;PiracyChecker; An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 9+ required. ;piracy , secuirty;https://github.com/javiersantos/PiracyChecker
+Android;Bubble Picker;An easy-to-use animation which can be used for content picking for Android;UI , views , bubbles;https://github.com/igalata/Bubble-Picker

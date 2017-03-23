@@ -4446,6 +4446,27 @@
 		<td class="keywords"> UI , UX , views , chips </td>
 		<td class="url"> https://github.com/robertlevonyan/materialChipView </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Shape ImageView </td>
+		<td class="description"> Custom shaped android imageview components </td>
+		<td class="keywords"> UI , views, shape , image views </td>
+		<td class="url"> https://github.com/siyamed/android-shape-imageview </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PiracyChecker </td>
+		<td class="description"> An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 9+ required. </td>
+		<td class="keywords"> piracy , secuirty </td>
+		<td class="url"> https://github.com/javiersantos/PiracyChecker </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bubble Picker </td>
+		<td class="description"> An easy-to-use animation which can be used for content picking for Android </td>
+		<td class="keywords"> UI , views , bubbles </td>
+		<td class="url"> https://github.com/igalata/Bubble-Picker </td>
+	</tr>
 </table>
 
 
@@ -7963,6 +7984,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , goodies , geek </td>
 		<td class="url"> https://your.googlemerchandisestore.com/index </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How to Create a Bubble Selection Animation on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Bubbles , animations , design , OpenGL , shaders , physics , gravity , 3D </td>
+		<td class="url"> https://medium.com/@igalata13/how-to-create-a-bubble-selection-animation-on-android-627044da4854#.tr8seu9d2 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Design thinking lessons from our cats </td>
+		<td class="description"> </td>
+		<td class="keywords"> design , cats </td>
+		<td class="url"> https://hackernoon.com/design-thinking-lessons-from-our-cats-9a43fd71457a </td>
 	</tr>
 </table>
 
