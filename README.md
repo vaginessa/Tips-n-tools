@@ -4467,6 +4467,34 @@
 		<td class="keywords"> UI , views , bubbles </td>
 		<td class="url"> https://github.com/igalata/Bubble-Picker </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> VerticalViewPager </td>
+		<td class="description"> Vertically ViewPager and vertically transformer for Android. </td>
+		<td class="keywords"> UI , view , view pager , vertical </td>
+		<td class="url"> https://github.com/kaelaela/VerticalViewPager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DoubleViewPager </td>
+		<td class="description"> Horizontal + Vertical ViewPager </td>
+		<td class="keywords"> UI , view , view pager , horizontal , vertical </td>
+		<td class="url"> https://github.com/juliome10/DoubleViewPager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Smiley Rating </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , smileys , rating </td>
+		<td class="url"> https://github.com/sujithkanna/SmileyRating </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AppRater Dialog </td>
+		<td class="description"> A dialog which asks the user to rate the app </td>
+		<td class="keywords"> UI , view , app , rater , store , note , comment </td>
+		<td class="url"> https://github.com/Lars3n95/AppRater-Dialog </td>
+	</tr>
 </table>
 
 
@@ -7998,6 +8026,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> design , cats </td>
 		<td class="url"> https://hackernoon.com/design-thinking-lessons-from-our-cats-9a43fd71457a </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Test Driven Android Development </td>
+		<td class="description"> </td>
+		<td class="keywords"> TDD , tests , test drivent development </td>
+		<td class="url"> https://android.jlelse.eu/test-driven-android-development-a902b4f69820 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> App optimization with ArrayMap & SparseArray in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> SparseArray , ArrayMap , performances </td>
+		<td class="url"> https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Memory Leak Patterns in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> memory leaks </td>
+		<td class="url"> https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570 </td>
 	</tr>
 </table>
 

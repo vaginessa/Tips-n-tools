@@ -637,3 +637,7 @@ Android;Material Chip View;Material Chip view. Can be used as tags for categorie
 Android;Android Shape ImageView;Custom shaped android imageview components;UI , views, shape , image views;https://github.com/siyamed/android-shape-imageview
 Android;PiracyChecker; An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 9+ required. ;piracy , secuirty;https://github.com/javiersantos/PiracyChecker
 Android;Bubble Picker;An easy-to-use animation which can be used for content picking for Android;UI , views , bubbles;https://github.com/igalata/Bubble-Picker
+Android;VerticalViewPager;Vertically ViewPager and vertically transformer for Android.;UI , view , view pager , vertical;https://github.com/kaelaela/VerticalViewPager
+Android;DoubleViewPager;Horizontal + Vertical ViewPager ;UI , view , view pager , horizontal , vertical;https://github.com/juliome10/DoubleViewPager
+Android;Smiley Rating;;UI , view , smileys , rating;https://github.com/sujithkanna/SmileyRating
+Android;AppRater Dialog; A dialog which asks the user to rate the app;UI , view , app , rater , store , note , comment;https://github.com/Lars3n95/AppRater-Dialog
