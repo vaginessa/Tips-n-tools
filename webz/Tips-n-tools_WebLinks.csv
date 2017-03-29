@@ -512,3 +512,7 @@ Design;Design thinking lessons from our cats;;design , cats;https://hackernoon.c
 Android;Test Driven Android Development;;TDD , tests , test drivent development;https://android.jlelse.eu/test-driven-android-development-a902b4f69820
 Android;App optimization with ArrayMap & SparseArray in Android;;SparseArray , ArrayMap , performances;https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a
 Android;Memory Leak Patterns in Android;;memory leaks;https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
+Web;REST vs SOAP vs Apache Thrift;;REST , SOAP , Thrift;http://nordicapis.com/microservice-showdown-rest-vs-soap-vs-apache-thrift-and-why-it-matters/
+Android;Easy Job Scheduling with Android-Job;;JobScheduler , GCM Network Manager , AlarmManager , Android-Job;https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742
+Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://nilhcem.com/android-things/external-displays
+Android;Android Things - Using external displays;;Android Things , Android;

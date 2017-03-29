@@ -4495,6 +4495,34 @@
 		<td class="keywords"> UI , view , app , rater , store , note , comment </td>
 		<td class="url"> https://github.com/Lars3n95/AppRater-Dialog </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DragDismissActivity </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , drag to dismiss , activity </td>
+		<td class="url"> https://github.com/klinker24/Android-DragDismissActivity </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SlidingRootNav </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/yarolegovich/SlidingRootNav </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Git blame someone else </td>
+		<td class="description"> </td>
+		<td class="keywords"> git </td>
+		<td class="url"> https://github.com/jayphelps/git-blame-someone-else </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google Open Source </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , open source </td>
+		<td class="url"> https://opensource.google.com/ </td>
+	</tr>
 </table>
 
 
@@ -8048,6 +8076,34 @@
 		<td class="keywords"> memory leaks </td>
 		<td class="url"> https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570 </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> REST vs SOAP vs Apache Thrift </td>
+		<td class="description"> </td>
+		<td class="keywords"> REST , SOAP , Thrift </td>
+		<td class="url"> http://nordicapis.com/microservice-showdown-rest-vs-soap-vs-apache-thrift-and-why-it-matters/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Easy Job Scheduling with Android-Job </td>
+		<td class="description"> </td>
+		<td class="keywords"> JobScheduler , GCM Network Manager , AlarmManager , Android-Job </td>
+		<td class="url"> https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android testing Mockito & Robolectric </td>
+		<td class="description"> </td>
+		<td class="keywords"> Mockito , Robolectric </td>
+		<td class="url"> http://nilhcem.com/android-things/external-displays </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Things - Using external displays </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Things , Android </td>
+		<td class="url"> </td>
+	</tr>
 </table>
 
 
@@ -9941,7 +9997,7 @@
 		<td class="ui"> / </td>
 	</tr>
 	<tr>
-		<td class="typeOther"> / </td>
+		<td class="typeOther"> beamer </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Sony </td>
 		<td class="name"> Xperia Touch </td>

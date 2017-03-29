@@ -641,3 +641,7 @@ Android;VerticalViewPager;Vertically ViewPager and vertically transformer for An
 Android;DoubleViewPager;Horizontal + Vertical ViewPager ;UI , view , view pager , horizontal , vertical;https://github.com/juliome10/DoubleViewPager
 Android;Smiley Rating;;UI , view , smileys , rating;https://github.com/sujithkanna/SmileyRating
 Android;AppRater Dialog; A dialog which asks the user to rate the app;UI , view , app , rater , store , note , comment;https://github.com/Lars3n95/AppRater-Dialog
+Android;DragDismissActivity;;UI , view , drag to dismiss , activity;https://github.com/klinker24/Android-DragDismissActivity
+Android;SlidingRootNav;;;https://github.com/yarolegovich/SlidingRootNav
+/;Git blame someone else;;git;https://github.com/jayphelps/git-blame-someone-else
+/;Google Open Source;;Google , open source;https://opensource.google.com/
