@@ -4523,6 +4523,13 @@
 		<td class="keywords"> Google , open source </td>
 		<td class="url"> https://opensource.google.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Gravity View </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , gravity , navigation </td>
+		<td class="url"> https://github.com/gofynd/gravity-view </td>
+	</tr>
 </table>
 
 
@@ -8095,14 +8102,14 @@
 		<td class="name"> Android testing Mockito & Robolectric </td>
 		<td class="description"> </td>
 		<td class="keywords"> Mockito , Robolectric </td>
-		<td class="url"> http://nilhcem.com/android-things/external-displays </td>
+		<td class="url"> http://alexzh.com/tutorials/android-testing-mockito-robolectric/ </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Android Things - Using external displays </td>
 		<td class="description"> </td>
 		<td class="keywords"> Android Things , Android </td>
-		<td class="url"> </td>
+		<td class="url"> http://nilhcem.com/android-things/external-displays </td>
 	</tr>
 </table>
 
@@ -8292,7 +8299,7 @@
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
-		<td class="ui"> Touchwiz </td>
+		<td class="ui"> TouchWiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -8315,7 +8322,7 @@
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
-		<td class="ui"> Touchwiz </td>
+		<td class="ui"> TouchWiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -8338,7 +8345,7 @@
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
-		<td class="ui"> Touchwiz </td>
+		<td class="ui"> TouchWiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -8353,7 +8360,7 @@
 		<td class="sensors"> iris scanner , Hall sensor , barometer , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3500 mAh </td>
 		<td class="storage"> ? </td>
-		<td class="ram"> 4 GO </td>
+		<td class="ram"> 4 GB </td>
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 153.5 x 73.9 x 7.9 mm </td>
 		<td class="usbtype"> 168 g </td>
@@ -8361,7 +8368,53 @@
 		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
-		<td class="ui"> Touchwiz </td>
+		<td class="ui"> TouchWiz </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy S8 </td>
+		<td class="screensize"> 5.8’’ </td>
+		<td class="screentype"> Corning Gorilla Glass 5 , Super AMOLED </td>
+		<td class="screenresolution"> 1440 x 2960 px = Quad HD </td>
+		<td class="soc"> Samsung Exynos 8 (Qualcomm Snapdragon 835 (USA)) </td>
+		<td class="gpu"> ARM Mali-G71 MP20 </td>
+		<td class="sensors"> Tango ready , Daydream ready , Hall sensor , heart rythm , fingerprint , face scanner , iris scanner , barometer , gyroscope , compass , accelerometer , light sensor , proximitry sensor , Bluetooth 5.0 , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 148.9 x 68.1 x 8 mm </td>
+		<td class="usbtype"> 155 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> TouchWiz </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy S8+ </td>
+		<td class="screensize"> 6.2’’ </td>
+		<td class="screentype"> Corning Gorilla Glass 5 , Super AMOLED </td>
+		<td class="screenresolution"> 1440 x 2960 px = Quad HD </td>
+		<td class="soc"> Samsung Exynos 8 (Qualcomm Snapdragon 835 (USA)) </td>
+		<td class="gpu"> ARM Mali-G71 MP20 </td>
+		<td class="sensors"> Hall sensor , heart rythm , fingerprint , face scanner , iris scanner , barometer , gyroscope , compass , accelerometer , light sensor , proximitry sensor , Bluetooth 5.0 , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3500 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 159.5 x 73.4 x 8.1 mm </td>
+		<td class="usbtype"> 173 g </td>
+		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="ip"> 3.1 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> TouchWiz </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -8373,7 +8426,7 @@
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
-		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="sensors"> Tango ready , Daydream ready , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth 5 , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 32 GB , 64 GB </td>
 		<td class="ram"> 4 GB </td>
@@ -10161,7 +10214,7 @@
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorSamsung"> Samsung </td>
 		<td class="name"> Exynos 8 Octa (8890) </td>
-		<td class="gravure"> ? </td>
+		<td class="gravure"> 10 nm </td>
 		<td class="modem"> ? </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>

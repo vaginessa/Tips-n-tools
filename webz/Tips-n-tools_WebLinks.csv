@@ -514,5 +514,5 @@ Android;App optimization with ArrayMap & SparseArray in Android;;SparseArray , A
 Android;Memory Leak Patterns in Android;;memory leaks;https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
 Web;REST vs SOAP vs Apache Thrift;;REST , SOAP , Thrift;http://nordicapis.com/microservice-showdown-rest-vs-soap-vs-apache-thrift-and-why-it-matters/
 Android;Easy Job Scheduling with Android-Job;;JobScheduler , GCM Network Manager , AlarmManager , Android-Job;https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742
-Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://nilhcem.com/android-things/external-displays
-Android;Android Things - Using external displays;;Android Things , Android;
+Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://alexzh.com/tutorials/android-testing-mockito-robolectric/
+Android;Android Things - Using external displays;;Android Things , Android;http://nilhcem.com/android-things/external-displays
