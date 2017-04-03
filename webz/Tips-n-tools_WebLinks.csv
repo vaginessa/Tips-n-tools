@@ -518,3 +518,5 @@ Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://alex
 Android;Android Things - Using external displays;;Android Things , Android;http://nilhcem.com/android-things/external-displays
 /;Education of a Programmer;; xp , ideas;https://hackernoon.com/education-of-a-programmer-aaecf2d35312
 /;Flying Solo with Android Development;; xp , ideas;https://hackernoon.com/flying-solo-with-android-development-c52d911b62bf
+Android;AdaptiveTableLayout; Library that makes it possible to read, edit and write CSV files;UI , views , layout , CSV;https://github.com/Cleveroad/AdaptiveTableLayout
+Android;Gnirehtet; Gnirehtet provides reverse tethering for Android;Android , reverse tethering;https://github.com/Genymobile/gnirehtet
