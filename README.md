@@ -4530,6 +4530,27 @@
 		<td class="keywords"> UI , view , gravity , navigation </td>
 		<td class="url"> https://github.com/gofynd/gravity-view </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Floating action menu </td>
+		<td class="description"> Library allowing easily integrate fully customizable FloatingActionButton menu. </td>
+		<td class="keywords"> UI , view , lfoating action menu </td>
+		<td class="url"> https://github.com/ArthurGhazaryan/floating-action-menu </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Espresso </td>
+		<td class="description"> Openè-sourced app </td>
+		<td class="keywords"> RxJava2 , Retrofit2 , Realm , MVP </td>
+		<td class="url"> https://github.com/TonnyL/Espresso </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShadowImageView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , image , colored shadow </td>
+		<td class="url"> https://github.com/yingLanNull/ShadowImageView </td>
+	</tr>
 </table>
 
 
@@ -8110,6 +8131,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android Things , Android </td>
 		<td class="url"> http://nilhcem.com/android-things/external-displays </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Education of a Programmer </td>
+		<td class="description"> </td>
+		<td class="keywords"> xp , ideas </td>
+		<td class="url"> https://hackernoon.com/education-of-a-programmer-aaecf2d35312 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Flying Solo with Android Development </td>
+		<td class="description"> </td>
+		<td class="keywords"> xp , ideas </td>
+		<td class="url"> https://hackernoon.com/flying-solo-with-android-development-c52d911b62bf </td>
 	</tr>
 </table>
 

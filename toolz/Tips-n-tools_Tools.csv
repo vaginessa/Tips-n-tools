@@ -646,3 +646,6 @@ Android;SlidingRootNav;;;https://github.com/yarolegovich/SlidingRootNav
 /;Git blame someone else;;git;https://github.com/jayphelps/git-blame-someone-else
 /;Google Open Source;;Google , open source;https://opensource.google.com/
 Android;Gravity View;;UI , view , gravity , navigation;https://github.com/gofynd/gravity-view
+Android;Floating action menu;Library allowing easily integrate fully customizable FloatingActionButton menu. ;UI , view , lfoating action menu;https://github.com/ArthurGhazaryan/floating-action-menu
+Android;Espresso;Openè-sourced app;RxJava2 , Retrofit2 , Realm , MVP;https://github.com/TonnyL/Espresso
+Android;ShadowImageView;;UI , view , image , colored shadow;https://github.com/yingLanNull/ShadowImageView
