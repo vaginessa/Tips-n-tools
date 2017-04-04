@@ -649,3 +649,7 @@ Android;Gravity View;;UI , view , gravity , navigation;https://github.com/gofynd
 Android;Floating action menu;Library allowing easily integrate fully customizable FloatingActionButton menu. ;UI , view , lfoating action menu;https://github.com/ArthurGhazaryan/floating-action-menu
 Android;Espresso;Openè-sourced app;RxJava2 , Retrofit2 , Realm , MVP;https://github.com/TonnyL/Espresso
 Android;ShadowImageView;;UI , view , image , colored shadow;https://github.com/yingLanNull/ShadowImageView
+Android;AdaptiveTableLayout; Library that makes it possible to read, edit and write CSV files;UI , views , layout , CSV;https://github.com/Cleveroad/AdaptiveTableLayout
+Android;Gnirehtet; Gnirehtet provides reverse tethering for Android;Android , reverse tethering;https://github.com/Genymobile/gnirehtet
+/;Mastodon;A free, open-source, decentralized Twitter-like;app , security , privacy , FOSS;https://mastodon.social/
+Android;UsbSerial; Usb serial controller for Android;USB , Android , serial , controller;https://github.com/felHR85/UsbSerial

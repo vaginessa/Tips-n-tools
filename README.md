@@ -4551,6 +4551,34 @@
 		<td class="keywords"> UI , view , image , colored shadow </td>
 		<td class="url"> https://github.com/yingLanNull/ShadowImageView </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AdaptiveTableLayout </td>
+		<td class="description"> Library that makes it possible to read, edit and write CSV files </td>
+		<td class="keywords"> UI , views , layout , CSV </td>
+		<td class="url"> https://github.com/Cleveroad/AdaptiveTableLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Gnirehtet </td>
+		<td class="description"> Gnirehtet provides reverse tethering for Android </td>
+		<td class="keywords"> Android , reverse tethering </td>
+		<td class="url"> https://github.com/Genymobile/gnirehtet </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Mastodon </td>
+		<td class="description"> A free, open-source, decentralized Twitter-like </td>
+		<td class="keywords"> app , security , privacy , FOSS </td>
+		<td class="url"> https://mastodon.social/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> UsbSerial </td>
+		<td class="description"> Usb serial controller for Android </td>
+		<td class="keywords"> USB , Android , serial , controller </td>
+		<td class="url"> https://github.com/felHR85/UsbSerial </td>
+	</tr>
 </table>
 
 
@@ -8148,17 +8176,38 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> AdaptiveTableLayout </td>
-		<td class="description"> Library that makes it possible to read, edit and write CSV files </td>
-		<td class="keywords"> UI , views , layout , CSV </td>
-		<td class="url"> https://github.com/Cleveroad/AdaptiveTableLayout </td>
+		<td class="name"> Android Version, API Level, NDK version and Features </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android versions , API , levels , versions , features </td>
+		<td class="url"> https://android.jlelse.eu/android-version-api-level-ndk-version-and-features-6b48c219416 </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> Gnirehtet </td>
-		<td class="description"> Gnirehtet provides reverse tethering for Android </td>
-		<td class="keywords"> Android , reverse tethering </td>
-		<td class="url"> https://github.com/Genymobile/gnirehtet </td>
+		<td class="name"> Architecture patterns in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , architecture , patterns </td>
+		<td class="url"> https://android.jlelse.eu/architecture-patterns-in-android-abf99f2b6f70 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to encrypt your entire life in less than an hour </td>
+		<td class="description"> </td>
+		<td class="keywords"> app , security , privacy , FOSS , Topr , Orfox , Orbot , Signal </td>
+		<td class="url"> https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> 20+ Awesome Open-Source Android Apps To Boost Your Development Skills </td>
+		<td class="description"> </td>
+		<td class="keywords"> FOSS , samples </td>
+		<td class="url"> https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Introduction to SpringAnimation with examples </td>
+		<td class="description"> </td>
+		<td class="keywords"> Spring animation , animations , effects </td>
+		<td class="url"> https://www.thedroidsonroids.com/blog/android/springanimation-examples/ </td>
 	</tr>
 </table>
 
@@ -8367,7 +8416,7 @@
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 150.9 x 72.6 x 7.7 mm </td>
 		<td class="usbtype"> 157 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8390,7 +8439,7 @@
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 142.4 x 69.6 x 7.9 mm </td>
 		<td class="usbtype"> 152 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8413,7 +8462,7 @@
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 153.5 x 73.9 x 7.9 mm </td>
 		<td class="usbtype"> 168 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> C </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
@@ -8429,14 +8478,14 @@
 		<td class="screenresolution"> 1440 x 2960 px = Quad HD </td>
 		<td class="soc"> Samsung Exynos 8 (Qualcomm Snapdragon 835 (USA)) </td>
 		<td class="gpu"> ARM Mali-G71 MP20 </td>
-		<td class="sensors"> Tango ready , Daydream ready , Hall sensor , heart rythm , fingerprint , face scanner , iris scanner , barometer , gyroscope , compass , accelerometer , light sensor , proximitry sensor , Bluetooth 5.0 , NFC , GPS , Wi-Fi </td>
+		<td class="sensors"> Hall sensor , heart rythm , fingerprint , face scanner , iris scanner , barometer , gyroscope , compass , accelerometer , light sensor , proximitry sensor , Bluetooth 5.0 , NFC , GPS , Wi-Fi </td>
 		<td class="battery"> 3000 mAh , Li-Polymer </td>
 		<td class="storage"> 64 GB </td>
 		<td class="ram"> 4 GB </td>
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 148.9 x 68.1 x 8 mm </td>
 		<td class="usbtype"> 155 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8459,7 +8508,7 @@
 		<td class="camera"> Sony Exmor IMX260 RS CMOS f/1.7 12.19 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 159.5 x 73.4 x 8.1 mm </td>
 		<td class="usbtype"> 173 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8482,7 +8531,7 @@
 		<td class="camera"> Sony Exmor IMX377 R CMOS BSI 6.25x4.65 mm 1.55 µm f/1.8 12.19 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 145.9 x 71.9 x 9 mm </td>
 		<td class="usbtype"> 161 g </td>
-		<td class="weight"> IP53 (dust partial, water shoots) </td>
+		<td class="weight"> IP 53 </td>
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
@@ -8574,7 +8623,7 @@
 		<td class="camera"> Sony IMX 258 Exmor TS CMOS 1.133 µm f/1.8 12.98 MP (back) , 5.04 MP (front) </td>
 		<td class="dimensions"> 148.9 x 71.9 x 7.9 mm </td>
 		<td class="usbtype"> 163 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8597,7 +8646,7 @@
 		<td class="camera"> Sony Exmor IMX220 RS CMOS 6.17x4.55mm 1.176 µm f/2.0 20.66 MP (back) , 2.07 MP (front) </td>
 		<td class="dimensions"> 127 x 64.9 x 8.6 mm </td>
 		<td class="usbtype"> 129 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8620,7 +8669,7 @@
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
 		<td class="dimensions"> 146 x 72 x 7.3 mm </td>
 		<td class="usbtype"> 154 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
@@ -8643,7 +8692,7 @@
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55 mm 1.118 µm 22.85 MP (back) , 5,04 MP (front) </td>
 		<td class="dimensions"> 127 x 65 x 8.9 mm </td>
 		<td class="usbtype"> 138 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8712,7 +8761,7 @@
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55mm 1.118µm 22.85 MP (back) , 12.98 MP (front) </td>
 		<td class="dimensions"> 144.8 x 71.1 x 8.7 mm </td>
 		<td class="usbtype"> 165 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -8735,7 +8784,7 @@
 		<td class="camera"> Sony Exmor RS CMOS 6.17x4.55mm 1.118µm 22.85 MP (back) , 12.98 MP (front) </td>
 		<td class="dimensions"> 146 x 72 x 8.1 mm </td>
 		<td class="usbtype"> 161 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -9051,16 +9100,16 @@
 		<td class="soc"> Qualcomm Snapdragon 821 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
 		<td class="sensors"> ? , daydream ready , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
-		<td class="battery"> 2770 mAh , ? </td>
+		<td class="battery"> 2770 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> Sony IMX78 f/2.0 12 MP (back) , 8 MP (front) </td>
+		<td class="camera"> Sony IMX78 CMOS f/2.0 6.25 x 4.65mm 1.544µm 12 MP (back) , 8 MP (front) </td>
 		<td class="dimensions"> 143.8 x 69.5 x 8.6 mm </td>
 		<td class="usbtype"> 143 g </td>
-		<td class="weight"> no </td>
-		<td class="ip"> 2.0 , C </td>
+		<td class="weight"> IP 53 </td>
+		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> no </td>
-		<td class="sim"> ? </td>
+		<td class="sim"> nano </td>
 		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
@@ -9074,16 +9123,16 @@
 		<td class="soc"> Qualcomm Snapdragon 821 </td>
 		<td class="gpu"> Qualcomm Adreno 530 </td>
 		<td class="sensors"> ? , daydream ready , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS </td>
-		<td class="battery"> 3450 mAh , ? </td>
+		<td class="battery"> 3450 mAh , Li-Ion </td>
 		<td class="storage"> 32 GB , 128 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> Sony IMX78 f/2.0 12 MP (back) , 8 MP (front) </td>
+		<td class="camera"> Sony IMX78 CMOS f/2.0 6.25 x 4.65mm 1.544µm 12 MP (back) , 8 MP (front) </td>
 		<td class="dimensions"> 154.7 x 75.7 x 8.6 mm </td>
 		<td class="usbtype"> 152 g </td>
-		<td class="weight"> no </td>
-		<td class="ip"> 2.0 , C </td>
+		<td class="weight"> IP 53 </td>
+		<td class="ip"> 3.0 , C </td>
 		<td class="sdcard"> no </td>
-		<td class="sim"> ? </td>
+		<td class="sim"> nano </td>
 		<td class="ui"> Vanilla-like </td>
 	</tr>
 	<tr>
@@ -9287,7 +9336,7 @@
 		<td class="camera"> CMOS 12.98 MP (back) , 4.02 MP (front) </td>
 		<td class="dimensions"> 147,9 x 73,4 x 12,66 mm </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
@@ -9517,7 +9566,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> 49.8 x 42.3 x 11.4 mm </td>
 		<td class="usbtype"> 47 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
@@ -9540,7 +9589,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -9563,7 +9612,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> 46 x 49 x 12,9 mm </td>
 		<td class="usbtype"> 57 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -9655,7 +9704,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> ? </td>
@@ -9816,7 +9865,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> 21 g </td>
-		<td class="weight"> IP 58 (dust almost max , water : 1 m during 30 min) </td>
+		<td class="weight"> IP 58 </td>
 		<td class="ip"> micro USB </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -9862,7 +9911,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> 51 x 36 x 10 mm </td>
 		<td class="usbtype"> 46 g </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -9908,7 +9957,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -10000,7 +10049,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IP68 (dust max, water : 1 m during 30 min) </td>
+		<td class="weight"> IP 68 </td>
 		<td class="ip"> no </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>
@@ -10023,7 +10072,7 @@
 		<td class="camera"> no </td>
 		<td class="dimensions"> ? </td>
 		<td class="usbtype"> ? </td>
-		<td class="weight"> IPX7 </td>
+		<td class="weight"> IP X7 </td>
 		<td class="ip"> ? </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> no </td>

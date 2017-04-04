@@ -518,5 +518,8 @@ Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://alex
 Android;Android Things - Using external displays;;Android Things , Android;http://nilhcem.com/android-things/external-displays
 /;Education of a Programmer;; xp , ideas;https://hackernoon.com/education-of-a-programmer-aaecf2d35312
 /;Flying Solo with Android Development;; xp , ideas;https://hackernoon.com/flying-solo-with-android-development-c52d911b62bf
-Android;AdaptiveTableLayout; Library that makes it possible to read, edit and write CSV files;UI , views , layout , CSV;https://github.com/Cleveroad/AdaptiveTableLayout
-Android;Gnirehtet; Gnirehtet provides reverse tethering for Android;Android , reverse tethering;https://github.com/Genymobile/gnirehtet
+Android;Android Version, API Level, NDK version and Features;;Android versions , API , levels , versions , features;https://android.jlelse.eu/android-version-api-level-ndk-version-and-features-6b48c219416
+Android;Architecture patterns in Android;;MVP , architecture , patterns;https://android.jlelse.eu/architecture-patterns-in-android-abf99f2b6f70
+/;How to encrypt your entire life in less than an hour;;app , security , privacy , FOSS , Topr , Orfox , Orbot , Signal;https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
+Android;20+ Awesome Open-Source Android Apps To Boost Your Development Skills;;FOSS , samples;https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
+Android;Introduction to SpringAnimation with examples;;Spring animation , animations , effects;https://www.thedroidsonroids.com/blog/android/springanimation-examples/
