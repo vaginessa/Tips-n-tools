@@ -4579,6 +4579,20 @@
 		<td class="keywords"> USB , Android , serial , controller </td>
 		<td class="url"> https://github.com/felHR85/UsbSerial </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RandomData </td>
+		<td class="description"> Random data generator </td>
+		<td class="keywords"> mock , random , data </td>
+		<td class="url"> https://github.com/ZieIony/RandomData </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> 1001 Free Fonts </td>
+		<td class="description"> </td>
+		<td class="keywords"> free fonts </td>
+		<td class="url"> http://www.1001freefonts.com/ </td>
+	</tr>
 </table>
 
 
@@ -8208,6 +8222,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Spring animation , animations , effects </td>
 		<td class="url"> https://www.thedroidsonroids.com/blog/android/springanimation-examples/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Creating Custom Model For Android Using TensorFlow </td>
+		<td class="description"> </td>
+		<td class="keywords"> TensorFlow , machine learning , Android </td>
+		<td class="url"> https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> Features of revolutionary release – Java 8 for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Java , Java 8 , Android </td>
+		<td class="url"> https://android.jlelse.eu/features-of-revolutionary-release-java-8-for-android-d8abe06c34c5 </td>
 	</tr>
 </table>
 
