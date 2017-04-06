@@ -655,3 +655,7 @@ Android;Gnirehtet; Gnirehtet provides reverse tethering for Android;Android , re
 Android;UsbSerial; Usb serial controller for Android;USB , Android , serial , controller;https://github.com/felHR85/UsbSerial
 Android;RandomData;Random data generator;mock , random , data;https://github.com/ZieIony/RandomData
 Design;1001 Free Fonts;;free fonts;http://www.1001freefonts.com/
+Android;Icon Switch;Custom Android Switch widget ;UI , views , icon , switch;https://github.com/polyak01/IconSwitch
+Android;Bitutorial;Crumbling tutorial;UI , views , tutorial , intor screen ,effects , animations;https://github.com/Cleveroad/Bitutorial
+Android;PatternLockView; An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android;UI , view , pattern lock;https://github.com/aritraroy/PatternLockView
+Android;Grav;Configurable animations based on points;UI , animations , effects;https://github.com/glomadrian/Grav
