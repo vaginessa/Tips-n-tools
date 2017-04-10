@@ -4621,6 +4621,41 @@
 		<td class="keywords"> UI , animations , effects </td>
 		<td class="url"> https://github.com/glomadrian/Grav </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> PlatformIO </td>
+		<td class="description"> PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible </td>
+		<td class="keywords"> IoT </td>
+		<td class="url"> http://platformio.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OpenCV </td>
+		<td class="description"> </td>
+		<td class="keywords"> picture recognition </td>
+		<td class="url"> http://www.opencv.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> KenBurnsView </td>
+		<td class="description"> Android ImageViews animated by Ken Burns Effect </td>
+		<td class="keywords"> UI , views , Ben Brun , effect , picture , image </td>
+		<td class="url"> https://github.com/flavioarfaria/KenBurnsView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AndFix </td>
+		<td class="description"> AndFix is a library that offer hot-fix for Android App. </td>
+		<td class="keywords"> Android , hot-patch , fix </td>
+		<td class="url"> https://github.com/alibaba/AndFix </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AR location based Android </td>
+		<td class="description"> This AR app generally show where things are in the real-world by indicating where the app thinks they are over the camera view when the user holds the phone up and moves it about. </td>
+		<td class="keywords"> AR , picture recognition </td>
+		<td class="url"> https://github.com/dat-ng/ar-location-based-android </td>
+	</tr>
 </table>
 
 
@@ -8271,6 +8306,55 @@
 		<td class="description"> </td>
 		<td class="keywords"> Prolog </td>
 		<td class="url"> https://www.metalevel.at/prolog </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Harder, Better, Faster, Stronger </td>
+		<td class="description"> A story of How I met great Android libraries </td>
+		<td class="keywords"> Espresso , Mockito , Dagger 2 , Leak Canary </td>
+		<td class="url"> https://android.jlelse.eu/harder-better-faster-stronger-773ba10de59c </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MVP + Dagger 2 + RX =👌 Clean/Modern Android App/Code </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , Dagger 2 , RX , clean code </td>
+		<td class="url"> https://android.jlelse.eu/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Closer Look At Android Runtime: DVM vs ART </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , JVM , DVM , Java , DEX , Dalvik , ART , JIT , AOT </td>
+		<td class="url"> https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> How to use AndFix to hot-patch your Android app? </td>
+		<td class="description"> </td>
+		<td class="keywords"> AndFix , Android , bug , hot-patch </td>
+		<td class="url"> https://android.jlelse.eu/how-to-use-andfix-to-hot-patch-your-android-app-c201234d3934 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Let’s Build a Programming Language </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , programming langage </td>
+		<td class="url"> https://hackernoon.com/lets-build-a-programming-language-2612349105c6 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Building a Gas Pump Scanner with OpenCV/Python/iOS </td>
+		<td class="description"> </td>
+		<td class="keywords"> OpenCV , python , iOS , OCR , picture recognition </td>
+		<td class="url"> https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b </td>
+	</tr>
+	<tr>
+		<td class="subjectAi"> AI </td>
+		<td class="name"> OpenAI </td>
+		<td class="description"> Discovering and enacting the path to safe artificial general intelligence. </td>
+		<td class="keywords"> AI </td>
+		<td class="url"> https://openai.com/ </td>
 	</tr>
 </table>
 

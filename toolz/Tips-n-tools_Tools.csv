@@ -659,3 +659,8 @@ Android;Icon Switch;Custom Android Switch widget ;UI , views , icon , switch;htt
 Android;Bitutorial;Crumbling tutorial;UI , views , tutorial , intor screen ,effects , animations;https://github.com/Cleveroad/Bitutorial
 Android;PatternLockView; An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android;UI , view , pattern lock;https://github.com/aritraroy/PatternLockView
 Android;Grav;Configurable animations based on points;UI , animations , effects;https://github.com/glomadrian/Grav
+/;PlatformIO;PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible;IoT;http://platformio.org/
+/;OpenCV;;picture recognition;http://www.opencv.org/
+Android;KenBurnsView;Android ImageViews animated by Ken Burns Effect;UI , views , Ben Brun , effect , picture , image;https://github.com/flavioarfaria/KenBurnsView
+Android;AndFix; AndFix is a library that offer hot-fix for Android App.;Android , hot-patch , fix;https://github.com/alibaba/AndFix
+Android;AR location based Android;This AR app generally show where things are in the real-world by indicating where the app thinks they are over the camera view when the user holds the phone up and moves it about. ;AR , picture recognition;https://github.com/dat-ng/ar-location-based-android

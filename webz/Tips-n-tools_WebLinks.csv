@@ -526,3 +526,10 @@ Android;Introduction to SpringAnimation with examples;;Spring animation , animat
 Android;Creating Custom Model For Android Using TensorFlow;;TensorFlow , machine learning , Android;https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb
 Java;Features of revolutionary release – Java 8 for Android;;Java , Java 8 , Android;https://android.jlelse.eu/features-of-revolutionary-release-java-8-for-android-d8abe06c34c5
 /;The Power of Prolog;;Prolog;https://www.metalevel.at/prolog
+Android;Harder, Better, Faster, Stronger;A story of How I met great Android libraries;Espresso , Mockito , Dagger 2 , Leak Canary;https://android.jlelse.eu/harder-better-faster-stronger-773ba10de59c
+Android;MVP + Dagger 2 + RX =👌 Clean/Modern Android App/Code;;MVP , Dagger 2 , RX , clean code;https://android.jlelse.eu/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f
+Android;Closer Look At Android Runtime: DVM vs ART;;Android , JVM , DVM , Java , DEX , Dalvik , ART , JIT , AOT;https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924
+Android;How to use AndFix to hot-patch your Android app?;;AndFix , Android , bug , hot-patch;https://android.jlelse.eu/how-to-use-andfix-to-hot-patch-your-android-app-c201234d3934
+/;Let’s Build a Programming Language;;code , programming langage;https://hackernoon.com/lets-build-a-programming-language-2612349105c6
+/;Building a Gas Pump Scanner with OpenCV/Python/iOS;;OpenCV , python , iOS , OCR , picture recognition;https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b
+AI;OpenAI;Discovering and enacting the path to safe artificial general intelligence.;AI;https://openai.com/
