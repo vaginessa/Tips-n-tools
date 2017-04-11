@@ -4656,6 +4656,83 @@
 		<td class="keywords"> AR , picture recognition </td>
 		<td class="url"> https://github.com/dat-ng/ar-location-based-android </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> W3C Validator </td>
+		<td class="description"> Feed Validation Service </td>
+		<td class="keywords"> W3C , web , validator </td>
+		<td class="url"> https://validator.w3.org/feed/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Qubes OS </td>
+		<td class="description"> A reasonably secure operating system </td>
+		<td class="keywords"> OS , security , privacy , FOSS , Snowden </td>
+		<td class="url"> https://www.qubes-os.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Whonix </td>
+		<td class="description"> Secure way to surf the web </td>
+		<td class="keywords"> Web , security , privacy , FOSS </td>
+		<td class="url"> https://www.whonix.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tails </td>
+		<td class="description"> The amnesic incognito live system </td>
+		<td class="keywords"> OS , USB , security , privacy , FOSS </td>
+		<td class="url"> https://tails.boum.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> GrandPerspective </td>
+		<td class="description"> Application for Mac that graphically shows the disk usage within a file system </td>
+		<td class="keywords"> storage usage </td>
+		<td class="url"> http://grandperspectiv.sourceforge.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Public APIs </td>
+		<td class="description"> A collective list of free JSON APIs for use in web development. </td>
+		<td class="keywords"> API , data , public API </td>
+		<td class="url"> https://github.com/toddmotto/public-apis </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Programmable Web – API directory </td>
+		<td class="description"> Search the Largest API Directory on the Web </td>
+		<td class="keywords"> API , data , public API </td>
+		<td class="url"> https://www.programmableweb.com/apis/directory </td>
+	</tr>
+	<tr>
+		<td class="subjectBots"> Bots </td>
+		<td class="name"> Chatfuel </td>
+		<td class="description"> Build a Facebook bot without coding </td>
+		<td class="keywords"> smart bot , bot , chat bot </td>
+		<td class="url"> https://chatfuel.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Dribble </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , design , layout </td>
+		<td class="url"> https://dribbble.com/s </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Behance </td>
+		<td class="description"> Showcase & Discover Creative Work </td>
+		<td class="keywords"> UI , design , layout </td>
+		<td class="url"> https://www.behance.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> CodePen </td>
+		<td class="description"> CodePen is a playground for the front end web. </td>
+		<td class="keywords"> UI , design , layout </td>
+		<td class="url"> http://codepen.io/ </td>
+	</tr>
 </table>
 
 
@@ -8355,6 +8432,27 @@
 		<td class="description"> Discovering and enacting the path to safe artificial general intelligence. </td>
 		<td class="keywords"> AI </td>
 		<td class="url"> https://openai.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Hands-on Lab Android Things – Connected Catapult </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Things , catapult </td>
+		<td class="url"> https://github.com/eyal-lezmy/android-things-workshop </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Things – Weather Station </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Things , weather station </td>
+		<td class="url"> https://codelabs.developers.google.com/codelabs/androidthings-weatherstation/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> An anecdotic tour on the history of programming langages </td>
+		<td class="description"> </td>
+		<td class="keywords"> code , programming languages </td>
+		<td class="url"> https://hackernoon.com/an-anecdotic-tour-on-the-history-of-programming-languages-928bc6e9a9a8 </td>
 	</tr>
 </table>
 
