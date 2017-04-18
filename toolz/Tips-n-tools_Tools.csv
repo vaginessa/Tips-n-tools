@@ -50,9 +50,9 @@ Android;AppUpdater;Library that checks for apps' updates on Google Play, Github,
 Android;GSON;Lib to parse JSON;gson , json , parser;https://github.com/google/gson
 Android;FABProgressCircle;Material progress circle around any floating action button;floating action button , circle , progress;https://github.com/JorgeCastilloPrz/FABProgressCircle
 Android;MaterialStyledDialogs;Dialogs with material design and headers;dialogs , material , header;https://github.com/javiersantos/MaterialStyledDialogs
-Android;ProgressButton;Progress button with indicator and footprint;button : progress , indicator;https://github.com/f2prateek/progressbutton
+Android;ProgressButton;Progress button with indicator and footprint;button , progress , indicator;https://github.com/f2prateek/progressbutton
 Android;UCrop;Image cropping library for Android;image , cropp , lib;https://github.com/Yalantis/uCrop
-Android;BottomDialog;A custom dialog attached at the bottom;;https://github.com/rebus007/BottomDialog
+Android;BottomDialog;A custom dialog attached at the bottom;UI , view , dialog , bottom;https://github.com/rebus007/BottomDialog
 Android;PeekAndPop;PeekAndPop is an open source Android library, inspired by Instagram's latest 3D touch feature. As 3D touch is not available for android, this library uses long hold.;;https://github.com/shalskar/PeekAndPop
 Android;Low light theme switcher;Automatically switch between Dark/Light themes using the device light sensor;light , sensor , themes , dark , light;https://github.com/twig/android-low-light-theme-switcher
 Android;Validate forms libs;Libs to validate Android forms;libs , form validation;https://github.com/mahmed8003/DroidValidatorLight     https://github.com/thyrlian/AwesomeValidation
@@ -67,17 +67,17 @@ Android;AboutLibrairies;Tool which can list additional libs in a dedicated view;
 Android;AndroidRPInterpolator;AndroidRPInterpolator is the interpolator library using Rovert Penner's Easing Functions.;animations , interpolator;https://github.com/r21nomi/AndroidRPInterpolator
 Android;MarkerBuilder;Versatile map area / geofence utility for google maps v2 for android;map , google maps;https://github.com/ac-opensource/MarkerBuilder
 Android;SearchableSpinner;Spinner with searchable items.;spinner;https://github.com/miteshpithadiya/SearchableSpinner
-Android;SublimePicker;Date picker;;https://github.com/vikramkakkar/SublimePicker
+Android;SublimePicker;Date picker;UI , view , date picker , picker;https://github.com/vikramkakkar/SublimePicker
 Android;AndroidKeyboardWatcher;;keyboard;https://github.com/AzimoLabs/AndroidKeyboardWatcher
 Android;AndroidTabbedDialog;;tabbed dialog;https://github.com/ashishbhandari/AndroidTabbedDialog
 Android;SwitchButton;;switch buttons ,  material;https://github.com/kyleduo/SwitchButton
 Android;Toggle;Lib to add feature-toggle capability to Android apps;feature , toggle;https://github.com/s0h4m/toggle
-Android;Android SQLite support library;;;https://github.com/requery/sqlite-android
-Android;Multiline collapsingtoolbar;;;https://github.com/opacapp/multiline-collapsingtoolbar
+Android;Android SQLite support library;;SQL , SQLite , databse , storage;https://github.com/requery/sqlite-android
+Android;Multiline collapsingtoolbar;;UI , view , toolbar;https://github.com/opacapp/multiline-collapsingtoolbar
 Android;FlodingCell;;material , animation , fun;https://github.com/Ramotion/folding-cell-android
 Android;URLLinkView;;url , view;https://github.com/TakeoffAndroid/URLLinkView
 Android;SwipeMenuListView;;swipe , menu , list view;https://github.com/baoyongzhang/SwipeMenuListView
-Android;View Hover;;;https://github.com/daimajia/AndroidViewHover
+Android;View Hover;;UI , view;https://github.com/daimajia/AndroidViewHover
 Android;Swipe Layout;;swipe , layout , view item;https://github.com/daimajia/AndroidSwipeLayout
 Android;Pull Zoom Recycler View;;pull to zoom;https://github.com/dinuscxj/PullZoomRecyclerView
 Android;Baarcode Scanner;;QR Code , Google Vision API;https://github.com/EdwardvanRaak/MaterialBarcodeScanner
@@ -85,7 +85,7 @@ Android;MultiSelectWidget;;list , multi select;https://github.com/miteshpithadiy
 Android;MaterialDesignLibrary;;material design , 2.2;https://github.com/navasmdc/MaterialDesignLibrary
 Android;MaterialDialogs;;material , dialog;https://github.com/afollestad/material-dialogs
 Android;MaterialInputCode;;material , input , code;https://github.com/glomadrian/material-code-input
-Android;CardMenu;;;https://github.com/ZhangQinglian/CardMenu
+Android;CardMenu;;UI , view , card , menu;https://github.com/ZhangQinglian/CardMenu
 Android;Depth lib;;depth , canvas , view;https://github.com/danielzeller/Depth-LIB-Android-
 Android;Karumi;;;http://karumi.github.io/AndroidAudit/
 Android;MaryPopup;Expand views with animations;;https://github.com/Meetic/MaryPopup
@@ -147,7 +147,7 @@ Android;CitiesAutoComplete;;cities , Google Places , autocomplete;https://github
 Android;TokenAutoComplete;;auto-complete;https://github.com/splitwise/TokenAutoComplete
 Android;EmailAutoComplete;;email , autocomplete;https://github.com/tasomaniac/EmailAutoCompleteTextView
 Android;SlidingActivity;Android library which allows you to swipe down from an activity to close it. ;;https://github.com/klinker41/android-slidingactivity
-Android;Carouselview;A simple library to add carousel view in android app. ;carousel , view;https://github.com/sayyam/carouselview
+Android;Carouselview;A simple library to add carousel view in android app. ;UI , carousel , view;https://github.com/sayyam/carouselview
 Android;Paperboy;A changelog library for Android ;changelog , view;https://github.com/porokoro/paperboy
 Android;Vintage Chroma;;color picker;https://github.com/MrBIMC/VintageChroma
 Android;Bugshaker;;shaker , bug;https://github.com/stkent/bugshaker-android
@@ -156,7 +156,7 @@ Android;PullToRefresh;;pull to refresh , fun , animations;https://github.com/lub
 Android;Bored Rudolf;;pull to refresh , game;https://github.com/FauDroids/Bored-Rudolf
 Android;Beer Swipe Refresh;;;https://github.com/recruit-lifestyle/BeerSwipeRefresh
 Android;FlyRefresh;;pull to refresh , animation;https://github.com/race604/FlyRefresh
-Android;Circular Slider;;;https://github.com/milosmns/circular-slider-android
+Android;Circular Slider;;UI , view , slider;https://github.com/milosmns/circular-slider-android
 Android;Ticker;An Android TextView with scrolling text changes;text view , scrolling;https://github.com/robinhood/ticker
 Android;Jackson;JSON parser library;json ;http://wiki.fasterxml.com/JacksonHome https://github.com/FasterXML/jackson
 Android;LikesLayout;mplementation of layouts that allow to add likes in Periscope style;layout , effects , likes;https://github.com/Iojjj/LikesLayou
@@ -554,7 +554,7 @@ Android;SharePanel;;share , panel , view;https://github.com/architjn/SharePanel
 Android;Deguard;Statistical Deobfuscation for Android;ProGuard , obfuscation , RI , reverse engineering , tool;http://www.apk-deguard.com/
 Android;Glitch;"A ""glitch effect"" library for Android";glitch , effects , animations;https://github.com/BoD/aLibGlitch
 /;AppRadar;App Marketing like a Pro;app , store , marketing;https://github.com/stepstone-tech/android-material-stepper
-/;Bitrise;;CCI , tool , continuous integration , Jenkins , cloud , service;https://www.bitrise.io/
+DevTool;Bitrise;;CCI , tool , continuous integration , Jenkins , cloud , service;https://www.bitrise.io/
 Android;Lemniscate; An easy way to make your progress view nice and sleek;view , animations , effect , progress;https://github.com/vlad1m1r990/Lemniscate
 Java;Error prone;Catch common Java mistakes as compile-time errors;Java , errors;https://github.com/google/error-prone
 Android;PreviewSeekBar;A SeekBar suited for showing a preview of something;view , seekbar;https://github.com/rubensousa/PreviewSeekBar
@@ -642,7 +642,7 @@ Android;DoubleViewPager;Horizontal + Vertical ViewPager ;UI , view , view pager 
 Android;Smiley Rating;;UI , view , smileys , rating;https://github.com/sujithkanna/SmileyRating
 Android;AppRater Dialog; A dialog which asks the user to rate the app;UI , view , app , rater , store , note , comment;https://github.com/Lars3n95/AppRater-Dialog
 Android;DragDismissActivity;;UI , view , drag to dismiss , activity;https://github.com/klinker24/Android-DragDismissActivity
-Android;SlidingRootNav;;;https://github.com/yarolegovich/SlidingRootNav
+Android;SlidingRootNav;"DrawerLayout-like ViewGroup, where a ""drawer"" is hidden under the content view, which can be shifted to make the drawer visible. ";UI , views , drawer , shift;https://github.com/yarolegovich/SlidingRootNav
 /;Git blame someone else;;git;https://github.com/jayphelps/git-blame-someone-else
 /;Google Open Source;;Google , open source;https://opensource.google.com/
 Android;Gravity View;;UI , view , gravity , navigation;https://github.com/gofynd/gravity-view
@@ -675,3 +675,14 @@ Bots;Chatfuel; Build a Facebook bot without coding ;smart bot , bot , chat bot;h
 Design;Dribble;;UI , design , layout;https://dribbble.com/s
 Design;Behance;Showcase & Discover Creative Work;UI , design , layout;https://www.behance.net/
 Design;CodePen;CodePen is a playground for the front end web.;UI , design , layout;http://codepen.io/
+/;Pusher;Build Apps, not infrastructure;reliable , realtime , scalable , infrastructure , backend;https://pusher.com/
+Design;Android Wireframe Kit;Start your Android project right with a distinct prototype, easily made with Platforma’s huge screen library;UI , wireframes , screens , prototypes;http://android.platforma.ws/
+/;Jitsi Meet;Instant video conferences;Atlassian , Jitsi , Meet , app , security , privacy , FOSS;https://jitsi.org/Projects/JitsiMeet
+/;Let’s Encrypt;Let’s Encrypt is a free, automated, and open Certificate Authority.;securirty , certificate;https://letsencrypt.org/
+Android;Particles Drawable;Android Particles Drawable and View;UI , view , particules;https://github.com/Doctoror/ParticlesDrawable
+Android;BlurredImageView; Blurred ImageView;UI , image views , effects , blur;https://github.com/egslava/BlurredImageView
+Android;Isometric; Isometric drawing library for Android;UI , draws , isometric , 3D;https://github.com/FabianTerhorst/Isometric
+Android;CarouselEffect;Careousel Effect with ViewPager;UI , carousel , views;https://github.com/bhaveshjabuvani-credencys/CarouselEffect
+Android;F32;Android library for OpenWeatherMap API;Open Weather Map API , weather;https://github.com/igormatyushkin014/F32-for-Android
+Android;HorizontalStackView;;UI , views , horizontal , stack;https://github.com/binaryroot/HorizontalStackView
+Android;Cropiwa;Configurable Custom Crop widget for Android;UI , view , image , crop;https://github.com/steelkiwi/cropiwa
