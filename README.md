@@ -3275,7 +3275,7 @@
 		<td class="name"> Material about library </td>
 		<td class="description"> Making it easy to create beautiful about screens for apps </td>
 		<td class="keywords"> UI , about , view </td>
-		<td class="url"> https://github.com/daniel-stoneuk/material-about-library?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5027 </td>
+		<td class="url"> https://github.com/daniel-stoneuk/material-about-library </td>
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
@@ -4809,6 +4809,62 @@
 		<td class="description"> Configurable Custom Crop widget for Android </td>
 		<td class="keywords"> UI , view , image , crop </td>
 		<td class="url"> https://github.com/steelkiwi/cropiwa </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> VeraCrypt </td>
+		<td class="description"> </td>
+		<td class="keywords"> encypherment , security , privacy , FOSS </td>
+		<td class="url"> https://veracrypt.codeplex.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Litho </td>
+		<td class="description"> Litho: A declarative UI framework for Android </td>
+		<td class="keywords"> Facebook , framework , UI design , Android </td>
+		<td class="url"> http://fblitho.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Yoga </td>
+		<td class="description"> A cross-platform layout engine </td>
+		<td class="keywords"> Facebook , engine , layout , UI , design , framework </td>
+		<td class="url"> https://facebook.github.io/yoga/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Rambox </td>
+		<td class="description"> Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. </td>
+		<td class="keywords"> messaging , security , privacy , FOSS </td>
+		<td class="url"> http://rambox.pro/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AndroidSnooper </td>
+		<td class="description"> Android library to record the network calls through the interceptor mechanism of the HTTP clients. </td>
+		<td class="keywords"> sniffer , HTTP , network , calls </td>
+		<td class="url"> https://github.com/jainsahab/AndroidSnooper </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PolygonDrawingUtil </td>
+		<td class="description"> An efficient Android utility class for drawing regular polygons on a Canvas. </td>
+		<td class="keywords"> canvas , polygons , draws </td>
+		<td class="url"> https://github.com/stkent/PolygonDrawingUtil </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PasscodeView </td>
+		<td class="description"> PasscodeView is an Android Library to easily and securely authenticate user with PIN code or using the fingerprint scanner. </td>
+		<td class="keywords"> UI , views , passcode , pin , fingerprint , security , login </td>
+		<td class="url"> https://github.com/kevalpatel2106/PasscodeView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android about box </td>
+		<td class="description"> </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/eggheadgames/android-about-box </td>
 	</tr>
 </table>
 
@@ -8545,6 +8601,20 @@
 		<td class="keywords"> interviews , job , knowledges </td>
 		<td class="url"> https://medium.com/@brendan_fahy/interviewing-android-developers-435ce69b06fa </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android MVP architecture with Dependency Injection </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , DI , dependency injection , Dagger </td>
+		<td class="url"> https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0 </td>
+	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> How to Create a Gradle Plugin in Kotlin </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle , plugin , Kotlin </td>
+		<td class="url"> https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/ </td>
+	</tr>
 </table>
 
 
@@ -9692,13 +9762,36 @@
 		<td class="battery"> 3220 mAh , Li-ion </td>
 		<td class="storage"> 128 GB </td>
 		<td class="ram"> 4 GB </td>
-		<td class="camera"> CMOS BSI f/2.0 6.25 x 4.65 mm 12.19 MP (bach) , 4.13 MP (front) </td>
+		<td class="camera"> CMOS BSI f/2.0 6.25 x 4.65 mm 12.19 MP (back) , 4.13 MP (front) </td>
 		<td class="dimensions"> 161.5 x 77 x 10 mm </td>
 		<td class="usbtype"> 241 g </td>
 		<td class="weight"> no </td>
 		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Essential </td>
+		<td class="name"> FIH-PM1 </td>
+		<td class="screensize"> ? </td>
+		<td class="screentype"> ? </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 835 </td>
+		<td class="gpu"> Qualcomm Adreno 540 </td>
+		<td class="sensors"> ? </td>
+		<td class="battery"> ? </td>
+		<td class="storage"> ? </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> 12 MP (back) , 8 MP (front) </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> ? </td>
+		<td class="ip"> ? </td>
+		<td class="sdcard"> ? </td>
+		<td class="sim"> ? </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>

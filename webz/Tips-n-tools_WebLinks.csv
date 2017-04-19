@@ -538,3 +538,5 @@ Android;Android Things – Weather Station;;Android Things , weather station;htt
 /;An anecdotic tour on the history of programming langages;;code , programming languages;https://hackernoon.com/an-anecdotic-tour-on-the-history-of-programming-languages-928bc6e9a9a8
 Android;Configuring Android Project  - Continuous Integration;;CI , continuous integration , webhooks , Bitrise;https://hackernoon.com/configuring-android-project-continuous-integration-e06fd43c4953
 Android;Interviewing Android Developers;;interviews , job , knowledges;https://medium.com/@brendan_fahy/interviewing-android-developers-435ce69b06fa
+Android;Android MVP architecture with Dependency Injection;;MVP , DI , dependency injection , Dagger;https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0
+Kotlin;How to Create a Gradle Plugin in Kotlin;;Gradle , plugin , Kotlin;https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/
