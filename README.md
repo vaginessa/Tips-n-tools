@@ -4863,8 +4863,29 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Android about box </td>
 		<td class="description"> </td>
-		<td class="keywords"> </td>
+		<td class="keywords"> UI , about ,views </td>
 		<td class="url"> https://github.com/eggheadgames/android-about-box </td>
+	</tr>
+	<tr>
+		<td class="subjectBots"> Bots </td>
+		<td class="name"> Messenger Platform </td>
+		<td class="description"> </td>
+		<td class="keywords"> Facebook , bots , Messenger </td>
+		<td class="url"> https://developers.facebook.com/docs/messenger-platform </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Developer Circles from Facebook </td>
+		<td class="description"> Connecting communities to develop the future. </td>
+		<td class="keywords"> Facebook , communities , developers , circles </td>
+		<td class="url"> https://developers.facebook.com/developercircles </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> GDG </td>
+		<td class="description"> Google Developer Group </td>
+		<td class="keywords"> Google , GDG </td>
+		<td class="url"> https://developers.google.com/groups/ </td>
 	</tr>
 </table>
 
@@ -8614,6 +8635,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Gradle , plugin , Kotlin </td>
 		<td class="url"> https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RTL Support on Android. Here is all you need to know </td>
+		<td class="description"> </td>
+		<td class="keywords"> RTL , i18n , langages , right to left , locales </td>
+		<td class="url"> https://android.jlelse.eu/rtl-support-on-android-here-is-all-you-need-know-e13f2df512e2 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Program Overview </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , preview , overview </td>
+		<td class="url"> https://developer.android.com/preview/overview.html </td>
 	</tr>
 </table>
 

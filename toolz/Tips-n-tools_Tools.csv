@@ -693,4 +693,7 @@ Design;Yoga;A cross-platform layout engine;Facebook , engine , layout , UI , des
 Android;AndroidSnooper; Android library to record the network calls through the interceptor mechanism of the HTTP clients.;sniffer , HTTP , network , calls;https://github.com/jainsahab/AndroidSnooper
 Android;PolygonDrawingUtil; An efficient Android utility class for drawing regular polygons on a Canvas.;canvas , polygons , draws;https://github.com/stkent/PolygonDrawingUtil
 Android;PasscodeView; PasscodeView is an Android Library to easily and securely authenticate user with PIN code or using the fingerprint scanner.;UI , views , passcode , pin , fingerprint , security , login;https://github.com/kevalpatel2106/PasscodeView
-Android;Android about box;;;https://github.com/eggheadgames/android-about-box
+Android;Android about box;;UI , about ,views;https://github.com/eggheadgames/android-about-box
+Bots;Messenger Platform;;Facebook , bots , Messenger;https://developers.facebook.com/docs/messenger-platform
+DevTool;Developer Circles from Facebook; Connecting communities to develop the future. ;Facebook , communities , developers , circles;https://developers.facebook.com/developercircles
+DevTool;GDG;Google Developer Group;Google , GDG;https://developers.google.com/groups/

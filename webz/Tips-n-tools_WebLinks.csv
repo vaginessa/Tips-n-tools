@@ -540,3 +540,5 @@ Android;Configuring Android Project  - Continuous Integration;;CI , continuous
 Android;Interviewing Android Developers;;interviews , job , knowledges;https://medium.com/@brendan_fahy/interviewing-android-developers-435ce69b06fa
 Android;Android MVP architecture with Dependency Injection;;MVP , DI , dependency injection , Dagger;https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0
 Kotlin;How to Create a Gradle Plugin in Kotlin;;Gradle , plugin , Kotlin;https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/
+Android;RTL Support on Android. Here is all you need to know;;RTL , i18n , langages , right to left , locales;https://android.jlelse.eu/rtl-support-on-android-here-is-all-you-need-know-e13f2df512e2
+Android;Android Program Overview;;Android , preview , overview;https://developer.android.com/preview/overview.html
