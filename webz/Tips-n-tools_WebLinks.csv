@@ -542,3 +542,5 @@ Android;Android MVP architecture with Dependency Injection;;MVP , DI , dependenc
 Kotlin;How to Create a Gradle Plugin in Kotlin;;Gradle , plugin , Kotlin;https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/
 Android;RTL Support on Android. Here is all you need to know;;RTL , i18n , langages , right to left , locales;https://android.jlelse.eu/rtl-support-on-android-here-is-all-you-need-know-e13f2df512e2
 Android;Android Program Overview;;Android , preview , overview;https://developer.android.com/preview/overview.html
+Android;Android Things and Machine Learning;;Android Things , Machine Learning , TensorFlow;https://code.tutsplus.com/articles/android-things-and-machine-learning--cms-28089
+/;RxMarbles;Interactive diagrams of Rx Observables;Rx , Reactive Programming;http://rxmarbles.com/
