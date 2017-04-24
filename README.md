@@ -4887,6 +4887,41 @@
 		<td class="keywords"> Google , GDG </td>
 		<td class="url"> https://developers.google.com/groups/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Regex 101 </td>
+		<td class="description"> Regular Expressions </td>
+		<td class="keywords"> regex </td>
+		<td class="url"> https://regex101.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Yeoman </td>
+		<td class="description"> The Web’s scaffolding tool for modern webapps </td>
+		<td class="keywords"> generator , Angular , Backbone , React , Polymer </td>
+		<td class="url"> http://yeoman.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SQLiteToExcel </td>
+		<td class="description"> A simple lib for Android to export SQLite to Excel, also Excel to SQLite. </td>
+		<td class="keywords"> SQLite , DB , databse , storage , excel </td>
+		<td class="url"> https://github.com/li-yu/SQLiteToExcel </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Ethereum </td>
+		<td class="description"> Blockchain app platform </td>
+		<td class="keywords"> blockchain </td>
+		<td class="url"> https://www.ethereum.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Google Transparency Report </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , transparency , report </td>
+		<td class="url"> https://www.google.com/transparencyreport/ </td>
+	</tr>
 </table>
 
 
