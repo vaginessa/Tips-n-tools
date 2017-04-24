@@ -4922,6 +4922,13 @@
 		<td class="keywords"> Google , transparency , report </td>
 		<td class="url"> https://www.google.com/transparencyreport/ </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> HTML5 Rocks </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> https://www.html5rocks.com/fr/ </td>
+	</tr>
 </table>
 
 
