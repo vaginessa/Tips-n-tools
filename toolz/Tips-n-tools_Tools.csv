@@ -705,3 +705,6 @@ Android;SQLiteToExcel;A simple lib for Android to export SQLite to Excel, also E
 Web;HTML5 Rocks;;news , veille , tuto , site , tool;https://www.html5rocks.com/fr/
 Android;ExtraMapUtils;The simple utility for google maps in android ;Google Maps , markers , drawings , maps;https://github.com/bkhezry/ExtraMapUtils
 Android;Circular Reveal; Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+;UI , animations , circular , reveal;https://github.com/ozodrukh/CircularReveal
+DevTool;Appium;Appium is an open source test automation framework for use with native, hybrid and mobile web apps;Tests , automation , instrumented tests , iOS , Android , Web;http://appium.io/
+/;Python;;python;https://www.python.org/
+DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests;http://robotframework.org/
