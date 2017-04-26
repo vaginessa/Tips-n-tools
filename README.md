@@ -4929,6 +4929,13 @@
 		<td class="keywords"> news , veille , tuto , site , tool </td>
 		<td class="url"> https://www.html5rocks.com/fr/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ExtraMapUtils </td>
+		<td class="description"> The simple utility for google maps in android </td>
+		<td class="keywords"> Google Maps , markers , drawings , maps </td>
+		<td class="url"> https://github.com/bkhezry/ExtraMapUtils </td>
+	</tr>
 </table>
 
 
@@ -8705,6 +8712,27 @@
 		<td class="description"> Interactive diagrams of Rx Observables </td>
 		<td class="keywords"> Rx , Reactive Programming </td>
 		<td class="url"> http://rxmarbles.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> You Should Learn Functional Programming in 2017 </td>
+		<td class="description"> </td>
+		<td class="keywords"> FP , functioal programming </td>
+		<td class="url"> http://coderoncode.com/functional-programming/2017/04/23/you-should-learn-functional-programming-in-2017.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Elixir </td>
+		<td class="description"> Elixir is a dynamic, functional language designed for building scalable and maintainable applications. </td>
+		<td class="keywords"> Elixir , Erlang , functional programming </td>
+		<td class="url"> http://elixir-lang.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Best Linux Distros for Gaming in 2017 </td>
+		<td class="description"> </td>
+		<td class="keywords"> Linux </td>
+		<td class="url"> https://thishosting.rocks/best-linux-distros-for-gaming/ </td>
 	</tr>
 </table>
 
