@@ -4936,6 +4936,13 @@
 		<td class="keywords"> Google Maps , markers , drawings , maps </td>
 		<td class="url"> https://github.com/bkhezry/ExtraMapUtils </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Circular Reveal </td>
+		<td class="description"> Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+ </td>
+		<td class="keywords"> UI , animations , circular , reveal </td>
+		<td class="url"> https://github.com/ozodrukh/CircularReveal </td>
+	</tr>
 </table>
 
 
