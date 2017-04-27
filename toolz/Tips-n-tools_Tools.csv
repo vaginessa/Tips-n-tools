@@ -708,3 +708,5 @@ Android;Circular Reveal; Lollipop ViewAnimationUtils.createCircularReveal for ev
 DevTool;Appium;Appium is an open source test automation framework for use with native, hybrid and mobile web apps;Tests , automation , instrumented tests , iOS , Android , Web;http://appium.io/
 /;Python;;python;https://www.python.org/
 DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests;http://robotframework.org/
+DevTool;Atom;A hackable text editor for the 21st Century;IDE , editor , text editor;https://atom.io/
+DevTool;Vim;;IDE , editor , text editor;http://www.vim.org/
