@@ -710,3 +710,5 @@ DevTool;Appium;Appium is an open source test automation framework for use with n
 DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests;http://robotframework.org/
 DevTool;Atom;A hackable text editor for the 21st Century;IDE , editor , text editor;https://atom.io/
 DevTool;Vim;;IDE , editor , text editor;http://www.vim.org/
+Android;Matisse;A well-designed local image and video selector for Android;UI , picture , image , video , selector , picker;https://github.com/zhihu/Matisse
+Android;Android Material Color Picker Dialog; A simple, minimalistic and beautiful dialog color picker for Android 4.1+ (Jellybean+) devices;UI , color picker , dialog;https://github.com/Pes8/android-material-color-picker-dialog

@@ -4964,6 +4964,34 @@
 		<td class="keywords"> ATDD , acceptance tests </td>
 		<td class="url"> http://robotframework.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Atom </td>
+		<td class="description"> A hackable text editor for the 21st Century </td>
+		<td class="keywords"> IDE , editor , text editor </td>
+		<td class="url"> https://atom.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Vim </td>
+		<td class="description"> </td>
+		<td class="keywords"> IDE , editor , text editor </td>
+		<td class="url"> http://www.vim.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Matisse </td>
+		<td class="description"> A well-designed local image and video selector for Android </td>
+		<td class="keywords"> UI , picture , image , video , selector , picker </td>
+		<td class="url"> https://github.com/zhihu/Matisse </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Material Color Picker Dialog </td>
+		<td class="description"> A simple, minimalistic and beautiful dialog color picker for Android 4.1+ (Jellybean+) devices </td>
+		<td class="keywords"> UI , color picker , dialog </td>
+		<td class="url"> https://github.com/Pes8/android-material-color-picker-dialog </td>
+	</tr>
 </table>
 
 
@@ -8761,6 +8789,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Linux </td>
 		<td class="url"> https://thishosting.rocks/best-linux-distros-for-gaming/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Share The Cache </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , cache , share </td>
+		<td class="url"> http://emuneee.com/blog/2017/04/12/share-the-cache/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Robot Framework – Dos and Don’ts </td>
+		<td class="description"> </td>
+		<td class="keywords"> Robot Framework , tests , TDD , ATDD </td>
+		<td class="url"> https://www.slideshare.net/pekkaklarck/robot-framework-dos-and-donts </td>
 	</tr>
 </table>
 
