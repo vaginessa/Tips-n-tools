@@ -5041,6 +5041,48 @@
 		<td class="keywords"> digital humanism </td>
 		<td class="url"> https://pastebin.com/faq </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Flow </td>
+		<td class="description"> Name UI states, navigate between them, remember where you've been. </td>
+		<td class="keywords"> UI , Square , Flow , views , Activity </td>
+		<td class="url"> https://github.com/square/flow </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Mortar </td>
+		<td class="description"> A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle. </td>
+		<td class="keywords"> UI , Square , Mortar , views , Activity </td>
+		<td class="url"> https://github.com/square/mortar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Oblique </td>
+		<td class="description"> With Oblique explore new styles of displaying images </td>
+		<td class="keywords"> UI , picture , views , display </td>
+		<td class="url"> https://github.com/akshay2211/oblique </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PersistentSearch </td>
+		<td class="description"> A clone of the Google Now/Maps/Play persistent search bar </td>
+		<td class="keywords"> UI , view , persistent , search bar </td>
+		<td class="url"> https://github.com/KieronQuinn/PersistentSearch </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Ultimate Android Reference </td>
+		<td class="description"> Ultimate Android Reference - Your Road to Become a Better Android Developer </td>
+		<td class="keywords"> Android , dev , tips </td>
+		<td class="url"> https://github.com/aritraroy/UltimateAndroidReference </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Dagger </td>
+		<td class="description"> Dagger is a fully static, compile-time dependency injection framework for both Java and Android </td>
+		<td class="keywords"> Dagger , Square , dependency injection </td>
+		<td class="url"> https://google.github.io/dagger/ </td>
+	</tr>
 </table>
 
 
@@ -8852,6 +8894,41 @@
 		<td class="description"> </td>
 		<td class="keywords"> Robot Framework , tests , TDD , ATDD </td>
 		<td class="url"> https://www.slideshare.net/pekkaklarck/robot-framework-dos-and-donts </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Fragments: The Solution to (and Cause of) All of Android's Problems </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , Fragments , Activity , MVP </td>
+		<td class="url"> https://news.realm.io/news/michael-yotive-state-of-fragments-2017/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Propagating Transitions in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , transitions , animations </td>
+		<td class="url"> https://medium.com/proandroiddev/propagating-transitions-1a18b647ba71 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Clean Your Activity Using Delegation Pattern </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , Delegation Pattern </td>
+		<td class="url"> https://medium.com/proandroiddev/clean-your-activity-using-delegation-pattern-fcaafd82336d </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MVC vs. MVP vs. MVVM on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVC , MVP , MVVM , architecture </td>
+		<td class="url"> https://news.realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Architectures </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , Android , architectures </td>
+		<td class="url"> https://github.com/googlesamples/android-architecture </td>
 	</tr>
 </table>
 

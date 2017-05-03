@@ -549,3 +549,8 @@ Android;Android Things and Machine Learning;;Android Things , Machine Learning ,
 /;Best Linux Distros for Gaming in 2017;;Linux;https://thishosting.rocks/best-linux-distros-for-gaming/
 Android;Share The Cache;;Android , cache , share;http://emuneee.com/blog/2017/04/12/share-the-cache/
 DevTool;Robot Framework – Dos and Don’ts;;Robot Framework , tests , TDD , ATDD;https://www.slideshare.net/pekkaklarck/robot-framework-dos-and-donts
+Android;Fragments: The Solution to (and Cause of) All of Android's Problems;;UI , Fragments , Activity , MVP;https://news.realm.io/news/michael-yotive-state-of-fragments-2017/
+Android;Propagating Transitions in Android;;UI , transitions , animations;https://medium.com/proandroiddev/propagating-transitions-1a18b647ba71
+Android;Clean Your Activity Using Delegation Pattern;;MVP , Delegation Pattern;https://medium.com/proandroiddev/clean-your-activity-using-delegation-pattern-fcaafd82336d
+Android;MVC vs. MVP vs. MVVM on Android;;MVC , MVP , MVVM , architecture;https://news.realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+Android;Android Architectures;;Google , Android , architectures;https://github.com/googlesamples/android-architecture

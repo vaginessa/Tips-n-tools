@@ -719,3 +719,9 @@ Android;Android Material Color Picker Dialog; A simple, minimalistic and beautif
 /;Archive.org;Wayback machine - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more. ;digital humanism;https://archive.org/
 /;Project Gutenberg;Free ebooks;digital humanism;https://www.gutenberg.org/
 /;Pastebin;;digital humanism;https://pastebin.com/faq
+Android;Flow;Name UI states, navigate between them, remember where you've been.;UI , Square , Flow , views , Activity;https://github.com/square/flow
+Android;Mortar;A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle. ;UI , Square , Mortar , views , Activity;https://github.com/square/mortar
+Android;Oblique;With Oblique explore new styles of displaying images;UI , picture , views , display;https://github.com/akshay2211/oblique
+Android;PersistentSearch;A clone of the Google Now/Maps/Play persistent search bar;UI , view , persistent , search bar;https://github.com/KieronQuinn/PersistentSearch
+Android;Ultimate Android Reference;Ultimate Android Reference - Your Road to Become a Better Android Developer ;Android , dev , tips;https://github.com/aritraroy/UltimateAndroidReference
+Android;Dagger;Dagger is a fully static, compile-time dependency injection framework for both Java and Android;Dagger , Square , dependency injection;https://google.github.io/dagger/
