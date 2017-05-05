@@ -325,7 +325,7 @@ DevTool;Calabash;Automated acceptance testing for mobile apps;DevOps , CI , tool
 DevTool;Lint;Improve your code with Lint;DevOps , CI , tools , Lint , code , optimization , quality;https://developer.android.com/studio/write/lint.html
 DevTool;Monkey;UI/Application exerciser;DevOps , CI , tools , UI , tests , stress , monkey , quality , Android;https://developer.android.com/studio/test/monkey.html
 DevTool;Monkeyrunner;UI/Application exerciser;DevOps , CI , tools , UI , tests , monkey , monkeyrunner , quality , Android;https://developer.android.com/studio/test/monkeyrunner/index.html
-DevTool;Cucumber;Behaviour-Drive Developement;BDD;https://cucumber.io/
+DevTool;Cucumber;Behaviour-Driven Developement;BDD , automated tests , Cucumber , Gerkhin;https://cucumber.io/
 Android;AppBarLayout Spring Behaviour;;view , animations;https://github.com/ToDou/appbarlayout-spring-behavior
 Android;ViewPagerIndicator;;view pager , indicator;https://github.com/JakeWharton/ViewPagerIndicator
 Android;Android Debug Drawer; Android Debug Drawer for faster development ;debug;https://github.com/palaima/DebugDrawer
@@ -732,3 +732,4 @@ Android;MaterialDrawer;The flexible, easy to use, all in one drawer library for 
 Android;DarylAndroidTracker;Use multiples analytics and other trackers in your Application easily;dev , tracker , Google Analytics , Firebase , CrashLytics , Facebook ;https://github.com/guitcastro/DarylAndroidTracker
 DevTool;POEditor;Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution. ;i18n;https://poeditor.com/
 DevTool;Poesie;A script to automate extraction of poeditor.com localized strings for Android & iOS;i18n;https://github.com/NijiDigital/poesie
+/;Gherkin;Business Readable, Domain Specific Language that lets you describe software’s behaviour without detailing how that behaviour is implemented.;BDD , automated tests , Cucumber , Gerkhin;https://github.com/cucumber/cucumber/wiki/Gherkin
