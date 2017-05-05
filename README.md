@@ -5083,6 +5083,55 @@
 		<td class="keywords"> Dagger , Square , dependency injection </td>
 		<td class="url"> https://google.github.io/dagger/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Wallabag </td>
+		<td class="description"> </td>
+		<td class="keywords"> Tools , Pockets , keep articles </td>
+		<td class="url"> https://wallabag.org/fr </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Node compiler </td>
+		<td class="description"> Compiling your Node.js application into a single executable with dynamic require and all fs.* API support. </td>
+		<td class="keywords"> Node.js , executable </td>
+		<td class="url"> https://github.com/pmq20/node-compiler </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FloatingMenu </td>
+		<td class="description"> An orbit-like action button </td>
+		<td class="keywords"> UI , view , aciton button , menu </td>
+		<td class="url"> https://github.com/rjsvieira/floatingMenu </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MaterialDrawer </td>
+		<td class="description"> The flexible, easy to use, all in one drawer library for your Android project </td>
+		<td class="keywords"> UI , view , material , drawer , menu </td>
+		<td class="url"> https://github.com/mikepenz/MaterialDrawer </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DarylAndroidTracker </td>
+		<td class="description"> Use multiples analytics and other trackers in your Application easily </td>
+		<td class="keywords"> dev , tracker , Google Analytics , Firebase , CrashLytics , Facebook </td>
+		<td class="url"> https://github.com/guitcastro/DarylAndroidTracker </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> POEditor </td>
+		<td class="description"> Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution. </td>
+		<td class="keywords"> i18n </td>
+		<td class="url"> https://poeditor.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Poesie </td>
+		<td class="description"> A script to automate extraction of poeditor.com localized strings for Android & iOS </td>
+		<td class="keywords"> i18n </td>
+		<td class="url"> https://github.com/NijiDigital/poesie </td>
+	</tr>
 </table>
 
 
@@ -8929,6 +8978,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Google , Android , architectures </td>
 		<td class="url"> https://github.com/googlesamples/android-architecture </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Developer Differences: Makers vs Menders </td>
+		<td class="description"> </td>
+		<td class="keywords"> dev life , developer , makers , mengers </td>
+		<td class="url"> https://dev.to/corgibytes/developer-differences-makers-vs-menders </td>
 	</tr>
 </table>
 

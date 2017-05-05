@@ -725,3 +725,10 @@ Android;Oblique;With Oblique explore new styles of displaying images;UI , pictur
 Android;PersistentSearch;A clone of the Google Now/Maps/Play persistent search bar;UI , view , persistent , search bar;https://github.com/KieronQuinn/PersistentSearch
 Android;Ultimate Android Reference;Ultimate Android Reference - Your Road to Become a Better Android Developer ;Android , dev , tips;https://github.com/aritraroy/UltimateAndroidReference
 Android;Dagger;Dagger is a fully static, compile-time dependency injection framework for both Java and Android;Dagger , Square , dependency injection;https://google.github.io/dagger/
+/;Wallabag;;Tools , Pockets , keep articles;https://wallabag.org/fr
+JavaScript;Node compiler; Compiling your Node.js application into a single executable with dynamic require and all fs.* API support.;Node.js , executable;https://github.com/pmq20/node-compiler
+Android;FloatingMenu;An orbit-like action button;UI , view , aciton button , menu;https://github.com/rjsvieira/floatingMenu
+Android;MaterialDrawer;The flexible, easy to use, all in one drawer library for your Android project;UI , view , material , drawer , menu;https://github.com/mikepenz/MaterialDrawer
+Android;DarylAndroidTracker;Use multiples analytics and other trackers in your Application easily;dev , tracker , Google Analytics , Firebase , CrashLytics , Facebook ;https://github.com/guitcastro/DarylAndroidTracker
+DevTool;POEditor;Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution. ;i18n;https://poeditor.com/
+DevTool;Poesie;A script to automate extraction of poeditor.com localized strings for Android & iOS;i18n;https://github.com/NijiDigital/poesie
