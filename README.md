@@ -5139,6 +5139,62 @@
 		<td class="keywords"> BDD , automated tests , Cucumber , Gerkhin </td>
 		<td class="url"> https://github.com/cucumber/cucumber/wiki/Gherkin </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> PatternPlaceholder </td>
+		<td class="description"> A bitmap generator with tiling options and asynchronous ImageView loading. </td>
+		<td class="keywords"> UI , pattern , placeholder , bitmap generator </td>
+		<td class="url"> https://github.com/Oyzuu/PatternPlaceholder-Android </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> EasyPortfolio </td>
+		<td class="description"> Portfolio activity </td>
+		<td class="keywords"> UI , view , activity , portfolio , about </td>
+		<td class="url"> https://github.com/webianks/EasyPortfolio?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5737 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Shortcut Helper </td>
+		<td class="description"> An android library to create the new Android 7.0 shortcuts easily </td>
+		<td class="keywords"> UI , shortcuts , icons , quick actions </td>
+		<td class="url"> https://github.com/marcoscgdev/shortcut-helper?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5732 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Swipe To Dismiss Dialog </td>
+		<td class="description"> Android library which can turn any View into a draggable dialog with swipe to dismiss feature. </td>
+		<td class="keywords"> UI , dialog , swipe , dismiss </td>
+		<td class="url"> https://github.com/andreilisun/Swipe-To-Dismiss-Dialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5726 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SearchableSpinner </td>
+		<td class="description"> Fully Searchable Spiner Dialog </td>
+		<td class="keywords"> UI , spinner , search </td>
+		<td class="url"> https://github.com/MdFarhanRaja/SearchableSpinner?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5718 </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Jfrog Bintray </td>
+		<td class="description"> Software Distriubtion as a Service </td>
+		<td class="keywords"> Jcenter , bintray , libs </td>
+		<td class="url"> https://bintray.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Circular Layout Manager </td>
+		<td class="description"> Custom Layout Manager for Recycler View </td>
+		<td class="keywords"> UI , view , circular , layout </td>
+		<td class="url"> https://github.com/kapil93/Circular-Layout-Manager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Morse Code Converter </td>
+		<td class="description"> Android Morse Code Converter Application </td>
+		<td class="keywords"> Morse </td>
+		<td class="url"> https://github.com/ssaurel/Morse-Code-Converter </td>
+	</tr>
 </table>
 
 
@@ -8993,6 +9049,27 @@
 		<td class="keywords"> dev life , developer , makers , mengers </td>
 		<td class="url"> https://dev.to/corgibytes/developer-differences-makers-vs-menders </td>
 	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Déployer sa librairie sur Jcenter </td>
+		<td class="description"> </td>
+		<td class="keywords"> Jcenter , bintray , libs </td>
+		<td class="url"> http://tutos-android-france.com/deployer-librairie-jcenter/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Avoiding cold starts on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , colde starts , splash screen , launch screen </td>
+		<td class="url"> https://saulmm.github.io/avoding-android-cold-starts </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> A follow-up on how to store tokens securely in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Security , token </td>
+		<td class="url"> https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17 </td>
+	</tr>
 </table>
 
 
@@ -10035,7 +10112,7 @@
 		<td class="ui"> Vibe UI </td>
 	</tr>
 	<tr>
-		<td class="typeOther"> phablet </td>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Lenovo </td>
 		<td class="name"> Phab 2 Pro </td>
@@ -10074,6 +10151,29 @@
 		<td class="camera"> CMOS f/1.7 12.19 MP (back) , 4.92 MP (front) </td>
 		<td class="dimensions"> 150.2 x 74 x 9.7 mm </td>
 		<td class="usbtype"> 155 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Oppo </td>
+		<td class="name"> R9 </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> AMOLED </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> MediaTek Helio P10 </td>
+		<td class="gpu"> ARM Mali-T860 MP2 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 2850 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f/2.2 12.98 MP 4.69 x 3.52 mm 1.127 µm (back) , 15.93 MP (front) </td>
+		<td class="dimensions"> 151.8 x 74.3 x 6.6 mm </td>
+		<td class="usbtype"> 145 g </td>
 		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> microSD </td>
@@ -10170,6 +10270,29 @@
 		<td class="ip"> ? </td>
 		<td class="sdcard"> ? </td>
 		<td class="sim"> ? </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Oukitel </td>
+		<td class="name"> K10000 Pro </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> MediaTek MT6750T </td>
+		<td class="gpu"> ARM Mali-T860 MP2 </td>
+		<td class="sensors"> proximity , light , accelerometer , fingerprint , Bluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 10100 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f/2.2 15.03 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> ? </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> micro , micro </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
@@ -11096,6 +11219,28 @@
 	<tr>
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
+		<td class="name"> Snapdragon 660 </td>
+		<td class="gravure"> 14 nm </td>
+		<td class="modem"> Qualcomm Snapdragon X12 LTE </td>
+		<td class="pds"> 600 Mbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> 5.0 </td>
+		<td class="nfc"> X </td>
+		<td class="usb"> C , 3.1 </td>
+		<td class="csm"> 24 MP </td>
+		<td class="vcm"> 4K Ultra HD </td>
+		<td class="vpm"> 4K Ultra HD </td>
+		<td class="dm"> 1600 x 2560 px , Quad HD </td>
+		<td class="cpu"> Qualcomm Kryo </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> 2.2 GHz , 1.8 GHz </td>
+		<td class="cpua"> 64 bits </td>
+		<td class="gpu"> Qualcomm Adreno 512 </td>
+		<td class="gpuas"> ? </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
+		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 625 </td>
 		<td class="gravure"> ? </td>
 		<td class="modem"> Qualcomm Snapdragon X9 LTE </td>
@@ -11114,6 +11259,28 @@
 		<td class="cpua"> 64 bits </td>
 		<td class="gpu"> Qualcomm Adreno 506 </td>
 		<td class="gpuas"> Open GL ES </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
+		<td class="constructorQualcomm"> Qualcomm </td>
+		<td class="name"> Snapdragon 630 </td>
+		<td class="gravure"> 14 nm </td>
+		<td class="modem"> Qualcomm Snapdragon X12 LTE </td>
+		<td class="pds"> 600 Mbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> 5.0 </td>
+		<td class="nfc"> X </td>
+		<td class="usb"> C , 3.1 </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> 4K Ultra HD </td>
+		<td class="vpm"> 4K Ultra HD </td>
+		<td class="dm"> 1200 x 1900 , Full HD </td>
+		<td class="cpu"> ARM Cortex 53 </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> 2.2 GHz , 1.8 GHz </td>
+		<td class="cpua"> 64 bits </td>
+		<td class="gpu"> Qualcomm Adreno 508 </td>
+		<td class="gpuas"> </td>
 	</tr>
 	<tr>
 		<td class="targetSmartphoneTablet"> smartphone / tablet </td>
