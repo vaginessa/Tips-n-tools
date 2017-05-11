@@ -555,3 +555,6 @@ Android;Clean Your Activity Using Delegation Pattern;;MVP , Delegation Pattern;h
 Android;MVC vs. MVP vs. MVVM on Android;;MVC , MVP , MVVM , architecture;https://news.realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 Android;Android Architectures;;Google , Android , architectures;https://github.com/googlesamples/android-architecture
 /;Developer Differences: Makers vs Menders ;;dev life , developer , makers , mengers;https://dev.to/corgibytes/developer-differences-makers-vs-menders
+DevTool;Déployer sa librairie sur Jcenter;;Jcenter , bintray , libs;http://tutos-android-france.com/deployer-librairie-jcenter/
+Android;Avoiding cold starts on Android;;UI , colde starts , splash screen , launch screen;https://saulmm.github.io/avoding-android-cold-starts
+Android;A follow-up on how to store tokens securely in Android;;Security , token;https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
