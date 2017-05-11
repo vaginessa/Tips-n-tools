@@ -733,3 +733,11 @@ Android;DarylAndroidTracker;Use multiples analytics and other trackers in your A
 DevTool;POEditor;Translate your app, website, game or other software in a team or independently using a friendly yet powerful online solution. ;i18n;https://poeditor.com/
 DevTool;Poesie;A script to automate extraction of poeditor.com localized strings for Android & iOS;i18n;https://github.com/NijiDigital/poesie
 /;Gherkin;Business Readable, Domain Specific Language that lets you describe software’s behaviour without detailing how that behaviour is implemented.;BDD , automated tests , Cucumber , Gerkhin;https://github.com/cucumber/cucumber/wiki/Gherkin
+Android;PatternPlaceholder;A bitmap generator with tiling options and asynchronous ImageView loading.;UI , pattern , placeholder , bitmap generator;https://github.com/Oyzuu/PatternPlaceholder-Android
+Android;EasyPortfolio;Portfolio activity;UI , view , activity , portfolio , about;https://github.com/webianks/EasyPortfolio?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5737
+Android;Shortcut Helper;An android library to create the new Android 7.0 shortcuts easily;UI , shortcuts , icons , quick actions;https://github.com/marcoscgdev/shortcut-helper?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5732
+Android;Swipe To Dismiss Dialog; Android library which can turn any View into a draggable dialog with swipe to dismiss feature.;UI , dialog , swipe , dismiss;https://github.com/andreilisun/Swipe-To-Dismiss-Dialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5726
+Android;SearchableSpinner;Fully Searchable Spiner Dialog;UI , spinner , search;https://github.com/MdFarhanRaja/SearchableSpinner?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5718
+DevTool;Jfrog Bintray;Software Distriubtion as a Service;Jcenter , bintray , libs;https://bintray.com/
+Android;Circular Layout Manager;Custom Layout Manager for Recycler View;UI , view , circular , layout;https://github.com/kapil93/Circular-Layout-Manager
+Android;Morse Code Converter;Android Morse Code Converter Application ;Morse;https://github.com/ssaurel/Morse-Code-Converter
