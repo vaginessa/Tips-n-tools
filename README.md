@@ -5195,6 +5195,20 @@
 		<td class="keywords"> Morse </td>
 		<td class="url"> https://github.com/ssaurel/Morse-Code-Converter </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Loading Button Android </td>
+		<td class="description"> A button to substitute the ProgressDialog </td>
+		<td class="keywords"> UI , button , progress dialog </td>
+		<td class="url"> https://github.com/leandroBorgesFerreira/LoadingButtonAndroid </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> OffsetAnimator </td>
+		<td class="description"> Animations driven by finger movement </td>
+		<td class="keywords"> UI , animations , offset </td>
+		<td class="url"> https://github.com/russelarms/OffsetAnimator </td>
+	</tr>
 </table>
 
 
@@ -9069,6 +9083,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Security , token </td>
 		<td class="url"> https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The App Store Optimization Stack </td>
+		<td class="description"> </td>
+		<td class="keywords"> app store , optimization , store </td>
+		<td class="url"> https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5 </td>
 	</tr>
 </table>
 

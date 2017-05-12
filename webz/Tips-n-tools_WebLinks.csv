@@ -558,3 +558,4 @@ Android;Android Architectures;;Google , Android , architectures;https://github.c
 DevTool;Déployer sa librairie sur Jcenter;;Jcenter , bintray , libs;http://tutos-android-france.com/deployer-librairie-jcenter/
 Android;Avoiding cold starts on Android;;UI , colde starts , splash screen , launch screen;https://saulmm.github.io/avoding-android-cold-starts
 Android;A follow-up on how to store tokens securely in Android;;Security , token;https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
+/;The App Store Optimization Stack;;app store , optimization , store;https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5

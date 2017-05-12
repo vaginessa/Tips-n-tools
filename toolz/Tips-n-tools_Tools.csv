@@ -741,3 +741,5 @@ Android;SearchableSpinner;Fully Searchable Spiner Dialog;UI , spinner , search;h
 DevTool;Jfrog Bintray;Software Distriubtion as a Service;Jcenter , bintray , libs;https://bintray.com/
 Android;Circular Layout Manager;Custom Layout Manager for Recycler View;UI , view , circular , layout;https://github.com/kapil93/Circular-Layout-Manager
 Android;Morse Code Converter;Android Morse Code Converter Application ;Morse;https://github.com/ssaurel/Morse-Code-Converter
+Android;Loading Button Android;A button to substitute the ProgressDialog;UI , button , progress dialog;https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+Android;OffsetAnimator; Animations driven by finger movement;UI , animations , offset;https://github.com/russelarms/OffsetAnimator
