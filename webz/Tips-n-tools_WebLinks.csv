@@ -559,3 +559,12 @@ DevTool;Déployer sa librairie sur Jcenter;;Jcenter , bintray , libs;http://tuto
 Android;Avoiding cold starts on Android;;UI , colde starts , splash screen , launch screen;https://saulmm.github.io/avoding-android-cold-starts
 Android;A follow-up on how to store tokens securely in Android;;Security , token;https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
 /;The App Store Optimization Stack;;app store , optimization , store;https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5
+Web;WebRTC - Communication temps-réel sans plugin ;;WebRTC , real time , communications;https://www.slideshare.net/PierreYvesLapersonne/webrtc-communication-tempsrel-sans-plugin-56903170
+/;Man developer - La face cachée du métier de développeur ;;developer , developpeur , dev life;https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur
+/;Coding kids - Le code à portée de tous ! ;;Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat;https://www.slideshare.net/PierreYvesLapersonne/coding-kids-le-code-porte-de-tous
+/;Alea jacta test - Bienvenue dans le monde des tests ;;TDD , BDD , ATDD , tests;https://www.slideshare.net/PierreYvesLapersonne/alea-jacta-test
+/;Leap motion - Une nouvelle forme d'interaction ;;UI , UX , leap motion , sensors;https://www.slideshare.net/PierreYvesLapersonne/leap-motion-une-nouvelle-forme-dinteraction-56903426
+DevTool;Why not Tapster ? ;;Tapster , automation , robot , Appium;https://www.slideshare.net/PierreYvesLapersonne/why-not-tapster
+/;TDD vs. ATDD vs. BDD;;TDD , BDD , ATDD , agile , tests;https://www.linkedin.com/pulse/tdd-vs-atdd-bdd-vahid-farahmandian
+/;Agile Development – Difference between TDD/ATDD/BDD ?;;TDD , BDD , ATDD , agile , tests;https://www.linkedin.com/pulse/agile-development-difference-between-tddatddbdd-komal-sureka
+/;ISTQB;International Software Testing Qualifications Board;tests;http://www.istqb.org/

@@ -9091,6 +9091,69 @@
 		<td class="keywords"> app store , optimization , store </td>
 		<td class="url"> https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5 </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> WebRTC - Communication temps-réel sans plugin </td>
+		<td class="description"> </td>
+		<td class="keywords"> WebRTC , real time , communications </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/webrtc-communication-tempsrel-sans-plugin-56903170 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Man developer - La face cachée du métier de développeur </td>
+		<td class="description"> </td>
+		<td class="keywords"> developer , developpeur , dev life </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Coding kids - Le code à portée de tous ! </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/coding-kids-le-code-porte-de-tous </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Alea jacta test - Bienvenue dans le monde des tests </td>
+		<td class="description"> </td>
+		<td class="keywords"> TDD , BDD , ATDD , tests </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/alea-jacta-test </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Leap motion - Une nouvelle forme d'interaction </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , leap motion , sensors </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/leap-motion-une-nouvelle-forme-dinteraction-56903426 </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Why not Tapster ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> Tapster , automation , robot , Appium </td>
+		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/why-not-tapster </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> TDD vs. ATDD vs. BDD </td>
+		<td class="description"> </td>
+		<td class="keywords"> TDD , BDD , ATDD , agile , tests </td>
+		<td class="url"> https://www.linkedin.com/pulse/tdd-vs-atdd-bdd-vahid-farahmandian </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Agile Development – Difference between TDD/ATDD/BDD ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> TDD , BDD , ATDD , agile , tests </td>
+		<td class="url"> https://www.linkedin.com/pulse/agile-development-difference-between-tddatddbdd-komal-sureka </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> ISTQB </td>
+		<td class="description"> International Software Testing Qualifications Board </td>
+		<td class="keywords"> tests </td>
+		<td class="url"> http://www.istqb.org/ </td>
+	</tr>
 </table>
 
 
