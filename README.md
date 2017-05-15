@@ -5209,6 +5209,27 @@
 		<td class="keywords"> UI , animations , offset </td>
 		<td class="url"> https://github.com/russelarms/OffsetAnimator </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Hypertrack Live </td>
+		<td class="description"> </td>
+		<td class="keywords"> geolocation , location , tracking </td>
+		<td class="url"> https://github.com/hypertrack/hypertrack-live-android </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Microsoft Graph </td>
+		<td class="description"> Use the Microsoft Graph API to connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more. </td>
+		<td class="keywords"> API , Microsoft , connectivity , cloud </td>
+		<td class="url"> https://developer.microsoft.com/en-us/graph/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Fluent Design System </td>
+		<td class="description"> </td>
+		<td class="keywords"> Microsoft , Fluent Design System , deisgn , Neon </td>
+		<td class="url"> http://fluent.microsoft.com/ </td>
+	</tr>
 </table>
 
 
@@ -9153,6 +9174,41 @@
 		<td class="description"> International Software Testing Qualifications Board </td>
 		<td class="keywords"> tests </td>
 		<td class="url"> http://www.istqb.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> No more GCM it’s FCM time! </td>
+		<td class="description"> </td>
+		<td class="keywords"> FGCM , FCM , cloud messaging , Google , Firebase </td>
+		<td class="url"> https://android.jlelse.eu/forget-gcm-its-fcm-time-69f5422b7659 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Firebase the dynamic database! </td>
+		<td class="description"> </td>
+		<td class="keywords"> Firebase , storage , database </td>
+		<td class="url"> https://android.jlelse.eu/firebase-the-dynamic-database-5b7878ebba2d </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Parcelable vs Serializable </td>
+		<td class="description"> </td>
+		<td class="keywords"> serialization , Parcelable , Serializable </td>
+		<td class="url"> https://android.jlelse.eu/parcelable-vs-serializable-6a2556d51538 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Autoboxing, a little thing, can cause big problems for Android App Performance </td>
+		<td class="description"> </td>
+		<td class="keywords"> ArrayM&ap , SparseArrays , HashMap , autoboxing , boxing , unboxing , performances </td>
+		<td class="url"> https://android.jlelse.eu/autoboxing-a-little-thing-can-cause-big-problems-for-android-app-performance-1fb6cb1e48dd </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Make your app shine: How to make a button morph into a loading spinner </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , animations , views , button , loading , spinner </td>
+		<td class="url"> https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711 </td>
 	</tr>
 </table>
 
