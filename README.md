@@ -5230,6 +5230,34 @@
 		<td class="keywords"> Microsoft , Fluent Design System , deisgn , Neon </td>
 		<td class="url"> http://fluent.microsoft.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Les Numériques </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> http://www.lesnumeriques.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Jelly Toolbar </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , toolbar </td>
+		<td class="url"> https://github.com/Yalantis/JellyToolbar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Tips Tricks </td>
+		<td class="description"> </td>
+		<td class="keywords"> tips </td>
+		<td class="url"> https://github.com/nisrulz/android-tips-tricks </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Collapsing Toolbar Layout Subtitle </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , toolbar , collapsing , title , subtitle </td>
+		<td class="url"> https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle </td>
+	</tr>
 </table>
 
 
@@ -9200,7 +9228,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Autoboxing, a little thing, can cause big problems for Android App Performance </td>
 		<td class="description"> </td>
-		<td class="keywords"> ArrayM&ap , SparseArrays , HashMap , autoboxing , boxing , unboxing , performances </td>
+		<td class="keywords"> ArrayMap , SparseArrays , HashMap , autoboxing , boxing , unboxing , performances </td>
 		<td class="url"> https://android.jlelse.eu/autoboxing-a-little-thing-can-cause-big-problems-for-android-app-performance-1fb6cb1e48dd </td>
 	</tr>
 	<tr>
@@ -9209,6 +9237,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , animations , views , button , loading , spinner </td>
 		<td class="url"> https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711 </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Motherfucking website </td>
+		<td class="description"> </td>
+		<td class="keywords"> web </td>
+		<td class="url"> http://motherfuckingwebsite.com/ </td>
 	</tr>
 </table>
 
@@ -9580,6 +9615,29 @@
 		<td class="usbtype"> 145 g </td>
 		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+		<td class="ui"> Sense UI </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> HTC </td>
+		<td class="name"> U 11 </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> Corning Gorilla Glass 5 , IPS , Super LCD 5 </td>
+		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
+		<td class="soc"> Qualcomm Snapdragon 835 </td>
+		<td class="gpu"> Qualcomm Adreno 540 </td>
+		<td class="sensors"> side frame sensor , fingerprint , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB , 128 GB </td>
+		<td class="ram"> 4 GB , 6 GB </td>
+		<td class="camera"> Sony IMX362 Exmor RS CMOS f/1.7 12.19 MP (back) , 16.28 MP (front) </td>
+		<td class="dimensions"> 153.9 x 75.9 x 7.9 mm </td>
+		<td class="usbtype"> 169 g </td>
+		<td class="weight"> IP 67 </td>
+		<td class="ip"> 3.1 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
 		<td class="ui"> Sense UI </td>
