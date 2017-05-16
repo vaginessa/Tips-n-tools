@@ -746,3 +746,7 @@ Android;OffsetAnimator; Animations driven by finger movement;UI , animations , o
 Android;Hypertrack Live;;geolocation , location , tracking;https://github.com/hypertrack/hypertrack-live-android
 /;Microsoft Graph;Use the Microsoft Graph API to connect to the data that drives productivity – mail, calendar, contacts, documents, directory, devices, and more.;API , Microsoft , connectivity , cloud;https://developer.microsoft.com/en-us/graph/
 Design;Fluent Design System;;Microsoft , Fluent Design System , deisgn , Neon;http://fluent.microsoft.com/
+/;Les Numériques;;news , veille , tuto , site , tool;http://www.lesnumeriques.com/
+Android;Jelly Toolbar;;UI , toolbar;https://github.com/Yalantis/JellyToolbar
+Android;Android Tips Tricks;;tips;https://github.com/nisrulz/android-tips-tricks
+Android;Collapsing Toolbar Layout Subtitle;;UI , view , toolbar , collapsing , title , subtitle;https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle
