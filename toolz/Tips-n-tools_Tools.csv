@@ -8,9 +8,9 @@ Android;HoloGraphLibrary;To make charts, diagrams, ...;graphs , charts;https://g
 DevTool;Dokku;Tool which can build and deploy apps and manage their lyfecycle;build , PaaS , DevOps ,  tool , quality;https://github.com/dokku/dokku
 DevTool;IFTTT;To automate community management;DevOps , tool;https://ifttt.com/
 DevTool;Buffer;A tool to manage easily social medias;DevOps , tool;https://buffer.com/
-DevTool;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality;https://instabug.com/
-DevTool;Zapier;Connect the apps to use, automate tasks;qualityAutomatisation , automation , tool;https://zapier.com/
-DevTool;Postman;To test and link APIs;API , tool , quality;https://www.getpostman.com/
+DevTool;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality , DevOps;https://instabug.com/
+DevTool;Zapier;Connect the apps to use, automate tasks;qualityAutomatisation , automation , tool , DevOps;https://zapier.com/
+DevTool;Postman;To test and link APIs;API , tool , quality , DevOps;https://www.getpostman.com/
 Android;Picasso;A powerful image downloading and caching library;pictures , image , caching;http://square.github.io/picasso/
 Android;Branded launch screen;New splash screens for Android;tuto , splash screen;http://antonioleiva.com/branded-launch-screen/
 Android;IntroScreen;To create intro screen on ViewPager and PageTransformer;tuto , intro screen;https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz
@@ -259,7 +259,7 @@ Android;BubbleAnimationLayout;Some animations combining bubles and cards;animati
 Android;RecyclerViewUndoSwipe; Swipe and drag support for RecyclerView with undo action;ItemTouch , swipe , drag , RecyclerView;https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
 Android;AndroidUtilCode;Some util classes…;utils;https://github.com/Blankj/AndroidUtilCode
 DevTool;Jfrog;Solutions to automate software package  management;DevOps , tool , quality;https://www.jfrog.com/open-source/
-DevTool;Artifactory;Repository and packages manager;Package , repo , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-arti
+DevTool;Artifactory;Repository and packages manager;package , repo , DevOps , tool , quality;https://www.jfrog.com/artifactory/
 DevTool;Bintray;To pubilish and consume software releases;Bin , DevOps , tool , quality;https://www.jfrog.com/open-source/#os-bin
 DevTool;Gatling;Loas testing framework based on Scala, Akka and Netty;Stree test , load test , DevOps , tool , quality;http://gatling.io/#/
 DevTool;Tunetoo;Coz geeks and nerdz must have fun t-shirtz !!;customization;http://www.tunetoo.com/
@@ -377,7 +377,7 @@ DevTool;GoCD;;DevOps , tool , quality , build;https://www.go.cd/
 DevTool;Fastlane;The easiest way to automate building and releasing your iOS and Android apps;DevOps , tool , quality , build;https://fastlane.tools/
 DevTool;Takt; Takt is Android library for measuring the FPS using Choreographer;FPS , tests , tool;https://github.com/wasabeef/Takt
 DevTool;Pidcat; Colored logcat script which only shows log entries for a specific application package. ;tool;https://github.com/JakeWharton/pidcat
-DevTool;Sonarlint;;code analysis , plugin;http://www.sonarlint.org/
+DevTool;Sonarlint;;code analysis , plugin , DevOps;http://www.sonarlint.org/
 DevTool;Fiddler;The free web debugging proxy for any browser, system or platform;web , HTTP , HTTPS , performances;http://www.telerik.com/fiddler
 DevTool;Trello;Tool for collaborative work;dev , tools;https://trello.com/
 DevTool;Jira;Tool for collaborative work;dev , tools;https://fr.atlassian.com/software/jira
@@ -554,7 +554,7 @@ Android;SharePanel;;share , panel , view;https://github.com/architjn/SharePanel
 Android;Deguard;Statistical Deobfuscation for Android;ProGuard , obfuscation , RI , reverse engineering , tool;http://www.apk-deguard.com/
 Android;Glitch;"A ""glitch effect"" library for Android";glitch , effects , animations;https://github.com/BoD/aLibGlitch
 /;AppRadar;App Marketing like a Pro;app , store , marketing;https://github.com/stepstone-tech/android-material-stepper
-DevTool;Bitrise;;CCI , tool , continuous integration , Jenkins , cloud , service;https://www.bitrise.io/
+DevTool;Bitrise;;CCI , tool , continuous integration , Jenkins , cloud , service , DevOps;https://www.bitrise.io/
 Android;Lemniscate; An easy way to make your progress view nice and sleek;view , animations , effect , progress;https://github.com/vlad1m1r990/Lemniscate
 Java;Error prone;Catch common Java mistakes as compile-time errors;Java , errors;https://github.com/google/error-prone
 Android;PreviewSeekBar;A SeekBar suited for showing a preview of something;view , seekbar;https://github.com/rubensousa/PreviewSeekBar
@@ -705,9 +705,9 @@ Android;SQLiteToExcel;A simple lib for Android to export SQLite to Excel, also E
 Web;HTML5 Rocks;;news , veille , tuto , site , tool;https://www.html5rocks.com/fr/
 Android;ExtraMapUtils;The simple utility for google maps in android ;Google Maps , markers , drawings , maps;https://github.com/bkhezry/ExtraMapUtils
 Android;Circular Reveal; Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+;UI , animations , circular , reveal;https://github.com/ozodrukh/CircularReveal
-DevTool;Appium;Appium is an open source test automation framework for use with native, hybrid and mobile web apps;Tests , automation , instrumented tests , iOS , Android , Web;http://appium.io/
+DevTool;Appium;Appium is an open source test automation framework for use with native, hybrid and mobile web apps;Tests , automation , instrumented tests , iOS , Android , Web , DevOps;http://appium.io/
 /;Python;;python;https://www.python.org/
-DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests;http://robotframework.org/
+DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests , BDD , DevOps;http://robotframework.org/
 DevTool;Atom;A hackable text editor for the 21st Century;IDE , editor , text editor;https://atom.io/
 DevTool;Vim;;IDE , editor , text editor;http://www.vim.org/
 Android;Matisse;A well-designed local image and video selector for Android;UI , picture , image , video , selector , picker;https://github.com/zhihu/Matisse
@@ -738,7 +738,7 @@ Android;EasyPortfolio;Portfolio activity;UI , view , activity , portfolio , abou
 Android;Shortcut Helper;An android library to create the new Android 7.0 shortcuts easily;UI , shortcuts , icons , quick actions;https://github.com/marcoscgdev/shortcut-helper?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5732
 Android;Swipe To Dismiss Dialog; Android library which can turn any View into a draggable dialog with swipe to dismiss feature.;UI , dialog , swipe , dismiss;https://github.com/andreilisun/Swipe-To-Dismiss-Dialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5726
 Android;SearchableSpinner;Fully Searchable Spiner Dialog;UI , spinner , search;https://github.com/MdFarhanRaja/SearchableSpinner?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5718
-DevTool;Jfrog Bintray;Software Distriubtion as a Service;Jcenter , bintray , libs;https://bintray.com/
+DevTool;Jfrog Bintray;Software Distriubtion as a Service;Jcenter , bintray , libs , DevOps;https://bintray.com/
 Android;Circular Layout Manager;Custom Layout Manager for Recycler View;UI , view , circular , layout;https://github.com/kapil93/Circular-Layout-Manager
 Android;Morse Code Converter;Android Morse Code Converter Application ;Morse;https://github.com/ssaurel/Morse-Code-Converter
 Android;Loading Button Android;A button to substitute the ProgressDialog;UI , button , progress dialog;https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
@@ -750,3 +750,23 @@ Design;Fluent Design System;;Microsoft , Fluent Design System , deisgn , Neon;ht
 Android;Jelly Toolbar;;UI , toolbar;https://github.com/Yalantis/JellyToolbar
 Android;Android Tips Tricks;;tips;https://github.com/nisrulz/android-tips-tricks
 Android;Collapsing Toolbar Layout Subtitle;;UI , view , toolbar , collapsing , title , subtitle;https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle
+DevTool;SonarQube;Continuous Code Quality;DevOps , tool , code , quality , sonar;https://www.sonarqube.org/
+DevTool;Git blame someone else;Free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ;git , versionning , repos , repository;https://git-scm.com/
+DevTool;Chef;Achieve speed, scale, and consistency by automating the infrastructure;DevOps , infrastructure , scale , servers;https://www.chef.io/chef/
+DevTool;Confetti;Tool to help creating and deploying static sites with AWS;AWS  , sites;https://github.com/confetti-clj
+DevTool;Terraform;Tool for building, changing and versioning infrastructure safely and efficiently;DevOps , tool , versionning , components , Chef , Puppet;https://www.terraform.io/intro/
+DevTool;MockServer;Can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc).;DevOps , tool , mock , HTTP , HTTPS;http://www.mock-server.com/
+DevTool;Selenium;Browser automations;DevOps , automation , tests , instrumented tests , web pages;http://www.seleniumhq.org/
+DevTool;OpenVAS;;security , threats , vulnerability , scanner;http://www.openvas.org/
+DevTool;Kali;;Linux , Kali , pen-test , penetration , distribution , distro , security , threats , networks;https://www.kali.org/
+DevTool;SoapUI;REAST & SOAP testing tool;REST , SOAP , web;https://www.soapui.org/
+/;Elasticsearch;;Elastic , REST , distributed , data , big data , data mining;https://www.elastic.co/fr/products/elasticsearch
+DevTool;XL Release;Automate, orchestrate and get visibility into release pipelines;DevOps , release , pipeline;https://xebialabs.com/products/xl-release/
+DevTool;Redis;Open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.;BDD , cache , message , broker;https://redis.io/
+DevTool;Firebase;;BDD , cache , message , broker , mobile , apps;https://firebase.google.com/
+/;Cassandra;;BDD , database , storage , scalable , NoSQL;http://cassandra.apache.org/
+/;Couchbase;;BDD , database , storage , scalable , NoSQL;https://www.couchbase.com/
+/;MongoDB;;BDD , database , storage , scalable , NoSQL;https://www.mongodb.com/
+/;Cybermap;;Kaspersky , map , security , digital , threats , IT;https://cybermap.kaspersky.com/fr/
+/;Norse;;IT , digital , threats , security , map;http://map.norsecorp.com
+/;Submarine Cable Map;;IT , cable , fiber , map;http://www.submarinecablemap.com/

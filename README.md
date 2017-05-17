@@ -68,21 +68,21 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Instabug </td>
 		<td class="description"> In-app feedback and bug tracking for mobile apps </td>
-		<td class="keywords"> bug , tracking , users , tool , quality </td>
+		<td class="keywords"> bug , tracking , users , tool , quality , DevOps </td>
 		<td class="url"> https://instabug.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Zapier </td>
 		<td class="description"> Connect the apps to use, automate tasks </td>
-		<td class="keywords"> qualityAutomatisation , automation , tool </td>
+		<td class="keywords"> qualityAutomatisation , automation , tool , DevOps </td>
 		<td class="url"> https://zapier.com/ </td>
 	</tr>
 	<tr>
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Postman </td>
 		<td class="description"> To test and link APIs </td>
-		<td class="keywords"> API , tool , quality </td>
+		<td class="keywords"> API , tool , quality , DevOps </td>
 		<td class="url"> https://www.getpostman.com/ </td>
 	</tr>
 	<tr>
@@ -1825,8 +1825,8 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Artifactory </td>
 		<td class="description"> Repository and packages manager </td>
-		<td class="keywords"> Package , repo , DevOps , tool , quality </td>
-		<td class="url"> https://www.jfrog.com/open-source/#os-arti </td>
+		<td class="keywords"> package , repo , DevOps , tool , quality </td>
+		<td class="url"> https://www.jfrog.com/artifactory/ </td>
 	</tr>
 	<tr>
 		<td class="subjectDevTool"> DevTool </td>
@@ -2651,7 +2651,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Sonarlint </td>
 		<td class="description"> </td>
-		<td class="keywords"> code analysis , plugin </td>
+		<td class="keywords"> code analysis , plugin , DevOps </td>
 		<td class="url"> http://www.sonarlint.org/ </td>
 	</tr>
 	<tr>
@@ -3890,7 +3890,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Bitrise </td>
 		<td class="description"> </td>
-		<td class="keywords"> CCI , tool , continuous integration , Jenkins , cloud , service </td>
+		<td class="keywords"> CCI , tool , continuous integration , Jenkins , cloud , service , DevOps </td>
 		<td class="url"> https://www.bitrise.io/ </td>
 	</tr>
 	<tr>
@@ -4947,7 +4947,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Appium </td>
 		<td class="description"> Appium is an open source test automation framework for use with native, hybrid and mobile web apps </td>
-		<td class="keywords"> Tests , automation , instrumented tests , iOS , Android , Web </td>
+		<td class="keywords"> Tests , automation , instrumented tests , iOS , Android , Web , DevOps </td>
 		<td class="url"> http://appium.io/ </td>
 	</tr>
 	<tr>
@@ -4961,7 +4961,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Robot Framework </td>
 		<td class="description"> Generic test automation framework for acceptance testing and ATDD </td>
-		<td class="keywords"> ATDD , acceptance tests </td>
+		<td class="keywords"> ATDD , acceptance tests , BDD , DevOps </td>
 		<td class="url"> http://robotframework.org/ </td>
 	</tr>
 	<tr>
@@ -5178,7 +5178,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Jfrog Bintray </td>
 		<td class="description"> Software Distriubtion as a Service </td>
-		<td class="keywords"> Jcenter , bintray , libs </td>
+		<td class="keywords"> Jcenter , bintray , libs , DevOps </td>
 		<td class="url"> https://bintray.com/ </td>
 	</tr>
 	<tr>
@@ -5257,6 +5257,146 @@
 		<td class="description"> </td>
 		<td class="keywords"> UI , view , toolbar , collapsing , title , subtitle </td>
 		<td class="url"> https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> SonarQube </td>
+		<td class="description"> Continuous Code Quality </td>
+		<td class="keywords"> DevOps , tool , code , quality , sonar </td>
+		<td class="url"> https://www.sonarqube.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Git blame someone else </td>
+		<td class="description"> Free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. </td>
+		<td class="keywords"> git , versionning , repos , repository </td>
+		<td class="url"> https://git-scm.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Chef </td>
+		<td class="description"> Achieve speed, scale, and consistency by automating the infrastructure </td>
+		<td class="keywords"> DevOps , infrastructure , scale , servers </td>
+		<td class="url"> https://www.chef.io/chef/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Confetti </td>
+		<td class="description"> Tool to help creating and deploying static sites with AWS </td>
+		<td class="keywords"> AWS , sites </td>
+		<td class="url"> https://github.com/confetti-clj </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Terraform </td>
+		<td class="description"> Tool for building, changing and versioning infrastructure safely and efficiently </td>
+		<td class="keywords"> DevOps , tool , versionning , components , Chef , Puppet </td>
+		<td class="url"> https://www.terraform.io/intro/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> MockServer </td>
+		<td class="description"> Can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc). </td>
+		<td class="keywords"> DevOps , tool , mock , HTTP , HTTPS </td>
+		<td class="url"> http://www.mock-server.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Selenium </td>
+		<td class="description"> Browser automations </td>
+		<td class="keywords"> DevOps , automation , tests , instrumented tests , web pages </td>
+		<td class="url"> http://www.seleniumhq.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> OpenVAS </td>
+		<td class="description"> </td>
+		<td class="keywords"> security , threats , vulnerability , scanner </td>
+		<td class="url"> http://www.openvas.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Kali </td>
+		<td class="description"> </td>
+		<td class="keywords"> Linux , Kali , pen-test , penetration , distribution , distro , security , threats , networks </td>
+		<td class="url"> https://www.kali.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> SoapUI </td>
+		<td class="description"> REAST & SOAP testing tool </td>
+		<td class="keywords"> REST , SOAP , web </td>
+		<td class="url"> https://www.soapui.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Elasticsearch </td>
+		<td class="description"> </td>
+		<td class="keywords"> Elastic , REST , distributed , data , big data , data mining </td>
+		<td class="url"> https://www.elastic.co/fr/products/elasticsearch </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> XL Release </td>
+		<td class="description"> Automate, orchestrate and get visibility into release pipelines </td>
+		<td class="keywords"> DevOps , release , pipeline </td>
+		<td class="url"> https://xebialabs.com/products/xl-release/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Redis </td>
+		<td class="description"> Open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. </td>
+		<td class="keywords"> BDD , cache , message , broker </td>
+		<td class="url"> https://redis.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Firebase </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , cache , message , broker , mobile , apps </td>
+		<td class="url"> https://firebase.google.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Cassandra </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , database , storage , scalable , NoSQL </td>
+		<td class="url"> http://cassandra.apache.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Couchbase </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , database , storage , scalable , NoSQL </td>
+		<td class="url"> https://www.couchbase.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MongoDB </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , database , storage , scalable , NoSQL </td>
+		<td class="url"> https://www.mongodb.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Cybermap </td>
+		<td class="description"> </td>
+		<td class="keywords"> Kaspersky , map , security , digital , threats , IT </td>
+		<td class="url"> https://cybermap.kaspersky.com/fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Norse </td>
+		<td class="description"> </td>
+		<td class="keywords"> IT , digital , threats , security , map </td>
+		<td class="url"> http://map.norsecorp.com </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Submarine Cable Map </td>
+		<td class="description"> </td>
+		<td class="keywords"> IT , cable , fiber , map </td>
+		<td class="url"> http://www.submarinecablemap.com/ </td>
 	</tr>
 </table>
 
@@ -9244,27 +9384,6 @@
 		<td class="description"> </td>
 		<td class="keywords"> web </td>
 		<td class="url"> http://motherfuckingwebsite.com/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Cybermap </td>
-		<td class="description"> </td>
-		<td class="keywords"> Kaspersky , map , security , digital , threats , IT </td>
-		<td class="url"> https://cybermap.kaspersky.com/fr/ </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Norse </td>
-		<td class="description"> </td>
-		<td class="keywords"> IT , digital , threats , security , map </td>
-		<td class="url"> http://map.norsecorp.com </td>
-	</tr>
-	<tr>
-		<td class="subjectOther"> / </td>
-		<td class="name"> Submarine Cable Map </td>
-		<td class="description"> </td>
-		<td class="keywords"> IT , cable , fiber , map </td>
-		<td class="url"> http://www.submarinecablemap.com/ </td>
 	</tr>
 </table>
 
