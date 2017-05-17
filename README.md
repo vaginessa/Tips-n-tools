@@ -9385,6 +9385,13 @@
 		<td class="keywords"> web </td>
 		<td class="url"> http://motherfuckingwebsite.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OpenScientist : List of distributed computing project </td>
+		<td class="description"> </td>
+		<td class="keywords"> distributed computing , science </td>
+		<td class="url"> http://www.openscientist.org/p/distributed-computing-project-open-for.html </td>
+	</tr>
 </table>
 
 
