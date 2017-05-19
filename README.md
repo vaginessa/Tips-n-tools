@@ -54,7 +54,7 @@
 		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> IFTTT </td>
 		<td class="description"> To automate community management </td>
-		<td class="keywords"> DevOps , tool </td>
+		<td class="keywords"> DevOps , tool , IoT </td>
 		<td class="url"> https://ifttt.com/ </td>
 	</tr>
 	<tr>
@@ -5398,6 +5398,34 @@
 		<td class="keywords"> IT , cable , fiber , map </td>
 		<td class="url"> http://www.submarinecablemap.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAi"> AI </td>
+		<td class="name"> Google.ai </td>
+		<td class="description"> </td>
+		<td class="keywords"> AI , Googe , TPU , Cloud </td>
+		<td class="url"> https://google.ai/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Orange OpenSource </td>
+		<td class="description"> Open Source by Orange </td>
+		<td class="keywords"> Orange , open source </td>
+		<td class="url"> https://github.com/Orange-OpenSource http://opensource.orange.com </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Daydream </td>
+		<td class="description"> </td>
+		<td class="keywords"> Google , Daydream , VR , AR </td>
+		<td class="url"> https://vr.google.com/daydream/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Safety Net </td>
+		<td class="description"> Protecting against Security Threats with SafetyNet </td>
+		<td class="keywords"> Safety Net , Google Play , store </td>
+		<td class="url"> https://developer.android.com/training/safetynet/index.html </td>
+	</tr>
 </table>
 
 
@@ -9391,6 +9419,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> distributed computing , science </td>
 		<td class="url"> http://www.openscientist.org/p/distributed-computing-project-open-for.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Guidelines for Building Software that Will Make People Hate You </td>
+		<td class="description"> A practical approach to building bad software </td>
+		<td class="keywords"> software , tips , quality , bad software , donts </td>
+		<td class="url"> https://hackernoon.com/guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Developer Preview </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , developer , preview </td>
+		<td class="url"> https://developer.android.com/preview/index.html </td>
 	</tr>
 </table>
 

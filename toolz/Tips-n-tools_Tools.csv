@@ -6,7 +6,7 @@ Libraries and tools;;;;
 Plateform;Name;Description;Keywords;URL
 Android;HoloGraphLibrary;To make charts, diagrams, ...;graphs , charts;https://github.com/Androguide/HoloGraphLibrary
 DevTool;Dokku;Tool which can build and deploy apps and manage their lyfecycle;build , PaaS , DevOps ,  tool , quality;https://github.com/dokku/dokku
-DevTool;IFTTT;To automate community management;DevOps , tool;https://ifttt.com/
+DevTool;IFTTT;To automate community management;DevOps , tool , IoT;https://ifttt.com/
 DevTool;Buffer;A tool to manage easily social medias;DevOps , tool;https://buffer.com/
 DevTool;Instabug;In-app feedback and bug tracking for mobile apps ;bug , tracking , users , tool , quality , DevOps;https://instabug.com/
 DevTool;Zapier;Connect the apps to use, automate tasks;qualityAutomatisation , automation , tool , DevOps;https://zapier.com/
@@ -770,3 +770,7 @@ DevTool;Firebase;;BDD , cache , message , broker , mobile , apps;https://firebas
 /;Cybermap;;Kaspersky , map , security , digital , threats , IT;https://cybermap.kaspersky.com/fr/
 /;Norse;;IT , digital , threats , security , map;http://map.norsecorp.com
 /;Submarine Cable Map;;IT , cable , fiber , map;http://www.submarinecablemap.com/
+AI;Google.ai;;AI , Googe , TPU , Cloud;https://google.ai/
+/;Orange OpenSource;Open Source by Orange;Orange , open source;https://github.com/Orange-OpenSource    http://opensource.orange.com
+/;Daydream;;Google , Daydream , VR , AR;https://vr.google.com/daydream/
+Android;Safety Net;Protecting against Security Threats with SafetyNet;Safety Net , Google Play , store;https://developer.android.com/training/safetynet/index.html
