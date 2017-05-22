@@ -205,7 +205,7 @@ Android;Redexer;Bytecode instrumentation framework for Dalvik bytecode;RI , reve
 Android;Simplify;Generic Android Deobfuscator;RI , reverse engineering , tool;https://github.com/CalebFenton/simplify
 Android;Bytecode Viewer;A Java 8 JAR and Android APK Reverse Engineering Suite;RI , reverse engineering , tool;https://github.com/Konloch/bytecode-viewer
 Android;EasyDeviceInfo;;device infos;https://github.com/nisrulz/easydeviceinfo
-Android;MaterialTapTargetPrompt;;tap target , prompt , features discovery;https://github.com/sjwall/MaterialTapTargetPrompt
+Android;MaterialTapTargetPrompt;;tap target , prompt , features discovery , showcase , app intro , intro;https://github.com/sjwall/MaterialTapTargetPrompt
 Android;Space Navigation View;;space navigation view;https://github.com/armcha/Space-Navigation-View
 Android;Speed View;;speed , view;https://github.com/anastr/SpeedView
 Java;Guava;;Google , Java;https://github.com/google/guava
@@ -246,7 +246,7 @@ Android;FilpAnimation;Simple example for flip animation;animation , flip;https:/
 Android;BGABadgeView;;animation , badge;https://github.com/bingoogolapple/BGABadgeView-Android
 Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://github.com/grandcentrix/ThirtyInch/
 Android;Minicap;Stream real-time screen capture data out of Android devices;screen , captures;https://github.com/openstf/minicap
-Android;TapTargetView;An implmentation of tap targets from the Material Design guidelines for feature discovery;tap target , feature discovery , intro;https://github.com/KeepSafe/TapTargetView
+Android;TapTargetView;An implmentation of tap targets from the Material Design guidelines for feature discovery;tap target , prompt , features discovery , showcase , app intro , intro;https://github.com/KeepSafe/TapTargetView
 Android;ActSwitchAnimTool;Tool which makes the animation easy to implments;animations , effects;https://github.com/Yellow5A5/ActSwitchAnimTool
 Android;PlaceSearchDialog;A place autocomplete search dialog which uses Google's Places API for finding results;Places , location , search;https://github.com/codemybrainsout/PlaceSearchDialog
 Android;Material-intro-screen;;intro screen;https://github.com/TangoAgency/material-intro-screen
@@ -774,3 +774,8 @@ AI;Google.ai;;AI , Googe , TPU , Cloud;https://google.ai/
 /;Orange OpenSource;Open Source by Orange;Orange , open source;https://github.com/Orange-OpenSource    http://opensource.orange.com
 /;Daydream;;Google , Daydream , VR , AR;https://vr.google.com/daydream/
 Android;Safety Net;Protecting against Security Threats with SafetyNet;Safety Net , Google Play , store;https://developer.android.com/training/safetynet/index.html
+/;CVE;Common Vulnerabilities and Exposures;IT , security , threats , vulnerabilities , exposures;http://cve.mitre.org/
+/;Vortual Lorenz;The Lorenz SZ40/42 cipher attachmen;WW2 , cipher , encypherment , crypto;http://www.virtualcolossus.co.uk/Lorenz/lorenz.html
+/;Enigma Simulation;;WW2 , cipher , encypherment , crypto;http://enigmaco.de/enigma/enigma.html
+Android;ShowcaseView;Highlight the best bits of your app to users quickly, simply, and cool...ly ;tap target , prompt , features discovery , showcase , app intro , intro;https://github.com/amlcurran/ShowcaseView
+JavaScript;Facebook Prepack;Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently;JS , JavaScript , bundle , code rewriting;https://github.com/facebook/prepack

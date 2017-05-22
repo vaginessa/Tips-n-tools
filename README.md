@@ -1447,7 +1447,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> MaterialTapTargetPrompt </td>
 		<td class="description"> </td>
-		<td class="keywords"> tap target , prompt , features discovery </td>
+		<td class="keywords"> tap target , prompt , features discovery , showcase , app intro , intro </td>
 		<td class="url"> https://github.com/sjwall/MaterialTapTargetPrompt </td>
 	</tr>
 	<tr>
@@ -1734,7 +1734,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> TapTargetView </td>
 		<td class="description"> An implmentation of tap targets from the Material Design guidelines for feature discovery </td>
-		<td class="keywords"> tap target , feature discovery , intro </td>
+		<td class="keywords"> tap target , prompt , features discovery , showcase , app intro , intro </td>
 		<td class="url"> https://github.com/KeepSafe/TapTargetView </td>
 	</tr>
 	<tr>
@@ -5425,6 +5425,41 @@
 		<td class="description"> Protecting against Security Threats with SafetyNet </td>
 		<td class="keywords"> Safety Net , Google Play , store </td>
 		<td class="url"> https://developer.android.com/training/safetynet/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> CVE </td>
+		<td class="description"> Common Vulnerabilities and Exposures </td>
+		<td class="keywords"> IT , security , threats , vulnerabilities , exposures </td>
+		<td class="url"> http://cve.mitre.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Vortual Lorenz </td>
+		<td class="description"> The Lorenz SZ40/42 cipher attachmen </td>
+		<td class="keywords"> WW2 , cipher , encypherment , crypto </td>
+		<td class="url"> http://www.virtualcolossus.co.uk/Lorenz/lorenz.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Enigma Simulation </td>
+		<td class="description"> </td>
+		<td class="keywords"> WW2 , cipher , encypherment , crypto </td>
+		<td class="url"> http://enigmaco.de/enigma/enigma.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShowcaseView </td>
+		<td class="description"> Highlight the best bits of your app to users quickly, simply, and cool...ly </td>
+		<td class="keywords"> tap target , prompt , features discovery , showcase , app intro , intro </td>
+		<td class="url"> https://github.com/amlcurran/ShowcaseView </td>
+	</tr>
+	<tr>
+		<td class="subjectJavaScript"> JavaScript </td>
+		<td class="name"> Facebook Prepack </td>
+		<td class="description"> Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently </td>
+		<td class="keywords"> JS , JavaScript , bundle , code rewriting </td>
+		<td class="url"> https://github.com/facebook/prepack </td>
 	</tr>
 </table>
 
