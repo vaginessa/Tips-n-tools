@@ -4951,7 +4951,7 @@
 		<td class="url"> http://appium.io/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectPython"> Python </td>
 		<td class="name"> Python </td>
 		<td class="description"> </td>
 		<td class="keywords"> python </td>
@@ -5558,6 +5558,34 @@
 		<td class="description"> </td>
 		<td class="keywords"> teach , programming , code , kids , app , MIT , block , Scratch , cat </td>
 		<td class="url"> https://scratch.mit.edu/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> IndicatorView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , indicator , steps , position , index </td>
+		<td class="url"> https://github.com/steelkiwi/IndicatorView </td>
+	</tr>
+	<tr>
+		<td class="subjectPython"> Python </td>
+		<td class="name"> Lorenz Cipher Machine Simulator </td>
+		<td class="description"> </td>
+		<td class="keywords"> WW2 , cipher , crypto , Lorenz </td>
+		<td class="url"> https://github.com/RealGrep/lorenz-cipher-sim </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Enigma Simulation </td>
+		<td class="description"> </td>
+		<td class="keywords"> WW2 , cipher , crypto , Enigma </td>
+		<td class="url"> https://github.com/colindean/enigma-simulation </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> </td>
+		<td class="description"> </td>
+		<td class="keywords"> WW2 , cipher , crypto , Enigma </td>
+		<td class="url"> https://github.com/amirbawab/Enigma-machine-simulator </td>
 	</tr>
 </table>
 
@@ -9246,7 +9274,7 @@
 		<td class="url"> https://hackernoon.com/lets-build-a-programming-language-2612349105c6 </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectPython"> Python </td>
 		<td class="name"> Building a Gas Pump Scanner with OpenCV/Python/iOS </td>
 		<td class="description"> </td>
 		<td class="keywords"> OpenCV , python , iOS , OCR , picture recognition </td>
@@ -9449,14 +9477,14 @@
 		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/webrtc-communication-tempsrel-sans-plugin-56903170 </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectKids"> Humanism </td>
 		<td class="name"> Man developer - La face cachée du métier de développeur </td>
 		<td class="description"> </td>
 		<td class="keywords"> developer , developpeur , dev life </td>
 		<td class="url"> https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectKids"> Humanism </td>
 		<td class="name"> Coding kids - Le code à portée de tous ! </td>
 		<td class="description"> </td>
 		<td class="keywords"> Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat </td>

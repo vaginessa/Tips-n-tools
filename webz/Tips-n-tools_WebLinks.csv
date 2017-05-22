@@ -531,7 +531,7 @@ Android;MVP + Dagger 2 + RX =👌 Clean/Modern Android App/Code;;MVP , Dagger 2 
 Android;Closer Look At Android Runtime: DVM vs ART;;Android , JVM , DVM , Java , DEX , Dalvik , ART , JIT , AOT;https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924
 Android;How to use AndFix to hot-patch your Android app?;;AndFix , Android , bug , hot-patch;https://android.jlelse.eu/how-to-use-andfix-to-hot-patch-your-android-app-c201234d3934
 /;Let’s Build a Programming Language;;code , programming langage;https://hackernoon.com/lets-build-a-programming-language-2612349105c6
-/;Building a Gas Pump Scanner with OpenCV/Python/iOS;;OpenCV , python , iOS , OCR , picture recognition;https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b
+Python;Building a Gas Pump Scanner with OpenCV/Python/iOS;;OpenCV , python , iOS , OCR , picture recognition;https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b
 AI;OpenAI;Discovering and enacting the path to safe artificial general intelligence.;AI;https://openai.com/
 Android;Hands-on Lab Android Things – Connected Catapult;;Android Things , catapult;https://github.com/eyal-lezmy/android-things-workshop
 Android;Android Things – Weather Station;;Android Things , weather station;https://codelabs.developers.google.com/codelabs/androidthings-weatherstation/index.html
@@ -560,8 +560,8 @@ Android;Avoiding cold starts on Android;;UI , colde starts , splash screen , lau
 Android;A follow-up on how to store tokens securely in Android;;Security , token;https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
 /;The App Store Optimization Stack;;app store , optimization , store;https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5
 Web;WebRTC - Communication temps-réel sans plugin ;;WebRTC , real time , communications;https://www.slideshare.net/PierreYvesLapersonne/webrtc-communication-tempsrel-sans-plugin-56903170
-/;Man developer - La face cachée du métier de développeur ;;developer , developpeur , dev life;https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur
-/;Coding kids - Le code à portée de tous ! ;;Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat;https://www.slideshare.net/PierreYvesLapersonne/coding-kids-le-code-porte-de-tous
+Humanism;Man developer - La face cachée du métier de développeur ;;developer , developpeur , dev life;https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur
+Humanism;Coding kids - Le code à portée de tous ! ;;Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat;https://www.slideshare.net/PierreYvesLapersonne/coding-kids-le-code-porte-de-tous
 /;Alea jacta test - Bienvenue dans le monde des tests ;;TDD , BDD , ATDD , tests;https://www.slideshare.net/PierreYvesLapersonne/alea-jacta-test
 /;Leap motion - Une nouvelle forme d'interaction ;;UI , UX , leap motion , sensors;https://www.slideshare.net/PierreYvesLapersonne/leap-motion-une-nouvelle-forme-dinteraction-56903426
 DevTool;Why not Tapster ? ;;Tapster , automation , robot , Appium;https://www.slideshare.net/PierreYvesLapersonne/why-not-tapster

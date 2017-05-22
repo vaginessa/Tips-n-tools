@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 16.0.0
+# Version.............: 16.1.0
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -90,7 +90,7 @@ table, td, .header {
 	background-color: #bbdefb;
 }
 .subjectPython {
-	background-color: #1565c0;
+	background-color: #ffd600;
 }
 .subjectDevTool {
 	background-color: #000000;

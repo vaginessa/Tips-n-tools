@@ -706,7 +706,7 @@ Web;HTML5 Rocks;;news , veille , tuto , site , tool;https://www.html5rocks.com/f
 Android;ExtraMapUtils;The simple utility for google maps in android ;Google Maps , markers , drawings , maps;https://github.com/bkhezry/ExtraMapUtils
 Android;Circular Reveal; Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+;UI , animations , circular , reveal;https://github.com/ozodrukh/CircularReveal
 DevTool;Appium;Appium is an open source test automation framework for use with native, hybrid and mobile web apps;Tests , automation , instrumented tests , iOS , Android , Web , DevOps;http://appium.io/
-/;Python;;python;https://www.python.org/
+Python;Python;;python;https://www.python.org/
 DevTool;Robot Framework; Generic test automation framework for acceptance testing and ATDD ;ATDD , acceptance tests , BDD , DevOps;http://robotframework.org/
 DevTool;Atom;A hackable text editor for the 21st Century;IDE , editor , text editor;https://atom.io/
 DevTool;Vim;;IDE , editor , text editor;http://www.vim.org/
@@ -793,3 +793,7 @@ Humanism;Makeblock;;mblock , mBots , teach , programming , code , kids , hardwar
 Humanism;Sphero;;teach , programming , code , kids , hardware , bots;http://www.sphero.com/
 Humanism;Blockly;;teach , programming , code , kids , app , Google;https://developers.google.com/blockly/    https://blockly-games.appspot.com/
 Humanism;Scratch;;teach , programming , code , kids , app , MIT , block , Scratch , cat;https://scratch.mit.edu/
+Android;IndicatorView;;UI , indicator , steps , position , index;https://github.com/steelkiwi/IndicatorView
+Python;Lorenz Cipher Machine Simulator;;WW2 , cipher , crypto , Lorenz;https://github.com/RealGrep/lorenz-cipher-sim
+/;Enigma Simulation;;WW2 , cipher , crypto , Enigma;https://github.com/colindean/enigma-simulation
+Java;;;WW2 , cipher , crypto , Enigma;https://github.com/amirbawab/Enigma-machine-simulator
