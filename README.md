@@ -5461,6 +5461,104 @@
 		<td class="keywords"> JS , JavaScript , bundle , code rewriting </td>
 		<td class="url"> https://github.com/facebook/prepack </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Le Monde - binaire </td>
+		<td class="description"> L’informatique : la science au coeur du numérique </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> http://binaire.blog.lemonde.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Kodable </td>
+		<td class="description"> Programming for Kids </td>
+		<td class="keywords"> teach , programming , code , kids </td>
+		<td class="url"> https://www.kodable.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Code Combat </td>
+		<td class="description"> CodeCombat is a platform for students to learn computer science while playing through a real game. </td>
+		<td class="keywords"> teach , programming , code , kids </td>
+		<td class="url"> https://codecombat.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Kano </td>
+		<td class="description"> Make a computer </td>
+		<td class="keywords"> teach , programming , code , kids , hardware , computer </td>
+		<td class="url"> https://kano.me/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Lego Mindstorms </td>
+		<td class="description"> </td>
+		<td class="keywords"> teach , programming , code , kids , hardware , Lego </td>
+		<td class="url"> https://www.lego.com/fr-fr/mindstorms </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Touch Develop </td>
+		<td class="description"> Create your apps on your phone, tablet or laptop. </td>
+		<td class="keywords"> teach , programming , code , kids , app , Microsoft </td>
+		<td class="url"> https://www.touchdevelop.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Greenfoot </td>
+		<td class="description"> Teach & learn Java programming </td>
+		<td class="keywords"> Java , game </td>
+		<td class="url"> https://www.greenfoot.org/door </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Codefights </td>
+		<td class="description"> Test your programming skills by challenging friends, coworkers, and company bots to exciting coding battles. </td>
+		<td class="keywords"> code , game , programming , kids , friends , coworkers </td>
+		<td class="url"> https://codefights.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Codingame </td>
+		<td class="description"> The new way to improve your programming skills while having fun and getting noticed </td>
+		<td class="keywords"> teach , learn , code , game , programming , kids , friends , coworkers </td>
+		<td class="url"> https://www.codingame.com/start </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Erase All Kittens – EAK </td>
+		<td class="description"> Coding made fun and easy! </td>
+		<td class="keywords"> teach , learn , code , game , programming , kids </td>
+		<td class="url"> https://eraseallkittens.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Makeblock </td>
+		<td class="description"> </td>
+		<td class="keywords"> mblock , mBots , teach , programming , code , kids , hardware , bots </td>
+		<td class="url"> http://www.makeblock.com </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Sphero </td>
+		<td class="description"> </td>
+		<td class="keywords"> teach , programming , code , kids , hardware , bots </td>
+		<td class="url"> http://www.sphero.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Blockly </td>
+		<td class="description"> </td>
+		<td class="keywords"> teach , programming , code , kids , app , Google </td>
+		<td class="url"> https://developers.google.com/blockly/ https://blockly-games.appspot.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Scratch </td>
+		<td class="description"> </td>
+		<td class="keywords"> teach , programming , code , kids , app , MIT , block , Scratch , cat </td>
+		<td class="url"> https://scratch.mit.edu/ </td>
+	</tr>
 </table>
 
 
@@ -9468,6 +9566,62 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , developer , preview </td>
 		<td class="url"> https://developer.android.com/preview/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Goldie Blox </td>
+		<td class="description"> Awesome toys, games and entertainment for girls, designed to develop early interest in engineering and confidence in problem-solving. </td>
+		<td class="keywords"> toys , girls , problem solving , kids </td>
+		<td class="url"> https://www.goldieblox.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Code for progress </td>
+		<td class="description"> To transform the face of technology and we have created this program because we want to take an active role in shaping, disrupting, and leaving our mark in this space. . </td>
+		<td class="keywords"> people , humanism , code , help , minority , color people </td>
+		<td class="url"> http://www.codeforprogress.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Code </td>
+		<td class="description"> Debugging the gender gap </td>
+		<td class="keywords"> humanism , code , gender , women </td>
+		<td class="url"> https://www.codedoc.co/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Women Techmakers </td>
+		<td class="description"> Google's Women Techmakers program provides visibility, community, and resources for women in technology. </td>
+		<td class="keywords"> humanism , women , technology </td>
+		<td class="url"> https://www.womentechmakers.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Duchess France </td>
+		<td class="description"> Women In Tech </td>
+		<td class="keywords"> Duchess , humanism , women , technology </td>
+		<td class="url"> http://www.duchess-france.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Black girls code </td>
+		<td class="description"> </td>
+		<td class="keywords"> humanism , code , gender , women , girls , kids </td>
+		<td class="url"> http://www.blackgirlscode.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Code.org </td>
+		<td class="description"> Anybody can learn </td>
+		<td class="keywords"> humanism , code , gender , women , girls , kids </td>
+		<td class="url"> https://code.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectKids"> Humanism </td>
+		<td class="name"> Women who code </td>
+		<td class="description"> International nonprofit that develops programs to help engineers achieve their career goals </td>
+		<td class="keywords"> humanism , code , gender , women </td>
+		<td class="url"> https://www.womenwhocode.com/ </td>
 	</tr>
 </table>
 
