@@ -796,4 +796,13 @@ Humanism;Scratch;;teach , programming , code , kids , app , MIT , block , Scratc
 Android;IndicatorView;;UI , indicator , steps , position , index;https://github.com/steelkiwi/IndicatorView
 Python;Lorenz Cipher Machine Simulator;;WW2 , cipher , crypto , Lorenz;https://github.com/RealGrep/lorenz-cipher-sim
 /;Enigma Simulation;;WW2 , cipher , crypto , Enigma;https://github.com/colindean/enigma-simulation
-Java;;;WW2 , cipher , crypto , Enigma;https://github.com/amirbawab/Enigma-machine-simulator
+Java;Enigma Simulation;;WW2 , cipher , crypto , Enigma;https://github.com/amirbawab/Enigma-machine-simulator
+DevTool;Grafana;The open platform for beautiful analytics and monitoring;DevOps , graph , charts , graphics , analytics , monitoring , metrics;https://grafana.com/
+DevTool;Prometheus;Power your metrics and alerting with a leading open-source monitoring solution.;DevOps , graph , charts , graphics , analytics , monitoring , metrics;https://prometheus.io/
+DevTool;Amazon CloudWatch;;DevOps , monitoring , cloud , network , AWS;https://aws.amazon.com/fr/cloudwatch/
+DevTool;InfluxData;The modern engine for metrics and events;DevOps , graph , charts , graphics , analytics , monitoring , metrics;https://www.influxdata.com/
+DevTool;Graphite;Make it easy to store and graph metrics.;DevOps , graph , charts , graphics , analytics , monitoring , metrics;https://graphiteapp.org/
+/;Stackshare;Discover technology stacks and find the best software tools;tools;https://stackshare.io/
+Design;Favicon & App Icon Generator;;UI , icon , favicon;http://www.favicon-generator.org/
+Android;Android slidr;;UI , widget , slider;https://github.com/florent37/android-slidr
+Android;Kontinuous Speech Recognizer; A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword;speech recognizer;https://github.com/StephenVinouze/KontinuousSpeechRecognizer

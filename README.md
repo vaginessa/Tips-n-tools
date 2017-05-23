@@ -5582,10 +5582,73 @@
 	</tr>
 	<tr>
 		<td class="subjectJava"> Java </td>
-		<td class="name"> </td>
+		<td class="name"> Enigma Simulation </td>
 		<td class="description"> </td>
 		<td class="keywords"> WW2 , cipher , crypto , Enigma </td>
 		<td class="url"> https://github.com/amirbawab/Enigma-machine-simulator </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Grafana </td>
+		<td class="description"> The open platform for beautiful analytics and monitoring </td>
+		<td class="keywords"> DevOps , graph , charts , graphics , analytics , monitoring , metrics </td>
+		<td class="url"> https://grafana.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Prometheus </td>
+		<td class="description"> Power your metrics and alerting with a leading open-source monitoring solution. </td>
+		<td class="keywords"> DevOps , graph , charts , graphics , analytics , monitoring , metrics </td>
+		<td class="url"> https://prometheus.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Amazon CloudWatch </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , monitoring , cloud , network , AWS </td>
+		<td class="url"> https://aws.amazon.com/fr/cloudwatch/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> InfluxData </td>
+		<td class="description"> The modern engine for metrics and events </td>
+		<td class="keywords"> DevOps , graph , charts , graphics , analytics , monitoring , metrics </td>
+		<td class="url"> https://www.influxdata.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Graphite </td>
+		<td class="description"> Make it easy to store and graph metrics. </td>
+		<td class="keywords"> DevOps , graph , charts , graphics , analytics , monitoring , metrics </td>
+		<td class="url"> https://graphiteapp.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Stackshare </td>
+		<td class="description"> Discover technology stacks and find the best software tools </td>
+		<td class="keywords"> tools </td>
+		<td class="url"> https://stackshare.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Favicon & App Icon Generator </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , icon , favicon </td>
+		<td class="url"> http://www.favicon-generator.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android slidr </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , widget , slider </td>
+		<td class="url"> https://github.com/florent37/android-slidr </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Kontinuous Speech Recognizer </td>
+		<td class="description"> A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword </td>
+		<td class="keywords"> speech recognizer </td>
+		<td class="url"> https://github.com/StephenVinouze/KontinuousSpeechRecognizer </td>
 	</tr>
 </table>
 
@@ -9650,6 +9713,34 @@
 		<td class="description"> International nonprofit that develops programs to help engineers achieve their career goals </td>
 		<td class="keywords"> humanism , code , gender , women </td>
 		<td class="url"> https://www.womenwhocode.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Guide d’Hygiène Informatique </td>
+		<td class="description"> Renforcer la sécurité de son SI en 42 mesures </td>
+		<td class="keywords"> ANSSI , SSI , threats , SI , IT , security </td>
+		<td class="url"> https://www.ssi.gouv.fr/uploads/2017/01/guide_hygiene_informatique_anssi.pdf </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MOOC ANSSI </td>
+		<td class="description"> </td>
+		<td class="keywords"> MOOC , ANSSI , SSI , threats , SI , IT , security </td>
+		<td class="url"> https://www.secnumacademie.gouv.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Here comes Treble: A modular base for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android O , Treble , AOSP , modules , open source , fragmentation </td>
+		<td class="url"> https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html?m=1 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How the Decentralized Web Will Rewrite the Rules of Security and Save the Net from the Barbarian Hordes Trying to Destroy It </td>
+		<td class="description"> </td>
+		<td class="keywords"> Web , Internet , privacy , freedom </td>
+		<td class="url"> https://hackernoon.com/how-the-decentralized-web-will-rewrite-the-rules-of-security-and-save-the-net-from-the-barbarian-23db16af34a1 </td>
 	</tr>
 </table>
 
