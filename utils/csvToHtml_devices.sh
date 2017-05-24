@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 10.0.0
+# Version.............: 10.0.1
 # Since...............: 18/08/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #			This file must contain several columns: Type, OS, Constructor, Name, Screen size, Sreen type, Screen resolution, SoC, GPU, Sensors, Batery, Storage, RAM, Camera, Dimensions, Weight, IP, USB Type, SD Card, SIM , UI
@@ -46,12 +46,14 @@ NUMBER_OF_LINES_TO_IGNORE=6
 # Some CSS
 CSS_STYLE="<style>
 body {
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: sans-serif;
 }
 table, td, .header {
 	border: 1px solid black;
 	border-collapse: collapse;
 	padding: 10px;
+	font-weight: bold;
 }
 .header {
 	background-color: #fafafa;
@@ -67,6 +69,7 @@ table, td, .header {
 .typeBand {
 	background-color: #000000;
 	color: #ffffff;
+	border: 1px solid white;
 }
 .typeBox {
 	background-color: #2196f3;
@@ -108,6 +111,7 @@ table, td, .header {
 }
 .os, .constructor, .name, .screensize, .screentype, .screenresolution, .soc, .gpu, .sensors, .battery, .storage, .ram, .camera, .dimensions, .weight, .ip, .usbtype, .sdcard, .sim, .ui {
 	text-align: center;
+	font-weight: normal;
 }
 .url {
 	color: #03a9f4;

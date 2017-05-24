@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 3.0.0
+# Version.............: 3.0.1
 # Since...............: 28/11/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed
 #			This file must contain several columns: Target, Constructor, Name, Gravure, Modem, Peak download speed, Peak upload speed, Bluetooth, NFC, USB, Camera support max., Video capture max., Video playback max., Display max., CPU, CPU cores number, CPU clock speed max., CPU architecture, GPU, GPU API support
@@ -46,12 +46,14 @@ NUMBER_OF_LINES_TO_IGNORE=6
 # Some CSS
 CSS_STYLE="<style>
 body {
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: sans-serif;
 }
 table, td, .header {
 	border: 1px solid black;
 	border-collapse: collapse;
 	padding: 10px;
+	font-weight: bold;
 }
 .header {
 	background-color: #fafafa;
@@ -59,6 +61,7 @@ table, td, .header {
 .targetSmartphone {
 	background-color: #000000;
 	color: #ffffff;
+	border: 1px solid white;
 }
 .targetSmartphoneTablet {
 	background-color: #4caf50;
@@ -100,8 +103,9 @@ table, td, .header {
 	background-color: #eeeeee;
 	color: #000000
 }
-.target, .constructor, .name, .gravure, .modem, .pds, .pus, .bluetoothn .nfc, .usb, .csm, .vcm, .vpm, .dm, .cpu, .cpucn, .cpua, .gpu, .gpuas  {
+.target, .constructor, .name, .gravure, .modem, .pds, .pus, .bluetooth, .nfc, .usb, .csm, .vcm, .vpm, .dm, .cpu, .cpucn, .cpucsm, .cpua, .gpu, .gpuas  {
 	text-align: center;
+	font-weight: normal;
 }
 </style>
 "

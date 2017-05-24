@@ -20,7 +20,7 @@
 #
 #
 # Author..............: pylapp
-# Version.............: 16.1.0
+# Version.............: 16.1.1
 # Since...............: 21/06/2016
 # Description.........: Process a file/an input (mainly in CSV format) to HTML with CSS if needed.
 #			This file must contain several columns: Plateform, Name, Description, Keywords, URL
@@ -46,12 +46,14 @@ NUMBER_OF_LINES_TO_IGNORE=6
 # Some CSS
 CSS_STYLE="<style>
 body {
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: sans-serif;
 }
 table, td, .header {
 	border: 1px solid black;
 	border-collapse: collapse;
 	padding: 10px;
+	font-weight: bold;
 }
 .header {
 	background-color: #fafafa;
@@ -116,17 +118,20 @@ table, td, .header {
 	border: 1px solid #ffffff; 
 }
 .subjectHumanism {
-	background-color: #64ffda;
-	color: #9c27b0;
+	background-color: #9c27b0;
+	color: #ffffff;
 }
-.name {
+.name, .description {
 	text-align: center;
+	font-weight: normal;
 }
 .url {
 	color: #03a9f4;
+	font-weight: normal;
 }
 .keywords {
 	font-style: italic;
+	font-weight: normal;
 }	
 </style>
 "
@@ -244,7 +249,7 @@ while read -r line; do
 						echo "\t\t<td class=\"subjectAi\">" $cleanItem "</td>"
 					;;
 					*Humanism*)
-						echo "\t\t<td class=\"subjectKids\">" $cleanItem "</td>"
+						echo "\t\t<td class=\"subjectHumanism\">" $cleanItem "</td>"
 					;;
 					*)
 						echo "\t\t<td class=\"subjectOther\">" $cleanItem "</td>"
