@@ -806,3 +806,5 @@ DevTool;Graphite;Make it easy to store and graph metrics.;DevOps , graph , chart
 Design;Favicon & App Icon Generator;;UI , icon , favicon;http://www.favicon-generator.org/
 Android;Android slidr;;UI , widget , slider;https://github.com/florent37/android-slidr
 Android;Kontinuous Speech Recognizer; A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword;speech recognizer;https://github.com/StephenVinouze/KontinuousSpeechRecognizer
+Android;Bridgefy;Bridgefy keeps people connected when Internet is unavailable. ;Internet , mech , BLE , Bluetooth , direct , broadcast , bridge;https://www.bridgefy.me/
+Android;Bridgefy Android Samples;;Internet , mech , BLE , Bluetooth , direct , broadcast , bridge;https://github.com/bridgefy/bridgefy-android-samples?

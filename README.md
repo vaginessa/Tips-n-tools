@@ -5650,6 +5650,20 @@
 		<td class="keywords"> speech recognizer </td>
 		<td class="url"> https://github.com/StephenVinouze/KontinuousSpeechRecognizer </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bridgefy </td>
+		<td class="description"> Bridgefy keeps people connected when Internet is unavailable. </td>
+		<td class="keywords"> Internet , mech , BLE , Bluetooth , direct , broadcast , bridge </td>
+		<td class="url"> https://www.bridgefy.me/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Bridgefy Android Samples </td>
+		<td class="description"> </td>
+		<td class="keywords"> Internet , mech , BLE , Bluetooth , direct , broadcast , bridge </td>
+		<td class="url"> https://github.com/bridgefy/bridgefy-android-samples? </td>
+	</tr>
 </table>
 
 
