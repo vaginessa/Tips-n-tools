@@ -808,3 +808,8 @@ Android;Android slidr;;UI , widget , slider;https://github.com/florent37/android
 Android;Kontinuous Speech Recognizer; A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword;speech recognizer;https://github.com/StephenVinouze/KontinuousSpeechRecognizer
 Android;Bridgefy;Bridgefy keeps people connected when Internet is unavailable. ;Internet , mech , BLE , Bluetooth , direct , broadcast , bridge;https://www.bridgefy.me/
 Android;Bridgefy Android Samples;;Internet , mech , BLE , Bluetooth , direct , broadcast , bridge;https://github.com/bridgefy/bridgefy-android-samples?
+/;Raspberry Pi;;Raspberry , Pi , Raspberry Pi;https://www.raspberrypi.org/
+Humanism;CoderDojo;;teach , programming , code , kids;https://coderdojo.com/
+Android;HueSeekBar;;UI , view , seek bar;https://github.com/iammert/HueSeekBar
+Android;Widgetlab;Configurable typing indicator for Android;UI , view , indicator;https://github.com/uDevel/widgetlab
+Android;Trianglify; Highly customizable library to generate beautiful triangle art views for android.;UI , view , triangle;https://github.com/sdsmdg/trianglify

@@ -5664,6 +5664,41 @@
 		<td class="keywords"> Internet , mech , BLE , Bluetooth , direct , broadcast , bridge </td>
 		<td class="url"> https://github.com/bridgefy/bridgefy-android-samples? </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Raspberry Pi </td>
+		<td class="description"> </td>
+		<td class="keywords"> Raspberry , Pi , Raspberry Pi </td>
+		<td class="url"> https://www.raspberrypi.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectHumanism"> Humanism </td>
+		<td class="name"> CoderDojo </td>
+		<td class="description"> </td>
+		<td class="keywords"> teach , programming , code , kids </td>
+		<td class="url"> https://coderdojo.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> HueSeekBar </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , seek bar </td>
+		<td class="url"> https://github.com/iammert/HueSeekBar </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Widgetlab </td>
+		<td class="description"> Configurable typing indicator for Android </td>
+		<td class="keywords"> UI , view , indicator </td>
+		<td class="url"> https://github.com/uDevel/widgetlab </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Trianglify </td>
+		<td class="description"> Highly customizable library to generate beautiful triangle art views for android. </td>
+		<td class="keywords"> UI , view , triangle </td>
+		<td class="url"> https://github.com/sdsmdg/trianglify </td>
+	</tr>
 </table>
 
 
@@ -9756,6 +9791,13 @@
 		<td class="keywords"> Web , Internet , privacy , freedom </td>
 		<td class="url"> https://hackernoon.com/how-the-decentralized-web-will-rewrite-the-rules-of-security-and-save-the-net-from-the-barbarian-23db16af34a1 </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Essential </td>
+		<td class="description"> </td>
+		<td class="keywords"> Andy Rubin , Essential , Ambient OS </td>
+		<td class="url"> https://www.essential.com/home </td>
+	</tr>
 </table>
 
 
@@ -10568,6 +10610,29 @@
 		<td class="ui"> MIUI </td>
 	</tr>
 	<tr>
+		<td class="typeOther"> </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Xiaomi </td>
+		<td class="name"> Mi MIX </td>
+		<td class="screensize"> 6.4’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 2040px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 821 </td>
+		<td class="gpu"> Qualcomm Adreno 530 </td>
+		<td class="sensors"> Hall sensor , ultrasonic , fingerprint , proximity , light , accelerometer , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 4400 mAh , Li-Polymer </td>
+		<td class="storage"> 128 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> OmniVision OV16880 PureCel 4.74 x 3.56 mm 1.029 µm f/2.0 15.83 MP (back) , 5.04 MP (front) </td>
+		<td class="dimensions"> 158.8 x 81.9 x 7.9 mm </td>
+		<td class="usbtype"> 209 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 3.0 , C </td>
+		<td class="sdcard"> no </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> MIUI </td>
+	</tr>
+	<tr>
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Fairphone </td>
@@ -10940,7 +11005,7 @@
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Caterpillar </td>
 		<td class="name"> Cat S60 </td>
-		<td class="screensize"> 4.7 '' </td>
+		<td class="screensize"> 4.7'' </td>
 		<td class="screentype"> ? </td>
 		<td class="screenresolution"> 720 x 1280 px = HD </td>
 		<td class="soc"> Qualcomm Snapdragon 617 </td>
@@ -10963,7 +11028,7 @@
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Vertu </td>
 		<td class="name"> Constellation (2017) </td>
-		<td class="screensize"> 5.5 '' </td>
+		<td class="screensize"> 5.5'' </td>
 		<td class="screentype"> AMOLED </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 820 </td>
@@ -10985,23 +11050,23 @@
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Essential </td>
-		<td class="name"> FIH-PM1 </td>
-		<td class="screensize"> ? </td>
-		<td class="screentype"> ? </td>
+		<td class="name"> PH-1 </td>
+		<td class="screensize"> 5.5‘’ </td>
+		<td class="screentype"> IPS </td>
 		<td class="screenresolution"> 1440 x 2560 px = Quad HD </td>
 		<td class="soc"> Qualcomm Snapdragon 835 </td>
 		<td class="gpu"> Qualcomm Adreno 540 </td>
-		<td class="sensors"> ? </td>
-		<td class="battery"> ? </td>
-		<td class="storage"> ? </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 3040 mAh , Li-Polymer </td>
+		<td class="storage"> 128 GB </td>
 		<td class="ram"> 4 GB </td>
 		<td class="camera"> 12 MP (back) , 8 MP (front) </td>
-		<td class="dimensions"> ? </td>
-		<td class="usbtype"> ? </td>
+		<td class="dimensions"> 141.5 x 71.1 x 7.8 mm </td>
+		<td class="usbtype"> 185 g </td>
 		<td class="weight"> ? </td>
-		<td class="ip"> ? </td>
+		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> ? </td>
-		<td class="sim"> ? </td>
+		<td class="sim"> nano </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
