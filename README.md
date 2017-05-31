@@ -5699,6 +5699,41 @@
 		<td class="keywords"> UI , view , triangle </td>
 		<td class="url"> https://github.com/sdsmdg/trianglify </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Architecture Components </td>
+		<td class="description"> A new collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence. </td>
+		<td class="keywords"> Android , arch , architecture </td>
+		<td class="url"> https://developer.android.com/topic/libraries/architecture/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Bluetooth Technology </td>
+		<td class="description"> </td>
+		<td class="keywords"> Bluetooth , signalisation </td>
+		<td class="url"> https://www.bluetooth.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MaterialShadows </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , shadows </td>
+		<td class="url"> https://github.com/harjot-oberai/MaterialShadows </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Konfetti </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , particles , confetti </td>
+		<td class="url"> https://github.com/DanielMartinus/Konfetti </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ShimmerLayout </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , effects , shimmer </td>
+		<td class="url"> https://github.com/team-supercharge/ShimmerLayout </td>
+	</tr>
 </table>
 
 
@@ -9797,6 +9832,69 @@
 		<td class="description"> </td>
 		<td class="keywords"> Andy Rubin , Essential , Ambient OS </td>
 		<td class="url"> https://www.essential.com/home </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> WebAssembly </td>
+		<td class="description"> WebAssembly or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web. </td>
+		<td class="keywords"> Web , WASM , WebAssembly , native code , compilation , PnaCl </td>
+		<td class="url"> http://webassembly.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tad </td>
+		<td class="description"> A better way to view & analyze data </td>
+		<td class="keywords"> data </td>
+		<td class="url"> http://tadviewer.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Weighing in on the Holy Architecture War — My take on“Architecture Components” </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVP , MVVM , architecture components , architecture , arch </td>
+		<td class="url"> https://android.jlelse.eu/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> An introduction to Android Instant Apps </td>
+		<td class="description"> </td>
+		<td class="keywords"> Instan Apps , Android </td>
+		<td class="url"> https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Instant Apps </td>
+		<td class="description"> Native Android apps, without the installation </td>
+		<td class="keywords"> Instan Apps , Android </td>
+		<td class="url"> https://developer.android.com/topic/instant-apps/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> From Java to Kotlin </td>
+		<td class="description"> </td>
+		<td class="keywords"> Java , Kotlin </td>
+		<td class="url"> https://github.com/MindorksOpenSource/from-java-to-kotlin </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How Long Will It Take? Estimating Software Work </td>
+		<td class="description"> </td>
+		<td class="keywords"> time , estimation , software work </td>
+		<td class="url"> https://hackernoon.com/how-long-will-it-take-d567033abb38 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Stop Paying for SSL Certificates </td>
+		<td class="description"> </td>
+		<td class="keywords"> SSL , Let’s Encrypt </td>
+		<td class="url"> https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How to Pitch VCs like a Product Manager </td>
+		<td class="description"> </td>
+		<td class="keywords"> pitch , talk , elevator pitch , pitch fire </td>
+		<td class="url"> https://hackernoon.com/how-to-pitch-vcs-like-a-product-manager-4f2309e6055d </td>
 	</tr>
 </table>
 

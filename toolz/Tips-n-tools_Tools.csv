@@ -813,3 +813,8 @@ Humanism;CoderDojo;;teach , programming , code , kids;https://coderdojo.com/
 Android;HueSeekBar;;UI , view , seek bar;https://github.com/iammert/HueSeekBar
 Android;Widgetlab;Configurable typing indicator for Android;UI , view , indicator;https://github.com/uDevel/widgetlab
 Android;Trianglify; Highly customizable library to generate beautiful triangle art views for android.;UI , view , triangle;https://github.com/sdsmdg/trianglify
+Android;Android Architecture Components;A new collection of libraries that help you design robust, testable, and maintainable apps. Start with classes for managing your UI component lifecycle and handling data persistence.;Android , arch , architecture;https://developer.android.com/topic/libraries/architecture/index.html
+/;Bluetooth Technology;;Bluetooth , signalisation;https://www.bluetooth.com/
+Android;MaterialShadows;;UI , shadows;https://github.com/harjot-oberai/MaterialShadows
+Android;Konfetti;;UI , view , particles , confetti;https://github.com/DanielMartinus/Konfetti
+Android;ShimmerLayout;;UI , view , effects , shimmer;https://github.com/team-supercharge/ShimmerLayout
