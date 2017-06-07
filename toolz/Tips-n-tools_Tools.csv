@@ -821,3 +821,11 @@ Android;ShimmerLayout;;UI , view , effects , shimmer;https://github.com/team-sup
 /;Pokemon-Terminal; Pokemon terminal themes for iTerm2;mac OS , iTerm , Pokemon;https://github.com/LazoCoder/Pokemon-Terminal
 Web;HTML5 test;How well does your browser support HTML5?;HTML5 , browser , compat , compatibility , support;http://html5test.com/
 Android;HorizontalPicker; A simple, customizable and easy to use picker where centre view is scaled up;UI , widget , picker;https://github.com/adityagohad/HorizontalPicker
+Android;MusicIndicator;;UI , widget , music , charts;https://github.com/Taishi-Y/MusicIndicator
+Android;Nitrite;;BDD , database , storage , document , NoSQL;https://github.com/dizitart/nitrite-database
+Android;CustomerSupportChat; An Android customer support chat library built using Smack API;XMPP , Smack , chat , IM , messaging;https://github.com/Asutosh11/CustomerSupportChat
+Android;Smack;A highly modular and portable open source XMPP client library written in Java for JVMs (JavaSE) and Android ;XMPP , Smack , chat , IM , messaging;https://github.com/igniterealtime/Smack
+/;Ingnite realtime – Smack;;XMPP , Smack , chat , IM , messaging  ,open source , Jabber;https://igniterealtime.org/projects/smack/
+Android;Indicators;;UI , ViewPager , indicators;https://github.com/volders/Indicators
+Android;DotsLoaderView;;UI , view , loader;https://github.com/steelkiwi/DotsLoaderView
+Design;SVGI;The SVG inspection tool;UI , SVG , icons , pictures , inspection;https://angelmmiguel.github.io/svgi/

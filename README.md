@@ -5755,6 +5755,62 @@
 		<td class="keywords"> UI , widget , picker </td>
 		<td class="url"> https://github.com/adityagohad/HorizontalPicker </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MusicIndicator </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , widget , music , charts </td>
+		<td class="url"> https://github.com/Taishi-Y/MusicIndicator </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Nitrite </td>
+		<td class="description"> </td>
+		<td class="keywords"> BDD , database , storage , document , NoSQL </td>
+		<td class="url"> https://github.com/dizitart/nitrite-database </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> CustomerSupportChat </td>
+		<td class="description"> An Android customer support chat library built using Smack API </td>
+		<td class="keywords"> XMPP , Smack , chat , IM , messaging </td>
+		<td class="url"> https://github.com/Asutosh11/CustomerSupportChat </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Smack </td>
+		<td class="description"> A highly modular and portable open source XMPP client library written in Java for JVMs (JavaSE) and Android </td>
+		<td class="keywords"> XMPP , Smack , chat , IM , messaging </td>
+		<td class="url"> https://github.com/igniterealtime/Smack </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Ingnite realtime – Smack </td>
+		<td class="description"> </td>
+		<td class="keywords"> XMPP , Smack , chat , IM , messaging ,open source , Jabber </td>
+		<td class="url"> https://igniterealtime.org/projects/smack/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Indicators </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , ViewPager , indicators </td>
+		<td class="url"> https://github.com/volders/Indicators </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DotsLoaderView </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , view , loader </td>
+		<td class="url"> https://github.com/steelkiwi/DotsLoaderView </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> SVGI </td>
+		<td class="description"> The SVG inspection tool </td>
+		<td class="keywords"> UI , SVG , icons , pictures , inspection </td>
+		<td class="url"> https://angelmmiguel.github.io/svgi/ </td>
+	</tr>
 </table>
 
 
@@ -9979,6 +10035,48 @@
 		<td class="description"> </td>
 		<td class="keywords"> Fuchsia , LK , little kernel , embedded </td>
 		<td class="url"> https://github.com/littlekernel/lk/wiki/Introduction </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Funciton </td>
+		<td class="description"> Two-dumensional minimalistic declarative programming langage </td>
+		<td class="keywords"> esoteric , langage , Esolang </td>
+		<td class="url"> https://esolangs.org/wiki/Funciton </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Esolangs </td>
+		<td class="description"> Esoteric programming langages wiki </td>
+		<td class="keywords"> Esolang </td>
+		<td class="url"> https://esolangs.org/wiki/Main_Page </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Brainfuck </td>
+		<td class="description"> ~=[,,_,,]:3 </td>
+		<td class="keywords"> esoteric , langage , Esolang </td>
+		<td class="url"> https://esolangs.org/wiki/Brainfuck </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Architecture Components Tutorial – Room, LiveData and ViewModel </td>
+		<td class="description"> </td>
+		<td class="keywords"> MVVM , how to , sample , tutorial , android architecture components </td>
+		<td class="url"> http://blog.iamsuleiman.com/android-architecture-components-tutorial-room-livedata-viewmodel/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Don’t wait to make it perfect. Go for it first, and then improve. </td>
+		<td class="description"> There is no such thing as the perfect product. Perfection is a process, not a destination. </td>
+		<td class="keywords"> MVP , products , perfection , cons , traps </td>
+		<td class="url"> https://hackernoon.com/dont-wait-to-make-it-perfect-go-for-it-first-and-then-improve-a2fbf101279e </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> What is DevOps and Why I Should Have It? </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps </td>
+		<td class="url"> https://hackernoon.com/what-is-devops-and-why-i-should-have-it-e60f1ee446d2 </td>
 	</tr>
 </table>
 
