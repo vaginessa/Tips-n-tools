@@ -170,7 +170,7 @@ Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;h
 Android;Awareness API;;awareness API;https://developers.google.com/awareness/
 /;Device Specifications;;devices , specs , hardware , comparison;http://www.devicespecifications.com/en
 /;Duo Skin;;tatoo , duo skin , transhumanism;http://duoskin.media.mit.edu/
-/;Flutter;;Android , iOS;https://flutter.io/
+/;Flutter;Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android.;UI , interfaces , x-platform , Android , iOS;https://flutter.io/
 Design;Justinmind;;prototyping;http://www.justinmind.com/
 Android;Display resolutions;;resolution;https://en.wikipedia.org/wiki/Graphics_display_resolution
 Android;Code style;;guidelines;https://source.android.com/source/code-style.html
@@ -463,8 +463,8 @@ Android;Android Things: Electronics 101;;Android Things , Android;https://medium
 /;Open Observatory of Network Interference;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/
 /;Open Observatory of Network Interference app;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/post/ooni-mobile-app/
 Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo ;Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo;https://github.com/ravidsrk/android-mvp-starter
-/;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
-/;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
+Fuchsia;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
+Fuchsia;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
 Web;Mojo;This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl.;Chromium , Mojo;https://www.chromium.org/developers/design-documents/mojo
 /;The 9 Types of Programmers and Why Some are Better than Others;;medium , programmers , developers , ;https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e
 /;How I stay up-to-date as a Developer;;medium;https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82
@@ -599,3 +599,12 @@ Kotlin;From Java to Kotlin;;Java , Kotlin;https://github.com/MindorksOpenSource/
 /;How Long Will It Take? Estimating Software Work;;time , estimation , software work;https://hackernoon.com/how-long-will-it-take-d567033abb38
 /;Stop Paying for SSL Certificates;;SSL , Let’s Encrypt;https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
 /;How to Pitch VCs like a Product Manager;;pitch , talk , elevator pitch , pitch fire;https://hackernoon.com/how-to-pitch-vcs-like-a-product-manager-4f2309e6055d
+Web;Assembling WebAssembly;;WebAssembly , Webkit , JS , JavaScript , Web;https://webkit.org/blog/7691/webassembly/
+Web;Webkit;Open Source Web Browser Engine;WebKit , browser , engine;https://webkit.org/
+Fuchsia;Fuchsia;Pink + Purple == Fuchsia ;;https://github.com/fuchsia-mirror
+Design;The A11Y Project;A community-driven effort to make web accessibility easier.;UI , UX , accessibility ;http://a11yproject.com/
+/;The DevOps Security Checklist;;DevOps , security , check list;https://devops-security-checklist.sqreen.io/
+Fuchsia;Little Kernel;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel
+Fuchsia;Little Kernel – LK;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel/lk
+Fuchsia;Magenta;;Fuchsia , Magenta;https://github.com/fuchsia-mirror/magenta
+Fuchsia;Little Kernel – Introduction;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel/lk/wiki/Introduction

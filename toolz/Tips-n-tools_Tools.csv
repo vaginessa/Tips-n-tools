@@ -818,3 +818,6 @@ Android;Android Architecture Components;A new collection of libraries that help 
 Android;MaterialShadows;;UI , shadows;https://github.com/harjot-oberai/MaterialShadows
 Android;Konfetti;;UI , view , particles , confetti;https://github.com/DanielMartinus/Konfetti
 Android;ShimmerLayout;;UI , view , effects , shimmer;https://github.com/team-supercharge/ShimmerLayout
+/;Pokemon-Terminal; Pokemon terminal themes for iTerm2;mac OS , iTerm , Pokemon;https://github.com/LazoCoder/Pokemon-Terminal
+Web;HTML5 test;How well does your browser support HTML5?;HTML5 , browser , compat , compatibility , support;http://html5test.com/
+Android;HorizontalPicker; A simple, customizable and easy to use picker where centre view is scaled up;UI , widget , picker;https://github.com/adityagohad/HorizontalPicker

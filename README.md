@@ -5734,6 +5734,27 @@
 		<td class="keywords"> UI , view , effects , shimmer </td>
 		<td class="url"> https://github.com/team-supercharge/ShimmerLayout </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Pokemon-Terminal </td>
+		<td class="description"> Pokemon terminal themes for iTerm2 </td>
+		<td class="keywords"> mac OS , iTerm , Pokemon </td>
+		<td class="url"> https://github.com/LazoCoder/Pokemon-Terminal </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> HTML5 test </td>
+		<td class="description"> How well does your browser support HTML5? </td>
+		<td class="keywords"> HTML5 , browser , compat , compatibility , support </td>
+		<td class="url"> http://html5test.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> HorizontalPicker </td>
+		<td class="description"> A simple, customizable and easy to use picker where centre view is scaled up </td>
+		<td class="keywords"> UI , widget , picker </td>
+		<td class="url"> https://github.com/adityagohad/HorizontalPicker </td>
+	</tr>
 </table>
 
 
@@ -6912,8 +6933,8 @@
 	<tr>
 		<td class="subjectOther"> / </td>
 		<td class="name"> Flutter </td>
-		<td class="description"> </td>
-		<td class="keywords"> Android , iOS </td>
+		<td class="description"> Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android. </td>
+		<td class="keywords"> UI , interfaces , x-platform , Android , iOS </td>
 		<td class="url"> https://flutter.io/ </td>
 	</tr>
 	<tr>
@@ -8945,14 +8966,14 @@
 		<td class="url"> https://github.com/ravidsrk/android-mvp-starter </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectFuchsia"> Fuchsia </td>
 		<td class="name"> Google’s not-so-secret new OS </td>
 		<td class="description"> </td>
 		<td class="keywords"> Fuchsia , Magenta , Andromeda , OS </td>
 		<td class="url"> https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectFuchsia"> Fuchsia </td>
 		<td class="name"> Fuchsia Google Source </td>
 		<td class="description"> </td>
 		<td class="keywords"> Fuchsia , Magenta , Andromeda , OS </td>
@@ -9895,6 +9916,69 @@
 		<td class="description"> </td>
 		<td class="keywords"> pitch , talk , elevator pitch , pitch fire </td>
 		<td class="url"> https://hackernoon.com/how-to-pitch-vcs-like-a-product-manager-4f2309e6055d </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Assembling WebAssembly </td>
+		<td class="description"> </td>
+		<td class="keywords"> WebAssembly , Webkit , JS , JavaScript , Web </td>
+		<td class="url"> https://webkit.org/blog/7691/webassembly/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Webkit </td>
+		<td class="description"> Open Source Web Browser Engine </td>
+		<td class="keywords"> WebKit , browser , engine </td>
+		<td class="url"> https://webkit.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectFuchsia"> Fuchsia </td>
+		<td class="name"> Fuchsia </td>
+		<td class="description"> Pink + Purple == Fuchsia </td>
+		<td class="keywords"> </td>
+		<td class="url"> https://github.com/fuchsia-mirror </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> The A11Y Project </td>
+		<td class="description"> A community-driven effort to make web accessibility easier. </td>
+		<td class="keywords"> UI , UX , accessibility </td>
+		<td class="url"> http://a11yproject.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The DevOps Security Checklist </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , security , check list </td>
+		<td class="url"> https://devops-security-checklist.sqreen.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectFuchsia"> Fuchsia </td>
+		<td class="name"> Little Kernel </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , LK , little kernel , embedded </td>
+		<td class="url"> https://github.com/littlekernel </td>
+	</tr>
+	<tr>
+		<td class="subjectFuchsia"> Fuchsia </td>
+		<td class="name"> Little Kernel – LK </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , LK , little kernel , embedded </td>
+		<td class="url"> https://github.com/littlekernel/lk </td>
+	</tr>
+	<tr>
+		<td class="subjectFuchsia"> Fuchsia </td>
+		<td class="name"> Magenta </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , Magenta </td>
+		<td class="url"> https://github.com/fuchsia-mirror/magenta </td>
+	</tr>
+	<tr>
+		<td class="subjectFuchsia"> Fuchsia </td>
+		<td class="name"> Little Kernel – Introduction </td>
+		<td class="description"> </td>
+		<td class="keywords"> Fuchsia , LK , little kernel , embedded </td>
+		<td class="url"> https://github.com/littlekernel/lk/wiki/Introduction </td>
 	</tr>
 </table>
 
