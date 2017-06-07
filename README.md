@@ -10078,6 +10078,13 @@
 		<td class="keywords"> DevOps </td>
 		<td class="url"> https://hackernoon.com/what-is-devops-and-why-i-should-have-it-e60f1ee446d2 </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Security Rewards Program Rules </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , bug bounty , security , rewards </td>
+		<td class="url"> https://www.google.com/about/appsecurity/android-rewards/ </td>
+	</tr>
 </table>
 
 
@@ -10341,6 +10348,52 @@
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy J7 (2017) </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> Super AMOLED </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Samsung Exynos 7870 </td>
+		<td class="gpu"> ARM Mali-T830 MP2 </td>
+		<td class="sensors"> ? </td>
+		<td class="battery"> 3600 mAh , Li-Ion </td>
+		<td class="storage"> 16 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> ? </td>
+		<td class="dimensions"> 152.4 x 74.7 x 7.9 mm </td>
+		<td class="usbtype"> ? </td>
+		<td class="weight"> IP 54 </td>
+		<td class="ip"> C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> TouchWiz </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
+		<td class="name"> Galaxy A5 (2017) </td>
+		<td class="screensize"> 5.2’’ </td>
+		<td class="screentype"> Super AMOLED </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Samsung Exynos 7880 </td>
+		<td class="gpu"> ARM Mali-T860 MP4 </td>
+		<td class="sensors"> ? </td>
+		<td class="battery"> 3000 mAh , Li-Polymer </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 3 GB </td>
+		<td class="camera"> ? </td>
+		<td class="dimensions"> 146.1 x 71.4 x 7.9 mm </td>
+		<td class="usbtype"> 159 g </td>
+		<td class="weight"> IP 68 </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> TouchWiz </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Samsung </td>
 		<td class="name"> Galaxy S8 </td>
 		<td class="screensize"> 5.8’’ </td>
 		<td class="screentype"> Corning Gorilla Glass 5 , Super AMOLED </td>
@@ -10543,6 +10596,29 @@
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano </td>
 		<td class="ui"> UX 6.0 </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> LG </td>
+		<td class="name"> X Venture </td>
+		<td class="screensize"> 5.2’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Qualcomm Snapdragon 435 </td>
+		<td class="gpu"> Qualcomm Adreno 505 </td>
+		<td class="sensors"> fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 4100 mAh , Li-Ion </td>
+		<td class="storage"> 32 GB </td>
+		<td class="ram"> 2 GB </td>
+		<td class="camera"> CMOS 15.87 MP (back) , 4.92 MP (front) </td>
+		<td class="dimensions"> 152.4 x 76.2 x 9.14 mm </td>
+		<td class="usbtype"> 164 g </td>
+		<td class="weight"> IP 68 </td>
+		<td class="ip"> 2.0 , micro-B </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano </td>
+		<td class="ui"> UX 5.0 + </td>
 	</tr>
 	<tr>
 		<td class="typeSmartphone"> smartphone </td>
@@ -10890,7 +10966,7 @@
 		<td class="ui"> MIUI </td>
 	</tr>
 	<tr>
-		<td class="typeOther"> </td>
+		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Xiaomi </td>
 		<td class="name"> Mi MIX </td>
