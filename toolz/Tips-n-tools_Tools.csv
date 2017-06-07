@@ -829,3 +829,4 @@ Android;Smack;A highly modular and portable open source XMPP client library writ
 Android;Indicators;;UI , ViewPager , indicators;https://github.com/volders/Indicators
 Android;DotsLoaderView;;UI , view , loader;https://github.com/steelkiwi/DotsLoaderView
 Design;SVGI;The SVG inspection tool;UI , SVG , icons , pictures , inspection;https://angelmmiguel.github.io/svgi/
+/;OrientDB;The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine;DB , BDD , storage , graph , NoSQL , engine , distributed , multi-model;http://orientdb.com/orientdb/

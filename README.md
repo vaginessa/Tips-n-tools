@@ -5811,6 +5811,13 @@
 		<td class="keywords"> UI , SVG , icons , pictures , inspection </td>
 		<td class="url"> https://angelmmiguel.github.io/svgi/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OrientDB </td>
+		<td class="description"> The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine </td>
+		<td class="keywords"> DB , BDD , storage , graph , NoSQL , engine , distributed , multi-model </td>
+		<td class="url"> http://orientdb.com/orientdb/ </td>
+	</tr>
 </table>
 
 
