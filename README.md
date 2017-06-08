@@ -5839,6 +5839,27 @@
 		<td class="keywords"> Windows , package , manager </td>
 		<td class="url"> https://chocolatey.org/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Umap </td>
+		<td class="description"> Map </td>
+		<td class="keywords"> OSM , Open Street Map , map </td>
+		<td class="url"> https://umap.openstreetmap.fr/fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Batchgeo </td>
+		<td class="description"> Map </td>
+		<td class="keywords"> map </td>
+		<td class="url"> https://fr.batchgeo.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Open Street Map </td>
+		<td class="description"> Map </td>
+		<td class="keywords"> OSM , Open Street Map , map </td>
+		<td class="url"> https://www.openstreetmap.org </td>
+	</tr>
 </table>
 
 

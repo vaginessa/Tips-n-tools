@@ -833,3 +833,6 @@ Design;SVGI;The SVG inspection tool;UI , SVG , icons , pictures , inspection;htt
 /;cmder;Portable console emulator for Windows;Windows , terminal , console , bash , shell;http://cmder.net/
 /;Babun;Windows shell;Windows , terminal , console , bash , shell;http://babun.github.io/
 /;Chocolatey;Package manager for Windows;Windows , package , manager;https://chocolatey.org/
+/;Umap;Map;OSM , Open Street Map , map;https://umap.openstreetmap.fr/fr/
+/;Batchgeo;Map;map;https://fr.batchgeo.com/
+/;Open Street Map;Map;OSM , Open Street Map , map;https://www.openstreetmap.org
