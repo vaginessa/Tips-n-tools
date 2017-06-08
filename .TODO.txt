@@ -22,4 +22,5 @@
 
 1;Make a stats feature with metrics about themes/subjects (e.g. x% of Web, y% of Kotlin, etc.)
 2;Make a check-for-doublon feature (e.g. check if a link has already been copied in another line in the file)
-3;Make a build-changelod feature (e.g. display a message after the outputs build with a message like "Added references to that-subjet, this-one and this-thing")
+3;Make a build-changelog feature (e.g. display a message after the outputs build with a message like "Added references to that-subjet, this-one and this-thing")
+4;Make a feature which processes some diff operations between files so as to generate HTML files only if base CSV files have been changed

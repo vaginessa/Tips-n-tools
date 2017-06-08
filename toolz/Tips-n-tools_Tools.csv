@@ -830,3 +830,6 @@ Android;Indicators;;UI , ViewPager , indicators;https://github.com/volders/Indic
 Android;DotsLoaderView;;UI , view , loader;https://github.com/steelkiwi/DotsLoaderView
 Design;SVGI;The SVG inspection tool;UI , SVG , icons , pictures , inspection;https://angelmmiguel.github.io/svgi/
 /;OrientDB;The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine;DB , BDD , storage , graph , NoSQL , engine , distributed , multi-model;http://orientdb.com/orientdb/
+/;cmder;Portable console emulator for Windows;Windows , terminal , console , bash , shell;http://cmder.net/
+/;Babun;Windows shell;Windows , terminal , console , bash , shell;http://babun.github.io/
+/;Chocolatey;Package manager for Windows;Windows , package , manager;https://chocolatey.org/
