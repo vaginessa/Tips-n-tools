@@ -1,22 +1,624 @@
-System On Chip (SOC);System On Chip (SoC);;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;
-Target;Constructor;Name;Gravure;Modem;Peak download speed;Peak upload speed;Bluetooth;NFC;USB;Camera support max.;Video capture max.;Video playback max.;Display max.;CPU;CPU cores number;CPU clock speed max.;CPU architecture;GPU;GPU API support
-smartphone;Qualcomm;Snapdragon 820;?;Qualcomm Snapdragon X12 LTE;600 Mbps;150 Mbps;4.1;X;2.0 , 3.0;28 MP;4K Ultra HD;4K Ultra HD;2160 x 3840 px , 4K;Qualcomm Kryo;4;2.2 GHz;64 bits;Qualcomm Adreno 530;OpenGL ES , OpenCL , Vulkan
-smartphone;Qualcomm;Snapdragon 821;14 nm;Qualcomm Snapdragon X12 LTE;600 Mbps;150 Mbps;4.1;X;2.0 , 3.0;28 MP;4K Ultra HD;4K Ultra HD;2160 x 3840 px , 4K;Qualcomm Kryo;4;2.4 GHz;64 bits;Qualcomm Adreno 530;OpenGL ES , OpenCL , Vulkan
-smartphone / tablet;Qualcomm;Snapdragon 835;?;Qualcomm Snapdragon X16 LTE;1 Gbps;150 Mbps;5.0;X;3.1;32 MP;4K Ultra HD;4K Ultra HD;2160 x 3840 px , 4K;Qualcomm Kryo;8;2.45 GHz;64 bits;Qualcomm Adreno 540;OpenGL ES , OpenCL , Vulkan , Tango, Daydream
-smartphone / tablet;Qualcomm;Snapdragon 653;?;Qualcomm Snapdragon X9 LTE;300 Mbps;150 Mbps;4.1 , BLE;X;2.0 , 3.0;21 MP;4K Ultra HD;4K Ultra HD;1600 x 2560 px , Quad HD;ARM Cortex A72 , ARM Cortex 153;4 + 4;1.95 GHz;64 bits;Qualcomm Adreno 510;?
-smartphone / tablet;Qualcomm;Snapdragon 660;14 nm;Qualcomm Snapdragon X12 LTE;600 Mbps;150 Mbps;5.0;X;C , 3.1;24 MP;4K Ultra HD;4K Ultra HD;1600 x 2560 px , Quad HD;Qualcomm Kryo;4 + 4;2.2 GHz , 1.8 GHz;64 bits;Qualcomm Adreno 512;?
-smartphone / tablet;Qualcomm;Snapdragon 625;?;Qualcomm Snapdragon X9 LTE;300 Mbps;150 Mbps;4.1 , BLE;X;3.0;24 MP;4K Ultra HD;4K Ultra HD;1200 x 1900 , Full HD;ARM Cortex 53;4 + 4;2.0 GHz;64 bits;Qualcomm Adreno 506;Open GL ES
-smartphone / tablet;Qualcomm;Snapdragon 630;14 nm;Qualcomm Snapdragon X12 LTE;600 Mbps;150 Mbps;5.0;X;C , 3.1;?;4K Ultra HD;4K Ultra HD;1200 x 1900 , Full HD;ARM Cortex 53;4 + 4;2.2 GHz , 1.8 GHz;64 bits;Qualcomm Adreno 508;
-smartphone / tablet;Samsung;Exynos 8 Octa (8890);10 nm;?;600 Mbps;150 Mbps;?;?;?;24 MP;4K Ultra HD;4K Ultra HD;4096 x 2160 px , UHD;Samsung custom core , ARM Cortex 53;8;2.3 GHz;64 bits;ARM Mali T880;?
-smartphone / tablet;Samsung;Exynos 9 Series 8895;10 nm;?;1 Gbps;150 Mbps;?;?;?;28 MP;4K Ultra HD;4K Ultra HD;?;Samsung custom core , ARM Cortex-A53;4 + 4;?;64 bits;ARM Mali G71;
-iPhone 7;Apple;A10 Fusion;?;?;?;?;4.1 , BLE;?;?;12 MP;4K;4K;?;Apple Twister;4;2.2 GHz;64 bits;PowerVR Series7XT;?
-smartphone;MediaTek;Helio P10;?;?;?;?;?;?;?;21 MP;?;?;1200 x 1900 , Full HD;ARM Cortex A53;8;2 GHz;64 bits;ARM Mali T860;?
-smartphone;MediaTek;Helio P35;?;?;?;?;?;?;?;?;?;?;1080p;ARM Cortex-A73 , ARM Cortex-A52 , ARM Cortex-A35;4 + 4 + 2;?;?;ARM Mali G71;?
-smartphone;MediaTek;Helio X30;10 nm;?;600 Mbps;100 Mbps;?;?;?;?;?;4K;?;ARM Cortex A73 , ARM Cortex A53;2 + 8;2.5 GHz , 1.9 GHz – 2.2 GHz;?;?;?
-smartphone;Huawei;Kirin 950;?;?;600 Mbps;150 Mbps;?;?;?;?;?;?;?;ARM Cortex-A73 , ARM Cortex A53;4 + 4;?;?;ARM Mali T880;Vulkan , OpenGL ES , Direct X 12
-smartphone;Spreadtrum;SC9861G-IA;?;?;300 Mbps;100 Mbps;?;?;?;26 MP;?;?;1600 x 2560 px , Quad HD;?;8;2 GHz;?;?;?
-smartphone;Xiaomi;Surge S1;?;?;?;?;?;?;?;?;?;?;?;ARM Cortex A53 , ARM Cortex A53;4 + 4;2.2 GHz , 1.4 GHz;?;ARM Mali T860;?
+Web links;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Platform;Name;Description;Keywords;URL
+Android;Putting APK on diet;Tips to reduce heavy APK and have a better hygiene;tuto , APK;http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
+/;Store optimisation;The marketer's guide to app store optimisation by buzinga;tuto;https://drive.google.com/file/d/0B9spdRnukR4EakdPUUxtTUpBME0/view?pli=1
+Android;Multidex;About multidexing and performances;tuto , multidex;https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.dlmgdpq5s
+Android;UI Tips for pre and post Lollipop;;tuto , lollipop , design , material;https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2#.vb6rojwz0
+Android;Implement app invites;;tuto , app invites;http://riggaroo.co.za/app-invites-in-android/
+Android;Android login and signup screens;;tuto , material , login screen;http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
+Android;Reduce your Android build duration;;build , duration;http://blog.octo.com/en/reduce-android-build-duration/
+Android;Data Binding Library: Great UI’s with Less code;;tuto , lib , data binding , vues;https://medium.com/google-developer-experts/data-binding-library-great-ui-s-with-less-code-f2575e0c588e#.xvrqq77qf
+Android;Genymotion, Gradle, Flavors;Stable functional tests with Genymotion Gradle Plugin and test-specific Product Flavors;gradle , flavors , genymotion;https://medium.com/@tomaszrykala/stable-functional-tests-with-genymotion-gradle-plugin-and-test-specific-product-flavors-4fe4b93f7c8c#.d3bwmzi2k
+Android;Make translations for apps;;traduction , i18n;https://medium.com/glucosio-project/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.1wzovrx49
+Android;Quality and performances;Engineering Android apps for Performance & Quality;;https://speakerdeck.com/pareshmayani/engineering-android-apps-for-performance-and-quality
+/;10 conseils pour rendre votre présentation mémorable;;pitch , keynote , présentation;http://2015.shake.events/2015/06/22/10-conseils-pour-rendre-votre-presentation-memorable/
+Design;Introducing Material Deisgn Lite;;material design;https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031#.j3g2wiaz7
+JavaScript;;ES5 to ES6;ES 5 , ES 6 , JS , JavaScript , ECMA SCRIPT;http://es6-features.org/
+Android;Performances;;perfs , optimisation , Android , power , memory , leaks;http://fr.slideshare.net/seamaster29/10-ways-to-improve-your-android-app http://fr.slideshare.net/jerrinsg/android-power-management http://fr.slideshare.net/AliMuzaffar2/android-preventing-common-memory-leaks http://fr.slideshare.net/GlobalLogicUkraine/android-ui-performance-overdraw http://fr.slideshare.net/arslantumbin/performance-optimization-for-android-32797106
+Android;Awesome Android libraries;;material design , libs , UI / UX;https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
+Android;Android Figuren;;Android , goodies , geek;http://www.androidfiguren.de/
+Android;Top 5 Android Testing Frameworks (with Examples);;Robotium , Espresso , UI Automator , Appium , Calabash ;http://testdroid.com/tech/top-5-android-testing-frameworks-with-examples
+Design;Créer un bon logo d'application mobile;;design , logos;http://www.aieaieeye.com/creer-un-bon-logo-dapplication-mobile-pourquoi-comment/
+/;Diaspora*;;;https://diasporafoundation.org/
+Design;Clipingmagic;;png transparent;https://clippingmagic.com/
+Design;Designrope;;;http://designrope.com/design/find-stock-photos-dont-suck/
+Design;JustinMind;;mock up , proto , maquette;http://www.justinmind.com/
+/;5 règles pour réussir son hackathon;;hackathon , conseils;https://dakeez.wordpress.com/2011/11/15/5-regles-pour-reussir-son-hackathon/
+Android;Eliminating Code Overhead;;tutos , code overhead;https://speakerdeck.com/jakewharton/eliminating-code-overhead-square-hq-2015
+Design;Five app prototyping tools compared;;comparaisons , apps maquettes;https://medium.com/sketch-app-sources/five-app-prototyping-tools-compared-form-framer-origami-pixate-proto-io-c2acc9062c61#.6szx9q47g
+Android;Appscreenshotmaker;;screen shots , store;http://appscreenshotmaker.com/
+Android;Build a Material Design App;;material design , tuto;https://codelabs.developers.google.com/codelabs/Material-Design-Style/index.html#0
+Design;Color palette;;couleurs , material design;https://www.google.com/design/spec/style/color.html#color-color-palette
+/;Unicode;;unicode;http://unicode-table.com/en/
+Android;Develop a secured Android app;;;http://blog.octo.com/en/develop-secured-android-application/
+Android;JSON schema to POJO;;json , pojo , java;http://www.jsonschema2pojo.org/
+/;Choose a License;;;http://creativecommons.org/choose/       http://creativecommons.fr/licences/
+/;Git VS SVN;;git , svn;http://stackoverflow.com/questions/871/why-is-git-better-than-subversion     http://www.codeforest.net/git-vs-svn https://help.github.com/articles/what-are-the-differences-between-svn-and-git/
+Android;Libtastic;;;http://www.libtastic.com/
+Android;3 unit tests to avoid bad surprises on Android;;;http://jeremie-martinez.com//2016/02/16/unit-tests/
+Android;Avoiding cold starts on Android;;android , cold start;http://saulmm.github.io/avoding-android-cold-starts
+Android;Make reverse engineering;;android : reverse engineering , dex2jar , jdgui , smali , backsmali;http://oversimple.fr/tag/dex2jar/ https://github.com/pxb1988/dex2jar
+Android;Make an app survive in the Android ocean;;app , vie app , ;http://vourkosa.github.io/monetization/2016/03/17/Making-an-app-survive-in-Android-ocean.html
+Android;Android threads;;threads , intent services , services;http://techtej.blogspot.fr/2011/03/android-thread-constructspart-4.html
+Android;About flip animations;;;http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/?utm_source=g123k
+DevTool;DroidLinguist;A tool that helps you easily translate your killer android apps!;languages , i18n , Android;https://droidlinguist.io/#/home
+Android;Adding badge or count to the navigation drawer;;;https://medium.com/@harivigneshjayapalan/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9#.xnst0zp4v
+Android;Tooleap;;flaoting ui;http://www.tooleap.com/
+Design;How to design native mobile apps ?;;;http://uxhow.com/apps/
+/;Choose a license;;;http://choosealicense.com/licenses/    http://choosealicense.com
+Android;Before publishing;Two things to check before publishing the app;shareUserId , package, app store;https://medium.com/developing-intent/android-developer-important-manifest-checks-8c86064013aa#.b8pdnntb7
+Android;ProGuar;;;http://developer.android.com/tools/help/proguard.html
+Android;Google App Licensing ;;protection , external apk , license;http://developer.android.com/google/play/licensing/index.html
+Android;Awesome Android performance;;;https://github.com/Juude/awesome-android-performance
+Android;Loading DEX cpode over the network;;;http://gilvegliach.it/?id=12
+Android;Fighting application size with ProGuard and beyond;;;http://fr.slideshare.net/GuardSquare/eric-lafortune-fighting-application-size-with-proguard-and-beyond
+Android;How to build a solid base for Matgerial Design App;;material design , case study;https://blog.prototypr.io/how-we-build-a-solid-base-for-a-material-design-app-a-case-study-3c4925d26d8b#.hmp6pabhk
+Android;Optimize battery life with GCM;;Android , battery , GCM;https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+DevTool;Android code convention;;code convention , Android;http://fr.slideshare.net/Shaon_sikdar/android-code-convention    https://source.android.com/source/code-style.html
+Android;Combining Vector Drawables with Day/Night Theme;;;https://medium.com/@hellotimmutton/combining-vector-drawables-with-day-night-theme-3b89e525475#.6hju4wcc4
+DevTool;Mockito;;mocks , TU , mockito , Java;http://blog.soat.fr/2013/07/mockito-ou-comment-faciliter-lecriture-de-tests-unitaires/    https://gojko.net/2009/10/23/mockito-in-six-easy-examples/
+DevTool;PowerMock;;mocks , TU , mockito , PowerMock , Java;http://blog.netapsys.fr/etendez-les-fonctionnalites-de-mockito-grace-a-powermock/    https://github.com/jayway/powermock
+Android;OpenGL 2;;OpenGL 2;https://medium.com/@WoloxEngineering/bootstrap-android-opengl-2-0-9ee1107aa4ab#.rhwmv86g0
+Android;About Bottom Navigation;;bottom navigation;https://medium.com/@lucasurbas/how-to-measure-the-new-bottom-navigation-on-android-2a49cbf76599#.4mgi14cv8
+Android;Automate screenshots for store;;screen shots;https://lambdasoup.com/post/automate_screenshots_1/
+Android;Backup/Restore a Realm database on Google Drive with Drive API;;database , realm , api , google drive;https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.8836vldbz
+Android;SOLID;;solid;https://realm.io/news/donn-felker-solid-part-1/   https://realm.io/news/donn-felker-solid-part-2/   https://realm.io/news/donn-felker-solid-part-3/   https://realm.io/news/donn-felker-solid-part-4/
+/;Learn X in Y;;;https://learnxinyminutes.com/
+Android;Accesibility tests;;accessibility tests;https://robots.thoughtbot.com/accessibility-testing-on-android
+Android;Bottom Sheets;;;http://www.materialdoc.com/bottom-sheets/
+Design;How to build material design prototypes;;sketch , pixate , prototype;http://createdineden.com/blog/post/material-design-prototype-tutorial-part-1/
+Android;Visualize and reduce methods count;;;http://jeroenmols.com/blog/2016/05/06/methodcount/
+Android;Architectures découplées;;RxJava;https://speakerdeck.com/dwursteisen/architecture-decouplee-grace-aux-reactive-extensions
+Android;Abouts tools namespaces;;;http://blog.alexsimo.com/mastering-tools-namespace-android/
+Android;The absolute minimum Android developers need to know;;;https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-1-of-5-cab50bbcf787#.q3qif13fu
+Android;Improve code inspections with annotations;;annotations , code inspection;http://developer.android.com/tools/debugging/annotations.html
+Android;References;;reference , weakreference , softreference;http://cyrilmottier.com/2010/05/27/devenez-le-maitre-des-references-sous-android/
+Android;Instant Run and Android Studio;;;https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.1rj3uv7jw
+Android;MVP and common code modules;;MVP , common code modules;https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.bij04w9z0
+Android;Codelab MVP;;MVP;https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0
+Android;Model View Presenter (MVP);;MVP;http://www.tinmegali.com/en/model-view-presenter-android-part-1/
+Android;Realm, Dagger and MVP;;;http://www.thedroidsonroids.com/blog/android/example-realm-mvp-dagger/
+Android;Android Development Patterns;;;http://android-developers.blogspot.fr/2016/05/designing-for-multi-window.html
+Android;Supporting multiple screens;;Android , resolution , dpi , size , screens;https://developer.android.com/guide/practices/screens_support.html
+Android;System permisions;;normal , dangerous , permisions;https://developer.android.com/guide/topics/security/permissions.html#normal-dangerous
+Android;Nimbledroid;;performance , analysis;https://nimbledroid.com/
+Android;Building responsive UI;;Android , resolution , dpi , size , screens , responsive , UI;https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.6k5j9wcbm
+Android;Android scheduler;;job scheduler , sync adapter , gcm network manager;https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+Android;Device Art Generator;;android , devices , mockups , screenshots , captures , store;https://developer.android.com/distribute/tools/promote/device-art.html
+Android;Constraint Layout;;;https://github.com/hitherejoe/Constraints
+Android;Android transition animations samples;;;https://github.com/lgvalle/Material-Animations
+Android;BottomSheetBehavior and AnchorSheetBehavior;;;https://medium.com/@marxallski/from-bottomsheetbehavior-to-anchorsheetbehavior-262ad7997286#.a1qvo1dqe
+Android;Maintain its custom view;;;http://ivankocijan.xyz/writing-a-maintainable-custom-view-in-android/
+Android;Assets minification for leaner APK;;;https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
+Android;RenderThread;;thread , animations , canvas;https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979#.5vstqpc5s
+Android;Why your canvas shapes are not smooth;;canvas;https://medium.com/@ali.muzaffar/android-why-your-canvas-shapes-arent-smooth-aa2a3f450eb5#.f7396l5bc
+Android;About contraint layouts;;;https://medium.com/@mustafa01ali/android-constraintlayout-friends-1b8299ab4340#.eaf8wgsfj
+Android;Building an Android app using the MVP pattern;;;https://medium.com/android-news/building-an-android-app-using-the-mvp-pattern-model-view-presenter-e38822bcece7#.v8o6rxa35
+Android;Android and crypto;;;https://www.cossacklabs.com/choose-android-crypto.html
+Android;Build a Settings Screen;;;https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-3-ae9793fd31ec#.gvbtrbmo3
+Design;Devices;;Dp , px , density , ratio , width , height;https://design.google.com/devices/
+Android;Launch screen : from a tap to your app;;;http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
+/;Neo Nomade;;Coworking , télécentre , wigwam;https://www.neo-nomade.com/index.php
+/;MIME Types;;;http://www.freeformatter.com/mime-types-list.html
+Android;The curious case of dependency conflicts;;Gradle , conflits , dependences;http://crushingcode.co/the-curious-case-of-dependency-conflicts/
+Android;Identify, treat and avoid memory leaks;;memory , leaks;https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.t8h8smzgm
+Android;Using Bitmap Pools in Android;;bitmap , bitmap pools;https://medium.freecodecamp.com/how-to-use-bitmap-pool-in-android-56c71a55533c#.5phj8qo2m
+Android;Android app performances tips;;performances ;https://medium.com/@amitshekhar/android-app-performance-tips-b2da3396162b#.6zwcjp952
+/;Google : My Activity;Manage its activity through Google's services and products;google;https://myactivity.google.com/myactivity
+/;Google : Maps timeline;;google;https://www.google.com/maps/timeline
+/;Google : Dashboard;;google;https://www.google.com/settings/dashboard?hl=fr
+/;Google : My account;;google;https://myaccount.google.com/?utm_source=OGB
+/;Linux : Tor;;privacy , linux , tor;https://doc.ubuntu-fr.org/tor
+/;Linux : Cryptsetup;;privacy , linux;https://doc.ubuntu-fr.org/cryptsetup
+/;Tor Browser;;privacy , TOR;https://www.torproject.org/projects/torbrowser.html.en
+/;CyanogenMod;;;http://www.cyanogenmod.org/
+/;ArchLinux;;linux;https://archlinux.fr/
+/;Linux Mint;;linux;https://www.linuxmint.com/
+/;Keybase.io;;privacy , identity , public keys;https://keybase.io/
+/;Mailvelope;;privacy;https://www.mailvelope.com/
+/;ProtonMail;;privacy;https://protonmail.com/fr/
+/;Spideroak;;privacy;https://spideroak.com/
+/;Cryptocat;;privacy;https://crypto.cat/
+/;Bleep;;privacy , chat;http://www.bleep.pm/
+/;Epic Privacy Browser;;privacy;https://www.epicbrowser.com/
+Android;Benchmarking on Android;;;http://greenrobot.org/android/benchmarking-on-android/
+Android;Deep Dive Into Android State Restoration;;state , restoration;https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration
+Android;Android dashboards;;Android , fragmentation , versions;https://developer.android.com/about/dashboards/index.html
+Android;Upsight;;marketing , analytics ;http://www.upsight.com
+DevTool;Apteligent;Mobile application performance management;Crittercism , APM , metrics  , Android;https://www.apteligent.com/
+/;Certificate and Public Key Pinning;;certificate;https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning 
+Android;Security with HTTPS and SSL ;;HTTPS , security , SSL;https://developer.android.com/training/articles/security-ssl.html
+Android;Supporting different screen sizes;;layout , sw , aliases , res;https://developer.android.com/training/multiscreen/screensizes.html
+/;GSM Arena;Compare devices;;http://www.gsmarena.com/
+/;Phone Arena ;Compare devices;;http://www.phonearena.com/
+DevTool;Unitag;To build and customize QR codes;QR codes , tag;https://www.unitag.io/fr/qrcode
+Android;How not to become a public enemy;;guidelines , public project , tips;http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
+Design;Programmatically create a ripple drawable of any color;;drawable;http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
+Android;Best Practices with Background Jobs;;background , jobs , tasks , service , data load;https://developer.android.com/training/best-background.html
+Android;Android & Tech Publications;;;https://medium.com/android-news/tagged/android
+Android;Better Android Intents with Dart and Henson;;Dart , Henson , intents;https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b
+/;Big ball of mud and other architectural disasters;;;https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/
+Java;Howdy RxJava;;RxJava , reactive programming;https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.sqfdlgy5d
+Java;Android WebSocket. Feedback, or when every second matters;;websockets;https://stfalcon.com/en/blog/post/android-websocket
+Android;Timing is everything;;interpolation , animations;https://medium.com/google-developers/timing-is-everything-8218b8df5485#.mk0b3s4xr
+Android;Identify performance issues in your Android application;;performances , optimization;http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
+/;Why developers are scared to refactor code ?;;refactoring , TDD;https://medium.com/@nileshjarad/why-developers-scared-to-refactor-code-47efd1b854e7#.w15pydp4f
+Kotlin;Why Kotlin is my next programming langage;;Kotlin , Java;https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.ttk52j1bf
+Kotlin;Comparison to Scala;;Kotlin , Scala;https://kotlinlang.org/docs/reference/comparison-to-scala.html
+Kotlin;Comparison to Java;;Kotlin , Java;https://kotlinlang.org/docs/reference/comparison-to-java.html
+DevTool;Can I use;;web , API , features;http://caniuse.com/
+Web;What web can do today;;web , API , features;https://whatwebcando.today/
+JavaScript;JS Republic;;JavaScript;http://blog.js-republic.com/
+/;Getting the most out of Crashlytics;;Crashlytics;https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.rfdhba71n
+/;Code smells;;code , smells;https://blog.codinghorror.com/code-smells/
+Web;UNCSS;;CSS , uncss;http://blog.js-republic.com/avec-uncss-mettez-au-regime-vos-feuilles-de-styles/
+Web;Normalize CSS;To normalize CSS and their effects in browsers;normalize , css;https://necolas.github.io/normalize.css/
+Web;Skeleton CSS;;skeleton , css;http://getskeleton.com/
+Web;Animate CSS;;animations , css;https://daneden.github.io/animate.css/
+JavaScript;Nightwatch.js;Browser automated testing done easy;Nightwatch , js , test;http://blog.js-republic.com/introduction-a-nightwatch-tests-dacceptance-ultra-rapides/    http://nightwatchjs.org/
+/;TIOBE;;programming langages , rank;http://www.tiobe.com/tiobe-index/
+/;PYPL;;programming langages , rank;http://pypl.github.io/PYPL.html
+Android;How to do TDD in Android ?;;TDD , tests;https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.kjz090ndl
+Android;Better Android software development : MVVM with RxJava;;MVVM , RxJava;https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava
+/;MVP vs MVP vs MVVM;;;https://nirajrules.wordpress.com/2009/07/18/mvc-vs-mvp-vs-mvvm/
+/;Difference between MVC, MVP and MVVM;;MVC , MVP , MVVM;https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe
+/;Why you should care about copyright;;copyright;http://jeroenmols.com/blog/2016/08/03/copyright/
+Android;Awareness API;;awareness API;https://developers.google.com/awareness/
+/;Device Specifications;;devices , specs , hardware , comparison;http://www.devicespecifications.com/en
+/;Duo Skin;;tatoo , duo skin , transhumanism;http://duoskin.media.mit.edu/
+/;Flutter;Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android.;UI , interfaces , x-platform , Android , iOS;https://flutter.io/
+Design;Justinmind;;prototyping;http://www.justinmind.com/
+Android;Display resolutions;;resolution;https://en.wikipedia.org/wiki/Graphics_display_resolution
+Android;Code style;;guidelines;https://source.android.com/source/code-style.html
+/;Buffer app guidelines;;guidelines;https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md
+Android;Packtpub;Packt publishing;books , ebooks;https://www.packtpub.com/
+Android;26 Awesome Android Reverse Engineering Tools;;RI , reverse engineering , tools;https://hackerlists.com/android-reverse-engineering-tools/
+Android;Dare;Dalvik Retargeting;RI , reverse engineering , tools;http://siis.cse.psu.edu/dare/index.html
+Android;Dedexer;Disassembler tool for DEX files;RI , reverse engineering , tools;http://dedexer.sourceforge.net/
+Android;Intent Sniffer;;RI , reverse engineering , tools;https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/
+Java;CFR;Another Java decompiler;RI , reverse engineering , tools;http://www.benf.org/other/cfr/
+/;JAD;Java Decompiler;RI , reverse engineering , tools;http://varaneckas.com/jad/
+Kotlin;Software development explained with cars;;;https://toggl.com/developer-methods-infographic
+Android;Learn Kotlin while developing an Android app;;Kotlin , tutorials;https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.4izg7j9n9
+Android;Feature discovery;;tap targets , prompts , step actions;https://material.google.com/growth-communications/feature-discovery.html#
+Web;Pathmorphing with AnimatedVectorDrawables in Android;;drawables , pathmorphing , animations;https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
+/;Progressive Web Apps;;progressive web app , pwa;https://developers.google.com/web/progressive-web-apps/
+/;Ecrans AMOLED vs IPS : qui offre la meilleure qualité d'afichage ?;;AMOLED , IPS;http://www.phonandroid.com/ecrans-amoled-vs-ips-qui-offre-meilleure-qualite-affichage.html
+Web;Toutes les différences entre un écran LCD, TFT, IPS, AMOLED et Retina;;LCD , TFT , IPS , AMOLED , Retina;http://www.androidpit.fr/difference-lcd-tft-amoled-retina
+Android;Progressive Web Apps rocks;;progressive web apps , pwa;https://pwa.rocks/
+Android;Les éditeurs d'antivirus Android, leurs mensonges et leurs secrets;Article with references to tools or companies about security;security;http://www.zdnet.fr/actualites/les-editeurs-d-antivirus-android-leurs-mensonges-et-leurs-secrets-39769784.htm
+Kotlin;Lessons from converting an app to 100% Kotlin;;Kotlin , app convert;https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.3rmy7agwo
+/;Escaping The Sandbox By Not Breaking It;;Android , iOS , sandbox;https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it
+/;Learn Git with Bitbucket Cloud;;Git , tutorial;https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+/;Qualcomm Processors Comparison;;devices , specs , hardware , comparison , snapdragon;https://www.qualcomm.com/products/snapdragon/processors/comparison
+Android;Android Foundry;;Android , goodies , geek;http://android-foundry.com/
+/;Hype pulse;;Android , goodies , geek;http://www.hypepulse.com/
+/;PC Mark;Complete performance testing;devices , tests , hardware;https://www.futuremark.com/benchmarks/pcmark
+Kotlin;GameBench;A suite of performance analysis tools for Android and iOS devices;devices , tests , hardware;https://www.gamebench.net/
+Android;Kotlin : The Good, The Bad, The Ugly;;Kotlin , how to;https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.nbl0pt294
+Design;And then my phone became smarter – A journey into the Awareness API;;API Awareness;https://speakerdeck.com/francois_blavoet/and-then-my-phone-became-smarter-a-journey-into-the-awareness-api
+Android;Dreamstime;;pictures , photos, free;https://fr.dreamstime.com/
+Android;Android versions comparisons;;Android , versions , Apple Pie , Banana Bread , Cupcake , Donut , Eclair, Froyo , Gingerbread , Honeycomb , Ice Cream Sandwich , Jelly Bean , Kit Kat , Lollipop , Marshmallow , Nougat;http://socialcompare.com/fr/comparison/android-versions-comparison
+Android;Stop ignoring Android Lint, use it;;Lint;https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8#.91gmqdksr
+/;Devknox;Androdi Studio plugin that helps developers to detect and resolve security issues;security , app;https://devknox.io/documentation
+/;List of programming langages by type;;langages , types , paradigms;https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+Android;Programming paradigm;;langages , types , paradigms;https://en.wikipedia.org/wiki/Programming_paradigm
+Kotlin;Reducing Mobile Data Usage in your Apps;;mobile data;https://www.youtube.com/watch?v=tnj2uoTwevg
+Android;Kotlin reference;;Kotlin , lessons , basics;https://kotlinlang.org/docs/reference/
+Android;Android Tips and Tricks;;tips , IDE , code , dev , cheats;https://github.com/nisrulz/android-tips-tricks
+Android;RenderScript;RenderScript is a framework for running computationally intensive tasks at high performance on Android. ;intensive tasks , performances , data-parallel computation;https://developer.android.com/guide/topics/renderscript/compute.html
+Swift;NDK;The Android NDK is a toolset that lets you implement parts of your app using native-code languages such as C and C++.;NDK;https://developer.android.com/ndk/index.html
+Kotlin;Advanced ObjC <-> Swift Interoperability;;ObC , Swift , interoperability;https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/
+Kotlin;K for Kotlin;;Kotlin;https://speakerdeck.com/marcpoppleton/k-for-kotlin
+Web;Kotlin awesome tricks for Android;;Kotlin , tricks;http://antonioleiva.com/kotlin-awesome-tricks-for-android/
+Java;Physical Web URL validatator;;physical web , URL;https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/
+/;Getters and setters are evil;;getter , setter , spaghetti , POO , OO;http://www.marcus-biel.com/getters-and-setters-are-evil/?utm_content=buffer27e5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Go;Anemic Domain Model;;OO , pattern , conception , layers;http://www.martinfowler.com/bliki/AnemicDomainModel.html
+Go;The Go Blog;;Go;https://blog.golang.org/
+Go;iOS and Android Programming with Go;;Go , Android , iOS;https://www.sitepoint.com/ios-and-android-programming-with-go/
+Android;Github Wiki Go;;Go;https://github.com/golang/go/wiki/Mobile
+Scala;Android Heap Allocation zero-to-one;;Android , heap , allocation , memory;https://medium.com/@huynhquangthao/android-heap-allocation-zero-to-one-a986b61f66b6#.hatke64i7
+Scala;Scala;;Scala;http://www.scala-lang.org/
+Design;Scala on Android;;Scala , Android;http://macroid.github.io/ScalaOnAndroid.html
+Groovy;Lorem pixel;Placeholder images;images , lorem ipsum;http://lorempixel.com/
+Groovy;Groovy;;Groovy;http://www.groovy-lang.org/
+Groovy;Android on Groovy;;Groovy , Android;http://fr.slideshare.net/sascha_klein/android-on-groovygr8-48989809
+Android;Developping Android applications with Groovy ?;;Groovy , Android;https://speakerdeck.com/player/e8e58fc0cdee0131f20616308848c4b8#
+/;Herethings about dark themes and battery savings;;AMOLED , battery , screen , wallpapers , themes;http://www.androidcentral.com/heres-thing-about-dark-themes-and-battery-savings
+Android;Project blocks;;Google , blocks;https://projectbloks.withgoogle.com/
+Design;UI Updates in a Multi-Windows World;;UI , multi windows;https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
+Android;Fontawesome;;fonts;http://fontawesome.io/
+Android;Eight ways your Android app can stop leaking memory;;memory , leaks;http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
+/;Eight ways your Android app can leak memory;;memory , leaks;http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
+Android;Oh shit, git !;Tips to know to use git and fix some errors;Git , tips;http://ohshitgit.com/
+Android;Sort SortedList by different criterua;;list , sorted lists;https://medium.com/@nullthemall/sort-sortedlist-by-different-criteria-812003ba6f1#.se6jkr3m8
+Android;Firebase Analytics VS Google Analytics;;Firebase , analytics , stats , reports;https://medium.com/google-developer-experts/firebase-analytics-vs-google-analytics-b2010f34d2bb#.g1it8ejcx
+Android;Firebase Crash reporting vs Crashlytics;;Firebase , Crashlytics , crash , reports;https://medium.com/google-developer-experts/firebase-crash-reporting-vs-crashlytics-a6c287c4b792#.bo0dqi2es
+Android;Implementing a modal selection helper for RecyclerView;;Recycler view , helper;https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9#.dl6wvqatu
+Android;Build and Run Android from AOSP Source Code to a Nexus 7;;AOSP , build;https://stanfy.com/blog/build-and-run-android-from-aosp-source-code-to-a-nexus-7/
+Design;Processes and Threads , Activitys, Threads and Memory leaks;;activity , threads , process , task , memory , leak;https://developer.android.com/guide/components/processes-and-threads.html    http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html
+Android;Freesound;;sound;http://freesound.org/
+/;Update Dependencies. Code. Repeat.;;Gradle;http://crushingcode.co/update-dependencies-code-repeat/
+Android;Crushing C.O.D.E;;dev;http://crushingcode.co/
+Android;Support Library for Transitions. Overview and comparison with Transitions-Everywhere;;support library , transitions;https://medium.com/@andkulikov/support-library-for-transitions-overview-and-comparison-c41be713cf8c#.kvaqpbrb3
+Android;ViewPager cards inspired by Duolingo;;viewpager , cards , animations;http://www.jayrambhia.com/blog/android-viewpager-cards-1
+Android;Exploring Android;Deep dives and how to's for the latest Android platform features;Android , howto;https://medium.com/exploring-android
+Android;Reasons Not tTo Use Firebase;;Firebase , real-tim;https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/
+Android;Is yout custom view interactive aware ?;;custom view , interaction , screen;https://renaudcerrato.github.io/2016/09/15/is-your-custom-view-interactive-aware/
+Android;Realm – It's all about the choices we make;;Realm , database , data storage;https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8#.2a3i48yfi
+Android;ThirtyInch – a new MVP library for Android;;ThirtyInch , MVP;https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.npwnk7pwf
+Android;Tips and Tricks for Building High-Performance Android Apps using Native Code;;native code , performances , JNI , C++ , C;http://fr.slideshare.net/geisshirt/tips-and-tricks-for-building-high-performance-android-apps-using-native-code
+Android;Android Services – Tutorial;;process , threads , services ,  tutorial;http://www.vogella.com/tutorials/AndroidServices/article.html
+Android;Annotation Processing in Android Studio;;annotation , Android Studio;https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.xkv7myxms
+Android;Custom Android Builds: Tools and Techniques for Manual and Automated Tests;;"manual tests , automated tests , hardware tests , softwares tests ; AnTuTu , Z6Device , Sensor Box , Geekbench3 , ";https://stanfy.com/blog/testing-of-android-custom-firmware/
+Android;Bound Services;;process , threads , Messenger , Ibinder , bound services , IPC;https://developer.android.com/guide/components/bound-services.html
+Android;A journey on the Android Main Thread – PSVM;;process , threads , Looper , Handler , Message;https://medium.com/square-corner-blog/a-journey-on-the-android-main-thread-psvm-55b2238ace2b#.2x8jgq5w6
+Android;Going multiprocess on Android;;process , threads , memory;https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c#.p6llxosbf
+Android;8 ways to do asynchronous processing in Android;;process , Threads , AsyncTasks , Jobs , Scheduler , Handlers;https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e#.paypysdzk
+Android; An Overview Of Android Application Sandbox Mechanism ;;sandbox;http://pierrchen.blogspot.fr/2016/09/an-walk-through-of-android-uidgid-based.html
+/;Avoid bugs with Android's Lint;;Lint;https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.lajt8ts2c
+Android;Degooglisons / Degooglify;;privacy;https://degooglisons-internet.org/liste/
+/;Diggin into Android System Services;;services;https://speakerdeck.com/devunwired/digging-into-android-system-services
+Android;Object Oriented Programming vs. Functional Programming;;OOP , FP;http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming
+Android;Learning Android Gestures;;gestures;https://stfalcon.com/en/blog/post/learning-android-gestures
+Android;Create a Matrix Effect on Android;;Matrix , effect , animations;http://www.ssaurel.com/blog/create-a-matrix-effect-on-android/
+Android;Ingredients for a foolproof CI for Android projects;;DevOps , CI , tools;https://blog.devdroids.com/ingredients-for-a-foolproof-ci-for-android-projects-9f34ec36fcc8#.w1cb7r71s
+Android;Lint;Avoid bugs with Android’s Lint;DevOps , CI , tools , Lint , code , optimization;https://blog.devdroids.com/avoid-bugs-with-androids-lint-87d8804ddf55#.vqokh9ghn
+/;About TDD and BDD;Test-Driven-Development and Behaviour-Driven-Development;TDD , BDD , tests;https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/    http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/
+/;Immersion dans la tête d'un développeur;;article , dev;https://shirleyalmosni.wordpress.com/2016/10/08/immersion-dans-la-tete-dun-developpeur/
+Android;Développeurs, apprendre est notre métier;;article , dev;https://medium.jechercheundev.fr/d%C3%A9veloppeurs-apprendre-est-notre-m%C3%A9tier-42b32a52807e#.27l3rp9ax
+Android;Android leak pattern: subscriptions in views;;memory , leaks;https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.cdbv38by2
+Android;Designing the schema of Realm effectively, and other Realm tips;;Realm , database , data storage;https://medium.com/@Zhuinden/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072#.v9vgwiha1
+/;"
+A la découverte de Direct Boot : une des fonctionnalités d'Android 7.0 (Nougat) !";;Direct Boot , boot;https://www.edouard-marquez.me/blog/android-direct-boot
+/;A Crash Course in UX Design Research;;UX , design;https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82#.o968lt80z
+/;How to run a team of people who never see each other;;team;http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/
+/;Designing settings;;design , settings , preferences , UI , UX;https://medium.com/@imran_parvez/designing-settings-b2a96878961b#.4kvkqwcml
+/; How to perfect your UX with persona scenarios ;;UX , design;http://www.webdesignerdepot.com/2015/04/how-to-perfect-your-ux-with-persona-scenarios/
+/;Dark Side of UI. Benefits of Dark Background;;;https://uxplanet.org/dark-side-of-ui-benefits-of-dark-background-12f560bf7165#.hr59bk8cj
+/;Norse;;security , Internet , networks , attacks , lulz;http://www.norse-corp.com/
+Android;We Are Data;;Watchdogs , networks , lulz;http://wearedata.watchdogs.com/
+Android;Exploring the Android Design Support Library : Bottom Navigation View;;bottom navigation view;https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.8fmgial7m     https://medium.com/@nullthemall/bottomnavigationview-missing-pearls-eaa950f9ad4e#.r4b416ehi
+Android;Android Wear – Design + Code;;Android Wear , view , UI , UX;https://medium.com/@nelmerrosario/android-wear-design-code-2-eb2899d12342#.bslas92nv
+Android;Proguard files : a cautinary tale;;Proguard , security;http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html
+/;Gradle Helpers;;Gradle;https://github.com/brunodles/GradleHelpers
+/;Tout ce qu'il faut savoir sur les SoC et processeurs mobiles;;SoC , CPU , GPU , chips , hardware;http://www.frandroid.com/dossiers/383586_tout-ce-quil-faut-savoir-sur-les-soc-et-processeurs-mobiles
+/;The full stack developer is a myth;;fullstack , dev;https://medium.com/swlh/the-full-stack-developer-is-a-myth-4e3fb9c25867#.xce5piwl8
+Android;Android N shortcuts;;UI , shortcuts , deep link;https://catinean.com/2016/10/20/exploring-android-nougat-7-1-app-shortcuts/
+Android;Bye, Bye Burger !;About material design, bottom navigation and the old burger menu;UI , navigation , bottom , burger , material;https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.nrzxqnbha
+Design;Bash your way to better Android Development;;bash , shell , adb , android , dev;https://medium.com/@jonfhancock/bash-your-way-to-better-android-development-1169bc3e0424#.k8u0c2wfy
+Design;Material.io;;material design;https://material.io/
+Android;Material.io devices;;material design , devices , specs;https://material.io/devices/
+Android;Annotations to support your contracts;;annotations , contracts;https://tips.seebrock3r.me/annotations-to-support-your-contracts-609ff259d5df#.hs1ynkyyo
+Android;Better Control Flow Analysis with Contract Annotations;;annotations , contracts;https://blog.jetbrains.com/idea/2013/10/better-control-flow-analysis-with-contract-annotations-and-intellij-idea-13/
+Android;Android MVP without RxJava or Dagger;;MVP , RxJava;https://blog.joaquimley.com/avenging-android-mvp-23461aebe9b5#.j8f437rcg
+Android;RxJava: Android MVVM App structure with Retrofit;;MVVM , RxJava , Retrofit;https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.b6ujozma8
+Web;Do you like to ADB?;;ADB , Android Studio;http://crushingcode.co/do-you-like-to-adb/
+Design;Pokedex.org;An open source and free  progress web app;progressive web app , pwa , html5 , css3;https://github.com/nolanlawson/pokedex.org
+Java;Developing for Android vs iOS navigation patterns;;UI , Android , iOS , navigation , patterns;https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c#.k5jfewsa8
+Android;"
+Developing Reactive applications with Reactive Streams and Java 8";;reactive , Java;https://speakerdeck.com/sdeleuze/developing-reactive-applications-with-reactive-streams-and-java-8
+Design;"
+DevOps sur Android : from one git push to a Play Store release";;DevOps , CI , tools;https://speakerdeck.com/jeremiemartinez/devops-sur-android-from-one-git-push-to-a-play-store-release
+Web;Flexbox;;flexbox;https://speakerdeck.com/goetter/flexbox-place-a-la-gueule-de-bois
+/;A journey from Interactive to Reactive;;reactive;http://blog.thomasbelin.fr/talks/reactive-programming/#1
+Design;Tree-Shaking;;quality;http://blog.vincentogloblinsky.com/devfest-2016-tree-shaking-slides/#/
+/;Google Design Sprint;;design , conception , sprint;http://www.slideshare.net/Matt_Gio/design-sprint-devfest-nantes-2016
+Design;"Continuous Deployment with Spinnaker
+";;continuous deeployment , Spinnaker , DevOps , quality;https://docs.google.com/presentation/d/1x4Z61vRWkWEbYLsWjcHIylHLHRlajLmPTdMCJi_Tyhg/edit#slide=id.g17d09711c0_2_80
+Android;Angular 2 et les standards du Web;;Angular 2 , standards;https://speakerdeck.com/gillespie59/angular2-et-les-standards-du-web
+Web;La boîte à outils du développeur Android en 2016;;yools , libs , dev;http://fr.slideshare.net/Nilhcem/the-2016-android-developer-toolbox-nantes
+Android; De la réalité virtuelle dans nos navigateurs, en route vers le Metaverse;;WebVR , VR;https://speakerdeck.com/olivierguillet/devfest-nantes-2016-de-la-realite-virtuelle-dans-nos-navigateurs-en-route-vers-le-metaverse
+Web;Finally understanding how references work in Android and Java;;Android , Java , references , performances;https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.fsjokaizd
+Web;Progressive Web Apps;;pwa;https://developers.google.com/web/progressive-web-apps/
+Web;Que sont les Progressive Web Apps ?;;pwa;https://frank.taillandier.me/2016/06/28/que-sont-les-progressive-web-apps/
+Web;A selection of PWA;;pwa;https://pwa.rocks/
+Web;A Beginner’s Guide To Progressive Web Apps;;pwa;https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/
+Design;What are Progressive Web Apps?;;Ionic , pwa;http://blog.ionic.io/what-is-a-progressive-web-app/
+Design;Vector Open Stock;Free vector graphics;UI , vector , graphics;https://www.vectoropenstock.com/
+Web;Icons As Part Of A Great User Experience;;UI , icons;https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/
+Design;Carousels Don’t Have to be Complicated;;UI , views , carousels;http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
+Design;The Ideal Design Workflow;;UI , UX , design;https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.5pp60aud1
+Design;16 Prototyping Tools & How Each Can Be Used;;UI , design , prototypes;https://blog.prototypr.io/14-prototyping-tools-how-each-can-be-used-1c804fab33a6#.rz7uv89tp
+/;Designing for Colour Blindness;;UI , UX , design;https://blog.prototypr.io/designing-for-colour-blindness-b74a9d012ef2#.9av9iflbr
+Web;A journey from Interactive to Reactive;;reactive;http://blog.thomasbelin.fr/talks/reactive-programming/#1
+Design;Optimizer votre webapp;;web , optimisation , performances;https://speakerdeck.com/javamind/optimisez-votre-webapp
+/;Accessibilité, par où commencer ?;;accessibility , UI , UX;http://devfest2016-accessibilite.juliemoynat.fr/#/
+Java;Haskell for the noobs;;Haskell;https://ptitfred.github.io/haskell-for-the-noobs/
+/;Finally understanding how references work in Android and Java;;References , pointers , Java , Android;https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.w13p1mwi4
+Android;RxJava 2: Android MVVM Lifecycle App Structure with Retrofit 2;;RxJava 2 , MVVM , Retrofit 2;https://medium.com/@manuelvicnt/rxjava2-android-mvvm-lifecycle-app-structure-with-retrofit-2-cf903849f49e#.nuubl2vlg
+Design;Floating button for disabled people;Your User Can’t Click Your Floating Action Button And you can fix it in one line ;floating action button , UI , UX;http://collectiveidea.com/blog/archives/2016/10/10/your-user-cant-click-your-floating-action-button
+/;NVIDIA;;hardware , GPU , graphics cards;http://www.nvidia.fr/page/home.html
+/;Notebookcheck.net;Computer Games on Laptop Graphic Cards;hardware , GPU , graphics cards;http://www.notebookcheck.net/Computer-Games-on-Laptop-Graphics-Cards.13849.0.html
+Design;Bien comprendre la différence entre définition et résolution d’un écran ;;design , px , ppp , ppi , screen;http://www.frandroid.com/comment-faire/comment-fonctionne-la-technologie/342762_difference-entre-definition-resolution
+Design;DPI / PPI Calculator;;design , px , ppp , ppi , dpi , screen;https://www.sven.de/dpi/
+Design;How to create Snapchat-like stickers for Android;;Android , Snapchat , stickers , UI;https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.xro7aupgm
+Android;Making the most of the APK analyzer;;APK , DEX , analyzer;https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2#.kqu2byr5b
+Android;Organize your analytics code;;analytics;https://medium.com/@Actine/organize-your-analytics-code-be9e5ff91543
+Android;Machine Learning & Mobile Vision API : Face Detection;;Movile Vision , Face Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.g0s0m9r6b
+Android;Machine Learning & Mobile Vision API : Barcode Detection;;Mobile Vision , Barcode Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-2-barcode-detection-61e84c858518#.uwfsz1e2h
+Android;Machine Learning & Mobile Vision API : Text Detection;;Mobile Vision , Text Detection;https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-3-text-detection-20ba34d0d356#.x7ylgggwo
+Android;Android Application Architecture;Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava.;MVP , RXJava , architecture;https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.3oq2l4buk
+Android;Android Clean Architecture;A detailed guide on developing Android apps using the Clean Architecture pattern;Clean Architecture;https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.yt4r13fzi
+/;SoC Specout;;devices , specs , hardware , comparison , SoC;http://system-on-a-chip.specout.com
+Android;Making PNG optimization part of your app's diet;;PNG , app , diet;https://medium.com/picnic-engineering/making-png-optimization-part-of-your-apps-diet-47fb04e8a0c#.xo5y2tuw6
+Android;Effective Java for Android;;Java , Android , guidlines , best practices;https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.io6c1i6se
+Android;How I Organize Android project structure;;project , structure , good practices;https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30#.6u9tm6azp
+Web;Instant Loading Web Apps with an Application Shell Architecture;;App shell , architecture , pwa;https://developers.google.com/web/updates/2015/11/app-shell
+Web; Your First Progressive Web App ;;codelab , pwa;https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+Android;Your presenters don't need all those lifecycle events;;MVP , presenter;https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.66anrlwf7
+Android;Product Flavors for Android Library;;Gradle , product flavors;https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.5sbf9e26q
+Android;MovieGuide;;MVP , RxJava , Dagger 2 , Clean Architecture , sample;https://github.com/esoxjem/MovieGuide
+Android;Custom Transitions in Android;;UI , transitions;https://medium.com/@belokon.roman/custom-transitions-in-android-f8949870bd63#.oreiy0hi3
+Design;Icon handbook;;UI , icons , Android , pixels , sizes , dpi;http://iconhandbook.co.uk/reference/chart/android/
+Design;Designing for Seamlessness;;Android , design , seamlessess;https://developer.android.com/guide/practices/seamlessness.html
+/;Why Native Apps Really are Doomed;;medium;https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.mxxj0w6n3
+/;Why Native Apps Really aren't doomed;;medium;https://www.novoda.com/blog/native-apps-are-not-dead/
+Android;Create Chat Heads Like Facebook Messenger;;UI , view , chat heats , Facebook Messenger , medium;https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.iqhl07557
+Design;Material UI;;UI , material , design , UX;http://www.material-ui.com
+/;Android version distribution history visualization: 2012-2016;;Android , versions , Apple Pie , Banana Bread , Cupcake , Donut , Eclair, Froyo , Gingerbread , Honeycomb , Ice Cream Sandwich , Jelly Bean , Kit Kat , Lollipop , Marshmallow , Nougat;http://blog.davidecoppola.com/2016/12/android-version-distribution-history-visualization-2012-2016/
+Android;Reduce the size of your APK bullet point;;APK , size , proguard , Redex , code , dex;https://medium.com/@jacquesgiraudel/reduce-the-size-of-your-apk-bullet-point-419997e28344#.442e8b62i
+Web;HTML5 Test; how well does your browser support HTML5?;HTML5 , test , browser;https://html5test.com/
+Design;Add Colors To Your Palette With Color Mixing;;UI , UX , colors;https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing
+Design;From Darkness to Light: Color Versatility Using Tints, Tones, and Shades;;UI , UX , colors , dark , light;https://www.viget.com/articles/tints-tones-shades
+Design;Color Contrast for Better Readability;;UI , UX , colors , contrast , readbility;https://www.viget.com/articles/color-contrast
+Design;Shades of Gray — Yes, Really;;UI , UX , colors , shades of gray;https://www.viget.com/articles/shades-of-gray-yes-really
+Android;Draw a custom view;;UI , view , custom view;https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.qsksyd5ef
+Android;How To Make Your Android Application Secured;;Android , app , security , HTTPS , OkHttp , Retrofit , Intents , Cipher , preferences , root;https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7
+/;AsteroidOS;;wearables , AsteroidOS , OS;https://asteroidos.org/
+/;Lineage Android Distribution;;Lineageos , OS , CyanogenMod;https://github.com/LineageOS
+Android;Android Wear;;Android Wear , wearables , OS;https://www.android.com/intl/fr_fr/wear/
+Android;CyanogenMod;;Cyanogen , OS;https://www.cyanogenmod.org/
+Android;Keep your device screen in smartly;;UI , UX , screen on , vision;https://medium.com/@kevalpatel2106/keep-your-device-screen-on-smartly-7081b692c09e
+Android;On properly using volatile and synchronized;;Java , synchronized , volatile , threads;https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.9s817tkqy
+Android;Offline App Architecture;;app deisgn , pattern , architecture , offline;https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8
+Android;No more value classes boilerplate — The power of AutoValue.;;Autovalue , binding , default values;https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.paufrp7di
+Android;Writing custom lint rules and integrating them with Android Studio inspections;;Lint , rules , Android Studio;https://medium.com/@mosesJay/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.muy6xnpyc
+Android;Android Things;;Android , IoT , Things;https://developer.android.com/things/index.html
+Android;Weave;;Android , IoT , Weave;https://developers.google.com/weave/
+Design;You’re a strong, beautiful user and you deserve more;;IFTTT , conception , design;https://medium.com/tradecraft-traction/youre-a-strong-beautiful-user-and-you-deserve-more-60a27c8cc81d#.rwy1a0vjw
+Design;Use peak-end rule to improve customer experience;;UX , conception , design;https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wj6q9p84d
+Design;Getting started with UI motion design;;UI , UX , design , motion , conception;https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801#.xf2vm2g0t
+Design;The Current State of Adaptive Design;;adaptive design;https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4#.e0jh8vnmk
+Design;Designing for Hands in VR;;VR , design , hands;https://medium.com/facebook-design/designing-for-hands-in-vr-61e6815add99#.9r0uoqs02
+/;Perfectionism Ruined my Productivity;;perfectionism , productivity;http://www.vanschneider.com/perfectionism-is-killing-your-creativity/
+JavaScript;Comparison Shopping: Searching for Javascript Engines for Android;;JavaScript , JS engines , Android , comparison;https://medium.com/tech-quizlet/comparison-shopping-searching-for-javascript-engines-for-android-bdc656538f2e#.v79hzqehs
+Android;LintInspections.json;;Lint , inspections;https://gist.github.com/Kurry/3aafa89dd4d87099ef7e
+Android;About clean architecture pattern;A detailed guide on developing Android apps using the Clean Architecture pattern;Clean , architecture;https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.5qip6rtjt
+Android;Stress-testing Android apps;;tests , stress;https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.i4xsef3uo
+Web;Netmarketshare;Market Share Statistics for Internet Technologies;stats , reports , web browsers;http://www.netmarketshare.com/
+/;AAWP;All About Windows Phone;Windows Phone;http://allaboutwindowsphone.com/
+/;Google Interview University;;tips , knowledges , dev;https://github.com/jwasham/google-interview-university
+/;Five Reasons Your Boss Was Right To Shut Down Your Innovation Lab;;innovation , lav , R&D , creativity , failures;http://www.forbes.com/sites/tendayiviki/2016/09/04/five-reasons-your-boss-was-right-to-close-your-innovation-lab/#341a53c94f5b
+Web;How HTTP/2 Is Changing Web Performance Best Practices;;HTTP , HTTP2 , web , performances;https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
+Android;How we Misuse Mocks for Android Tests;;mocks , tests;http://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/
+/;Have fun with machine learning ; An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks;machine learning , neural network;https://github.com/humphd/have-fun-with-machine-learning
+Android;MVP RxAndroid Sample; A sample to showcase MVP pattern with RX-Android, Retrofit 2.0 ;Android , Retrofit , MVP , Rx , showcase , tuto;https://github.com/ahmedeltaher/MVP-RX-Android-Sample?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4975
+Android;Understanding the Android bytecode;;Dalvik , JVM , bytecode , DEX , Smali;http://mariokmk.github.io/programming/2015/03/06/learning-android-bytecode.html
+Android;android cracking;Tools and techniques for android reversing. Eeducational purposes only!;Android , hack;http://androidcracking.blogspot.fr/
+Android;Dalvik opcodes;;Dalvik , bytecode , opcodes;http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
+Android;Understanding the Dalvik bytecode with the Dedexer tool;;Dalvik , bytecode , Dedexer;http://www.slideshare.net/paller/understanding-the-dalvik-bytecode-with-the-dedexer-tool
+Java;Jasmin;;Java , assembler , JVM;http://jasmin.sourceforge.net/
+Android;Dalvik bytecode;;Dalvik , Java , bytecode;https://source.android.com/devices/tech/dalvik/dalvik-bytecode.html
+Android;Reverse Engineering Android: Disassembling Hello World;;tuto , dex ,  RI , hack;https://apkudo.com/?p=775
+Android;How to Decompile and Recompile a Jar;;tuto , dex ,  RI , hack , jar , Android;http://adrynalyne-teachtofish.blogspot.fr/2011/11/how-to-decompile-and-recompile-jar.html
+Android;How to decompile Android APK files and look into source code;;tuto , dex ,  RI , hack , jar , Android;http://e-spartans.com/2016/02/19/decompile-apk-files/
+Android;Android Compatibility Definition Document;;Android , requirements , constructors;https://source.android.com/compatibility/cdd.html
+Android;Get started with Android Things today!;;Android Things , Android , Raspberry , RaspberryPi , tuto;https://www.androidthings.rocks/2017/01/03/get-started-with-android-things-today/
+Android;AppFollow — helps to be aware of app activities in Google Play;;Google Play , App Store , monitor , review , store , tracking;https://android.jlelse.eu/appfollow-helps-to-be-aware-of-app-activities-in-google-play-494fcbea02ae#.lmg64kl89
+Design;How To Communicate Hidden Gestures in Mobile App;;UI , UX , gestures;https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b#.8ch39kggr
+Android;Modern Android – How to ditch Activities & Fragments;;UI , Activity , Fragment , single activity , one page;https://realm.io/news/sf-fabien-davos-modern-android-ditching-activities-fragments/
+Android;Android Things Basics: Obstacle avoidance sensor with LED feedback;;Android Things , Android , Raspberry , RaspberryPi , tuto;https://hackernoon.com/android-things-basics-obstacle-avoidance-sensor-with-led-feedback-9127e13f2e76#.br6b3dz9e
+Android;A useful memory debugger plugin for Android Studio;;Android Studio , plugin , memory , debugger;https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.ig2d0btgm
+Android;How we Misuse Mocks for Android Tests;;Android , mocks;https://www.philosophicalhacker.com/post/how-we-misuse-mocks-for-android-tests/
+Android;Why I Don't use Robolectric;Poublication about the defects Robolectric can have and what we have to be aware of;Android , mocks , Robolectric , cons;https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/
+/;Commits.io;Create a poster entirely from your code;posters , fun;https://commits.io/
+/;Clean tests, Part 1: Naming;;tests , unit tests;https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.2j754f7yb
+/;Clean tests, Part 2: Comments;;tests , unit tests;https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.urrtax8em
+/;15 tips to improve your unit tests;;tests , unit tests;http://www.slideshare.net/dpreussler/15-tips-to-improve-your-unit-tests-droidcon-berlin-2016-barcamp
+/;Dead Zebra;;Android , goodies , geek;http://shop.deadzebra.com/
+/;Firmata;;IoT , Arduino , microcontroler;http://www.firmata.org/wiki/Main_Page
+Design;Let the Action Buttons in the Dialog Box Scream its Outcome;;UI , UX , Dialogs;https://hackernoon.com/let-the-action-buttons-in-the-dialog-box-scream-its-outcome-b319c5efc698#.6bo71l8w9
+/;15 Mobile KPIs Every Developer Needs to Measure…Right Now;;KPI , Key Performance Indicator , app ;https://android.jlelse.eu/15-mobile-kpis-every-developer-needs-to-measure-right-now-b1cf1cc8b707#.sq2pfnarl
+/;Top KPIs to measure in your eCommerce app;;KPI , Key Performance Indicator , app ;https://android.jlelse.eu/top-kpis-to-measure-in-your-ecommerce-app-64daf88bc1ed#.ya2vd59pv
+/;Migration From SQLite to Realm;;Realm , SQLite , storage , cache , database;https://android.jlelse.eu/migration-from-sqlite-to-realm-a91bc6d2e568
+Android;Quick Tip : How to Use Android's Assis API;;Assist API , Assistant , voice interaction;https://code.tutsplus.com/tutorials/quick-tip-how-to-use-androids-assist-api--cms-27933
+Design;Design for internationalization;;i18n , UI , UX;https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.j7hx6z6us
+Design;IBM Globalization – UI expansion;;i18n , UI , UX;http://www-01.ibm.com/software/globalization/guidelines/a3.html
+Android;Resolving Conflicts in android gradle dependencies;;Gradle , conflicts;https://blog.mindorks.com/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.x38g4zxvg
+Design;Case Study. Master/Detail Pattern Revisited;;UI , UX , master detail pattern;http://goneremote.io/master-detail-pattern/
+/;VM vs Conteneur : le match;;VM , conteneur , container;http://www.techpageone.fr/technologie-fr/vm-vs-conteneur-le-match/
+Android;Designing the schema of Realm effectively, and other Realm tips;;Realm , database , storage , best practices;https://hackernoon.com/designing-the-schema-of-realm-effectively-and-other-realm-tips-feb76c5b6072#.t84wzinxl
+Android;RealmList<RealmString> is an anti-pattern!;;Realm , database , storage , best practices;https://hackernoon.com/realmlist-realmstring-is-an-anti-pattern-bfc10efb7ca5#.ahcjdda0c
+Java;Java is Unsound: The Industry Perspective;;Java , types , sound & unsound , failures;https://hackernoon.com/java-is-unsound-28c84cb2b3f#.icxc30p9q
+Android;10 Signs of Technical Debt in your Android app;;technical debts , best practices , code smell;https://android.jlelse.eu/10-signs-of-technical-debt-in-your-android-app-602d9d27bd71#.v16phowai
+/;Free resources to build your next Open Source project;;project , tools , open source;https://hackernoon.com/free-resources-to-build-your-next-open-source-project-36d096c536b5
+Bots;Mirai;Leaked Mirai Source Code for Research/IoC Development Purposes;study , Mirai , research;https://github.com/jgamblin/Mirai-Source-Code
+/;S.O.L.I.D. principles;;dev , pattern , quality , principles , best practices , SOLID;https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea#.r7tyo4qk9
+/;Few simple rules for good coding(my 15 years experience);;dev , pattern , quality , principles , best practices , SOLID;https://android.jlelse.eu/few-simple-rules-to-write-good-code-my-15-years-experience-78a133557ec5#.x2q6jo2kf
+Android;Configure Build Variants with Flavors;;Gradle , build variants , flavor;https://android.jlelse.eu/flavors-386c4a53bf18
+Web;Angular vs React — the DEAL BREAKER;;Angular , React , Vue.js;https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc#.toybrih9g
+Android;Bash your way to better Android Development;;Android , dev , adb , bash , shell , terminal;https://jonfhancock.com/bash-your-way-to-better-android-development-1169bc3e0424#.4gefachi0
+Android;Writing your first Android Things driver;;Android Things , driver;https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
+Design;Using @android:color/transparent in gradients;;Android , gradient , colors;https://android.jlelse.eu/android-dev-tip-3-99da754151ad
+Design;FontShop;;fonts;https://www.fontshop.com/search
+Design;Kilm Type Foundry;;fonts;https://klim.co.nz
+Android;Understanding Android Gradle build files;;Gradle;https://medium.com/@wasyl/understanding-android-gradle-build-files-e4b45b73cc4c
+Android;3 Tips for Building Popular Android Instant Apps;;tips , instant apps;http://www.ironsrc.com/news/tips-build-android-instant-apps/
+Android;Passwordless Authentication With Account Kit ;;authentication , security , Account Kit , password , passwordless;https://code.tutsplus.com/tutorials/quick-tip-passwordless-authentication-with-account-kit--cms-28033
+Android;Replicant;Replicant is a fully free Android distribution running on several devices;Android, OS , Replicant;http://www.replicant.us/
+/;MiniFree;Ministry Of Freedom;freedom , privacy , hacks;https://minifree.org/
+/;GitLab vs GitHub. Key differences & similarities;;GitLab , Github;http://usersnap.com/blog/gitlab-github/
+/;SET;Social-Engineer Toolkit;freedom , privacy , RI;https://www.trustedsec.com/social-engineer-toolkit/
+/;Open GAPPS;;Google Apps, Gapps;http://opengapps.org/
+Android;Building a Music Player App for Android;;tuto;http://sapandiwakar.in/building-a-music-player-app-for-android/
+Android;Coordinators: solving a problem you didn’t even know you had;;design pattern , MV, Mvx, coordination;https://hackernoon.com/coordinators-solving-a-problem-you-didnt-even-know-you-had-e86623f15eb
+Java;When to NOT use RxJava;Should I use RxJava or not ?;RxJava , best practices;http://konmik.com/post/when_to_not_use_rxjava/
+Java;Introduction to Functional Reactive Programming;Make reactive programming without RxJava and with functional aspecs;reactive programming , RxJava , functional programming;https://speakerdeck.com/dlew/introduction-to-functional-reactive-programming
+Android;Android Things: Electronics 101;;Android Things , Android;https://medium.com/exploring-android/android-things-electronics-101-e7e5cd2f327
+/;Open Observatory of Network Interference;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/
+/;Open Observatory of Network Interference app;;OONI , TOR , privacy , security , network , FOSS , censorship;https://ooni.torproject.org/post/ooni-mobile-app/
+Android;Android MVP starter;Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo ;Starter , Android , MVP , Dagger2 , RxJava2 , Robolectric , Espresso , Mockito , JaCoCo;https://github.com/ravidsrk/android-mvp-starter
+Fuchsia;Google’s not-so-secret new OS;;Fuchsia , Magenta , Andromeda , OS;https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
+Fuchsia;Fuchsia Google Source;;Fuchsia , Magenta , Andromeda , OS;https://fuchsia.googlesource.com/
+Web;Mojo;This is an effort to extract a common platform out of Chrome's renderer and plugin processes that can support multiple types of sandboxed content, such as HTML, Pepper, or NaCl.;Chromium , Mojo;https://www.chromium.org/developers/design-documents/mojo
+/;The 9 Types of Programmers and Why Some are Better than Others;;medium , programmers , developers , ;https://hackernoon.com/the-9-types-of-programmers-and-why-some-are-better-than-others-2015b0feea2e
+/;How I stay up-to-date as a Developer;;medium;https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82
+/;Seniority;;Medium , seniority , skills , senior , old but up-to-date dev;https://hackernoon.com/people-use-different-words-to-classify-engineer-skill-some-companies-give-you-more-senior-role-6961c79e6c1b
+/;Electronic Frontier Foundation;;privacy , EFF;https://www.eff.org/
+Android;Managing Launcher Shortcuts;;launcher , shortcuts;http://daniel-stone.uk/2017/02/03/managing-launcher-shortcuts.html
+/;JaCoCo;;code , coverage , quality , JaCoCo , Java , Gradle;https://docs.gradle.org/current/userguide/jacoco_plugin.html
+/;Android Globalization Best Practices;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://barmij.ly/Academy/Articles/Read/Android-Globalization-Best-Practices
+Android;Nearby Messages with Beacons;;API Nearby , beacons , nearby messages;https://medium.com/@pjwelcome/nearby-messages-with-beacons-8a075dde20f0
+Android;Supporting Different Languages and Cultures;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://developer.android.com/training/basics/supporting-devices/languages.html
+Android;Localization Checklist;;i18n , internationalization , g11n , globalization , translations , langages , localization , cultures;https://developer.android.com/distribute/tools/localization-checklist.html
+Android;Android NDK passing complex data not so scary anymore;;NDK , native call , Android;https://medium.com/vorm/android-ndk-passing-complex-data-not-so-scary-anymore-fff1123537c6
+/;Android developer — bored at work?;;bored , nothing to do;https://medium.com/@josiassena/android-developer-bored-at-work-efa0530415c4
+/;The best way to learn new technologies is by doing. Here’s some inspiration.;;learn ,  technologies;https://hackernoon.com/the-best-way-to-learn-new-technologies-is-by-doing-heres-some-inspiration-6ca144216790
+/;Using git to generate versionName and versionCode for Android apps;;version code , version name , git;https://blog.uncommon.is/using-git-to-generate-versionname-and-versioncode-for-android-apps-aaa9fc2c96af
+Android;Associate Android Developer Exam;;certification , Google , Android;https://www.udacity.com/google-certifications
+/;Google Developer Certification;;certification , Google , Android;https://developers.google.com/training/certification/
+Android;Using the Android Keystore system to store and retrieve sensitive information;;keystore , data , storage , database , seucirty , sensitive information;https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b
+JavaScript;Dwitter;;JS , demo;https://www.dwitter.net/
+/;How to improve quality and syntax of your Android code;;clean code, quality , checkstyle , sources , metrics , Gradle , Android , quality tools;http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
+/;Know the soul of the high-performance employee, then we can build the 10,000 things.;;medium , employees , social;https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-can-build-the-10-000-things-ad753ffd9b7f#.4ey9ltu2u
+/;Why do programmers wear headphones? For the same reason that you can’t juggle.;;dev , headphones;https://hackernoon.com/why-do-programmers-where-headphones-5ca3a2f81266
+Design;Blurred Lines: The Future of UX & UI;;design , UX , UI;https://hackernoon.com/blurred-lines-the-future-of-ux-ui-7cab0a91fc81
+/;The Developer’s Edge: How To Become A Senior Developer;;Medium , seniority , skills , senior , old but up-to-date dev;https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45
+Android;Configuring Android Project - Little Things That Matter;;gitignore , tools , flavors , keystore , proguar;https://hackernoon.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0
+Android;Configuring Android Project - Static Code Analysis Tools;;static code , analysis , tools , Lint , PMD , findbugs;https://hackernoon.com/configuring-android-project-static-code-analysis-tools-b6dd83282921
+Android;Configuring Android Project  - Version Name & Code;;version code , version name , git;https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323
+/;How to Create the Next Great Programming Language;;code , programmaing langage , lulz;https://hackernoon.com/how-to-create-the-next-great-programming-language-cff4f1ba921
+Android;Open-Source Android Apps;;FOSS , open-source , apps;https://github.com/pcqpcq/open-source-android-apps
+/;Why your app should crash;;design , error , crash , force close , app , errors , exceptions;http://jeroenmols.com/blog/2017/03/08/appcrash/
+Design;Splash screen in Android : The right way;;UI , view , splash screen;https://android.jlelse.eu/launch-screen-in-android-the-right-way-aca7e8c31f52#.ow7wap4zy
+/;HTTP cats;;HTTP , errors , code , status , cats;https://http.cat/
+/;The MVP is dead. Long live the RAT.;Why you should focus on Riskiest Assumption Tests and forget about MVPs.;MVP , RAT , Minimum Viable Product , Riskiest Assumption & Test;https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02
+/;Hacking and the Robin Hood complex;;hacker , ethics , robin hood;https://hackernoon.com/hacking-and-the-robin-hood-complex-63ae0074b8dd#
+/;58% of high-performance employees say they need more quiet work spaces.;;HPE , high-performance-employees , quiet , workspaces;https://hackernoon.com/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces-4381241a6453
+/;Quick tips for reducing the cognitive load of your code;;code , quality , cognitive load;https://hackernoon.com/quick-tips-for-reducing-the-cognitive-load-of-your-code-bb75d43b5676
+/;Managing Technical Debt;;debt , technical debt;https://hackernoon.com/managing-technical-debt-1806424e7d40
+/;The future is algorithms, not code;;algorithm , code;https://hackernoon.com/the-future-is-algorithms-not-code-64cacca3b908
+Android;Associate Android Developer Certification;All the info and materials about the certification that I've collected so far ;developer , certifications;https://github.com/Amejia481/Associate-Android-Developer-Certification
+Android;Android TensorFlow Machine Learning Example;;TensorFlow , machine learning , Android;https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc
+Android;From Design to Android;Talking about Constraint Layout, chains, data binding, bottom sheets, view switcher;UI , UX , design , Android app , tools , widgets , views;http://saulmm.github.io/from-design-to-android-part1
+/;Google Merchandise Store;;Android , goodies , geek;https://your.googlemerchandisestore.com/index
+Android;How to Create a Bubble Selection Animation on Android;;Bubbles , animations , design , OpenGL , shaders , physics , gravity , 3D;https://medium.com/@igalata13/how-to-create-a-bubble-selection-animation-on-android-627044da4854#.tr8seu9d2
+Design;Design thinking lessons from our cats;;design , cats;https://hackernoon.com/design-thinking-lessons-from-our-cats-9a43fd71457a
+Android;Test Driven Android Development;;TDD , tests , test drivent development;https://android.jlelse.eu/test-driven-android-development-a902b4f69820
+Android;App optimization with ArrayMap & SparseArray in Android;;SparseArray , ArrayMap , performances;https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a
+Android;Memory Leak Patterns in Android;;memory leaks;https://android.jlelse.eu/memory-leak-patterns-in-android-4741a7fcb570
+Web;REST vs SOAP vs Apache Thrift;;REST , SOAP , Thrift;http://nordicapis.com/microservice-showdown-rest-vs-soap-vs-apache-thrift-and-why-it-matters/
+Android;Easy Job Scheduling with Android-Job;;JobScheduler , GCM Network Manager , AlarmManager , Android-Job;https://android.jlelse.eu/easy-job-scheduling-with-android-job-4a2c020b9742
+Android;Android testing Mockito & Robolectric;;Mockito , Robolectric;http://alexzh.com/tutorials/android-testing-mockito-robolectric/
+Android;Android Things - Using external displays;;Android Things , Android;http://nilhcem.com/android-things/external-displays
+/;Education of a Programmer;; xp , ideas;https://hackernoon.com/education-of-a-programmer-aaecf2d35312
+/;Flying Solo with Android Development;; xp , ideas;https://hackernoon.com/flying-solo-with-android-development-c52d911b62bf
+Android;Android Version, API Level, NDK version and Features;;Android versions , API , levels , versions , features;https://android.jlelse.eu/android-version-api-level-ndk-version-and-features-6b48c219416
+Android;Architecture patterns in Android;;MVP , architecture , patterns;https://android.jlelse.eu/architecture-patterns-in-android-abf99f2b6f70
+/;How to encrypt your entire life in less than an hour;;app , security , privacy , FOSS , Topr , Orfox , Orbot , Signal;https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
+Android;20+ Awesome Open-Source Android Apps To Boost Your Development Skills;;FOSS , samples;https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
+Android;Introduction to SpringAnimation with examples;;Spring animation , animations , effects;https://www.thedroidsonroids.com/blog/android/springanimation-examples/
+Android;Creating Custom Model For Android Using TensorFlow;;TensorFlow , machine learning , Android;https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb
+Java;Features of revolutionary release – Java 8 for Android;;Java , Java 8 , Android;https://android.jlelse.eu/features-of-revolutionary-release-java-8-for-android-d8abe06c34c5
+/;The Power of Prolog;;Prolog;https://www.metalevel.at/prolog
+Android;Harder, Better, Faster, Stronger;A story of How I met great Android libraries;Espresso , Mockito , Dagger 2 , Leak Canary;https://android.jlelse.eu/harder-better-faster-stronger-773ba10de59c
+Android;MVP + Dagger 2 + RX =👌 Clean/Modern Android App/Code;;MVP , Dagger 2 , RX , clean code;https://android.jlelse.eu/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f
+Android;Closer Look At Android Runtime: DVM vs ART;;Android , JVM , DVM , Java , DEX , Dalvik , ART , JIT , AOT;https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924
+Android;How to use AndFix to hot-patch your Android app?;;AndFix , Android , bug , hot-patch;https://android.jlelse.eu/how-to-use-andfix-to-hot-patch-your-android-app-c201234d3934
+/;Let’s Build a Programming Language;;code , programming langage;https://hackernoon.com/lets-build-a-programming-language-2612349105c6
+Python;Building a Gas Pump Scanner with OpenCV/Python/iOS;;OpenCV , python , iOS , OCR , picture recognition;https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b
+AI;OpenAI;Discovering and enacting the path to safe artificial general intelligence.;AI;https://openai.com/
+Android;Hands-on Lab Android Things – Connected Catapult;;Android Things , catapult;https://github.com/eyal-lezmy/android-things-workshop
+Android;Android Things – Weather Station;;Android Things , weather station;https://codelabs.developers.google.com/codelabs/androidthings-weatherstation/index.html
+/;An anecdotic tour on the history of programming langages;;code , programming languages;https://hackernoon.com/an-anecdotic-tour-on-the-history-of-programming-languages-928bc6e9a9a8
+Android;Configuring Android Project  - Continuous Integration;;CI , continuous integration , webhooks , Bitrise;https://hackernoon.com/configuring-android-project-continuous-integration-e06fd43c4953
+Android;Interviewing Android Developers;;interviews , job , knowledges;https://medium.com/@brendan_fahy/interviewing-android-developers-435ce69b06fa
+Android;Android MVP architecture with Dependency Injection;;MVP , DI , dependency injection , Dagger;https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0
+Kotlin;How to Create a Gradle Plugin in Kotlin;;Gradle , plugin , Kotlin;https://www.thedroidsonroids.com/blog/how-to-create-gradle-plugin-in-kotlin/
+Android;RTL Support on Android. Here is all you need to know;;RTL , i18n , langages , right to left , locales;https://android.jlelse.eu/rtl-support-on-android-here-is-all-you-need-know-e13f2df512e2
+Android;Android Program Overview;;Android , preview , overview;https://developer.android.com/preview/overview.html
+Android;Android Things and Machine Learning;;Android Things , Machine Learning , TensorFlow;https://code.tutsplus.com/articles/android-things-and-machine-learning--cms-28089
+/;RxMarbles;Interactive diagrams of Rx Observables;Rx , Reactive Programming;http://rxmarbles.com/
+/;You Should Learn Functional Programming in 2017;;FP , functioal programming;http://coderoncode.com/functional-programming/2017/04/23/you-should-learn-functional-programming-in-2017.html
+/;Elixir;Elixir is a dynamic, functional language designed for building scalable and maintainable applications.;Elixir , Erlang , functional programming;http://elixir-lang.org/
+/;Best Linux Distros for Gaming in 2017;;Linux;https://thishosting.rocks/best-linux-distros-for-gaming/
+Android;Share The Cache;;Android , cache , share;http://emuneee.com/blog/2017/04/12/share-the-cache/
+DevTool;Robot Framework – Dos and Don’ts;;Robot Framework , tests , TDD , ATDD;https://www.slideshare.net/pekkaklarck/robot-framework-dos-and-donts
+Android;Fragments: The Solution to (and Cause of) All of Android's Problems;;UI , Fragments , Activity , MVP;https://news.realm.io/news/michael-yotive-state-of-fragments-2017/
+Android;Propagating Transitions in Android;;UI , transitions , animations;https://medium.com/proandroiddev/propagating-transitions-1a18b647ba71
+Android;Clean Your Activity Using Delegation Pattern;;MVP , Delegation Pattern;https://medium.com/proandroiddev/clean-your-activity-using-delegation-pattern-fcaafd82336d
+Android;MVC vs. MVP vs. MVVM on Android;;MVC , MVP , MVVM , architecture;https://news.realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+Android;Android Architectures;;Google , Android , architectures;https://github.com/googlesamples/android-architecture
+/;Developer Differences: Makers vs Menders ;;dev life , developer , makers , mengers;https://dev.to/corgibytes/developer-differences-makers-vs-menders
+DevTool;Déployer sa librairie sur Jcenter;;Jcenter , bintray , libs;http://tutos-android-france.com/deployer-librairie-jcenter/
+Android;Avoiding cold starts on Android;;UI , colde starts , splash screen , launch screen;https://saulmm.github.io/avoding-android-cold-starts
+Android;A follow-up on how to store tokens securely in Android;;Security , token;https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
+/;The App Store Optimization Stack;;app store , optimization , store;https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5
+Web;WebRTC - Communication temps-réel sans plugin ;;WebRTC , real time , communications;https://www.slideshare.net/PierreYvesLapersonne/webrtc-communication-tempsrel-sans-plugin-56903170
+Humanism;Man developer - La face cachée du métier de développeur ;;developer , developpeur , dev life;https://www.slideshare.net/PierreYvesLapersonne/man-developer-la-face-cache-du-mtier-de-dveloppeur
+Humanism;Coding kids - Le code à portée de tous ! ;;Kids , children , child , code , mBots , Scratch , Arduino , Sphero , EKA , Codingame , CodeCombat;https://www.slideshare.net/PierreYvesLapersonne/coding-kids-le-code-porte-de-tous
+/;Alea jacta test - Bienvenue dans le monde des tests ;;TDD , BDD , ATDD , tests;https://www.slideshare.net/PierreYvesLapersonne/alea-jacta-test
+/;Leap motion - Une nouvelle forme d'interaction ;;UI , UX , leap motion , sensors;https://www.slideshare.net/PierreYvesLapersonne/leap-motion-une-nouvelle-forme-dinteraction-56903426
+DevTool;Why not Tapster ? ;;Tapster , automation , robot , Appium;https://www.slideshare.net/PierreYvesLapersonne/why-not-tapster
+/;TDD vs. ATDD vs. BDD;;TDD , BDD , ATDD , agile , tests;https://www.linkedin.com/pulse/tdd-vs-atdd-bdd-vahid-farahmandian
+/;Agile Development – Difference between TDD/ATDD/BDD ?;;TDD , BDD , ATDD , agile , tests;https://www.linkedin.com/pulse/agile-development-difference-between-tddatddbdd-komal-sureka
+/;ISTQB;International Software Testing Qualifications Board;tests;http://www.istqb.org/
+Android;No more GCM it’s FCM time!;;FGCM , FCM , cloud messaging , Google , Firebase;https://android.jlelse.eu/forget-gcm-its-fcm-time-69f5422b7659
+Android;Firebase the dynamic database!;;Firebase , storage , database;https://android.jlelse.eu/firebase-the-dynamic-database-5b7878ebba2d
+Android;Parcelable vs Serializable;;serialization , Parcelable , Serializable;https://android.jlelse.eu/parcelable-vs-serializable-6a2556d51538
+Android;Autoboxing, a little thing, can cause big problems for Android App Performance;;ArrayMap , SparseArrays , HashMap , autoboxing , boxing , unboxing , performances;https://android.jlelse.eu/autoboxing-a-little-thing-can-cause-big-problems-for-android-app-performance-1fb6cb1e48dd
+Android;Make your app shine: How to make a button morph into a loading spinner;;UI , animations , views , button , loading , spinner;https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711
+Web;Motherfucking website;;web;http://motherfuckingwebsite.com/
+/;OpenScientist : List of distributed computing project;;distributed computing , science;http://www.openscientist.org/p/distributed-computing-project-open-for.html
+/;Guidelines for Building Software that Will Make People Hate You;A practical approach to building bad software;software , tips , quality , bad software , donts;https://hackernoon.com/guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af
+Android;Android Developer Preview;;Android , developer , preview;https://developer.android.com/preview/index.html
+Humanism;Goldie Blox;Awesome toys, games and entertainment for girls, designed to develop early interest in engineering and confidence in problem-solving.;toys , girls , problem solving , kids;https://www.goldieblox.com/
+Humanism;Code for progress;To transform the face of technology and we have created this program because we want to take an active role in shaping, disrupting, and leaving our mark in this space. . ;people , humanism , code , help , minority , color people;http://www.codeforprogress.org/
+Humanism;Code ;Debugging the gender gap;humanism , code , gender , women;https://www.codedoc.co/
+Humanism;Women Techmakers;Google's Women Techmakers program provides visibility, community, and resources for women in technology.;humanism , women , technology;https://www.womentechmakers.com/
+Humanism;Duchess France;Women In Tech;Duchess , humanism , women , technology;http://www.duchess-france.org/
+Humanism;Black girls code;;humanism , code , gender , women , girls , kids;http://www.blackgirlscode.com/
+Humanism;Code.org;Anybody can learn;humanism , code , gender , women , girls , kids;https://code.org/
+Humanism;Women who code;International nonprofit that develops programs to help engineers achieve their career goals;humanism , code , gender , women;https://www.womenwhocode.com/
+/;Guide d’Hygiène Informatique;Renforcer la sécurité de son SI en 42 mesures;ANSSI , SSI , threats , SI , IT , security;https://www.ssi.gouv.fr/uploads/2017/01/guide_hygiene_informatique_anssi.pdf
+/;MOOC ANSSI;;MOOC , ANSSI , SSI , threats , SI , IT , security;https://www.secnumacademie.gouv.fr/
+Android;Here comes Treble: A modular base for Android ;;Android O , Treble , AOSP , modules , open source , fragmentation;https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html?m=1
+/;How the Decentralized Web Will Rewrite the Rules of Security and Save the Net from the Barbarian Hordes Trying to Destroy It;;Web , Internet , privacy , freedom;https://hackernoon.com/how-the-decentralized-web-will-rewrite-the-rules-of-security-and-save-the-net-from-the-barbarian-23db16af34a1
+/;Essential;;Andy Rubin , Essential , Ambient OS;https://www.essential.com/home
+Web;WebAssembly;WebAssembly or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web.;Web , WASM , WebAssembly , native code , compilation , PnaCl;http://webassembly.org/
+/;Tad;A better way to view & analyze data;data;http://tadviewer.com/
+Android;Weighing in on the Holy Architecture War — My take on“Architecture Components”;;MVP , MVVM , architecture components , architecture , arch ;https://android.jlelse.eu/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66
+Android;An introduction to Android Instant Apps;;Instan Apps , Android;https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps
+Android;Android Instant Apps; Native Android apps, without the installation ;Instan Apps , Android;https://developer.android.com/topic/instant-apps/index.html
+Kotlin;From Java to Kotlin;;Java , Kotlin;https://github.com/MindorksOpenSource/from-java-to-kotlin
+/;How Long Will It Take? Estimating Software Work;;time , estimation , software work;https://hackernoon.com/how-long-will-it-take-d567033abb38
+/;Stop Paying for SSL Certificates;;SSL , Let’s Encrypt;https://hackernoon.com/stop-paying-for-ssl-certificates-e6bc64754cd4
+/;How to Pitch VCs like a Product Manager;;pitch , talk , elevator pitch , pitch fire;https://hackernoon.com/how-to-pitch-vcs-like-a-product-manager-4f2309e6055d
+Web;Assembling WebAssembly;;WebAssembly , Webkit , JS , JavaScript , Web;https://webkit.org/blog/7691/webassembly/
+Web;Webkit;Open Source Web Browser Engine;WebKit , browser , engine;https://webkit.org/
+Fuchsia;Fuchsia;Pink + Purple == Fuchsia ;;https://github.com/fuchsia-mirror
+Design;The A11Y Project;A community-driven effort to make web accessibility easier.;UI , UX , accessibility ;http://a11yproject.com/
+/;The DevOps Security Checklist;;DevOps , security , check list;https://devops-security-checklist.sqreen.io/
+Fuchsia;Little Kernel;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel
+Fuchsia;Little Kernel – LK;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel/lk
+Fuchsia;Magenta;;Fuchsia , Magenta;https://github.com/fuchsia-mirror/magenta
+Fuchsia;Little Kernel – Introduction;;Fuchsia , LK , little kernel , embedded;https://github.com/littlekernel/lk/wiki/Introduction
+/;Funciton;Two-dumensional minimalistic declarative programming langage;esoteric , language , Esolang;https://esolangs.org/wiki/Funciton
+/;Esolangs;Esoteric programming langages wiki;Esolang;https://esolangs.org/wiki/Main_Page
+/;Brainfuck;~=[,,_,,]:3;esoteric , language , Esolang;https://esolangs.org/wiki/Brainfuck
+Android;Android Architecture Components Tutorial – Room, LiveData and ViewModel;;MVVM , how to , sample , tutorial , android architecture components;http://blog.iamsuleiman.com/android-architecture-components-tutorial-room-livedata-viewmodel/
+/;Don’t wait to make it perfect. Go for it first, and then improve.;There is no such thing as the perfect product. Perfection is a process, not a destination.;MVP , products , perfection , cons , traps;https://hackernoon.com/dont-wait-to-make-it-perfect-go-for-it-first-and-then-improve-a2fbf101279e
+DevTool;What is DevOps and Why I Should Have It?;;DevOps;https://hackernoon.com/what-is-devops-and-why-i-should-have-it-e60f1ee446d2
+Android;Android Security Rewards Program Rules ;;Android , bug bounty , security , rewards;https://www.google.com/about/appsecurity/android-rewards/
+/;Sabayon Linux;Beginner-friendly Gentoo-based open-source Linux distribution.;Linux , OS , Gentoo , open source , distro , distribution;https://www.sabayon.org/
+/;Pragmatic API Versioning;;API , version , versioning;https://fly.io/articles/pragmatic-api-versioning/
+Android;Schedule tasks and jobs intelligently in Android;;Alarm Manager , Job Scheduler , GCM Network Manager , Firebase Job Dispatcher , Sync Adapter , tasks , scheduling , services;https://android.jlelse.eu/schedule-tasks-and-jobs-intelligently-in-android-e0b0d9201777
+Design;11 Tips For Building Great Color Palettes;;UI , color , palette;https://blog.prototypr.io/11-tips-for-building-great-color-palettes-2d3201d4c920
+/;Joke language list;;esoteric , language , Esolang;https://esolangs.org/wiki/Joke_language_list
+/;LOLCODE;An esoteric programming langage;esoteric , language , Esolang , LOL;http://lolcode.org/
+/;Dogescript;;esoteric , language , Esolang , LOL , doge;https://esolangs.org/wiki/Dogescript
