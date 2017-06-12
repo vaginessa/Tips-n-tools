@@ -639,7 +639,7 @@ Android;PiracyChecker; An Android library that prevents your app from being pira
 Android;Bubble Picker;An easy-to-use animation which can be used for content picking for Android;UI , views , bubbles;https://github.com/igalata/Bubble-Picker
 Android;VerticalViewPager;Vertically ViewPager and vertically transformer for Android.;UI , view , view pager , vertical;https://github.com/kaelaela/VerticalViewPager
 Android;DoubleViewPager;Horizontal + Vertical ViewPager ;UI , view , view pager , horizontal , vertical;https://github.com/juliome10/DoubleViewPager
-Android;Smiley Rating;;UI , view , smileys , rating;https://github.com/sujithkanna/SmileyRating
+Android;Smiley Rating;;UI , view , smileys , rating , vote;https://github.com/sujithkanna/SmileyRating
 Android;AppRater Dialog; A dialog which asks the user to rate the app;UI , view , app , rater , store , note , comment;https://github.com/Lars3n95/AppRater-Dialog
 Android;DragDismissActivity;;UI , view , drag to dismiss , activity;https://github.com/klinker24/Android-DragDismissActivity
 Android;SlidingRootNav;"DrawerLayout-like ViewGroup, where a ""drawer"" is hidden under the content view, which can be shifted to make the drawer visible. ";UI , views , drawer , shift;https://github.com/yarolegovich/SlidingRootNav
@@ -839,3 +839,5 @@ Design;SVGI;The SVG inspection tool;UI , SVG , icons , pictures , inspection;htt
 Android;Room;Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.;BDD , DB , persistence , storage , databases;https://developer.android.com/topic/libraries/architecture/room.html
 Android;Progress Image View;Simple progress with ImageView;UI , widget , image , view , progress;https://github.com/safetysystemtechnology/progress-image-view-android
 Web;Licode;Open Source WebRTC Communications Platform.;WebRTC , room , IM , messaging , chat , audio , video , file;http://lynckia.com/licode/
+DevTool;AppDynamics;;DevOps , monitoring;https://www.appdynamics.fr/
+DevTool;Splunk;;DevOps , monitoring , cloud;https://www.splunk.com

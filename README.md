@@ -4485,7 +4485,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> Smiley Rating </td>
 		<td class="description"> </td>
-		<td class="keywords"> UI , view , smileys , rating </td>
+		<td class="keywords"> UI , view , smileys , rating , vote </td>
 		<td class="url"> https://github.com/sujithkanna/SmileyRating </td>
 	</tr>
 	<tr>
@@ -5880,6 +5880,20 @@
 		<td class="description"> Open Source WebRTC Communications Platform. </td>
 		<td class="keywords"> WebRTC , room , IM , messaging , chat , audio , video , file </td>
 		<td class="url"> http://lynckia.com/licode/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> AppDynamics </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , monitoring </td>
+		<td class="url"> https://www.appdynamics.fr/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Splunk </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , monitoring , cloud </td>
+		<td class="url"> https://www.splunk.com </td>
 	</tr>
 </table>
 
@@ -10203,6 +10217,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> esoteric , language , Esolang , LOL , doge </td>
 		<td class="url"> https://esolangs.org/wiki/Dogescript </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Performance Testing in a Distributed Computing World — From Mobile and Beyond </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , performances , tests </td>
+		<td class="url"> https://hackernoon.com/performance-testing-in-a-distributed-computing-world-from-mobile-and-beyond-aa411461a7e0 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Up to Speed on Deep Learning: </td>
+		<td class="description"> </td>
+		<td class="keywords"> AI , deep learning </td>
+		<td class="url"> https://hackernoon.com/up-to-speed-on-deep-learning-june-update-f6fcdea4f521 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android SmileyRating (How Iolved it?) </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , smiley , animations </td>
+		<td class="url"> https://blog.mindorks.com/android-smileyrating-how-i-solved-it-9b5ee30f2c34 </td>
 	</tr>
 </table>
 
