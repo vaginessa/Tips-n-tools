@@ -45,7 +45,7 @@ Android;MD360Player4Android;Lib to display pictures and 360 movies on Android;36
 Android;FillTheForm;Lib to fill in a easy way Edittexts and help the dev;aide au dev , EditText , mock , data binding;https://github.com/Hotel-Reservation-Service/FillTheForm
 Android;Mockito;To make mocks;tests , mocks , ;https://github.com/mockito/mockito    http://mockito.org/
 Android;SimpleArcLoader;Simple arc animated loader;loader , arc;https://github.com/generic-leo/SimpleArcLoader
-Android;GLide;Introduction to Glide, Image loader lib for Android recommended by Google;image loader , tuto;http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en
+Android;Glide;Introduction to Glide, Image loader lib for Android recommended by Google;image loader , tuto;http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en
 Android;AppUpdater;Library that checks for apps' updates on Google Play, Github, Amazon...;lib , app updates;https://github.com/javiersantos/AppUpdater
 Android;GSON;Lib to parse JSON;gson , json , parser;https://github.com/google/gson
 Android;FABProgressCircle;Material progress circle around any floating action button;floating action button , circle , progress;https://github.com/JorgeCastilloPrz/FABProgressCircle
@@ -841,3 +841,9 @@ Android;Progress Image View;Simple progress with ImageView;UI , widget , image ,
 Web;Licode;Open Source WebRTC Communications Platform.;WebRTC , room , IM , messaging , chat , audio , video , file;http://lynckia.com/licode/
 DevTool;AppDynamics;;DevOps , monitoring;https://www.appdynamics.fr/
 DevTool;Splunk;;DevOps , monitoring , cloud;https://www.splunk.com
+Android;AnimationsPlayground;;UI , UX , animations , howto;https://github.com/mwajeeh/AnimationsPlayground
+Android;ProgressManager; Listen the progress of downloading and uploading in Okhttp (compatible Retrofit and Glide).;UI , widget , progress , Ohhttp , Retrofit , Glide;https://github.com/JessYanCoding/ProgressManager
+Android;Pikolo;Color picker library;UI , widget , color picker;https://github.com/Madrapps/Pikolo
+Android;BoardView;A draggable boardview for java android;UI , widget , board , draggable;https://github.com/jakebonk/BoardView
+/;Engineering Tumblr;;news , veille , tuto , site , tool;https://engineering.tumblr.com/
+Android;Lottie-android;Render After Effects animations natively on Android and iOS;UI , UX , animations;https://github.com/airbnb/lottie-android

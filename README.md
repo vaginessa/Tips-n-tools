@@ -325,7 +325,7 @@
 	</tr>
 	<tr>
 		<td class="subjectAndroid"> Android </td>
-		<td class="name"> GLide </td>
+		<td class="name"> Glide </td>
 		<td class="description"> Introduction to Glide, Image loader lib for Android recommended by Google </td>
 		<td class="keywords"> image loader , tuto </td>
 		<td class="url"> http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en </td>
@@ -5895,6 +5895,48 @@
 		<td class="keywords"> DevOps , monitoring , cloud </td>
 		<td class="url"> https://www.splunk.com </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AnimationsPlayground </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , animations , howto </td>
+		<td class="url"> https://github.com/mwajeeh/AnimationsPlayground </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> ProgressManager </td>
+		<td class="description"> Listen the progress of downloading and uploading in Okhttp (compatible Retrofit and Glide). </td>
+		<td class="keywords"> UI , widget , progress , Ohhttp , Retrofit , Glide </td>
+		<td class="url"> https://github.com/JessYanCoding/ProgressManager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Pikolo </td>
+		<td class="description"> Color picker library </td>
+		<td class="keywords"> UI , widget , color picker </td>
+		<td class="url"> https://github.com/Madrapps/Pikolo </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BoardView </td>
+		<td class="description"> A draggable boardview for java android </td>
+		<td class="keywords"> UI , widget , board , draggable </td>
+		<td class="url"> https://github.com/jakebonk/BoardView </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Engineering Tumblr </td>
+		<td class="description"> </td>
+		<td class="keywords"> news , veille , tuto , site , tool </td>
+		<td class="url"> https://engineering.tumblr.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Lottie-android </td>
+		<td class="description"> Render After Effects animations natively on Android and iOS </td>
+		<td class="keywords"> UI , UX , animations </td>
+		<td class="url"> https://github.com/airbnb/lottie-android </td>
+	</tr>
 </table>
 
 
@@ -10239,6 +10281,41 @@
 		<td class="keywords"> UI , UX , smiley , animations </td>
 		<td class="url"> https://blog.mindorks.com/android-smileyrating-how-i-solved-it-9b5ee30f2c34 </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Implementing Complex Animations in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , animations , howto </td>
+		<td class="url"> https://medium.com/proandroiddev/implementing-complex-animations-in-android-full-working-code-41979cc2369e </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Introducing Lottie </td>
+		<td class="description"> Oopen-source tool makes adding animation to native apps a snap. </td>
+		<td class="keywords"> UI , UX , animations , AirBnB , Google </td>
+		<td class="url"> https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> A Lottie to Like </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , animations , AirBnB , Google </td>
+		<td class="url"> https://blog.prototypr.io/a-lottie-to-like-6670f2bed3c5 </td>
+	</tr>
+	<tr>
+		<td class="subjectKotlin"> Kotlin </td>
+		<td class="name"> Kotlin — A deeper look </td>
+		<td class="description"> It feels like magic… But is it really? </td>
+		<td class="keywords"> Kotlin , Android , Java </td>
+		<td class="url"> https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Mastering ViewPager with Directed Acyclic Graph </td>
+		<td class="description"> Ever thought of using Directed Acyclic Graph (DAG) with ViewPager? Its a perfect combination. </td>
+		<td class="keywords"> UI , UX , ViewPager , graph </td>
+		<td class="url"> https://android.jlelse.eu/mastering-viewpager-with-directed-acyclic-graph-533ed5ee1e5e </td>
+	</tr>
 </table>
 
 
@@ -11008,6 +11085,29 @@
 		<td class="typeSmartphone"> smartphone </td>
 		<td class="pfAndroid"> Android </td>
 		<td class="constructor"> Huawei </td>
+		<td class="name"> Honor 9 </td>
+		<td class="screensize"> 5.15’’ </td>
+		<td class="screentype"> IPS </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="soc"> Huawei HiSilicon KIRIN 960 </td>
+		<td class="gpu"> ARM Mali-G71 MP8 </td>
+		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>
+		<td class="battery"> 3200 mAh , Li-Polymer </td>
+		<td class="storage"> 64 GB , 128 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f/2.2 11,81 MP (back) , 7.99 MP (front) </td>
+		<td class="dimensions"> 147.3 x 70.9 x 7.45 mm </td>
+		<td class="usbtype"> 155 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> nano , nano </td>
+		<td class="ui"> Emotion 5.1 </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> Huawei </td>
 		<td class="name"> Mate 9 </td>
 		<td class="screensize"> 5.9'' </td>
 		<td class="screentype"> IPS </td>
@@ -11021,7 +11121,7 @@
 		<td class="camera"> CMOS f/2.2 12.19 MP (back) , 7.99 MP (front) </td>
 		<td class="dimensions"> 156.9 x 78.9 x 7.9 mm </td>
 		<td class="usbtype"> 190 g </td>
-		<td class="weight"> </td>
+		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , C </td>
 		<td class="sdcard"> microSD </td>
 		<td class="sim"> nano , nano </td>
@@ -12461,7 +12561,7 @@
 		<td class="targetSmartphone"> smartphone </td>
 		<td class="constructorQualcomm"> Qualcomm </td>
 		<td class="name"> Snapdragon 821 </td>
-		<td class="gravure"> ? </td>
+		<td class="gravure"> 14 nm </td>
 		<td class="modem"> Qualcomm Snapdragon X12 LTE </td>
 		<td class="pds"> 600 Mbps </td>
 		<td class="pus"> 150 Mbps </td>
@@ -12742,6 +12842,28 @@
 		<td class="cpua"> ? </td>
 		<td class="gpu"> ARM Mali T880 </td>
 		<td class="gpuas"> Vulkan , OpenGL ES , Direct X 12 </td>
+	</tr>
+	<tr>
+		<td class="targetSmartphone"> smartphone </td>
+		<td class="constructorHuawei"> Huawei </td>
+		<td class="name"> Kirin 960 </td>
+		<td class="gravure"> ? </td>
+		<td class="modem"> ? </td>
+		<td class="pds"> 600 Mbps </td>
+		<td class="pus"> 150 Mbps </td>
+		<td class="bluetooth"> ? </td>
+		<td class="nfc"> ? </td>
+		<td class="usb"> ? </td>
+		<td class="csm"> ? </td>
+		<td class="vcm"> ? </td>
+		<td class="vpm"> ? </td>
+		<td class="dm"> ? </td>
+		<td class="cpu"> ARM Cortex A73 , ARM Cortex A53 </td>
+		<td class="cpucn"> 4 + 4 </td>
+		<td class="cpucsm"> 2.3 GHz , 1.8 GHz </td>
+		<td class="cpua"> ? </td>
+		<td class="gpu"> ARM Mali G71 MP8 </td>
+		<td class="gpuas"> Vulkan </td>
 	</tr>
 	<tr>
 		<td class="targetSmartphone"> smartphone </td>
