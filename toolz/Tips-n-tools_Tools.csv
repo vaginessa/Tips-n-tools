@@ -849,4 +849,17 @@ Android;BoardView;A draggable boardview for java android;UI , widget , board , d
 Android;Lottie-android;Render After Effects animations natively on Android and iOS;UI , UX , animations;https://github.com/airbnb/lottie-android
 /;Hoverboard;GDG DevFest website template;PWA , web app , pages , DevFest , GDG , material;https://github.com/gdg-x/hoverboard
 /;Zeppelin;Awesome conference website in 5 minutes;PWA , web app , pages , DevFest , GDG , material;https://github.com/gdg-x/zeppelin
-/;Zeppelin-Grunt;GDG DevFest 2014 site template ;PWA , web app , pages , DevFest , GDG , material;
+/;Zeppelin-Grunt;GDG DevFest 2014 site template ;PWA , web app , pages , DevFest , GDG , material;https://github.com/gdg-x/zeppelin-grunt
+Design;Shape Shifter;;UI , icons , animations;https://shapeshifter.design/
+Android;SpannedGridLayoutManager; Android RecyclerView.LayoutManager that resizes and reorders views based on SpanSize;UI , views ,recycler view , resizes , span , order;https://github.com/Arasthel/SpannedGridLayoutManager
+/;OpenCV;Open Source Computer Vision Library ;OpenCV , computer vision;https://github.com/opencv/opencv
+Android;AndroidVuMeter;A fake VuMeter - Equalizer for android ;UI , view , equalizer , meter , sounds , charts;https://github.com/HugoGresse/AndroidVuMeter
+Android;Wiv;Window image viewer;UI , views , image viewer , pictures;https://github.com/ihsanbal/Wiv
+Android;Glazy Viewpager; Android ViewPager template with cool animation.;UI , views , view pager , glazy , animations;https://github.com/kannan-anbu/glazy-viewpager
+/;ProtonVPN;;VPN , app , security , privacy;https://protonvpn.com/
+/;ProtonMail;;mails , app , security , privacy;https://protonmail.com/fr/
+/;Mozilla Mobile;; freedom , privacy , web , Mozilla;https://github.com/mozilla-mobile
+Humanism;Mozilla;Internet est un bien commun, nous le défendons;privacy , freedom;https://www.mozilla.org/fr/
+/;Orbot;;privacy , freedom , security , web;https://github.com/n8fr8/orbot
+/;Orfox;This is the build wrapper for the Orfox project ;privacy , freedom , security , web;https://github.com/guardianproject/Orfox
+/;Ooni-probe;Network measurement framework aimed at detecting network interference.;privacy , freedom , security , web , probe;https://github.com/TheTorProject/ooni-probe
