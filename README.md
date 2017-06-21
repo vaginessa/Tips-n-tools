@@ -11522,8 +11522,8 @@
 		<td class="constructor"> Yota Devices </td>
 		<td class="name"> YotaPhone 2 </td>
 		<td class="screensize"> 5'' (front) / 4.7'' (back) </td>
-		<td class="screentype"> AMOLED (back) / e-Ink (front) </td>
-		<td class="screenresolution"> 1080 x 1920 px = Full HD (back) </td>
+		<td class="screentype"> AMOLED (front) / e-Ink (back) </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD (front) </td>
 		<td class="soc"> Qualcomm Snapdragon 800 </td>
 		<td class="gpu"> Qualcomm Adreno 330 </td>
 		<td class="sensors"> proximity , light , accelerometer , compass , gyroscope , Bluetooth , GPS , Wi-Fi </td>
@@ -11531,12 +11531,35 @@
 		<td class="storage"> 32 GB </td>
 		<td class="ram"> 2 GB </td>
 		<td class="camera"> CMOS f2/0 7.95 MP (back) , 2.07 MP (front) </td>
-		<td class="dimensions"> 144,9 x 69,4 x 8,95 mm </td>
+		<td class="dimensions"> 144.9 x 69.4 x 8.95 mm </td>
 		<td class="usbtype"> 145 g </td>
 		<td class="weight"> no </td>
 		<td class="ip"> 2.0 , micro-B </td>
 		<td class="sdcard"> no </td>
 		<td class="sim"> nano </td>
+		<td class="ui"> ? </td>
+	</tr>
+	<tr>
+		<td class="typeSmartphone"> smartphone </td>
+		<td class="pfAndroid"> Android </td>
+		<td class="constructor"> HiSense </td>
+		<td class="name"> A2 </td>
+		<td class="screensize"> 5.5’’ </td>
+		<td class="screentype"> AMOLED (front ) / e-Ink (back) </td>
+		<td class="screenresolution"> 1080 x 1920 px = Full HD (front) </td>
+		<td class="soc"> Qualcomm Snapdragon 430 </td>
+		<td class="gpu"> Qualcomm Adreno 505 </td>
+		<td class="sensors"> fiingerprint , proximity , light , accelerometer , compass , Bluetooth , GPS , Wi-Fi </td>
+		<td class="battery"> 3090 mAh , Li-Ion </td>
+		<td class="storage"> 64 GB </td>
+		<td class="ram"> 4 GB </td>
+		<td class="camera"> CMOS f2.0 15.83 MP (back) / 5.04 MP (front) </td>
+		<td class="dimensions"> 157 x 76.8 x 8.45 mm </td>
+		<td class="usbtype"> 188 g </td>
+		<td class="weight"> no </td>
+		<td class="ip"> 2.0 , C </td>
+		<td class="sdcard"> microSD </td>
+		<td class="sim"> micro , nano </td>
 		<td class="ui"> ? </td>
 	</tr>
 	<tr>
