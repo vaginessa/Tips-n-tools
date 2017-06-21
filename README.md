@@ -6049,6 +6049,27 @@
 		<td class="keywords"> privacy , freedom , security , web , probe </td>
 		<td class="url"> https://github.com/TheTorProject/ooni-probe </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Genesis Mining </td>
+		<td class="description"> </td>
+		<td class="keywords"> BTC , Bitcoin , mining </td>
+		<td class="url"> https://www.genesis-mining.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> MyEtherWallet </td>
+		<td class="description"> Open(Source & Client-Side Ether Wallet </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin </td>
+		<td class="url"> https://www.myetherwallet.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Coinbase </td>
+		<td class="description"> Way to buy and sell BTC, ETH and LTC </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
+		<td class="url"> https://www.coinbase.com/ </td>
+	</tr>
 </table>
 
 
@@ -10427,6 +10448,20 @@
 		<td class="description"> Ever thought of using Directed Acyclic Graph (DAG) with ViewPager? Its a perfect combination. </td>
 		<td class="keywords"> UI , UX , ViewPager , graph </td>
 		<td class="url"> https://android.jlelse.eu/mastering-viewpager-with-directed-acyclic-graph-533ed5ee1e5e </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Coinbase : pour bien débuter dans le monde des Bitcoin, Ethereum et Litcoin </td>
+		<td class="description"> </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
+		<td class="url"> https://medium.com/@ulrichrozier/coinbase-pour-bien-d%C3%A9buter-dans-le-monde-des-bitcoin-ethereum-et-litcoin-76ae9cb1c30b </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Je me lance dans le cloud-minage d’Ethereum (ETH) </td>
+		<td class="description"> </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
+		<td class="url"> https://medium.com/@ulrichrozier/je-me-lance-dans-le-cloud-minage-dethereum-eth-d62d8d6aaab9 </td>
 	</tr>
 </table>
 
