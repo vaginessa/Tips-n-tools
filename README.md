@@ -6070,6 +6070,13 @@
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
 		<td class="url"> https://www.coinbase.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Timber </td>
+		<td class="description"> A logger with a small, extensible API which provides utility on top of Android's normal Log class. </td>
+		<td class="keywords"> logger , logs , debug , crash </td>
+		<td class="url"> https://github.com/JakeWharton/timber </td>
+	</tr>
 </table>
 
 
@@ -10462,6 +10469,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
 		<td class="url"> https://medium.com/@ulrichrozier/je-me-lance-dans-le-cloud-minage-dethereum-eth-d62d8d6aaab9 </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> An Introduction to Icon Animation Techniques </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , icons , animations </td>
+		<td class="url"> http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Timber: Enhancing your logging experience </td>
+		<td class="description"> </td>
+		<td class="keywords"> logger , logs , debug , crash </td>
+		<td class="url"> https://medium.com/@caueferreira/timber-enhancing-your-logging-experience-330e8af97341 </td>
 	</tr>
 </table>
 
