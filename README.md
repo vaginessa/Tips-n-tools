@@ -6077,6 +6077,13 @@
 		<td class="keywords"> logger , logs , debug , crash </td>
 		<td class="url"> https://github.com/JakeWharton/timber </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Kubernets </td>
+		<td class="description"> Production-Grade Container Orchestration. Automated container deployment, scaling, and management. </td>
+		<td class="keywords"> container </td>
+		<td class="url"> https://kubernetes.io/ </td>
+	</tr>
 </table>
 
 
@@ -10483,6 +10490,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> logger , logs , debug , crash </td>
 		<td class="url"> https://medium.com/@caueferreira/timber-enhancing-your-logging-experience-330e8af97341 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Common Design Patterns for Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , pattern , design patterns , conception </td>
+		<td class="url"> https://www.raywenderlich.com/109843/common-design-patterns-for-android </td>
 	</tr>
 </table>
 
