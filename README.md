@@ -6084,6 +6084,34 @@
 		<td class="keywords"> container </td>
 		<td class="url"> https://kubernetes.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Traefik </td>
+		<td class="description"> HTTP reverse proxy and load balancer made to deploy microservices </td>
+		<td class="keywords"> HTTP , reverse proxy , load balancer </td>
+		<td class="url"> https://traefik.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> etcd </td>
+		<td class="description"> A distributed, reliable key-value store for the most critical data of a distributed system. </td>
+		<td class="keywords"> distributed system , data , key value store , storage </td>
+		<td class="url"> https://coreos.com/etcd </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Docker </td>
+		<td class="description"> </td>
+		<td class="keywords"> container </td>
+		<td class="url"> https://www.docker.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectWeb"> Web </td>
+		<td class="name"> Rancher </td>
+		<td class="description"> Simple, easy-to-use container management </td>
+		<td class="keywords"> container </td>
+		<td class="url"> http://rancher.com/ </td>
+	</tr>
 </table>
 
 
@@ -10497,6 +10525,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , pattern , design patterns , conception </td>
 		<td class="url"> https://www.raywenderlich.com/109843/common-design-patterns-for-android </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> How To Write Exciting Conference Proposals </td>
+		<td class="description"> </td>
+		<td class="keywords"> keynotes , conference , proposals , CFP , talk </td>
+		<td class="url"> https://www.xaprb.com/blog/how-to-write-exciting-conference-proposals/ </td>
 	</tr>
 </table>
 

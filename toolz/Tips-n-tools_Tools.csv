@@ -868,3 +868,7 @@ Humanism;Mozilla;Internet est un bien commun, nous le défendons;privacy , freed
 /;Coinbase;Way to buy and sell BTC, ETH and LTC;BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie;https://www.coinbase.com/
 Android;Timber; A logger with a small, extensible API which provides utility on top of Android's normal Log class.;logger , logs , debug , crash;https://github.com/JakeWharton/timber
 /;Kubernets;Production-Grade Container Orchestration. Automated container deployment, scaling, and management.;container;https://kubernetes.io/
+Web;Traefik;HTTP reverse proxy and load balancer made to deploy microservices;HTTP , reverse proxy , load balancer;https://traefik.io/
+/;etcd;A distributed, reliable key-value store for the most critical data of a distributed system.;distributed system , data , key value store , storage;https://coreos.com/etcd
+Web;Docker;;container;https://www.docker.com/
+Web;Rancher;Simple, easy-to-use container management;container;http://rancher.com/
