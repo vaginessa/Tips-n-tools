@@ -6112,6 +6112,41 @@
 		<td class="keywords"> container </td>
 		<td class="url"> http://rancher.com/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Hackaday </td>
+		<td class="description"> Hackaday.io is the world's largest collaborative hardware development community. </td>
+		<td class="keywords"> DIY , hack , hackday , hardware , development , community </td>
+		<td class="url"> https://hackaday.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> VectorMaster </td>
+		<td class="description"> Dynamic control over vector drawables! </td>
+		<td class="keywords"> SVG , vector , animations </td>
+		<td class="url"> https://github.com/harjot-oberai/VectorMaster </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> FunnyLoader </td>
+		<td class="description"> Loading indicator for android with over 200 random messages </td>
+		<td class="keywords"> UI , widget , loader , WTF </td>
+		<td class="url"> https://github.com/team-supercharge/FunnyLoader </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Show case card view </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , intro , tap target , show case </td>
+		<td class="url"> https://github.com/dimorinny/show-case-card-view </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> DateRangerPicker </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , calendar , date picker </td>
+		<td class="url"> https://github.com/savvisingh/DateRangePicker </td>
+	</tr>
 </table>
 
 
@@ -10533,6 +10568,27 @@
 		<td class="keywords"> keynotes , conference , proposals , CFP , talk </td>
 		<td class="url"> https://www.xaprb.com/blog/how-to-write-exciting-conference-proposals/ </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Instant Apps, step-by-step: how Vimeo went about it </td>
+		<td class="description"> </td>
+		<td class="keywords"> Vimeo , Instant Apps , how to </td>
+		<td class="url"> https://medium.com/vimeo-engineering-blog/vimeo-android-instant-apps-2f8b1e94760c </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Comment faire un routeur Wi-Fi DIY connecté à Tor avec un Raspberry Pi </td>
+		<td class="description"> </td>
+		<td class="keywords"> Wi-Fi , DIY , Raspberry Pi , Pi , Tor , router </td>
+		<td class="url"> http://www.numerama.com/tech/161911-faire-routeur-wifi-connecte-reseau-tor-raspberry-pi.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Hackaday </td>
+		<td class="description"> Hackaday.io is the world's largest collaborative hardware development community. </td>
+		<td class="keywords"> DIY , hack , hackday , hardware , development , community </td>
+		<td class="url"> https://hackaday.io/ </td>
+	</tr>
 </table>
 
 
@@ -11856,8 +11912,8 @@
 		<td class="constructor"> BlackBerry </td>
 		<td class="name"> KEYone </td>
 		<td class="screensize"> 4.5’’ </td>
-		<td class="screentype"> IPS </td>
-		<td class="screenresolution"> 1080 x 1920 px = Full HD </td>
+		<td class="screentype"> IPS , 423 ppp </td>
+		<td class="screenresolution"> 1080 x 1620 px = Full HD </td>
 		<td class="soc"> Qualcomm Snapdragon 625 </td>
 		<td class="gpu"> Qualcomm Adreno 506 </td>
 		<td class="sensors"> Hall sensor , fingerprint , proximity , light , accelerometer , compass , gyroscope , Bluetooth , NFC , GPS , Wi-Fi </td>

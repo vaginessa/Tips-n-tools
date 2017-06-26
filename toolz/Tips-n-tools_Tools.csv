@@ -872,3 +872,8 @@ Web;Traefik;HTTP reverse proxy and load balancer made to deploy microservices;HT
 /;etcd;A distributed, reliable key-value store for the most critical data of a distributed system.;distributed system , data , key value store , storage;https://coreos.com/etcd
 Web;Docker;;container;https://www.docker.com/
 Web;Rancher;Simple, easy-to-use container management;container;http://rancher.com/
+/;Hackaday;Hackaday.io is the world's largest collaborative hardware development community.;DIY , hack , hackday , hardware , development , community;https://hackaday.io/
+Android;VectorMaster; Dynamic control over vector drawables!;SVG , vector , animations;https://github.com/harjot-oberai/VectorMaster
+Android;FunnyLoader; Loading indicator for android with over 200 random messages;UI , widget , loader , WTF;https://github.com/team-supercharge/FunnyLoader
+Android;Show case card view;;UI , intro , tap target , show case;https://github.com/dimorinny/show-case-card-view
+Android;DateRangerPicker;;UI , calendar , date picker;https://github.com/savvisingh/DateRangePicker
