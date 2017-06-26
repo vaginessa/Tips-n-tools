@@ -10596,6 +10596,27 @@
 		<td class="keywords"> FOSS , Oopen-source , side project , project , community </td>
 		<td class="url"> http://www.touilleur-express.fr/2012/12/08/a-celui-qui-a-fait-twitter-bootstrap/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> OnePlus Open Source Software </td>
+		<td class="description"> </td>
+		<td class="keywords"> One Plus , open-source </td>
+		<td class="url"> https://github.com/OnePlusOSS </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Orange Open-Source </td>
+		<td class="description"> </td>
+		<td class="keywords"> Orange , open-source </td>
+		<td class="url"> https://github.com/Orange-OpenSource </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> N’embauchez jamais un jeune de la génération Y </td>
+		<td class="description"> </td>
+		<td class="keywords"> Y </td>
+		<td class="url"> https://www.linkedin.com/pulse/nembauchez-jamais-un-jeune-de-la-génération-y-fanny-segond </td>
+	</tr>
 </table>
 
 
