@@ -877,3 +877,6 @@ Android;VectorMaster; Dynamic control over vector drawables!;SVG , vector , anim
 Android;FunnyLoader; Loading indicator for android with over 200 random messages;UI , widget , loader , WTF;https://github.com/team-supercharge/FunnyLoader
 Android;Show case card view;;UI , intro , tap target , show case;https://github.com/dimorinny/show-case-card-view
 Android;DateRangerPicker;;UI , calendar , date picker;https://github.com/savvisingh/DateRangePicker
+/;Shame eraser;A small Ruby script for erasing your shame on Twitter;Twitter , clean , tweets;https://github.com/benjaminjackson/shame-eraser
+Android;Cardslider;Cardslider is a controller that allows you to swipe through cards with pictures and accompanying descriptions. ;UI , widgets , cards , sliders , animations;https://github.com/Ramotion/cardslider-android?
+Android;GLRippleView; Custom GLSurfaceView for Android to show image with ripple effect using OpenGL.;UI , effects , animations , GL , OpenGL , ripple , image;https://github.com/r21nomi/GLRippleView

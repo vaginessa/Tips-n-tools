@@ -6147,6 +6147,27 @@
 		<td class="keywords"> UI , calendar , date picker </td>
 		<td class="url"> https://github.com/savvisingh/DateRangePicker </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Shame eraser </td>
+		<td class="description"> A small Ruby script for erasing your shame on Twitter </td>
+		<td class="keywords"> Twitter , clean , tweets </td>
+		<td class="url"> https://github.com/benjaminjackson/shame-eraser </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Cardslider </td>
+		<td class="description"> Cardslider is a controller that allows you to swipe through cards with pictures and accompanying descriptions. </td>
+		<td class="keywords"> UI , widgets , cards , sliders , animations </td>
+		<td class="url"> https://github.com/Ramotion/cardslider-android? </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> GLRippleView </td>
+		<td class="description"> Custom GLSurfaceView for Android to show image with ripple effect using OpenGL. </td>
+		<td class="keywords"> UI , effects , animations , GL , OpenGL , ripple , image </td>
+		<td class="url"> https://github.com/r21nomi/GLRippleView </td>
+	</tr>
 </table>
 
 
@@ -10616,6 +10637,34 @@
 		<td class="description"> </td>
 		<td class="keywords"> Y </td>
 		<td class="url"> https://www.linkedin.com/pulse/nembauchez-jamais-un-jeune-de-la-génération-y-fanny-segond </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> AnimatedStateListDrawable </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , animations , state , drawables </td>
+		<td class="url"> https://blog.stylingandroid.com/animatedstatelistdrawable/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Implementation vs API dependency </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android Studio 3 , Gradle , implementation , API , dependency , compile </td>
+		<td class="url"> https://jeroenmols.com/blog/2017/06/14/androidstudio3/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAi"> AI </td>
+		<td class="name"> Sketch-rnn </td>
+		<td class="description"> </td>
+		<td class="keywords"> TensorFlox , sketch , AI </td>
+		<td class="url"> https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAi"> AI </td>
+		<td class="name"> Quick, draw! </td>
+		<td class="description"> Can a neural network learn to recognize doodling? </td>
+		<td class="keywords"> TensorFlox , sketch , AI </td>
+		<td class="url"> https://quickdraw.withgoogle.com </td>
 	</tr>
 </table>
 

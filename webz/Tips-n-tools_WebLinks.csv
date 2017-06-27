@@ -643,3 +643,7 @@ Android;Android Instant Apps, step-by-step: how Vimeo went about it;;Vimeo , Ins
 /;OnePlus Open Source Software;;One Plus , open-source;https://github.com/OnePlusOSS
 /;Orange Open-Source;;Orange , open-source;https://github.com/Orange-OpenSource
 /;N’embauchez jamais un jeune de la génération Y;;Y;https://www.linkedin.com/pulse/nembauchez-jamais-un-jeune-de-la-génération-y-fanny-segond
+Android;AnimatedStateListDrawable;;UI , animations , state , drawables;https://blog.stylingandroid.com/animatedstatelistdrawable/
+Android;Implementation vs API dependency ;;Android Studio 3 , Gradle , implementation , API , dependency , compile;https://jeroenmols.com/blog/2017/06/14/androidstudio3/
+AI;Sketch-rnn;;TensorFlox , sketch , AI;https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+AI;Quick, draw!; Can a neural network learn to recognize doodling? ;TensorFlox , sketch , AI;https://quickdraw.withgoogle.com
