@@ -880,3 +880,8 @@ Android;DateRangerPicker;;UI , calendar , date picker;https://github.com/savvisi
 /;Shame eraser;A small Ruby script for erasing your shame on Twitter;Twitter , clean , tweets;https://github.com/benjaminjackson/shame-eraser
 Android;Cardslider;Cardslider is a controller that allows you to swipe through cards with pictures and accompanying descriptions. ;UI , widgets , cards , sliders , animations;https://github.com/Ramotion/cardslider-android?
 Android;GLRippleView; Custom GLSurfaceView for Android to show image with ripple effect using OpenGL.;UI , effects , animations , GL , OpenGL , ripple , image;https://github.com/r21nomi/GLRippleView
+DevTool;Kanboard;;DevOps , tool , Kanban , TODO;https://kanboard.net/
+DevTool;Archiva;The Build Artifact Repository Manager;DevOps , Apache , artifact , build;https://archiva.apache.org/index.cgi
+DevTool;Markdown;;DevOps , Markdown , md , documentation;http://www.markdowntutorial.com/
+DevTool;AsciiDoc;Text based document generation;DevOps , documentation;http://www.methods.co.nz/asciidoc/
+DevTool;Gerrit;Web based code review and repository management;DevOps , code review;https://www.gerritcodereview.com/

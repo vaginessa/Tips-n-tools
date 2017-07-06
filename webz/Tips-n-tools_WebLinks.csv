@@ -647,3 +647,12 @@ Android;AnimatedStateListDrawable;;UI , animations , state , drawables;https://b
 Android;Implementation vs API dependency ;;Android Studio 3 , Gradle , implementation , API , dependency , compile;https://jeroenmols.com/blog/2017/06/14/androidstudio3/
 AI;Sketch-rnn;;TensorFlox , sketch , AI;https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
 AI;Quick, draw!; Can a neural network learn to recognize doodling? ;TensorFlox , sketch , AI;https://quickdraw.withgoogle.com
+DevTool;DevOps, NoOps, everything-as-code, commoditisation... Quel futur pour les ops ? ;;DevOps , NoOps , everything as code , as code;https://www.youtube.com/watch?v=bqxQhlyXl6M
+DevTool;KISS;I was made for loving you baby;DevOps , KISS , agile , principle;https://fr.wikipedia.org/wiki/Principe_KISS
+DevTool;Kaizen;Changement meilleur;DevOps , Kaizen , principle , continuous improvment;https://fr.wikipedia.org/wiki/Kaizen
+/;SavoirAgile;;agile;http://savoiragile.com/
+DevTool;Manifeste pour le développement Agile de logiciels ;;agile;http://agilemanifesto.org/iso/fr/manifesto.html
+/;Everything as code;;as code;https://speakerdeck.com/garethr/everything-as-code
+/;Everything as code;;as code;https://fr.slideshare.net/dubsquared/eac-25454047
+/;Bus factor;;metric , measurement , risks;https://en.wikipedia.org/wiki/Bus_factor
+/;Everything as code;;as code;https://github.com/lreimer/everything-as-code

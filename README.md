@@ -6168,6 +6168,41 @@
 		<td class="keywords"> UI , effects , animations , GL , OpenGL , ripple , image </td>
 		<td class="url"> https://github.com/r21nomi/GLRippleView </td>
 	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Kanboard </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , tool , Kanban , TODO </td>
+		<td class="url"> https://kanboard.net/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Archiva </td>
+		<td class="description"> The Build Artifact Repository Manager </td>
+		<td class="keywords"> DevOps , Apache , artifact , build </td>
+		<td class="url"> https://archiva.apache.org/index.cgi </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Markdown </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , Markdown , md , documentation </td>
+		<td class="url"> http://www.markdowntutorial.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> AsciiDoc </td>
+		<td class="description"> Text based document generation </td>
+		<td class="keywords"> DevOps , documentation </td>
+		<td class="url"> http://www.methods.co.nz/asciidoc/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Gerrit </td>
+		<td class="description"> Web based code review and repository management </td>
+		<td class="keywords"> DevOps , code review </td>
+		<td class="url"> https://www.gerritcodereview.com/ </td>
+	</tr>
 </table>
 
 
@@ -10665,6 +10700,69 @@
 		<td class="description"> Can a neural network learn to recognize doodling? </td>
 		<td class="keywords"> TensorFlox , sketch , AI </td>
 		<td class="url"> https://quickdraw.withgoogle.com </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> DevOps, NoOps, everything-as-code, commoditisation... Quel futur pour les ops ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , NoOps , everything as code , as code </td>
+		<td class="url"> https://www.youtube.com/watch?v=bqxQhlyXl6M </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> KISS </td>
+		<td class="description"> I was made for loving you baby </td>
+		<td class="keywords"> DevOps , KISS , agile , principle </td>
+		<td class="url"> https://fr.wikipedia.org/wiki/Principe_KISS </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Kaizen </td>
+		<td class="description"> Changement meilleur </td>
+		<td class="keywords"> DevOps , Kaizen , principle , continuous improvment </td>
+		<td class="url"> https://fr.wikipedia.org/wiki/Kaizen </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> SavoirAgile </td>
+		<td class="description"> </td>
+		<td class="keywords"> agile </td>
+		<td class="url"> http://savoiragile.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Manifeste pour le développement Agile de logiciels </td>
+		<td class="description"> </td>
+		<td class="keywords"> agile </td>
+		<td class="url"> http://agilemanifesto.org/iso/fr/manifesto.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Everything as code </td>
+		<td class="description"> </td>
+		<td class="keywords"> as code </td>
+		<td class="url"> https://speakerdeck.com/garethr/everything-as-code </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Everything as code </td>
+		<td class="description"> </td>
+		<td class="keywords"> as code </td>
+		<td class="url"> https://fr.slideshare.net/dubsquared/eac-25454047 </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Bus factor </td>
+		<td class="description"> </td>
+		<td class="keywords"> metric , measurement , risks </td>
+		<td class="url"> https://en.wikipedia.org/wiki/Bus_factor </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Everything as code </td>
+		<td class="description"> </td>
+		<td class="keywords"> as code </td>
+		<td class="url"> https://github.com/lreimer/everything-as-code </td>
 	</tr>
 </table>
 
