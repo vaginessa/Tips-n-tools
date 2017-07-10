@@ -885,3 +885,17 @@ DevTool;Archiva;The Build Artifact Repository Manager;DevOps , Apache , artifact
 DevTool;Markdown;;DevOps , Markdown , md , documentation;http://www.markdowntutorial.com/
 DevTool;AsciiDoc;Text based document generation;DevOps , documentation;http://www.methods.co.nz/asciidoc/
 DevTool;Gerrit;Web based code review and repository management;DevOps , code review;https://www.gerritcodereview.com/
+/;Viewdns.info;;social engineering , hack , network , DNS;http://viewdns.info/
+/;INPI Bases de données des marques;; social engineering;https://bases-marques.inpi.fr/Typo3_INPI_Marques/marques_resultats_liste.html
+/;Market Visual;;social engineering;http://www.marketvisual.com/
+/;The Official Board;;social engineering;https://www.theofficialboard.com/company/search
+/;Research Clinic – Facebook Graph Searching;;social engineering , facebook , graph;http://researchclinic.net/graph.html
+/;Research Clinic;Supporting open sourcer investigation;social engineering , investigation;http://researchclinic.net/
+/;Facebook Graphs Shortcuts;;social engineering , facebook , graph;http://graph.tips/
+/;Carrot²;;social engineering;http://search.carrot2.org/stable/search
+Android;Luhn;UI for Credit Card Entry on Android device, perform check for supported credit card types , pan length and luhn check;UI , widgets , credit card;https://github.com/KingsMentor/Luhn
+Android;RichPath; Draw as you want. Animate much as you can. ;UI , drawables , paths;https://github.com/tarek360/RichPath
+Android;Datepicker Timeline;An infinite scrolling timeline to pick a date ;UI , date picker , timeline , date , widgets;https://github.com/badoualy/datepicker-timeline
+Android;CVScanner;An OpenCV based library for Android to scan ID documents or Passports;OpenCV , recognition , documents , scan;https://github.com/Credntia/CVScanner
+/;Gradlr;Fastest auto complete for gradle tasks ;Gradle;https://github.com/cesarferreira/gradlr
+/;IntelTechniques.com;OSINT Training & Privacy consulting;social engineering , privacy;https://inteltechniques.com/links.HTML
