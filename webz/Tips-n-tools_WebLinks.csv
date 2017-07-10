@@ -650,7 +650,7 @@ AI;Quick, draw!; Can a neural network learn to recognize doodling? ;TensorFlox ,
 DevTool;DevOps, NoOps, everything-as-code, commoditisation... Quel futur pour les ops ? ;;DevOps , NoOps , everything as code , as code;https://www.youtube.com/watch?v=bqxQhlyXl6M
 DevTool;KISS;I was made for loving you baby;DevOps , KISS , agile , principle;https://fr.wikipedia.org/wiki/Principe_KISS
 DevTool;Kaizen;Changement meilleur;DevOps , Kaizen , principle , continuous improvment;https://fr.wikipedia.org/wiki/Kaizen
-/;SavoirAgile;;agile;http://savoiragile.com/
+DevTool;SavoirAgile;;agile;http://savoiragile.com/
 DevTool;Manifeste pour le développement Agile de logiciels ;;agile;http://agilemanifesto.org/iso/fr/manifesto.html
 /;Everything as code;;as code;https://speakerdeck.com/garethr/everything-as-code
 /;Everything as code;;as code;https://fr.slideshare.net/dubsquared/eac-25454047
@@ -658,3 +658,7 @@ DevTool;Manifeste pour le développement Agile de logiciels ;;agile;http://agile
 /;Everything as code;;as code;https://github.com/lreimer/everything-as-code
 /;0x90r00t.com – Nuit du Hack 2017;;challenges , hack , social engineering;https://0x90r00t.com/fr/category/ctf-fr/2017/nuit-du-hack/
 /;Coder, ce n'est ni facile, ni marrant;;developer , code , fun;https://www.franceculture.fr/emissions/la-vie-numerique/coder-ce-nest-ni-facile-ni-marrant
+DevTool;Software Craftsmanship;;craftsmanship , software;http://www.touilleur-express.fr/2011/01/20/craftsmanship/
+DevTool;Manifesto for Software Craftsmanship;;craftsmanship , software;http://manifesto.softwarecraftsmanship.org/
+DevTool;Software Craftsmanship : une culture à transmettre ;;craftsmanship , software;https://blog.octo.com/software-craftsmanship-une-culture-a-transmettre/
+DevTool;DevOps on Android: From one Git push to production;;DevOps , Android;http://jeremie-martinez.com/2016/01/14/devops-on-android/

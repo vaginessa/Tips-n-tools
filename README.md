@@ -6301,6 +6301,13 @@
 		<td class="keywords"> social engineering , privacy </td>
 		<td class="url"> https://inteltechniques.com/links.HTML </td>
 	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> LOIC </td>
+		<td class="description"> </td>
+		<td class="keywords"> testing , performances , networks , quality </td>
+		<td class="url"> https://github.com/NewEraCracker/LOIC </td>
+	</tr>
 </table>
 
 
@@ -10821,7 +10828,7 @@
 		<td class="url"> https://fr.wikipedia.org/wiki/Kaizen </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> SavoirAgile </td>
 		<td class="description"> </td>
 		<td class="keywords"> agile </td>
@@ -10875,6 +10882,34 @@
 		<td class="description"> </td>
 		<td class="keywords"> developer , code , fun </td>
 		<td class="url"> https://www.franceculture.fr/emissions/la-vie-numerique/coder-ce-nest-ni-facile-ni-marrant </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Software Craftsmanship </td>
+		<td class="description"> </td>
+		<td class="keywords"> craftsmanship , software </td>
+		<td class="url"> http://www.touilleur-express.fr/2011/01/20/craftsmanship/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Manifesto for Software Craftsmanship </td>
+		<td class="description"> </td>
+		<td class="keywords"> craftsmanship , software </td>
+		<td class="url"> http://manifesto.softwarecraftsmanship.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Software Craftsmanship : une culture à transmettre </td>
+		<td class="description"> </td>
+		<td class="keywords"> craftsmanship , software </td>
+		<td class="url"> https://blog.octo.com/software-craftsmanship-une-culture-a-transmettre/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> DevOps on Android: From one Git push to production </td>
+		<td class="description"> </td>
+		<td class="keywords"> DevOps , Android </td>
+		<td class="url"> http://jeremie-martinez.com/2016/01/14/devops-on-android/ </td>
 	</tr>
 </table>
 
