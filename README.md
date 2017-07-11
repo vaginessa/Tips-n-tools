@@ -6308,6 +6308,20 @@
 		<td class="keywords"> testing , performances , networks , quality </td>
 		<td class="url"> https://github.com/NewEraCracker/LOIC </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Droid @ Screen </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , screen , controler , device </td>
+		<td class="url"> http://droid-at-screen.org/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Gradle </td>
+		<td class="description"> </td>
+		<td class="keywords"> Gradle , build </td>
+		<td class="url"> https://docs.gradle.org/current/release-notes.html </td>
+	</tr>
 </table>
 
 
@@ -10910,6 +10924,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> DevOps , Android </td>
 		<td class="url"> http://jeremie-martinez.com/2016/01/14/devops-on-android/ </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> 7 Steps To Room </td>
+		<td class="description"> </td>
+		<td class="keywords"> Room , persistence , AAC , Android Architecture Components , storage , data </td>
+		<td class="url"> https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Interview Questions </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , job , interviews , questions </td>
+		<td class="url"> https://github.com/MindorksOpenSource/android-interview-questions </td>
 	</tr>
 </table>
 

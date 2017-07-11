@@ -900,3 +900,5 @@ Android;CVScanner;An OpenCV based library for Android to scan ID documents or Pa
 /;Gradlr;Fastest auto complete for gradle tasks ;Gradle;https://github.com/cesarferreira/gradlr
 /;IntelTechniques.com;OSINT Training & Privacy consulting;social engineering , privacy;https://inteltechniques.com/links.HTML
 DevTool;LOIC;;testing , performances , networks , quality;https://github.com/NewEraCracker/LOIC
+Android;Droid @ Screen;;Android , screen , controler , device;http://droid-at-screen.org/
+/;Gradle;;Gradle , build;https://docs.gradle.org/current/release-notes.html
