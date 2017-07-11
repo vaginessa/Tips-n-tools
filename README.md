@@ -6053,7 +6053,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Genesis Mining </td>
 		<td class="description"> </td>
-		<td class="keywords"> BTC , Bitcoin , mining </td>
+		<td class="keywords"> BTC , Bitcoin , mining , cryptomonnaie </td>
 		<td class="url"> https://www.genesis-mining.com/ </td>
 	</tr>
 	<tr>
@@ -6067,7 +6067,7 @@
 		<td class="subjectOther"> / </td>
 		<td class="name"> Coinbase </td>
 		<td class="description"> Way to buy and sell BTC, ETH and LTC </td>
-		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie </td>
 		<td class="url"> https://www.coinbase.com/ </td>
 	</tr>
 	<tr>
@@ -6321,6 +6321,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Gradle , build </td>
 		<td class="url"> https://docs.gradle.org/current/release-notes.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Zcash </td>
+		<td class="description"> First open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography. </td>
+		<td class="keywords"> coin , cryptomonnaie </td>
+		<td class="url"> https://z.cash/ </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Coinmarketmap </td>
+		<td class="description"> CryptoCurrency Market Capitalizations </td>
+		<td class="keywords"> coin , cryptomonnaie </td>
+		<td class="url"> http://coinmarketcap.com/ </td>
 	</tr>
 </table>
 
@@ -10938,6 +10952,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , job , interviews , questions </td>
 		<td class="url"> https://github.com/MindorksOpenSource/android-interview-questions </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Bitcoin, Ethereum, LiteCoin… : comment fonctionnent les crypto monnaies ? </td>
+		<td class="description"> </td>
+		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie </td>
+		<td class="url"> http://www.numerama.com/business/272280-bitcoin-ethereum-litecoin-quest-ce-quune-crypto-monnaie.html </td>
 	</tr>
 </table>
 
