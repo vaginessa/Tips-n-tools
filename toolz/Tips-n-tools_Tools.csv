@@ -712,8 +712,8 @@ DevTool;Atom;A hackable text editor for the 21st Century;IDE , editor , text edi
 DevTool;Vim;;IDE , editor , text editor;http://www.vim.org/
 Android;Matisse;A well-designed local image and video selector for Android;UI , picture , image , video , selector , picker;https://github.com/zhihu/Matisse
 Android;Android Material Color Picker Dialog; A simple, minimalistic and beautiful dialog color picker for Android 4.1+ (Jellybean+) devices;UI , color picker , dialog;https://github.com/Pes8/android-material-color-picker-dialog
-/;Wikipedia;;digital humanism;https://www.wikipedia.org/
-/;Electronic Frontier Foundation;;digital humanism , news , veille;https://www.eff.org/
+Humanism;Wikipedia;;digital humanism;https://www.wikipedia.org/
+Humanism;Electronic Frontier Foundation;;digital humanism , news , veille;https://www.eff.org/
 /;Flickr;;digital humanism , pictures;https://www.flickr.com/
 /;Github;;digital humanism , repository , project , git;https://github.com/
 /;Archive.org;Wayback machine - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more. ;digital humanism;https://archive.org/
@@ -863,9 +863,9 @@ Humanism;Mozilla;Internet est un bien commun, nous le défendons;privacy , freed
 /;Orbot;;privacy , freedom , security , web;https://github.com/n8fr8/orbot
 /;Orfox;This is the build wrapper for the Orfox project ;privacy , freedom , security , web;https://github.com/guardianproject/Orfox
 /;Ooni-probe;Network measurement framework aimed at detecting network interference.;privacy , freedom , security , web , probe;https://github.com/TheTorProject/ooni-probe
-/;Genesis Mining;;BTC , Bitcoin , mining , cryptomonnaie;https://www.genesis-mining.com/
-/;MyEtherWallet;Open(Source & Client-Side Ether Wallet;BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin;https://www.myetherwallet.com/
-/;Coinbase;Way to buy and sell BTC, ETH and LTC;BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie;https://www.coinbase.com/
+Cybercoin;Genesis Mining;;BTC , Bitcoin , mining , cryptomonnaie;https://www.genesis-mining.com/
+Cybercoin;MyEtherWallet;Open(Source & Client-Side Ether Wallet;BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin;https://www.myetherwallet.com/
+Cybercoin;Coinbase;Way to buy and sell BTC, ETH and LTC;BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie;https://www.coinbase.com/
 Android;Timber; A logger with a small, extensible API which provides utility on top of Android's normal Log class.;logger , logs , debug , crash;https://github.com/JakeWharton/timber
 /;Kubernets;Production-Grade Container Orchestration. Automated container deployment, scaling, and management.;container;https://kubernetes.io/
 Web;Traefik;HTTP reverse proxy and load balancer made to deploy microservices;HTTP , reverse proxy , load balancer;https://traefik.io/
@@ -902,5 +902,9 @@ Android;CVScanner;An OpenCV based library for Android to scan ID documents or Pa
 DevTool;LOIC;;testing , performances , networks , quality;https://github.com/NewEraCracker/LOIC
 Android;Droid @ Screen;;Android , screen , controler , device;http://droid-at-screen.org/
 /;Gradle;;Gradle , build;https://docs.gradle.org/current/release-notes.html
-/;Zcash;First open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.;coin , cryptomonnaie;https://z.cash/
-/;Coinmarketmap;CryptoCurrency Market Capitalizations;coin , cryptomonnaie;http://coinmarketcap.com/
+Cybercoin;Zcash;First open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.;coin , cryptomonnaie;https://z.cash/
+Cybercoin;Coinmarketmap;CryptoCurrency Market Capitalizations;coin , cryptomonnaie;http://coinmarketcap.com/
+Humanism;Comité des Rencontres Mondiales du Logiciel Libre;;FOSS , free , opensource , RMLL;http://comite.rmll.info/
+Cybercoin;Etherscan;;coin , cryptomonnaie , ETH , ETC , ethereum;https://etherscan.io/
+Cybercoin;Ethereum Github;;coin , cryptomonnaie , ETH , ETC , ethereum;https://github.com/ethereum
+DevTool;JitPack;Easy to use package repository for Git. Publish your JVM and Android libraries;Git , JVM , Android , libraries , package;https://jitpack.io/

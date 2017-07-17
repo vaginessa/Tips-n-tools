@@ -4993,14 +4993,14 @@
 		<td class="url"> https://github.com/Pes8/android-material-color-picker-dialog </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectHumanism"> Humanism </td>
 		<td class="name"> Wikipedia </td>
 		<td class="description"> </td>
 		<td class="keywords"> digital humanism </td>
 		<td class="url"> https://www.wikipedia.org/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectHumanism"> Humanism </td>
 		<td class="name"> Electronic Frontier Foundation </td>
 		<td class="description"> </td>
 		<td class="keywords"> digital humanism , news , veille </td>
@@ -6050,21 +6050,21 @@
 		<td class="url"> https://github.com/TheTorProject/ooni-probe </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Genesis Mining </td>
 		<td class="description"> </td>
 		<td class="keywords"> BTC , Bitcoin , mining , cryptomonnaie </td>
 		<td class="url"> https://www.genesis-mining.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> MyEtherWallet </td>
 		<td class="description"> Open(Source & Client-Side Ether Wallet </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin </td>
 		<td class="url"> https://www.myetherwallet.com/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Coinbase </td>
 		<td class="description"> Way to buy and sell BTC, ETH and LTC </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie </td>
@@ -6323,18 +6323,46 @@
 		<td class="url"> https://docs.gradle.org/current/release-notes.html </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Zcash </td>
 		<td class="description"> First open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography. </td>
 		<td class="keywords"> coin , cryptomonnaie </td>
 		<td class="url"> https://z.cash/ </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Coinmarketmap </td>
 		<td class="description"> CryptoCurrency Market Capitalizations </td>
 		<td class="keywords"> coin , cryptomonnaie </td>
 		<td class="url"> http://coinmarketcap.com/ </td>
+	</tr>
+	<tr>
+		<td class="subjectHumanism"> Humanism </td>
+		<td class="name"> Comité des Rencontres Mondiales du Logiciel Libre </td>
+		<td class="description"> </td>
+		<td class="keywords"> FOSS , free , opensource , RMLL </td>
+		<td class="url"> http://comite.rmll.info/ </td>
+	</tr>
+	<tr>
+		<td class="subjectCybercoin"> Cybercoin </td>
+		<td class="name"> Etherscan </td>
+		<td class="description"> </td>
+		<td class="keywords"> coin , cryptomonnaie , ETH , ETC , ethereum </td>
+		<td class="url"> https://etherscan.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectCybercoin"> Cybercoin </td>
+		<td class="name"> Ethereum Github </td>
+		<td class="description"> </td>
+		<td class="keywords"> coin , cryptomonnaie , ETH , ETC , ethereum </td>
+		<td class="url"> https://github.com/ethereum </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> JitPack </td>
+		<td class="description"> Easy to use package repository for Git. Publish your JVM and Android libraries </td>
+		<td class="keywords"> Git , JVM , Android , libraries , package </td>
+		<td class="url"> https://jitpack.io/ </td>
 	</tr>
 </table>
 
@@ -10716,14 +10744,14 @@
 		<td class="url"> https://android.jlelse.eu/mastering-viewpager-with-directed-acyclic-graph-533ed5ee1e5e </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Coinbase : pour bien débuter dans le monde des Bitcoin, Ethereum et Litcoin </td>
 		<td class="description"> </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
 		<td class="url"> https://medium.com/@ulrichrozier/coinbase-pour-bien-d%C3%A9buter-dans-le-monde-des-bitcoin-ethereum-et-litcoin-76ae9cb1c30b </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Je me lance dans le cloud-minage d’Ethereum (ETH) </td>
 		<td class="description"> </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , crypto-monnaie </td>
@@ -10954,11 +10982,32 @@
 		<td class="url"> https://github.com/MindorksOpenSource/android-interview-questions </td>
 	</tr>
 	<tr>
-		<td class="subjectOther"> / </td>
+		<td class="subjectCybercoin"> Cybercoin </td>
 		<td class="name"> Bitcoin, Ethereum, LiteCoin… : comment fonctionnent les crypto monnaies ? </td>
 		<td class="description"> </td>
 		<td class="keywords"> BTC , ETH , LTC , Bitcoin , Ethereum , LiteCoin , mining , coin , cryptomonnaie </td>
 		<td class="url"> http://www.numerama.com/business/272280-bitcoin-ethereum-litecoin-quest-ce-quune-crypto-monnaie.html </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Normes Wi-Fi n, ac, ad… : le guide des débits </td>
+		<td class="description"> </td>
+		<td class="keywords"> Wi-Fi , datasheets </td>
+		<td class="url"> http://www.frandroid.com/comment-faire/241426_les-differentes-normes-wi-fi-802-11abgnac-quelles-differences-pratique </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Tout sur le Bluetooth : objets connectés et geomarketing </td>
+		<td class="description"> </td>
+		<td class="keywords"> Bluetooth , BLE , datasheets </td>
+		<td class="url"> http://www.frandroid.com/produits-android/maison-connectee/232622_dossier-bluetooth-fonctionnement-interet-les-objets-connectes </td>
+	</tr>
+	<tr>
+		<td class="subjectCybercoin"> Cybercoin </td>
+		<td class="name"> Ethereum : tout savoir sur la crypto monnaie et ses contrats intelligents </td>
+		<td class="description"> </td>
+		<td class="keywords"> coin , cryptomonnaie , ETH , ETC , ethereum </td>
+		<td class="url"> http://www.numerama.com/business/272641-ethereum-tout-savoir-sur-la-crypto-monnaie-et-ses-contrats-intelligents.html </td>
 	</tr>
 </table>
 
