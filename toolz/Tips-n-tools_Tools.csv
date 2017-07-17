@@ -908,3 +908,11 @@ Humanism;Comité des Rencontres Mondiales du Logiciel Libre;;FOSS , free , opens
 Cybercoin;Etherscan;;coin , cryptomonnaie , ETH , ETC , ethereum;https://etherscan.io/
 Cybercoin;Ethereum Github;;coin , cryptomonnaie , ETH , ETC , ethereum;https://github.com/ethereum
 DevTool;JitPack;Easy to use package repository for Git. Publish your JVM and Android libraries;Git , JVM , Android , libraries , package;https://jitpack.io/
+Android;Bugsnag;Bugsnag crash reporting for Android apps ;debugging , bugs , support;https://github.com/bugsnag/bugsnag-android
+Java;Mimecraft;Utility for creating RFC-compliant multipart and form-encoded HTTP request bodies;HTTP , requests , MIME , RFC-compliant , Square;https://github.com/square/mimecraft
+Android;HAHA;Java library to automate the analysis of Android heap dumps.;Java , Android , heap , dump , analysis , Square;https://github.com/square/haha
+Android;Seismic;Android device shake detection.;UI , shake , detection , Square;https://github.com/square/seismic
+Android;Gifencoder;A pure Java library implementing the GIF89a specification;UI , GIF , encoding , Square;https://github.com/square/gifencoder
+Android;Dotsindicator;A cool dots indicator for ViewPager in Android;UI , widgets , dots , indicator;https://github.com/tommybuonomo/dotsindicator
+Android;FaceDetector;;UI , face detection;https://github.com/Fotoapparat/FaceDetector
+Android;ProgressView;Fancy Progress View Tool with animation ;UI , widget , progress view;https://github.com/zekapp/Android-ProgressViews
