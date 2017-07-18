@@ -6420,6 +6420,48 @@
 		<td class="keywords"> UI , widget , progress view </td>
 		<td class="url"> https://github.com/zekapp/Android-ProgressViews </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Turn Layout Manager </td>
+		<td class="description"> A carousel layout manager for RecyclerView </td>
+		<td class="keywords"> UI , widgets , turn , layout , circle , carousel </td>
+		<td class="url"> https://github.com/cdflynn/turn-layout-manager </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> LuiquidRadioButton </td>
+		<td class="description"> A Radio button with custom liquid animation </td>
+		<td class="keywords"> UI , widget , radio , button , liquid , effect </td>
+		<td class="url"> https://github.com/omidheshmatinia/LiquidRadioButton </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> RubberStamp </td>
+		<td class="description"> Llibrary that makes it easy for you to add a watermark to your images. </td>
+		<td class="keywords"> UI , picture , watermark , stamp , rubber </td>
+		<td class="url"> https://github.com/vinaygaba/RubberStamp </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SmartRefreshLayout </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , pull to refresh , animations </td>
+		<td class="url"> https://github.com/scwang90/SmartRefreshLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> SlidingUpPaneLayout </td>
+		<td class="description"> A vertical-handled and multi-panel support SlidingPanelLayout. </td>
+		<td class="keywords"> UI , sliding , panel , vertical , layout </td>
+		<td class="url"> https://github.com/woxingxiao/SlidingUpPanelLayout </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Branch.io </td>
+		<td class="description"> The linking infrastructure for today's top brands </td>
+		<td class="keywords"> deep linking </td>
+		<td class="url"> https://branch.io/ </td>
+	</tr>
 </table>
 
 
@@ -11064,6 +11106,48 @@
 		<td class="description"> </td>
 		<td class="keywords"> coin , cryptomonnaie , ETH , ETC , ethereum </td>
 		<td class="url"> http://www.numerama.com/business/272641-ethereum-tout-savoir-sur-la-crypto-monnaie-et-ses-contrats-intelligents.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Tools and Libraries for Common Android Problems </td>
+		<td class="description"> </td>
+		<td class="keywords"> Tips , social , networking , method count , memory , leaks , architecture, testing , performance , database , analytics ,crash , notifications </td>
+		<td class="url"> https://news.realm.io/news/tools-and-libraries-for-common-android-problems </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Converting an App to Use Clean Architecture </td>
+		<td class="description"> </td>
+		<td class="keywords"> architecture , clean </td>
+		<td class="url"> https://news.realm.io/news/converting-an-app-to-use-clean-architecture </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android Architecture Components by Example </td>
+		<td class="description"> </td>
+		<td class="keywords"> AAC , components , android , architecture </td>
+		<td class="url"> https://proandroiddev.com/architecture-components-modelview-livedata-33d20bdcc4e9?__s=r9tasswtcpujp9ffsquo </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Super easy mobile deep links with Branch.io </td>
+		<td class="description"> </td>
+		<td class="keywords"> Branch.io , deep link </td>
+		<td class="url"> https://blog.kishorebabu.com/super-easy-mobile-deep-links-with-branch-io-cfcb19dc898e </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Implementing Adaptive Icons </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , icons , adaptive </td>
+		<td class="url"> https://medium.com/google-developers/implementing-adaptive-icons-1e4d1795470e </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Refactoring an existing Android app to support Instant App </td>
+		<td class="description"> </td>
+		<td class="keywords"> Instant App </td>
+		<td class="url"> https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73 </td>
 	</tr>
 </table>
 

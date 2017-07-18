@@ -916,3 +916,9 @@ Android;Gifencoder;A pure Java library implementing the GIF89a specification;UI 
 Android;Dotsindicator;A cool dots indicator for ViewPager in Android;UI , widgets , dots , indicator;https://github.com/tommybuonomo/dotsindicator
 Android;FaceDetector;;UI , face detection;https://github.com/Fotoapparat/FaceDetector
 Android;ProgressView;Fancy Progress View Tool with animation ;UI , widget , progress view;https://github.com/zekapp/Android-ProgressViews
+Android;Turn Layout Manager; A carousel layout manager for RecyclerView;UI , widgets , turn , layout , circle , carousel;https://github.com/cdflynn/turn-layout-manager
+Android;LuiquidRadioButton;A Radio button with custom liquid animation;UI , widget , radio , button , liquid , effect;https://github.com/omidheshmatinia/LiquidRadioButton
+Android;RubberStamp;Llibrary that makes it easy for you to add a watermark to your images.;UI , picture , watermark , stamp , rubber;https://github.com/vinaygaba/RubberStamp
+Android;SmartRefreshLayout;;UI , pull to refresh , animations;https://github.com/scwang90/SmartRefreshLayout
+Android;SlidingUpPaneLayout;A vertical-handled and multi-panel support SlidingPanelLayout.;UI , sliding , panel , vertical , layout;https://github.com/woxingxiao/SlidingUpPanelLayout
+Android;Branch.io;The linking infrastructure for today's top brands;deep linking;https://branch.io/
