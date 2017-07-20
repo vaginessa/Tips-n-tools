@@ -114,7 +114,7 @@
 		<td class="url"> http://tutos-android-france.com/introduction-a-espresso/ </td>
 	</tr>
 	<tr>
-		<td class="subjectAndroid"> Android </td>
+		<td class="subjectDevTool"> DevTool </td>
 		<td class="name"> Fabric.io </td>
 		<td class="description"> Bug tracking and dashboard </td>
 		<td class="keywords"> Crashlytics , Fabric.io , quality </td>
@@ -1468,7 +1468,7 @@
 		<td class="subjectJava"> Java </td>
 		<td class="name"> Guava </td>
 		<td class="description"> </td>
-		<td class="keywords"> Google , Java </td>
+		<td class="keywords"> Google , Java , librairies , API , data structure </td>
 		<td class="url"> https://github.com/google/guava </td>
 	</tr>
 	<tr>
@@ -6462,6 +6462,13 @@
 		<td class="keywords"> deep linking </td>
 		<td class="url"> https://branch.io/ </td>
 	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> Coveralls </td>
+		<td class="description"> Deliver better code </td>
+		<td class="keywords"> coverage , quality , code </td>
+		<td class="url"> https://coveralls.io/ </td>
+	</tr>
 </table>
 
 
@@ -11148,6 +11155,27 @@
 		<td class="description"> </td>
 		<td class="keywords"> Instant App </td>
 		<td class="url"> https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Ensuring code quality on Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> quality , code , style , rules , bugs , architecture , sonarqube </td>
+		<td class="url"> https://medium.com/@iateyourmic/ensuring-code-quality-on-android-d583e717de2 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Android guidelines of Ribot </td>
+		<td class="description"> http://ribot.co.uk/ </td>
+		<td class="keywords"> guidelines , architecture , code </td>
+		<td class="url"> https://github.com/ribot/android-guidelines </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Kotlin Style Guide </td>
+		<td class="description"> A style guide for Android developers writing in Kotlin </td>
+		<td class="keywords"> guidelines , architecture , code </td>
+		<td class="url"> https://github.com/ditn/KotlinStyleGuide </td>
 	</tr>
 </table>
 

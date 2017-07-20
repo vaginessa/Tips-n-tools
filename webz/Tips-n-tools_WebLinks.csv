@@ -674,3 +674,6 @@ Android;Android Architecture Components by Example;;AAC , components , android ,
 Android;Super easy mobile deep links with Branch.io;;Branch.io , deep link;https://blog.kishorebabu.com/super-easy-mobile-deep-links-with-branch-io-cfcb19dc898e
 Design;Implementing Adaptive Icons;;UI , icons , adaptive;https://medium.com/google-developers/implementing-adaptive-icons-1e4d1795470e
 Android;Refactoring an existing Android app to support Instant App;;Instant App;https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73
+Android;Ensuring code quality on Android;;quality , code , style , rules , bugs , architecture , sonarqube;https://medium.com/@iateyourmic/ensuring-code-quality-on-android-d583e717de2
+Android;Android guidelines of Ribot; http://ribot.co.uk/;guidelines , architecture , code;https://github.com/ribot/android-guidelines
+Android;Kotlin Style Guide;A style guide for Android developers writing in Kotlin ;guidelines , architecture , code;https://github.com/ditn/KotlinStyleGuide

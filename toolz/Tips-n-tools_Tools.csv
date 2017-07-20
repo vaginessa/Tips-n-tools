@@ -15,7 +15,7 @@ Android;Picasso;A powerful image downloading and caching library;pictures , imag
 Android;Branded launch screen;New splash screens for Android;tuto , splash screen;http://antonioleiva.com/branded-launch-screen/
 Android;IntroScreen;To create intro screen on ViewPager and PageTransformer;tuto , intro screen;https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.of5ivc9bz
 Design;Espresso;Introduction to Espresso (what else?);tuto , espresso , UI tests;http://tutos-android-france.com/introduction-a-espresso/
-Android;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io , quality;https://get.fabric.io/
+DevTool;Fabric.io;Bug tracking and dashboard;Crashlytics , Fabric.io , quality;https://get.fabric.io/
 Android;material;A library to bring fully animated Material Design components to pre-Lolipop Android;material design;https://github.com/rey5137/material
 Android;YahooNewOnboarding;Demos fo landing screens / start screens on Android;landing screen;https://github.com/rahulrj/YahooNewsOnboarding
 Android;AppIntro;App intros / landing screens;landing screen;https://github.com/PaoloRotolo/AppIntro
@@ -208,7 +208,7 @@ Android;EasyDeviceInfo;;device infos;https://github.com/nisrulz/easydeviceinfo
 Android;MaterialTapTargetPrompt;;tap target , prompt , features discovery , showcase , app intro , intro;https://github.com/sjwall/MaterialTapTargetPrompt
 Android;Space Navigation View;;space navigation view;https://github.com/armcha/Space-Navigation-View
 Android;Speed View;;speed , view;https://github.com/anastr/SpeedView
-Java;Guava;;Google , Java;https://github.com/google/guava
+Java;Guava;;Google , Java , librairies , API , data structure;https://github.com/google/guava
 Android;AndroidAudioRecorder;A fancy audio recorder for Android supporting WAV format;audio , recorder;https://github.com/adrielcafe/AndroidAudioRecorder
 Android;AdBlockerDetector;;ads , adblock;https://github.com/Swisyn/AdBlockerDetector
 Android;Jgraph;;graphs , charts;https://github.com/mychoices/Jgraph
@@ -922,3 +922,4 @@ Android;RubberStamp;Llibrary that makes it easy for you to add a watermark to yo
 Android;SmartRefreshLayout;;UI , pull to refresh , animations;https://github.com/scwang90/SmartRefreshLayout
 Android;SlidingUpPaneLayout;A vertical-handled and multi-panel support SlidingPanelLayout.;UI , sliding , panel , vertical , layout;https://github.com/woxingxiao/SlidingUpPanelLayout
 Android;Branch.io;The linking infrastructure for today's top brands;deep linking;https://branch.io/
+DevTool;Coveralls;Deliver better code;coverage , quality , code;https://coveralls.io/
