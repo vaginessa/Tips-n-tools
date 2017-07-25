@@ -4121,7 +4121,7 @@
 		<td class="subjectRust"> Rust </td>
 		<td class="name"> Rust </td>
 		<td class="description"> Rust est un langage de programmation système ultra-rapide, qui prévient les erreurs de segmentation et garantit la sûreté entre threads. </td>
-		<td class="keywords"> Rust </td>
+		<td class="keywords"> Rust , langage , segfault , memory , threads , safety </td>
 		<td class="url"> https://www.rust-lang.org/fr/ </td>
 	</tr>
 	<tr>
@@ -6468,6 +6468,27 @@
 		<td class="description"> Deliver better code </td>
 		<td class="keywords"> coverage , quality , code </td>
 		<td class="url"> https://coveralls.io/ </td>
+	</tr>
+	<tr>
+		<td class="subjectHumanism"> Humanism </td>
+		<td class="name"> RPGmaker </td>
+		<td class="description"> Simple enough for a child </td>
+		<td class="keywords"> powerful enough for a developer </td>
+		<td class="url"> teach , learn , code , game , programming , kids , friends , coworkers </td>
+	</tr>
+	<tr>
+		<td class="subjectJava"> Java </td>
+		<td class="name"> fastjson </td>
+		<td class="description"> A fast JSON parser/generator for Java </td>
+		<td class="keywords"> JSON , Java , parser , generator , Alibaba </td>
+		<td class="url"> https://github.com/alibaba/fastjson </td>
+	</tr>
+	<tr>
+		<td class="subjectDevTool"> DevTool </td>
+		<td class="name"> HTOP </td>
+		<td class="description"> This is htop, an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. </td>
+		<td class="keywords"> process , viewer , htop , Linux , ncurses , Unix </td>
+		<td class="url"> http://hisham.hm/htop/ </td>
 	</tr>
 </table>
 
@@ -11176,6 +11197,48 @@
 		<td class="description"> A style guide for Android developers writing in Kotlin </td>
 		<td class="keywords"> guidelines , architecture , code </td>
 		<td class="url"> https://github.com/ditn/KotlinStyleGuide </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Design for Continuous Experimentation </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX , design , continuous experimentation , A/B testing </td>
+		<td class="url"> https://www.slideshare.net/danmckinley/design-for-continuous-experimentation/ </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> Web performance: How to affect perceived performance </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , UX ,web , performance , design </td>
+		<td class="url"> https://medium.com/the-path-forward/web-performance-how-to-affect-perceived-performance-a1ec590198bf </td>
+	</tr>
+	<tr>
+		<td class="subjectDesign"> Design </td>
+		<td class="name"> From Web to Mobile Development: 5 Things to Consider </td>
+		<td class="description"> </td>
+		<td class="keywords"> UI , web , mobile </td>
+		<td class="url"> https://medium.com/outsystems-experts/from-web-to-mobile-development-5-things-to-consider-5e31d0979aae </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> The Problem With Heroes In Software Development </td>
+		<td class="description"> </td>
+		<td class="keywords"> crisis , developers , heroes </td>
+		<td class="url"> https://dev.to/pbeekums/the-problem-with-heroes-in-software-development </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Product Flavors for Android Library </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , build , Gradle , product flavors , build variants </td>
+		<td class="url"> https://android.jlelse.eu/product-flavors-for-android-library-d3b2d240fca2 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Configure Your Build </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , build , Gradle , product flavors , build variants </td>
+		<td class="url"> https://developer.android.com/studio/build/index.html </td>
 	</tr>
 </table>
 

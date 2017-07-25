@@ -677,3 +677,9 @@ Android;Refactoring an existing Android app to support Instant App;;Instant App;
 Android;Ensuring code quality on Android;;quality , code , style , rules , bugs , architecture , sonarqube;https://medium.com/@iateyourmic/ensuring-code-quality-on-android-d583e717de2
 Android;Android guidelines of Ribot; http://ribot.co.uk/;guidelines , architecture , code;https://github.com/ribot/android-guidelines
 Android;Kotlin Style Guide;A style guide for Android developers writing in Kotlin ;guidelines , architecture , code;https://github.com/ditn/KotlinStyleGuide
+Design;Design for Continuous Experimentation;;UI , UX , design , continuous experimentation , A/B testing;https://www.slideshare.net/danmckinley/design-for-continuous-experimentation/
+Design;Web performance: How to affect perceived performance;;UI , UX ,web , performance , design;https://medium.com/the-path-forward/web-performance-how-to-affect-perceived-performance-a1ec590198bf
+Design;From Web to Mobile Development: 5 Things to Consider;;UI , web , mobile;https://medium.com/outsystems-experts/from-web-to-mobile-development-5-things-to-consider-5e31d0979aae
+/;The Problem With Heroes In Software Development ;;crisis , developers , heroes;https://dev.to/pbeekums/the-problem-with-heroes-in-software-development
+Android;Product Flavors for Android Library;;Android , build , Gradle , product flavors , build variants;https://android.jlelse.eu/product-flavors-for-android-library-d3b2d240fca2
+Android;Configure Your Build;;Android , build , Gradle , product flavors , build variants;https://developer.android.com/studio/build/index.html

@@ -587,7 +587,7 @@ Android;Stetho;A debug bridge for Android applications;Facebook , debug , bridge
 Java;JaCoCo;;code , overage , Java;http://www.eclemma.org/jacoco/
 Dart;Flutter;Flutter is a new project to help developers build high-performance, high-fidelity, mobile apps for iOS and Android from a single codebase.;Flutter , Dart;https://flutter.io/
 Dart;Dart;;Dart;https://www.dartlang.org/
-Rust;Rust;Rust est un langage de programmation système ultra-rapide, qui prévient les erreurs de segmentation et garantit la sûreté entre threads. ;Rust;https://www.rust-lang.org/fr/
+Rust;Rust;Rust est un langage de programmation système ultra-rapide, qui prévient les erreurs de segmentation et garantit la sûreté entre threads. ;Rust ,  langage , segfault , memory , threads , safety;https://www.rust-lang.org/fr/
 Android;Image magnifier;;UI , view , image , zoom;https://github.com/nomanr/android-image-magnifier
 AI;TensorFlow;An open-source software library for Machine Intelligence ;AI , IA , Google , machine intelligence , neural networks;https://www.tensorflow.org/
 AI;TensorFlow;Computation using data flow graphs for scalable machine learning ;AI , IA , Google , machine intelligence , neural networks;https://github.com/tensorflow
@@ -923,3 +923,6 @@ Android;SmartRefreshLayout;;UI , pull to refresh , animations;https://github.com
 Android;SlidingUpPaneLayout;A vertical-handled and multi-panel support SlidingPanelLayout.;UI , sliding , panel , vertical , layout;https://github.com/woxingxiao/SlidingUpPanelLayout
 Android;Branch.io;The linking infrastructure for today's top brands;deep linking;https://branch.io/
 DevTool;Coveralls;Deliver better code;coverage , quality , code;https://coveralls.io/
+Humanism;RPGmaker;"Simple enough for a child; powerful enough for a developer";teach , learn , code , game , programming , kids , friends , coworkers;http://www.rpgmakerweb.com/
+Java;fastjson;A fast JSON parser/generator for Java ;JSON , Java , parser , generator , Alibaba;https://github.com/alibaba/fastjson
+DevTool;HTOP; This is htop, an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. ;process , viewer , htop  , Linux , ncurses , Unix;http://hisham.hm/htop/
