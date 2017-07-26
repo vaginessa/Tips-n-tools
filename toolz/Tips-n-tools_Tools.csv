@@ -176,7 +176,7 @@ Android;Magic Button;;buttons;https://github.com/daniel-martins-IR/MagicButton
 Android;AndroidDevMetrics;Performance metrics library ;metrics , dagger2metrics;https://github.com/frogermcs/AndroidDevMetrics
 Android;StereoView;;effects;https://github.com/ImmortalZ/StereoView
 Android;ThumbUp;;effects , animations , likes;https://github.com/ldoublem/ThumbUp
-Android;MaterialLogin;Amazing material login effect;material , login;https://github.com/fanrunqi/MaterialLogin
+Android;MaterialLogin;Amazing material login effect;UI , views , screen , material , login;https://github.com/fanrunqi/MaterialLogin
 Android;GlideFaceDetectionTransformation;Image transformation library providing cropping above face detection;face detection;https://github.com/aryarohit07/GlideFaceDetectionTransformation
 Android;Retrofit;A type safe HTTP client for Android and Java;HTTP client , OkHTTP;http://square.github.io/retrofit/
 Android;Onboarding;;introduction , screen;https://github.com/eoinfogarty/Onboarding
@@ -926,3 +926,6 @@ DevTool;Coveralls;Deliver better code;coverage , quality , code;https://coverall
 Humanism;RPGmaker;"Simple enough for a child; powerful enough for a developer";teach , learn , code , game , programming , kids , friends , coworkers;http://www.rpgmakerweb.com/
 Java;fastjson;A fast JSON parser/generator for Java ;JSON , Java , parser , generator , Alibaba;https://github.com/alibaba/fastjson
 DevTool;HTOP; This is htop, an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. ;process , viewer , htop  , Linux , ncurses , Unix;http://hisham.hm/htop/
+/;Blynk Server;Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet. ;Android , iOS , Arduino , Raspberry Pi , boards , microcontroller;https://github.com/blynkkk/blynk-server
+Android;MaterialDateTimePicker; Pick a date or time on Android in style;UI , views , date , time , picker;https://github.com/wdullaer/MaterialDateTimePicker
+/;Xiringuito;" SSH-based ""VPN for poors""";SSH , VPN , security;https://github.com/ivanilves/xiringuito

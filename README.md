@@ -1244,7 +1244,7 @@
 		<td class="subjectAndroid"> Android </td>
 		<td class="name"> MaterialLogin </td>
 		<td class="description"> Amazing material login effect </td>
-		<td class="keywords"> material , login </td>
+		<td class="keywords"> UI , views , screen , material , login </td>
 		<td class="url"> https://github.com/fanrunqi/MaterialLogin </td>
 	</tr>
 	<tr>
@@ -6490,6 +6490,27 @@
 		<td class="keywords"> process , viewer , htop , Linux , ncurses , Unix </td>
 		<td class="url"> http://hisham.hm/htop/ </td>
 	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Blynk Server </td>
+		<td class="description"> Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet. </td>
+		<td class="keywords"> Android , iOS , Arduino , Raspberry Pi , boards , microcontroller </td>
+		<td class="url"> https://github.com/blynkkk/blynk-server </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> MaterialDateTimePicker </td>
+		<td class="description"> Pick a date or time on Android in style </td>
+		<td class="keywords"> UI , views , date , time , picker </td>
+		<td class="url"> https://github.com/wdullaer/MaterialDateTimePicker </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Xiringuito </td>
+		<td class="description"> SSH-based VPN for poors </td>
+		<td class="keywords"> SSH , VPN , security </td>
+		<td class="url"> https://github.com/ivanilves/xiringuito </td>
+	</tr>
 </table>
 
 
@@ -11239,6 +11260,20 @@
 		<td class="description"> </td>
 		<td class="keywords"> Android , build , Gradle , product flavors , build variants </td>
 		<td class="url"> https://developer.android.com/studio/build/index.html </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Understanding migrations with Room </td>
+		<td class="description"> </td>
+		<td class="keywords"> Android , persistence , storage , database , BDD , Room , AAC </td>
+		<td class="url"> https://medium.com/google-developers/understanding-migrations-with-room-f01e04b07929 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Activities in the Wild: Exploring the Activity Lifecycle </td>
+		<td class="description"> </td>
+		<td class="keywords"> Activity , lifecycle </td>
+		<td class="url"> https://speakerdeck.com/kristinmars/activities-in-the-wild-exploring-the-activity-lifecycle-360-andev-july-2016 </td>
 	</tr>
 </table>
 
