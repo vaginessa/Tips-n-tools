@@ -6511,6 +6511,34 @@
 		<td class="keywords"> SSH , VPN , security </td>
 		<td class="url"> https://github.com/ivanilves/xiringuito </td>
 	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> BreadcrumbsView </td>
+		<td class="description"> Material Design Breadcrumbs Navigation Widget on Android </td>
+		<td class="keywords"> UI , widgets , views , breadcrumbs , fil d’Ariane , navigation </td>
+		<td class="url"> https://github.com/fython/BreadcrumbsView </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> GoogleMapsAnimations </td>
+		<td class="description"> Library to show radar and multiple types of circular ripple effects on Google Map </td>
+		<td class="keywords"> UI , view , map , radar ,e ffect </td>
+		<td class="url"> https://github.com/aarsy/GoogleMapsAnimations </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Onyx </td>
+		<td class="description"> Library that uses technologies like artificial intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app. </td>
+		<td class="keywords"> picture , image , video , recognition , Android , app </td>
+		<td class="url"> https://github.com/hanuor/onyx </td>
+	</tr>
+	<tr>
+		<td class="subjectOther"> / </td>
+		<td class="name"> Clarifai </td>
+		<td class="description"> Build amazing apps with the world’s best image and video recognition API. </td>
+		<td class="keywords"> picture , image , video , recognition </td>
+		<td class="url"> https://developer.clarifai.com/ </td>
+	</tr>
 </table>
 
 
@@ -11274,6 +11302,13 @@
 		<td class="description"> </td>
 		<td class="keywords"> Activity , lifecycle </td>
 		<td class="url"> https://speakerdeck.com/kristinmars/activities-in-the-wild-exploring-the-activity-lifecycle-360-andev-july-2016 </td>
+	</tr>
+	<tr>
+		<td class="subjectAndroid"> Android </td>
+		<td class="name"> Exploring iText : To Create PDF in Android </td>
+		<td class="description"> </td>
+		<td class="keywords"> PDF , iText </td>
+		<td class="url"> https://medium.com/android-school/exploring-itext-to-create-pdf-in-android-5577881998c8 </td>
 	</tr>
 </table>
 

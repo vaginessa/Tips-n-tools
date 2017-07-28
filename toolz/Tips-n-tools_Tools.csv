@@ -929,3 +929,7 @@ DevTool;HTOP; This is htop, an interactive process viewer for Unix systems. It i
 /;Blynk Server;Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet. ;Android , iOS , Arduino , Raspberry Pi , boards , microcontroller;https://github.com/blynkkk/blynk-server
 Android;MaterialDateTimePicker; Pick a date or time on Android in style;UI , views , date , time , picker;https://github.com/wdullaer/MaterialDateTimePicker
 /;Xiringuito;" SSH-based ""VPN for poors""";SSH , VPN , security;https://github.com/ivanilves/xiringuito
+Android;BreadcrumbsView; Material Design Breadcrumbs Navigation Widget on Android;UI , widgets , views , breadcrumbs , fil d’Ariane , navigation;https://github.com/fython/BreadcrumbsView
+Android;GoogleMapsAnimations;Library to show radar and multiple types of circular ripple effects on Google Map;UI , view , map , radar ,e ffect;https://github.com/aarsy/GoogleMapsAnimations
+Android;Onyx;Library that uses technologies like artificial intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app. ;picture , image , video , recognition , Android , app;https://github.com/hanuor/onyx
+/;Clarifai;Build amazing apps with the world’s best image and video recognition API.;picture , image , video , recognition;https://developer.clarifai.com/

@@ -685,3 +685,4 @@ Android;Product Flavors for Android Library;;Android , build , Gradle , product 
 Android;Configure Your Build;;Android , build , Gradle , product flavors , build variants;https://developer.android.com/studio/build/index.html
 Android;Understanding migrations with Room;;Android , persistence , storage , database , BDD , Room , AAC;https://medium.com/google-developers/understanding-migrations-with-room-f01e04b07929
 Android;Activities in the Wild: Exploring the Activity Lifecycle ;;Activity , lifecycle;https://speakerdeck.com/kristinmars/activities-in-the-wild-exploring-the-activity-lifecycle-360-andev-july-2016
+Android;Exploring iText : To Create PDF in Android;;PDF , iText;https://medium.com/android-school/exploring-itext-to-create-pdf-in-android-5577881998c8
